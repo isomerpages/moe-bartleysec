@@ -19,3 +19,6 @@ description: ""
 
 1955 - Introduction of School Song with lyrics by the Principal, Mr E.W. Jesudason. First of publication of 'Bartley Annual' Magazine.
 
+![](/images/1956.jpg)
+
+1956 - Transfer of female students to Cedar Girls' Secondary to start the girls' school and Bartley became a boys' school in the secondary section. However, female students were admitted into the Post-Secondary Section (Pre-University level ) which was started in the same year. Formation of the first National Police Cadet Corps Unit- in Singapore. 
