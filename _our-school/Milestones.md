@@ -25,5 +25,13 @@ description: ""
 
 ![](/images/David-Lim.jpg)
 
+1956 - David Lim represented Singapore in Water Polo in the Melbourne Olympics in 1956. Another Bartleyan, Janet Jesudasan represented Singapore in athletics.
+
+![](/images/NPCC.jpg)
+
 1956 - David Lim represented Singapore in Water Polo in the Melbourne Olympics in 1956. Another Bartleyan, Janet Jesudasan represented Singapore in athletics. 
+
+![](/images/Jubilee.jpg)
+
+1976 - The school's Silver Jubilee in 1976 saw the upgrading of its Science Laboratories as well as the renovation of its tuckshop to create more space for its growing population. This was officially opened by Senior Minister of State for Education, Mr Chai Chong Yii. 
 
