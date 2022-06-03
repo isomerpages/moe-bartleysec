@@ -21,4 +21,9 @@ description: ""
 
 ![](/images/1956.jpg)
 
-1956 - Transfer of female students to Cedar Girls' Secondary to start the girls' school and Bartley became a boys' school in the secondary section. However, female students were admitted into the Post-Secondary Section (Pre-University level ) which was started in the same year. Formation of the first National Police Cadet Corps Unit- in Singapore. 
+1956 - Transfer of female students to Cedar Girls' Secondary to start the girls' school and Bartley became a boys' school in the secondary section. However, female students were admitted into the Post-Secondary Section (Pre-University level ) which was started in the same year. Formation of the first National Police Cadet Corps Unit- in Singapore.
+
+![](/images/David-Lim.jpg)
+
+1956 - David Lim represented Singapore in Water Polo in the Melbourne Olympics in 1956. Another Bartleyan, Janet Jesudasan represented Singapore in athletics. 
+
