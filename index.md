@@ -8,17 +8,18 @@ notification: ""
 sections:
   - hero:
       title: Bartley Secondary School
-      subtitle: Hero subtitle
+      subtitle: Empowering every Bartleyan to lead with wisdom, serve with humility
+        and learn with passion.
       background: /images/homepage1.gif
-      button: Contact Us
-      url: /contact-us/
+      button: FREQUENTLY ASKED QUESTION (FAQ)
+      url: /faq/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Applied Learning Programme
+          description: ""
+          url: ""
+        - title: "Learning for Life Programme "
+          description: ""
+          url: ""
         - title: Page A
           description: Page A is important too
           url: /privacy/
