@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Bartley Secondary School
       subtitle: Hero subtitle
       background: /images/homepage1.gif
       button: Contact Us
