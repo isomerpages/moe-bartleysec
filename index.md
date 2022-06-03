@@ -20,13 +20,8 @@ sections:
         - title: "Learning for Life Programme "
           description: ""
           url: ""
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Latest News
+      button: Click here
+      url: /latestnews
 ---
