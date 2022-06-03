@@ -33,5 +33,42 @@ description: ""
 
 ![](/images/Jubilee.jpg)
 
+1976 - The school's Silver Jubilee in 1976 saw the upgrading of its Science Laboratories as well as the renovation of its tuckshop to create more space for its growing population. This was officially opened by Senior Minister of State for Education, Mr Chai Chong Yii.
+
+![](/images/1992.jpg)
+
 1976 - The school's Silver Jubilee in 1976 saw the upgrading of its Science Laboratories as well as the renovation of its tuckshop to create more space for its growing population. This was officially opened by Senior Minister of State for Education, Mr Chai Chong Yii. 
 
+![](/images/1995.jpg)
+
+1995 - Another milestone for Bartley was re-admiting of female student into Secondary One after 39 years.
+
+![](/images/1996.jpg)
+
+1995 - Another milestone for Bartley was re-admiting of female student into Secondary One after 39 years.
+
+![](/images/1997.jpg)
+
+1997 - Official opening of new campus by GOH- Minister of Community Development, Mr Abdullah Tarmugi. Bartley was a pioneering member of the N1 Cluster. Formation of the first Student Council. Introduction of the Bartleyan Creed. 
+
+![](/images/2001.jpg)
+
+2001 - Most improved school in 2000 GCE ‘O’ Level Examinations. School Hall was air-conditioned.
+
+![](/images/2002.jpg)
+
+2002 - Celebrating 50 years of shaping lives and shaping the nation.
+
+![](/images/2004.jpg)
+
+2002 - Celebrating 50 years of shaping lives and shaping the nation.
+
+2005 - Official Opening of Centre of Excellence for Innovation and Enterprise (BICE). Achieved People Developer Standard (Spring, Singapore). Attained Thinking Culture Award-Best School (Zone). 
+
+![](/images/2006.jpg)
+
+2006 - Achieved Character Development Award. Attained Sustained Achievement Award (Uniformed Group).  
+
+![](/images/2007.jpg)
+
+2006 - Achieved Character Development Award. Attained Sustained Achievement Award (Uniformed Group).  
