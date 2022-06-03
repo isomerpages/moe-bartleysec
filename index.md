@@ -24,4 +24,5 @@ sections:
       title: Latest News
       button: Click here
       url: /latestnews
+      description: from Bartley Secondary School
 ---
