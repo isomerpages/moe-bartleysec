@@ -11,3 +11,8 @@ description: ""
 
 1953 - Formation of school motto 'Facta Non Verba' and Crest.
 
+![](/images/1954.jpg)
+
+1954 - Full secondary school with 600 pupils in 16 classes. 
+
+
