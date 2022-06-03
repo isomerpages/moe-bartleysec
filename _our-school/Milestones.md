@@ -68,5 +68,16 @@ Overseas Service Learning Trip to India.
 ![](/images/ish.jpg)
 2015 - Completion of Indoor Sports House (ISH) 
 
-2015 - Introduction of Learning for Life Programme 
+2015 - Introduction of Learning for Life Programme
 
+![](/images/0cf271c74_158.jpg)
+2016 - Introduction of Applied Learning Programme 
+
+![](/images/2016.jpg)
+2016 - Introduction of Applied Learning Programme 
+
+![](/images/IMG_7312.jpg)
+2018 - Singapore Guinness Book of Record - Largest National Day Dikir Barat 
+
+![](/images/mobile-robotics.jpg)
+2018 - Singapore Guinness Book of Record - Largest National Day Dikir Barat 
