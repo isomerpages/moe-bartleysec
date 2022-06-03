@@ -21,4 +21,4 @@ Join us on an exciting journey to discover that “better” version of yourself
 
 Ms Britta Seet
 
-Principal 
+Principal
