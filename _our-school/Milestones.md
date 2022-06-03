@@ -13,6 +13,8 @@ description: ""
 
 ![](/images/1954.jpg)
 
-1954 - Full secondary school with 600 pupils in 16 classes. 
+1954 - Full secondary school with 600 pupils in 16 classes.
 
+![](/images/1955.jpg)
 
+1955 - Introduction of School Song with lyrics by the Principal, Mr E.W. Jesudason. First of publication of 'Bartley Annual' Magazine.
