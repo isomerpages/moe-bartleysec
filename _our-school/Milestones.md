@@ -18,3 +18,4 @@ description: ""
 ![](/images/1955.jpg)
 
 1955 - Introduction of School Song with lyrics by the Principal, Mr E.W. Jesudason. First of publication of 'Bartley Annual' Magazine.
+
