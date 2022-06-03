@@ -2,5 +2,5 @@ collections:
   our-school:
     output: true
     order:
-      - Milestones.md
       - Principal's message.md
+      - Milestones.md
