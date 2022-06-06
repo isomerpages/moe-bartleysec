@@ -14,3 +14,10 @@ Community Youth Leadership (CYL)***
 The Approach*
 
 ![](/images/LLP%202.jpg)
+
+##### THE COMMUNITY YOUTH LEADERSHIP EXPERIENCE
+
+***Mass Leadership Learning Experience*** <br>
+Students are equipped with the habits and skills through workshops, camps and experiences in the community.
+
+![](/images/LLP%203.jpg)
