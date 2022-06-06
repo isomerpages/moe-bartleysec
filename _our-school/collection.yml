@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Bartley School Magazine.md
       - Principal's message.md
       - Milestones.md
       - VMV & Philosophy.md
