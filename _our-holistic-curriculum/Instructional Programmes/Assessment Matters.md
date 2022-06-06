@@ -49,3 +49,21 @@ third_nav_title: Instructional Programmes
 [Sec 2 Mid-Year Examination Topics](/files/Sec%202%20MYE%20Topics%202022.pdf)
 
 [Sec 4E5NA Mid-Year Examination Timetable](/files/S4E_5N_MYE%202022%20Timetable%206%20Apr%2022.pdf) <br>
+[Sec 4E5NA Mid-Year Examination Topics](/files/Sec%204E5NA%20MYE%20Topics%202022.pdf)
+
+[Sec 4NA Mid-Year Examination Timetable](/files/S4NA_MYE%202022%20timetable%20updated%206%20Apr%2022.pdf) <br>
+[Sec 4NA Mid-Year Examination Topics](/files/Sec%204NA%20MYE%20Topics%202022.pdf)
+
+[Sec 4NT Mid-Year Examination Timetable](/files/S4NT_MYE%202022%20timetable%20updated%206%20Apr%2022.pdf) <br>
+[Sec 4NT Mid-Year Examination Topics](/files/Sec%204NT%20MYE%20Topics%202022.pdf)
+
+16. We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on.
+
+17. Your child/ward will be duly notified by the respective subject teachers should there be any changes to the assessments conducted as the year progresses.
+
+18. Thank you for your kind attention.
+
+Yours sincerely, <br>
+Mr Ng Chor Yam <br>
+Vice Principal (Academic) <br>
+Bartley Secondary School
