@@ -30,7 +30,7 @@ All applicants will be informed of the outcome (Confirmed Offer, Wait List or Un
 **Should you have any query, please contact: <br>
 Mr Fu Chee Sheng, HOD(Science) at 62889013 ext 213 / fu_chee_sheng@schools.gov.sg**
 
-Successful applicant’s primary school will follow up with the next stage of DSA exercise. Admission will only be confirmed when the PSLE results are released. **It is compulsory for students who are accepted into the school through DSA (ALP) to join the CurioSTÉ Club.**
+Successful applicant’s primary school will follow up with the next stage of DSA exercise. Admission will only be confirmed when the PSLE results are released. **It is compulsory for students who are accepted into the school through DSA (ALP) to join the [CurioSTÉ Club](https://bartleysec.moe.edu.sg/our-holistic-curriculum/co-curricular-activities/clubs-n-societies/curiost-club-new).**
 
 | Important Dates to Note |  |
 |:---:|:---:|
