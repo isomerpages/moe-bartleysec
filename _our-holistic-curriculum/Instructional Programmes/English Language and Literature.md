@@ -8,10 +8,10 @@ third_nav_title: Instructional Programmes
 
 ![](/images/ENGLISH-Formal.jpg)
 
-##### Vision <br>
+##### Vision 
 Leaders for Others, Learners for Others
 
-#### Mission <br> 
+#### Mission 
 Empowering Bartleyans to lead with effective and exceptional listening, reading, speaking and writing 
 
 **By the end of a Bartleyan's education in Bartley Secondary School, a Bartleyan will be able to:**
