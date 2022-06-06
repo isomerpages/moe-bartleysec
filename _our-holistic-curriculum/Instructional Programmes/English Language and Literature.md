@@ -45,3 +45,18 @@ Students who require greater assistance in reading attend the Reading Rejuvenati
 
 **3. Fun Reading** <br>
 Various activities such as Reading Games Day, Tracking Reading Made Creative (creative displays of book reflections) as well as class library visits are organised to inculcate in students a love for reading.
+
+**ELation!**
+ELation is the school's very own English Language Week. Teachers and students immerse themselves in a range of language-related activities which include quizzes, drama presentations, poetry recital, speeches as well as mini-competitions to showcase students' proficiency in the language.
+
+**Competitions:**
+We strongly believe that our students need to be exposed to good use of the language through their participation in internal as well as external competitions. Hence, our students get to participate in competitions such as the Singapore Secondary Schools Debate Competition and Destination Imagination.
+
+**Enrichment Programmes**
+To promote aesthetic appreciation and the use of language for artistic expressions, students undergo enrichment programmes such as visits to plays, puppetry workshops, drama lessons as well as debate skills training.
+
+**Spontaneous Writing**
+Spontaneous Writing (SW) aims to develop Bartleyans into leaders who are able to think on their feet and write spontaneously on any given topic. SW develops fluency in writing and removes the hurdle of writers’ block. It is an opportunity for our students to develop critical and reflective thinking which they will be able to apply to various contexts in their lives.
+
+##### Photos
+
