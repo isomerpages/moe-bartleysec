@@ -7,7 +7,7 @@ description: ""
 
 The Bartley Scholars Programme offers extensive and enriching experiences for advanced learners to further hone their talents and skills in Leadership, STEM Science, Technology, Engineering, Mathematics) and the Arts.
 
-**THE EXPERIENCE**
+##### THE EXPERIENCE
 
 | SECONDARY ONE<br><br>Exposure and Enrichment | SECONDARY TWO<br><br>Specialisation<br><br>*(Arts or STEM)<br>  | SECONDARY THREE<br><br>Specialisation<br><br>*(Arts or STEM) | SECONDARY FOUR<br><br>Mentoring |
 |:---:|:---:|:---:|:---:|
