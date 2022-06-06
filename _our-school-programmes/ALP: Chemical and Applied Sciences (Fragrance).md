@@ -41,3 +41,7 @@ Our ALP aims to prepare Bartleyans to become Learners for Life by:
 ### Our Partners
 
 ![](/images/STEM%20Inc.jpg)
+
+![](/images/ICES_Logo_Full_Spelling_RGB.jpg)
+
+![](/images/Takasago_International_Corp-Logo.png)
