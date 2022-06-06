@@ -49,3 +49,7 @@ Our ALP aims to prepare Bartleyans to become Learners for Life by:
 ### Our ALP in the News
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4XVvFQt1TbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/Lianhe%20Zaobao.jpg)
+
+![](/images/China%20Papers.jpg)
