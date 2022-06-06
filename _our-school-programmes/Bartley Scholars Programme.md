@@ -32,3 +32,7 @@ Learning Journey to Cirque Du Soleil-Kurios
 
 ![](/images/Learning%20Journey%20to%20StarPix%20Production%20House.jpg) 
 Learning Journey to StarPix Production House
+
+![](/images/photo_2022-06-06_15-56-56.jpg)
+
+![](/images/A%20STAR%20Facilities%20Tour.jpg)
