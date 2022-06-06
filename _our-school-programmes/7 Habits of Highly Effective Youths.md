@@ -30,3 +30,10 @@ The 7 Habits is a set of mind-sets that allow readers to lead a productive life.
 **The Leader in Me Symposium** <br>
 2 of our teachers, Mrs Jasmine Kaur Chopra & Ms Angie Ang, attended the “The Leader in Me“ Symposium in Melbourne, Australia from 11 th to 12 th June 2015.  Our teachers saw how schools in Melbourne practice the habits and how students have grown from it.
 
+![](/images/p1_images_thumb_medium300_200.jpg)
+
+**7 Habits Sharing by Leaders of 2T1 (2015)** <br>
+Students from 2T1 shared how they practised the 7 habits in their daily lives with the school. Watch the videos in the link below to hear how our leaders use the 7 habits to guide themselves. <br>
+[https://www.facebook.com/OfficialBartleySecondarySchool/videos](https://www.facebook.com/OfficialBartleySecondarySchool/videos)
+
+![](/images/p2_images_thumb_medium300_200.jpg)
