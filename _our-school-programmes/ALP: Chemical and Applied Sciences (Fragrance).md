@@ -31,3 +31,13 @@ Our ALP aims to prepare Bartleyans to become Learners for Life by:
 * Take up Advanced Elective Module (AEM) in Singapore Polytechnic on Perfumery and Cosmetic Science
 
 **Priority for the programmes will be given to members of the [CurioSTÉ Club](https://bartleysec.moe.edu.sg/our-holistic-curriculum/co-curricular-activities/clubs-n-societies/curiost-club-new).*
+
+![](/images/ALP_Sec%202%20Design%20Thinking%20Model%201.jpeg)
+
+![](/images/ALP_Sec%202%20Design%20Thinking%20Model%202.jpeg)
+
+![](/images/61.jpg)
+
+### Our Partners
+
+![](/images/STEM%20Inc.jpg)
