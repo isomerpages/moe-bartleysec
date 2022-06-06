@@ -2,4 +2,5 @@ collections:
   our-holistic-curriculum:
     output: true
     order:
+      - Instructional Programmes.md
       - Curricular Framework.md
