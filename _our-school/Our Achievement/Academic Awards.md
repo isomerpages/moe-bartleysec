@@ -19,3 +19,19 @@ third_nav_title: Our Achievement
 1 Champion (Flying Saucer Category)
 
 ![](/images/11.jpg)
+
+### 2018 Awards
+
+**UNSW Global Science Competition** <br>
+|  |  |
+|---|---|
+|Distinction | 3 |
+| Credit | 5 |
+| Merit | 6 |
+| | | 
+
+**IgnITE Skills Challenge** <br>
+2 Finalists (Flower Power and Goodbye to Pain) <br>
+1 Champion (Flower Power Category)
+
+![](/images/21.jpg)
