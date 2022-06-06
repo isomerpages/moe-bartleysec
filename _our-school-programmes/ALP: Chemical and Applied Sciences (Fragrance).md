@@ -45,3 +45,7 @@ Our ALP aims to prepare Bartleyans to become Learners for Life by:
 ![](/images/ICES_Logo_Full_Spelling_RGB.jpg)
 
 ![](/images/Takasago_International_Corp-Logo.png)
+
+### Our ALP in the News
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4XVvFQt1TbA?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
