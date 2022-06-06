@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Bartley School Magazine.md
       - Principal's message.md
       - Milestones.md
       - VMV & Philosophy.md
@@ -12,3 +11,4 @@ collections:
       - Our Achievement/Academic Awards.md
       - Our Achievement/CCA Awards.md
       - Our Achievement/Staff Reward & Recognition.md
+      - Bartley School Magazine.md
