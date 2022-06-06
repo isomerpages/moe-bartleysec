@@ -36,5 +36,16 @@ third_nav_title: Instructional Programmes
 13.	It is important that everyone works together to help every child obtain the best possible start in life with a good education.  Parents should work in partnership with the school, notifying the school of the reason for any of your child’s/ward’s absences and highlighting any areas of concern they may have so they can be addressed promptly. 
 
 **Assessment Plans** <br>
-14.	Please see below for the breakdown of the **Term 2 Weighted Assessment** that your child/ward will be sitting for in the academic year **2022**. 
+14.	Please see below for the breakdown of the **Term 2 Weighted Assessment** that your child/ward will be sitting for in the academic year **2022**.
 
+[Sec 1 Term 2 Weighted Assessment Plan](/files/2022%20Sec%201%20Term%202%20Consolidated%20Assessment%20Plan.pdf)
+
+[Sec 3 Term 2 Weighted Assessment Plan](/files/2022%20Sec%203%20Term%202%20Consolidated%20Assessment%20Plan.pdf)
+
+15. Please see below the Mid-Year Examination Timetable and the breakdown of the **Mid-Year Examination Topics for Sec 2 and S4/5** for in the academic year **2022**.
+
+[Sec 2ENA Mid-Year Examination Timetable](/files/S2E2NA_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf)
+
+[Sec 2NT Mid-Year Examination Timetable](/files/S2NT_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf)
+
+[Sec 2 Mid-Year Examination Topics](/files/Sec%202%20MYE%20Topics%202022.pdf)
