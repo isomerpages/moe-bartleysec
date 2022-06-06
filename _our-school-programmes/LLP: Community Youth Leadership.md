@@ -21,3 +21,9 @@ The Approach*
 Students are equipped with the habits and skills through workshops, camps and experiences in the community.
 
 ![](/images/LLP%203.jpg)
+
+Voluntary Group Originations (VWO) EXPO
+![](/images/LLP%204.jpg)
+
+APEX Leadership Learning Experience
+![](/images/Apex%20Leadership%20Learning%20Experience.png)
