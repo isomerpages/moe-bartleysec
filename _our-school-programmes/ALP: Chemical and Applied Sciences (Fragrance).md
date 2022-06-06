@@ -61,3 +61,8 @@ Our ALP aims to prepare Bartleyans to become Learners for Life by:
 
 **Singapore Day at Shanghai** <br>
 ![](/images/311.jpg)
+
+**MOE ExCEL Fest 2019** <br>
+![](/images/411.jpg)
+
+![](/images/511.jpg)
