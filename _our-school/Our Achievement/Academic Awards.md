@@ -6,8 +6,7 @@ third_nav_title: Our Achievement
 ---
 ### 2017 Awards
 
-**UNSW Global Science Competition**
-
+**UNSW Global Science Competition** <br>
 |  |  |
 |---|---|
 |Distinction | 2 |
