@@ -59,4 +59,6 @@ To promote aesthetic appreciation and the use of language for artistic expressio
 Spontaneous Writing (SW) aims to develop Bartleyans into leaders who are able to think on their feet and write spontaneously on any given topic. SW develops fluency in writing and removes the hurdle of writers’ block. It is an opportunity for our students to develop critical and reflective thinking which they will be able to apply to various contexts in their lives.
 
 ##### Photos
+![](/images/di%20(1%20of%201).jpg)
+DI
 
