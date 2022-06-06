@@ -64,3 +64,5 @@ description: ""
 | ASSISTANT YEAR HEAD <br>(SEC 2) | MS GAN PEI LING | gan_pei_ling@schools.gov.sg |
 | YEAR HEAD<br>(SEC 3) | MR SIM LAI HENG | sim_lai_heng@schools.gov.sg |
 | ASSISTANT YEAR HEAD<br>(SEC 4&5) | MS LEE KIA LI | lee_kia_li@schools.gov.sg |
+
+<p> </p> 
