@@ -25,4 +25,8 @@ The 7 Habits is a set of mind-sets that allow readers to lead a productive life.
 | Sec 2 | Students will understand, be conversant in, and demonstrate Habits 4-7 (in line with the CCE Level Outcome of being Responsible Leaders who appreciate and nurture other individuals).<br>  |  ·    7 Habits lessons during Form Teacher Period<br> ·    Secondary 2 Level Camp<br> ·    Infusion into all subjects / events<br>  |
 | Sec 3 | Students will be able to make sound decisions in the areas of school, family, friends, and relationships (in line with the CCE Level Outcome of being Resilient Leaders who face changes with confidence).<br>  |  ·   Secondary 3 Level Camp<br> ·   Infusion into all subjects / events<br>  |
 | Sec 4/5 | Students will be able to make sound decisions in the areas of temptations and self-esteem (in line with the CCE Level Outcome of being Resilient Leaders who drive performance and deliver Excellence).<br>  |  ·  Secondary 4/5 Level Camp<br> ·  Infusion into all subjects / events<br> ·  Sec 5 students will be trained and assist Sec 1 teachers with the implementation of 7 Habits<br>  |
-| | | 
+| | |
+
+**The Leader in Me Symposium** <br>
+2 of our teachers, Mrs Jasmine Kaur Chopra & Ms Angie Ang, attended the “The Leader in Me“ Symposium in Melbourne, Australia from 11 th to 12 th June 2015.  Our teachers saw how schools in Melbourne practice the habits and how students have grown from it.
+
