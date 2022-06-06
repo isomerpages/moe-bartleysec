@@ -2,8 +2,8 @@ collections:
   our-school:
     output: true
     order:
-      - Our Staff.md
       - Principal's message.md
       - Milestones.md
       - VMV & Philosophy.md
       - School Song, Crest & Motto.md
+      - Our Staff.md
