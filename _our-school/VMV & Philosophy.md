@@ -21,4 +21,4 @@ description: ""
 
 ### Our Commitment
 
-Provide opportunities to stretch all students <br> Strict emphasis on discipline <br> Establish a safe and dynamic environment to grow and learn <Br> Create strong home-school partnership
+*Provide opportunities to stretch all students <br> Strict emphasis on discipline <br> Establish a safe and dynamic environment to grow and learn <Br> Create strong home-school partnership*
