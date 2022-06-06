@@ -11,7 +11,7 @@ The Bartley Curriculum Framework defines the school’s approaches and outcomes 
 * The BCF is designed to be in a shape of a star and compass.
 * It is likened to that of a Polaris or more commonly known as the North Star. The North Star has been used for well over 2000 years by navigators to determine both their direction and latitude.
 * The BCF thus provides the direction for the school in the design and delivery of its programme, both in curricular and co-curricular areas
-* The BCF has 5 parts:
+* The BCF has 5 parts: 
 	* Innermost circle for **Values** 
 	* The heptagon for **Habits**
 	* The hexagon for **Competencies**
