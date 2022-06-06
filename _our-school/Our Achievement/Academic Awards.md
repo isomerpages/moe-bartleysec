@@ -8,7 +8,7 @@ third_nav_title: Our Achievement
 
 **UNSW Global Science Competition** 
 
-|  |  |
+| UNSW Global Science Competition |  |
 |---|---|
 |Distinction | 2 |
 | Credit | 6 |
@@ -37,3 +37,15 @@ third_nav_title: Our Achievement
 1 Champion (Flower Power Category)
 
 ![](/images/21.jpg)
+
+### 2019 Awards
+
+**UNSW Global Science Competition** 
+
+|  |  |
+|---|---|
+| Credit | 7 |
+| Merit | 5 |
+| | | 
+
+**IgnITE Skills Challenge** <br>
