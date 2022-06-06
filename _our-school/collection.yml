@@ -2,6 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - VMV & Philosophy.md
       - Principal's message.md
       - Milestones.md
+      - VMV & Philosophy.md
