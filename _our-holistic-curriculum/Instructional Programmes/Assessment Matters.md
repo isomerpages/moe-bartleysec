@@ -44,8 +44,8 @@ third_nav_title: Instructional Programmes
 
 15. Please see below the Mid-Year Examination Timetable and the breakdown of the **Mid-Year Examination Topics for Sec 2 and S4/5** for in the academic year **2022**.
 
-[Sec 2ENA Mid-Year Examination Timetable](/files/S2E2NA_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf)
-
-[Sec 2NT Mid-Year Examination Timetable](/files/S2NT_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf)
-
+[Sec 2ENA Mid-Year Examination Timetable](/files/S2E2NA_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf) <br>
+[Sec 2NT Mid-Year Examination Timetable](/files/S2NT_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf) <br>
 [Sec 2 Mid-Year Examination Topics](/files/Sec%202%20MYE%20Topics%202022.pdf)
+
+[Sec 4E5NA Mid-Year Examination Timetable](/files/S4E_5N_MYE%202022%20Timetable%206%20Apr%2022.pdf) <br>
