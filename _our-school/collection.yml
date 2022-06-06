@@ -2,10 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - Our Achievement/Academic Awards.md
-      - Our Achievement/.keep
       - Principal's message.md
       - Milestones.md
       - VMV & Philosophy.md
       - School Song, Crest & Motto.md
       - Our Staff.md
+      - Our Achievement/.keep
+      - Our Achievement/Academic Awards.md
