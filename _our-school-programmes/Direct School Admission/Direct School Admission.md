@@ -19,3 +19,14 @@ We invite pupils in Primary Six in 2022 to apply for DSA-Sec to the school in th
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 | | |
+
+| Useful MOE Weblinks |  |
+|:---:|:---:|
+|  DSA-Sec Main Webpage | [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec) |
+| Instructions on Application<br>(Mainstream students) | [https://go.gov.sg/dsa-sec-application](https://go.gov.sg/dsa-sec-application) |
+| Instructions on Application<br>(Non-mainstream Students) | [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application) |
+| Direct to DSA-Sec Portal<br>(Mainstream Students) | [https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec) |
+| Direct to DSA-Sec Portal <br>(Non-mainstream Students) | [https://go.gov.sg/apply-dsa-sec-nms](https://go.gov.sg/apply-dsa-sec-nms) |
+| DSA-Sec iFAQs | [https://go.gov.sg/dsa-secfaqs](https://go.gov.sg/dsa-secfaqs) |
+| DSA-Sec School Finder | [https://go.gov.sg/dsa-secschfinder](https://go.gov.sg/dsa-secschfinder) |
+| | |
