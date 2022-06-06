@@ -66,3 +66,5 @@ Our TL students took part in "Navarasa Thiruvizha 2019” Cultural Competition a
 | EMCEE - 1st Prize | Dance - 2nd Prize |
 | Short Film Making - 2nd Prize | Creative Challenge - 2nd Prize |
 | | |
+
+![](/images/22.jpg)
