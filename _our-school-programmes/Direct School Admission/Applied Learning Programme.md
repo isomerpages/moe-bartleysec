@@ -18,8 +18,7 @@ or <br>
 Parents/guardians who are unable to apply online can approach their child's primary school for assistance. <br>
 Application is free-of-charge and will be open from **5th May 2022, 11 am to 1st June 2022, 3 pm.**
 
-**Selection Process** 
-
+**Selection Process** <br>
 Given the prevailing national posture, the school will be conducting in-person selection for all DSA talent areas for 2022 DSA-Sec, with the prevailing safe management measures (SMM).
 
 
