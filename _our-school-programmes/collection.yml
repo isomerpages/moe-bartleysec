@@ -2,7 +2,7 @@ collections:
   our-school-programmes:
     output: true
     order:
-      - 7 Habits of Highly Effective Youths.md
       - "ALP: Chemical and Applied Sciences (Fragrance).md"
       - "LLP: Community Youth Leadership.md"
       - "WEP: Work Experience Programme.md"
+      - 7 Habits of Highly Effective Youths.md
