@@ -2,10 +2,10 @@ collections:
   our-school-programmes:
     output: true
     order:
-      - Student Leadership.md
       - "ALP: Chemical and Applied Sciences (Fragrance).md"
       - "LLP: Community Youth Leadership.md"
       - "WEP: Work Experience Programme.md"
       - 7 Habits of Highly Effective Youths.md
       - Bartley Scholars Programme.md
       - X MILE.md
+      - Student Leadership.md
