@@ -2,8 +2,6 @@ collections:
   our-school-programmes:
     output: true
     order:
-      - Direct School Admission/Direct School Admission.md
-      - Direct School Admission/.keep
       - "ALP: Chemical and Applied Sciences (Fragrance).md"
       - "LLP: Community Youth Leadership.md"
       - "WEP: Work Experience Programme.md"
@@ -11,3 +9,5 @@ collections:
       - Bartley Scholars Programme.md
       - X MILE.md
       - Student Leadership.md
+      - Direct School Admission/.keep
+      - Direct School Admission/Direct School Admission.md
