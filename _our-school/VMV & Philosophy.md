@@ -9,7 +9,7 @@ description: ""
 
 ### Mission
 
-*Empowering every Bartleyan <br> to lead with courage and optimism <br> serve with respect and  learn with passion.*
+*Empowering every Bartleyan <br> to lead with **courage and optimism** <br> serve with **respect** and  learn with passion.*
 
 ### Values
 
