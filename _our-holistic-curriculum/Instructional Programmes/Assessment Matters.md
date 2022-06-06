@@ -33,10 +33,10 @@ third_nav_title: Instructional Programmes
 12. We seek parents’/guardian’s cooperation NOT to send your child/ward to school for tests/examinations if he/she is unwell.  Do take your child/ward to the doctor when he/she is unwell and get a medical certificate so that the school can process the results accordingly.
 
 **Parents’/Guardian’s Support** <br>
-13.	It is important that everyone works together to help every child obtain the best possible start in life with a good education.  Parents should work in partnership with the school, notifying the school of the reason for any of your child’s/ward’s absences and highlighting any areas of concern they may have so they can be addressed promptly. 
+13. It is important that everyone works together to help every child obtain the best possible start in life with a good education.  Parents should work in partnership with the school, notifying the school of the reason for any of your child’s/ward’s absences and highlighting any areas of concern they may have so they can be addressed promptly. 
 
 **Assessment Plans** <br>
-14.	Please see below for the breakdown of the **Term 2 Weighted Assessment** that your child/ward will be sitting for in the academic year **2022**.
+14. Please see below for the breakdown of the **Term 2 Weighted Assessment** that your child/ward will be sitting for in the academic year **2022**.
 
 [Sec 1 Term 2 Weighted Assessment Plan](/files/2022%20Sec%201%20Term%202%20Consolidated%20Assessment%20Plan.pdf)
 
