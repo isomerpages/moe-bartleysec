@@ -17,7 +17,7 @@ We invite pupils in Primary Six in 2022 to apply for DSA-Sec to the school in th
 
 | Chemical and Applied Sciences (Fragrance) (Girls & Boys) | Community Youth Leadership (Girls & Boys)	| Football (Boys only) |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| [Selection criteria & process, and application procedure.](https://moe-bartleysec-staging.netlify.app/our-signature-programmes/direct-school-admission/applied-learning-programme) | Text     | Text     |
 | | |
 
 | Useful MOE Weblinks |  |
