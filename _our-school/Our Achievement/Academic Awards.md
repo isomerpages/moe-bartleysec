@@ -76,4 +76,6 @@ Our Secondary 2 & 3 Tamil Language students took part in the Tamil Literature Ci
 | Our Sec 2 E2 Student Mrityun Jay won the Best speaker award for “Literature review” under Lower Secondary Category |
 | Our Sec 3 students won the 2nd Place in “Book review video Production” under Upper Secondary Category. |
 | Our Sec 2 students won the 3rd Place in “Book review video production” under Lower Secondary Category. |
-| | 
+| |
+
+![](/images/33.jpg)
