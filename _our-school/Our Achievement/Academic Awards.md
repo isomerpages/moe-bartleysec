@@ -25,7 +25,7 @@ third_nav_title: Our Achievement
 
 **UNSW Global Science Competition** 
 
-|  |  |
+| UNSW Global Science Competition |  |
 |---|---|
 |Distinction | 3 |
 | Credit | 5 |
@@ -42,10 +42,18 @@ third_nav_title: Our Achievement
 
 **UNSW Global Science Competition** 
 
-|  |  |
+| UNSW Global Science Competition |  |
 |---|---|
 | Credit | 7 |
 | Merit | 5 |
 | | | 
 
 **IgnITE Skills Challenge** <br>
+1 Finalists (Potion Alchemy)
+
+![](/images/31.jpg)
+
+**TL Unit Students Achievements** <br>
+Our School students participated in ‘Culture through Kabaddi 2019' tournament at National level. Our School under 15 boys clinched the Bronze Medal and Jafran from 2E3 has been awarded ‘Abhimanyu Award’ (Player of the tournament)
+
+![](/images/12.jpg)
