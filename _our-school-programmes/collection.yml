@@ -1,4 +1,5 @@
 collections:
   our-school-programmes:
     output: true
-    order: []
+    order:
+      - "ALP: Chemical and Applied Sciences (Fragrance).md"
