@@ -38,8 +38,6 @@ third_nav_title: Our Achievement
 | Tan Keng Wee | SSD | 2020 | sch-based |
 | | | | |
 
-<p> </p> 
-
 ### Subject-Based Award
 
 | Name | Designation | Type of Award | Award Year |
@@ -48,8 +46,6 @@ third_nav_title: Our Achievement
 | Kogilavani Verappan | HOD English | ELIS - Inspiring Teacher of English Language (Leadership) | 2017 |
 | Louis Isack Kumar | Teacher | Young Achiever Award - Tamil Community Award by Mediacorp's Tamil News and Current Affairs Division | 2017 |
 | | | | |
-
-<p> </p> 
 
 ### Outstanding Contribution Award
 
