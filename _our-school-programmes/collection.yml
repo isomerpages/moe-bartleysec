@@ -2,4 +2,5 @@ collections:
   our-school-programmes:
     output: true
     order:
+      - "LLP: Community Youth Leadership.md"
       - "ALP: Chemical and Applied Sciences (Fragrance).md"
