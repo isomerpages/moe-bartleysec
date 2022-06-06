@@ -31,5 +31,4 @@ Arts Appreciation - Kooza
 Learning Journey to Cirque Du Soleil-Kurios 
 
 ![](/images/Learning%20Journey%20to%20StarPix%20Production%20House.jpg) 
-Learning Journey to StarPix Production House 
-
+Learning Journey to StarPix Production House
