@@ -19,7 +19,6 @@ third_nav_title: Our Achievement
 | Loh Siew Hua | Teacher | Long Service | 2019 |
 | | | | |
 
-<p> </p> 
 
 ### NIE Caring Teacher Award
 
