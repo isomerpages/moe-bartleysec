@@ -80,4 +80,4 @@ Overseas Service Learning Trip to India.
 2018 - Singapore Guinness Book of Record - Largest National Day Dikir Barat 
 
 ![](/images/mobile-robotics.jpg)
-2018 - Singapore Guinness Book of Record - Largest National Day Dikir Barat 
+2019 - Introduction of Mobile Robotics as a subject.
