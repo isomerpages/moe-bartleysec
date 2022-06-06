@@ -1,0 +1,4 @@
+collections:
+  our-school-programmes:
+    output: true
+    order: []
