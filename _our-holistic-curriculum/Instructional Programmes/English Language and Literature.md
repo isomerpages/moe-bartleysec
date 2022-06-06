@@ -62,3 +62,17 @@ Spontaneous Writing (SW) aims to develop Bartleyans into leaders who are able to
 ![](/images/di%20(1%20of%201).jpg)
 DI
 
+![](/images/elation%20(1%20of%203).jpg)
+Elation
+
+![](/images/elation.jpg)
+Elation
+
+![](/images/elation%202.jpg)
+Elation
+
+![](/images/reading%20is%20fun.jpg)
+Reading is fun!
+
+![](/images/stories%20come%20to%20life.jpg)
+Stories come to life!
