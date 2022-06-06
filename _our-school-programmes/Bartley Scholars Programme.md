@@ -22,3 +22,11 @@ The Bartley Scholars Programme offers extensive and enriching experiences for ad
 |---|---|
 | MRS RAJ<br>HOD - ENGLISH LANGUAGE AND LITERATURE<br>62889013 Ext 219<br>Email: kogilavani_veerappan@moe.edu.sg | MR FU CHEE SHENG<br>HOD - SCIENCE<br>62889013 Ext 213<br>Email: fu_chee_sheng@moe.edu.sg |
 | | |
+
+##### Video and Photo
+
+| | |
+| -------- | -------- |
+| ![](/images/Arts%20Appreciation-%20Kooza.jpg) Arts Appreciation - Kooza | | 
+| ![](/images/Learning%20Journey%20to%20Cirque%20Du%20Soleil-Kurios.jpeg) Learning Journey to Cirque Du Soleil-Kurios | ![](/images/Learning%20Journey%20to%20StarPix%20Production%20House.jpg) Learning Jurney to StarPix Production House |
+
