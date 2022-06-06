@@ -31,3 +31,16 @@ All applicants will be informed of the outcome (Confirmed Offer, Wait List or Un
 Mr Fu Chee Sheng, HOD(Science) at 62889013 ext 213 / fu_chee_sheng@schools.gov.sg**
 
 Successful applicant’s primary school will follow up with the next stage of DSA exercise. Admission will only be confirmed when the PSLE results are released. **It is compulsory for students who are accepted into the school through DSA (ALP) to join the CurioSTÉ Club.**
+
+| Important Dates to Note |  |
+|:---:|:---:|
+| Process | Date |
+| DSA Application period | 5 May 2022, 11 am to 1 June 2022, 3 pm |
+|  Selection for in-person interview for shortlisted applicants. | 27 June 2022 to 12 September 2022 |
+| Notification of the outcome of application. | 12 September 2022 |
+| | |
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
