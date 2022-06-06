@@ -15,3 +15,15 @@ If you or your organisation is interested to be our partner, you may contact Ms 
 
 ##### Our Partners
 ![](/images/logos.jpg)
+
+![](/images/Student%20Work%20attachment%20at%20Singapore%20Zoo.jpeg)
+Student Work attachment at Singapore Zoo
+
+![](/images/WEP%20at%20QCD%20Technology.jpeg)
+WEP at QCD Technology
+
+![](/images/WEP%20at%20Singapore%20Kindness%20Movement.jpeg)
+WEP at Singapore Kindness Movement
+
+![](/images/WEP%20at%20Takasago%20International.jpeg)
+WEP at Takasago International
