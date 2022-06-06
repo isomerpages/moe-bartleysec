@@ -11,7 +11,7 @@ description: ""
 | MRS TAN CHYE NA | tan_chye_na@schools.gov.sg  |
 | MR NG CHOR YAM | ng_chor_yam@schools.gov.sg |
 
-<div>
+</div>
 
 | KEY PERSONNEL |  | EMAIL ADDRESS |
 |---|---|---|
