@@ -12,6 +12,7 @@ third_nav_title: Our Achievement
 | NCC Air | Best Unit Competition (Gold) | Best Unit Competition (Gold) | Best Unit Competition (Gold) | NCC Unit Recognition 2019 (Distinction)  |
 |  NCC Land |  Best Unit Competition (Gold) | Best Unit Competition (Gold)  |  Best Unit Competition (Gold) |  NCC Unit Recognition 2019 (Distinction)  |
 |  Red Cross Youth |  Excellent Unit awards (Gold) |  Excellent Unit awards (Silver) | Excellent Unit awards (Silver)  | • First Aid Championships (Silver) Junior category<br> • First Aid Championships (Silver) Senior category |
+| | | | | |
 
 <p> </p>
 
@@ -22,3 +23,18 @@ third_nav_title: Our Achievement
 |  Choir |  nil | SYF 2017 Arts Presentation Certificate of Accomplishment | nil  |  SYF 2019 Arts Presentation<br>Certificate of Commendation |
 |  Malay Dance     |  nil     |  SYF 2017 Arts Presentation<br>Certificate of Accomplishment |  nil | SYF 2019 Arts Presentation<br>Certificate of Distinction |
 |  Modern Dance |  nil | SYF 2017 Arts Presentation Certificate of Accomplishment | nil  | SYF 2019 Arts Presentation <br>Certificate of Accomplishment<br>Participated in SYF 2019 Celebration- Dance Extravaganza @ Bukit Panjang Plaza |
+| | | | | |
+
+<p> </p> 
+
+| SPORTS & GAMES | 2016 | 2017 | 2018 | 2019 |
+|---|---|---|---|---|
+| Football | Singapore Youth Olympics Festival U-14 Football 7s 3rd Place | ActiveSG Epson Cup 5V5 U-14 Champion | • C Division FAS ISFC U-14 Champion<br>• B Division SPL 1 Top 16<br>• FC Bayern Youth Cup 4th Place | • C Division SPL 1 4th Position<br>• B Division SPL 1 Top 16<br>• U-16 PUMA FUTSAL CUP 2019 2nd Place<br>• Muhammadiyah Welfare Home U-14 3rd Place<br>• Muhammadiyah Welfare Home U-16 Champion<br>• U-14 Inter-school Futsal 2nd Position    |
+| Sepak Takraw | nil | nil | nil | Participated in NSG B and C division 2019 National rounds.  |
+| Basketball  |  nil | nil  | • B Division (Boys) South Zone Fair Play Award<br>• C Division (Boys) South Zone Fair Play Award  | C Division (Boys) South Zone Second Round  |
+|  Volleyball |  nil | 2nd in South Zone C division Volleyball 2017.   |  nil | Participated in South Zone Volleyball B and C division 2019 preliminary rounds.   |
+| Netball  |  Participated in South Zone Netball B and C division 2019  | nil  | Participated in South Zone Netball B and C division 2019   | Participated in South Zone Netball B and C division 2019 |
+| | | | | |
+
+<p> </p> 
+
