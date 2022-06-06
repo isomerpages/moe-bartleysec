@@ -2,5 +2,6 @@ collections:
   our-holistic-curriculum:
     output: true
     order:
+      - Assessment Matters/Assessment Matters.md
       - Assessment Matters/.keep
       - Curricular Framework.md
