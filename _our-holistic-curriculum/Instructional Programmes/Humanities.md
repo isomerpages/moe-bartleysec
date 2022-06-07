@@ -53,3 +53,12 @@ History students sharing their findings from their Inquiry project
 
 ![](/images/Humanities%20Week%202019.jpeg) 
 Humanities Week 2019
+
+![](/images/Learning%20Journey%20to%20Battle%20Box.jpeg)
+Learning Journey to Battle Box
+
+![](/images/Sec%201%20Geographical%20Investigation%20(Water%20testing).jpeg)
+Learning Journey to Battle Box
+
+![](/images/Sec%201%20History%20Field%20Trip.jpeg)
+Sec 1 History Field Trip
