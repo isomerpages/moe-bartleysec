@@ -22,3 +22,5 @@ publications. Students are also given the opportunities to take part in various 
 
 **Achievements** <br>
 NYAA Awardees
+
+![](/images/photo_2022-06-07_16-28-53.jpg)
