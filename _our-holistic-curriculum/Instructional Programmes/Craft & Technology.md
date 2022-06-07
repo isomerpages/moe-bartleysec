@@ -63,3 +63,29 @@ a) E2@DT
 ![](/images/1%20(2).jpg)
 BUILDING DESIGN SKILLS WORKSHOP
 
+![](/images/2%20(3).jpg)
+BUILDING DESIGN SKILLS WORKSHOP
+
+b) E2@NFS
+* Outward Bound@ACT
+	- Sec 1 LJ to HPB
+	- Sec 2 Hawker Culture Experience
+	- Sec 3 Culinary & LJs to Farms & Factories
+
+c)E2@Art
+* Outward Bound@ACT
+	- Sec 1 & 2 AEP for Visual & Performance Arts
+	- Sec 1 LJ to National Gallery (SOVA)
+	- Sec 1-3 exhibition of artworks
+	- Sec 3 LJ to Singapore Gallery & Artist’s-led workshop
+	- Sec 4 LJ to School’s Exhibition
+
+LOWER SEC ARTS EXPERIENTIAL PROGRAMME
+![](/images/3%20(2).jpg)
+
+![](/images/4%20(2).jpg)
+
+ART EXHIBITION    
+![](/images/5%20(1).jpg)
+
+![](/images/6%20(1).jpg)
