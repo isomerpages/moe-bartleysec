@@ -33,12 +33,12 @@ As we make the journey from tolerating differences to embracing diversity, our S
 **National Day Celebrations 2017 <br>
 8 August 2017**
 
-![](/images/national%20day.jpg)
+![](/images/national%20day1.jpg)
 
-![](/images/inteclass.jpg)
+![](/images/inteclass1.jpg)
 
-![](/images/showcase.jpg)
+![](/images/showcase1.jpg)
 
-![](/images/principal.jpg)
+![](/images/principal1.jpg)
 
 ![](/images/tembusa.jpg)
