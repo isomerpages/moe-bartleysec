@@ -82,3 +82,34 @@ At Bartley, we believe that every student has the potential to be a strong self-
 | 4/5 | Resilient Leaders for Excellence | 6 Decisions<br>Traits of Mentors |  |
 | | | | |
 
+### Character and Citizenship Education (CCE)
+To augment our students' home values, CCE lessons provide a platform for the development of character, social-emotional competencies and national values within our students. These lessons are developed by MOE’s Character and Citizenship Education Branch (CCEB) so that the delivered curriculum is holistic and engaging, inspiring and insightful.
+ 
+
+To augment CCE, Citizenship Education (formerly National Education) programmes are crafted for the development of students in Bartley Secondary School in understanding their roles as citizens of and residents in Singapore.  The programmes are purposefully tailored to meet the developmental needs of our students from Sec 1 to Sec 5, and to instil in students a strong sense of Active Citizenry.
+
+### Student Development Programmes
+MOE and Bartley Secondary School firmly believe that character development should be both taught (through explicit teaching of values and social-emotional skills) and caught (through experiential learning).
+
+The overall outcome of these programmes is a Resilient and Responsible Leader in every Bartleyan. To achieve this main outcome, all programmes in the school are geared towards the following level outcomes:
+
+Sec 1:             Responsible Leaders of Self <br>
+Sec 2:             Responsible Leaders for Others <br>
+Sec 3:             Resilient Leaders for Change <br>
+Sec 4/5:          Resilient Leaders for Excellence <br>
+
+### Values-in-Action (VIA, previously Community Involvement Programme, CIP)
+VIA provides students opportunities to develop a sense of belonging and purpose to the community they live in and society at large. Through their projects, students understand the roles they play in improving their surrounding environment. It is also a platform for students to actualise the social-emotional competencies to allow a developmental avenue for Character Education.
+
+### Education & Career Guidance (ECG) Modules & Programmes
+ECG helps students make informed educational and career progression decisions and choices. In Bartley, this is done through direct guidance, profiling tools, fairs, progression talks and work experiences. Our tie-ups with post-secondary educational institutions allow us to help our students begin with the end in mind.
+
+### Sexuality Education (SEd) Modules
+Please see our tab on Sexuality Education.
+
+### School-based CCE, including Assembly programmes and Form Teacher Period
+To complement MOE’s offerings, the school has additional programmes to achieve our overall outcome of Resilient and Responsible Leaders. As mentioned, the 7 Habits and 6 Decisions programmes foster personal leadership within our students. The Leadership Talks aim to equip our students with knowledge of current literature on the types of leaders. Our signature SMILE@Bartley is explained further below. Other programmes are incorporated on a timely basis.   
+
+**SMILE@Bartley - Student Mentoring through Innovative Learning Experiences **
+
+SMILE provides an environment and support infrastructure that is conducive for students to achieve greater success. This is done through a small group mentorship programme, during which the close interaction allows an in-depth understanding of the cognitive, social-emotional and physical challenges that students face. The rapport between role models and the students provides the important emotional support amidst the academic rigour.
