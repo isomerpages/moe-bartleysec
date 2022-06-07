@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Curricular Framework.md
-      - Instructional Programmes/Craft & Technology.md
       - Instructional Programmes/.keep
       - Instructional Programmes/Assessment Matters.md
       - Instructional Programmes/English Language and Literature.md
@@ -11,3 +10,4 @@ collections:
       - Instructional Programmes/Mathematics.md
       - Instructional Programmes/Science.md
       - Instructional Programmes/Humanities.md
+      - Instructional Programmes/Craft & Technology.md
