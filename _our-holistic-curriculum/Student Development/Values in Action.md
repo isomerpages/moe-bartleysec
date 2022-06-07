@@ -26,13 +26,18 @@ Values-in-Action projects give students the opportunity to put into practice the
 ### Level - Wide Activities 2018
 
 **Secondary 1**
-
 ![](/images/secondary%201.jpg)
 
 **Secondary 2**
-
 ![](/images/walk%20for%20rice.jpg)
 
 **Secondary 4**
-
 ![](/images/secondary%204.jpg)
+
+### Level - Wide activities 2017
+
+**Secondary 1**
+![](/images/beach%20clean%20up.jpg)
+
+![](/images/project%20cube.jpg)
+
