@@ -33,5 +33,26 @@ Recycling Drive - Cadets doing their part for the community
 Learning from the best - BNU alumni passing on valuable skills to the cadets
 
 ![](/images/NPCC6.jpg)
-Visiting the Police Coast Guard 
+Visiting the Police Coast Guard
 
+![](/images/annual%20unit%20camp.jpg)
+
+**Unit's Physical Training**
+![](/images/NPCC10.jpg)
+
+![](/images/NPCC11.jpg)
+
+
+**Adventure Training Camp and Survival Training Camp at Camp Resilience, Pulau Ubin**
+![](/images/NPCC13.jpg)
+
+![](/images/NPCC14.jpg)
+
+**Cadets as Road Marshallers at Road Safety Park**
+![](/images/NPCC17.jpg)
+
+![](/images/NPCC15.jpg)
+
+![](/images/senior%20inspector.jpg)
+
+![](/images/NPCC18.jpg)
