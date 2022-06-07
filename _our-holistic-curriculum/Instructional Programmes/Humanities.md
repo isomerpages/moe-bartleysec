@@ -51,3 +51,5 @@ Building confidence in our NEWater through water testing
 ![](/images/History%20students%20sharing%20their%20findings%20from%20their%20Inquiry%20project.jpeg)
 History students sharing their findings from their Inquiry project
 
+![](/images/Humanities%20Week%202019.jpeg)
+Humanities Week 2019
