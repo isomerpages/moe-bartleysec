@@ -69,4 +69,16 @@ SE - Social-Emotional <br>
 SEC - Social-Emotional Competencies <br> 
 SEP - Sports Elective Programme <br>
 SL - Student Leadership <br> 
-VIA - Values-in-Action (formerly Community Involvement Programme or CIP) 
+VIA - Values-in-Action (formerly Community Involvement Programme or CIP)
+
+### Student Leadership Development (SLD)
+At Bartley, we believe that every student has the potential to be a strong self-leader, and a leader for others. As such, the school has identified Student Leadership Development to be one of our key student development platforms. To this end, we have SLD programmes targeted at the whole student body, and for students on our Student Leadership Tracks.
+
+| Level | Level Outcome | Mass Programme | SL Track Programme |
+|---|---|---|---|
+| 1 | Responsible Leaders of Self | 7 Habits<br>Traits of Ethical Leaders | Mixed of customised and cohort-based programmes for<br>1. Student Councillors,<br>2. CCA Leaders,<br>3. Class Chairs, and<br>4. Domain Experts |
+| 2 | Responsible Leaders for Others | 7 Habits<br>Traits of Servant Leaders |  |
+| 3 | Resilient Leaders for Change | 6 Decisions<br>Traits of Transformational Leaders |  |
+| 4/5 | Resilient Leaders for Excellence | 6 Decisions<br>Traits of Mentors |  |
+| | | | |
+
