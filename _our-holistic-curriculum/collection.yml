@@ -2,8 +2,6 @@ collections:
   our-holistic-curriculum:
     output: true
     order:
-      - Co Curricular Activities/Co curricular Activities.md
-      - Co Curricular Activities/.keep
       - Curricular Framework.md
       - Instructional Programmes/.keep
       - Instructional Programmes/Assessment Matters.md
@@ -22,3 +20,5 @@ collections:
       - Student Development/National Education.md
       - Student Development/Values in Action.md
       - Student Development/Education and Career Guidance (ECG).md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co curricular Activities.md
