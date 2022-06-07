@@ -30,3 +30,22 @@ e. The outermost circle reminds our students to be Resilient and Responsible Lea
 | Apply Values and SEC in National and Global context | · NYAA<br>· NE events<br>· Environmental Education | · VIA<br>· NYAA<br>· NE events<br>· NE Learning Journeys<br>· Environmental Education | · VIA<br>· Overseas Learning Journey<br>· Work Attachments<br>· NE events<br>· Environmental Education | · VIA<br>· Work Attachments<br>· NE events<br>· Environmental Education |
 | Assess Behaviour and Performance | · Reflections<br>· Student Organiser | · Reflections<br>· Student Organiser | · Reflections<br>· Student Organiser | · Reflections<br>· Student Organiser<br>· NE Quiz |
 | | | | |
+
+3) **SPACE domains**. The programmes offered in Bartley Secondary School can be grouped under Languages & Culture (English, Mother Tongue, Literature), Mathematics (Elementary Math, Additional Math, Principles of Accounts), Sciences (Physics, Chemistry), Humanities (Geography, History, Social Studies, Elements of Business Skills), Crafts & Technology (Art, Music, Food & Consumer Education, Design & Technology, Computer Applications), Physical Education, CCE and CCA. Additionally, lower secondary students take Integrated Project Work (IPW). When arranged according to the SPACE domains, the main thrusts of each category can be placed within the spectrum as indicated in **Table 1**. Collectively, these platforms help our students use and strengthen their values and SE competencies.
+
+**Table 1: Bartley Secondary School’s programmes across the SPACE Domains**
+
+| Social | Physical | Aesthetic | Cognitive | Emotional |
+|---|---|---|---|---|
+| CCA | CCA* | CCA* | CCA* | CCA |
+| PE | PE |  |  | PE |
+|  |  | Craft & Tech | Craft & Tech |  |
+| Languages & Culture |  | Languages & Culture | Languages & Culture |  |
+|  |  |  | Mathematics |  |
+|  |  |  | Sciences |  |
+| Humanities |  |  | Humanities |  |
+| IPW |  |  | IPW |  |
+| CCE** |  |  | CCE** | CCE** |
+| | | | | |
+* - depending on the type of CCA
+** - includes NE, ECG, SEd, CW and VIA
