@@ -48,3 +48,9 @@ Secondary 3
 
 Secondary 4 & 5
 ![](/images/newspaper.jpg)
+
+![](/images/use%20your%20hands.jpg)
+
+![](/images/expo.jpg)
+
+![](/images/sungei%20buloh.jpg)
