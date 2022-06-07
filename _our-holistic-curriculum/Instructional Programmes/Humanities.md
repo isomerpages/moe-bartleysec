@@ -18,4 +18,15 @@ The Inquiry approach leveraging on experiential learning is advocated by the dep
 * Develop critical thinking skills
 * Design research approaches to investigate geographical, historical and social issues
 * Appreciate the complex inter-relationship between man and the environment
-* Demonstrate an accute awareness of global issues. 
+* Demonstrate an accute awareness of global issues.
+
+### Signature Programmes
+The Humanities seeks to develop the competencies of our students to be informed, concerned and participative citizens by the end of a 10-year Social Studies education. These competencies encompass the body of knowledge, skills and values expressed in the Philosophy of the Humanities are elaborated below.
+
+As informed citizens, students would:
+* understand their identity as Singaporeans with a global outlook;
+* understand different perspectives;
+view the world with an understanding of the Singapore perspective;
+* apply reflective thought in making quality decisions;
+* analyse, negotiate and manage complex situations; and
+* evaluate information, consider different viewpoints and exercise discernment in reaching well-reasoned conclusions and making responsible decisions.
