@@ -40,3 +40,5 @@ As we make the journey from tolerating differences to embracing diversity, our S
 ![](/images/showcase.jpg)
 
 ![](/images/principal.jpg)
+
+![](/images/tembusa.jpg)
