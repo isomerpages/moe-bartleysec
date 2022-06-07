@@ -30,3 +30,14 @@ view the world with an understanding of the Singapore perspective;
 * apply reflective thought in making quality decisions;
 * analyse, negotiate and manage complex situations; and
 * evaluate information, consider different viewpoints and exercise discernment in reaching well-reasoned conclusions and making responsible decisions.
+
+As concerned citizens, students would:
+* have a sense of belonging to their community and nation;
+appreciate the importance of engaging in issues of societal concern;
+* be committed to building social cohesion by appreciating diversity in society; and
+* have an awareness of the ethical considerations and consequences of decision-making.
+
+As participative citizens, students would:
+* be motivated to identify issues of concern and take action;
+* be resilient in addressing concerns of the community or society in spite of challenges faced; and
+* be empowered to take personal and collective responsibility for effecting change for the good of society, and serve to make a positive difference to others. 
