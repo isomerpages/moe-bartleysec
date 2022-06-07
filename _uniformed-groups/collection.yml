@@ -2,6 +2,6 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/NPCC.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Red Cross Youth.md
