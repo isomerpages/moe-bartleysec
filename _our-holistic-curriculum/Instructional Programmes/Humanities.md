@@ -47,3 +47,7 @@ Attempting to solve a puzzle during Humanities week
 
 ![](/images/Building%20confidence%20in%20our%20NEWater%20through%20water%20testing.jpeg)
 Building confidence in our NEWater through water testing
+
+![](/images/History%20students%20sharing%20their%20findings%20from%20their%20Inquiry%20project.jpeg)
+History students sharing their findings from their Inquiry project
+
