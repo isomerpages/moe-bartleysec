@@ -2,6 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Sports and Games/Football.md
-      - Sports and Games/Basketball.md
       - Sports and Games/.keep
+      - Sports and Games/Basketball.md
+      - Sports and Games/Football.md
