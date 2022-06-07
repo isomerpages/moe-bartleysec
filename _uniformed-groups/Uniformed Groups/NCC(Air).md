@@ -24,8 +24,7 @@ Bartley NCC (AIR) is one of the 16 NCC (AIR) units in Singapore that provides se
 As NCC (AIR) cadets, they can participate in activities that will develop them to be disciplined and responsible leaders. They will also attend learning journeys, short courses and adventure camps such as Camp Forge (rappelling & archery) where they can experience various outdoor activities and bond with other NCC Air cadets from various schools. They will also be given opportunities to have experiential flights on RSAF aircrafts annually.
 NCC (AIR) specializes in Aeromodelling, a unique activity which students can never find in other CCAs. Cadets will be trained to be proficient in both technical and flying aspects of model aircrafts. The thrill of learning how to do flight navigating using simulation software and flying a remote controlled model aircraft is BEYOND WORDS!
 
-**Achievements:** 
-
+**Achievements:** <br>
 Best Unit Competition: <br>
 Gold: 2008 to 2014, 2016 to 2018 <br>
 Silver: 2007, 2015
