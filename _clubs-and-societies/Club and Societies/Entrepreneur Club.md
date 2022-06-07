@@ -22,3 +22,5 @@ invaluable experiences that adds values to the students' learning. Students will
 
 **Achievements** <br>
 National Youth Business Challenge 2017 - Silver and Bronze <br> National Youth Entrepreneurship Competition  2018 - 2nd Runner Up <br> Bronze in National Youth Business Challenge 2016 <br> Bronze in National Youth Business Challenge 2015
+
+![](/images/photo_2022-06-07_16-23-51.jpg)
