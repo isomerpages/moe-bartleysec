@@ -29,3 +29,10 @@ Values-in-Action projects give students the opportunity to put into practice the
 
 ![](/images/secondary%201.jpg)
 
+**Secondary 2**
+
+![](/images/walk%20for%20rice.jpg)
+
+**Secondary 4**
+
+![](/images/secondary%204.jpg)
