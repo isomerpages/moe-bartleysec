@@ -2,7 +2,6 @@ collections:
   our-holistic-curriculum:
     output: true
     order:
-      - Student Development/.keep
       - Curricular Framework.md
       - Instructional Programmes/.keep
       - Instructional Programmes/Assessment Matters.md
@@ -15,3 +14,4 @@ collections:
       - Instructional Programmes/Physical Education.md
       - Instructional Programmes/Computer Applications (CPA).md
       - Instructional Programmes/Music.md
+      - Student Development/.keep
