@@ -10,3 +10,23 @@ Our ECG Counsellor, Ms Valerie, is in school every Wednesday to support students
 Students (and their parents) who would like to find out more about their post-secondary education options, subject choices, career interests, or discover their strengths and interests, can have a chat with our ECG Counsellor.
 
 To make an appointment, please click here: [https://go.gov.sg/bartley-ecg](https://go.gov.sg/bartley-ecg) or scan the QR Code below. You may also email Ms Valerie at phua_chay_khimm_valerie@schools.gov.sg.
+
+![](/images/qr%20code.png)
+
+**To find out more about post-secondary education and pathways, please click on the following resources:**
+
+Post-Secondary Education:
+[https://www.moe.gov.sg/post-secondary](https://www.moe.gov.sg/post-secondary)
+[https://www.youtube.com/watch?v=ndDVlzT-z0g](https://www.youtube.com/watch?v=ndDVlzT-z0g)
+
+My SkillsFuture Student Portal: 
+https://myskillsfuture.gov.sg/secondary
+
+
+Journey with Our Children, Achieving their Aspirations: 
+https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html
+
+
+
+The Next Step Forward:
+https://www.moe.gov.sg/microsites/next-step-forward/index.html
