@@ -38,9 +38,7 @@ Values-in-Action projects give students the opportunity to put into practice the
 
 **Secondary 1**
 ![](/images/beach%20clean%20up.jpg)
-
 ![](/images/project%20cube.jpg)
-
 ![](/images/secondary%203.jpg)
 
 Secondary 3
@@ -48,8 +46,6 @@ Secondary 3
 
 Secondary 4 & 5
 ![](/images/newspaper.jpg)
-
 ![](/images/use%20your%20hands.jpg)
-
 ![](/images/expo.jpg)
 ![](/images/sungei%20buloh.jpg)
