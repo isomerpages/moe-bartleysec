@@ -20,4 +20,14 @@ d. The blue circle refers to the platforms that give students opportunities to t
 
 e. The outermost circle reminds our students to be Resilient and Responsible Leaders by assessing their performance and behaviour, and making the necessary adjustments to achieve the school’s vision of being a Value-Added School with a High Performing Culture. The White here reiterates the importance of Honesty in this process of Life-Long Learning.
 
-2. This table presents the different programmes that go in each layer.
+2. This table presents the different programmes that go in each layer. 
+
+| Sec 1 | Sec 2 | Sec 3 | Sec 4/5 |  |
+|---|---|---|---|---|
+| Acquire Values | · Orientation<br>· Target Setting<br>· CCE lessons & Guidance modules<br>· CCA<br>· 7 Habits (1-3)<br>· SL Talks<br>· FT Conferencing<br>· Transition to Sec 1 Camp | · Target setting<br>· CCE lessons & Guidance modules<br>· CCA<br>· 7 Habits (4-7)<br>· SL Talks<br>· FT Conferencing<br>· Outdoor adventure camp | · Target setting<br>· CCE lessons & Guidance modules<br>· SL Talks<br>· FT Conferencing<br>· Overseas Learning Journey | · Target setting<br>· CCE lessons & Guidance modules<br>· SL Talks<br>· FT Conferencing<br>· SMILE |
+| Acquire<br>SEC | · CCE lessons & Guidance modules<br>· CCA<br>· 7 Habits (1-3)<br>· SL Talks<br>· AEP<br>· SEP | · CCE lessons & Guidance modules<br>· CCA<br>· 7 Habits (4-7)<br>· SL Talks<br>· Outdoor adventure camp<br>· School visits<br>· AEP<br>· SEP | · CCE lessons & Guidance modules<br>· CCA<br>· 6 Decisions<br>· SL Talks<br>· Overseas Learning Journey<br>· ECG Fair<br>· School visits | · CCE lessons & Guidance modules<br>· CCA<br>· 6 Decisions<br>· SL Talks<br>· Study Skills / Personal Effectiveness camp<br>· ECG Fair<br>· School visits |
+| Apply Values and SEC within School | · SPACE<br>· VIA<br>· Interclass games<br>· Cross-Country | · SPACE<br>· VIA<br>· Interclass games<br>· Cross-Country | · SPACE<br>· VIA<br>· Interclass games<br>· Cross-Country | · SPACE<br>· VIA<br>· Interclass games<br>· Cross-Country |
+| Apply Values and SEC in National and Global context | · NYAA<br>· NE events<br>· Environmental Education | · VIA<br>· NYAA<br>· NE events<br>· NE Learning Journeys<br>· Environmental Education | · VIA<br>· Overseas Learning Journey<br>· Work Attachments<br>· NE events<br>· Environmental Education | · VIA<br>· Work Attachments<br>· NE events<br>· Environmental Education |
+| Assess Behaviour and Performance | · Reflections<br>· Student Organiser | · Reflections<br>· Student Organiser | · Reflections<br>· Student Organiser | · Reflections<br>· Student Organiser<br>· NE Quiz |
+| | | | |
+
