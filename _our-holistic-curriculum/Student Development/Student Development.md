@@ -110,6 +110,6 @@ Please see our tab on Sexuality Education.
 ### School-based CCE, including Assembly programmes and Form Teacher Period
 To complement MOE’s offerings, the school has additional programmes to achieve our overall outcome of Resilient and Responsible Leaders. As mentioned, the 7 Habits and 6 Decisions programmes foster personal leadership within our students. The Leadership Talks aim to equip our students with knowledge of current literature on the types of leaders. Our signature SMILE@Bartley is explained further below. Other programmes are incorporated on a timely basis.   
 
-**SMILE@Bartley - Student Mentoring through Innovative Learning Experiences **
+**SMILE@Bartley - Student Mentoring through Innovative Learning Experiences**
 
 SMILE provides an environment and support infrastructure that is conducive for students to achieve greater success. This is done through a small group mentorship programme, during which the close interaction allows an in-depth understanding of the cognitive, social-emotional and physical challenges that students face. The rapport between role models and the students provides the important emotional support amidst the academic rigour.
