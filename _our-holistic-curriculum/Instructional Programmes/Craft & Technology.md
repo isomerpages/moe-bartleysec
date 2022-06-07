@@ -49,7 +49,8 @@ Mobile Robotics
 
 	as well as <br>
 
-	4.2. the changing and progressive nature of automated technology.
+	4.2. the changing and progressive nature of automated technology. 
+
 
 * Acquire knowledge and skills in preparation for post-secondary technical courses; and
 * Incucate and practice safety consciousness and safe working habits.
