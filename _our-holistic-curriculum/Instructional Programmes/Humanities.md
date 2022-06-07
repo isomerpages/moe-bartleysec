@@ -75,3 +75,8 @@ Students doing field sketching at Punggol Park
 ![](/images/Students%20sharing%20the%20water%20testing%20results.jpeg)
 Students sharing the water testing results
 
+![](/images/Study%20Session%20with%20the%20teacher.jpeg)
+Study Session with the teacher
+
+![](/images/Winners%20of%202019%20%20International%20Stamp%20Collection%20Competition%20chatting%20with%20Minister%20Mr%20S%20Iswaran.jpeg)
+Winners of 2019 International Stamp Collection Competition chatting with Minister Mr S Iswaran
