@@ -31,3 +31,7 @@ Recycling Drive - Cadets doing their part for the community
 
 ![](/images/NPCC2.jpg)
 Learning from the best - BNU alumni passing on valuable skills to the cadets
+
+![](/images/NPCC6.jpg)
+Visiting the Police Coast Guard 
+
