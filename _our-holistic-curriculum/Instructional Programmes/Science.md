@@ -32,11 +32,9 @@ The department partners Singapore Polytechnic (School of Electrical and Electron
 **3. STEM Enrichment Courses for Secondary 3 Students** <br>
 To make learning authentic and relevant for our students, the Science department provides the opportunity for secondary 3 students to experience the application of Science concepts in tertiary institutions as well as in industries. Examples of learning journeys the students have participated in, includes;
 * Translational Laboratory in Genetic Medicine (TLCM)
-
 ![](/images/1%20(1).jpg)
 
 * National Kidney Foundation
-
 ![](/images/2%20(2).jpg)
 
 * 3M Innovations
