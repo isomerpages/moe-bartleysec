@@ -55,3 +55,11 @@ E-CCA programs include match analysis, as well as the introduction of games to b
 - 1st in ActiveSG 5v5 U-14 Futsal Tournament
 
 ![](/images/image1%20(1).jpg)
+
+##### SSSC Championships Semi-finals 2019
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxo6jGun7nw?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### SSSC Championships 3rd/4th Placing 2019
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W4pwNcT8sK8?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
