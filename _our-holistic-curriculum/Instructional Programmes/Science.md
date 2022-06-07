@@ -39,3 +39,9 @@ To make learning authentic and relevant for our students, the Science department
 
 * 3M Innovations
 ![](/images/3%20(1).jpg)
+
+* Takasago
+![](/images/4%20(1).jpg)
+
+* A*Star Facilities Tour
+![](/images/A%20STAR%20Facilities%20Tour.jpg)
