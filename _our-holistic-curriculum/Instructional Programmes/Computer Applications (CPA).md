@@ -23,3 +23,12 @@ Computer Applications
 
 For more information, please refer to <br>
 [http://www.seab.gov.sg/content/syllabus/nlevel/2016Syllabus/7018_2016.pdf](http://www.seab.gov.sg/content/syllabus/nlevel/2016Syllabus/7018_2016.pdf)
+
+### Signature Programmes
+
+Media Computing Competition 2018
+This competition is organised annually by the Computer Education Unit, Science Branch, Curriculum Planning and Development Division (CPDD), Ministry of Education. This competition seeks to provide a platform to showcase students’ work, develop their interest in media design and improve students’ communication and presentation skills.
+
+MATEEN HAKIM BIN SANUWAN of Class 2T1 is one of the top 10 CPA students in Singapore to be awarded the Gold Award for his animation for his CCA (NCC Air)  
+
+![](/images/IMG_0321.jpg)
