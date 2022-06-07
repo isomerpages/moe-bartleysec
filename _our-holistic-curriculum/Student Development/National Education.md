@@ -27,3 +27,16 @@ As we make the journey from tolerating differences to embracing diversity, our S
 ![](/images/racial%20harmony.jpg)
 
 ![](/images/rhd.jpg)
+
+![](/images/racial.jpg)
+
+**National Day Celebrations 2017 <br>
+8 August 2017**
+
+![](/images/national%20day.jpg)
+
+![](/images/inteclass.jpg)
+
+![](/images/showcase.jpg)
+
+![](/images/principal.jpg)
