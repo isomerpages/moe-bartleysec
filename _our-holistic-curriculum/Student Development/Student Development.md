@@ -47,5 +47,6 @@ e. The outermost circle reminds our students to be Resilient and Responsible Lea
 | IPW |  |  | IPW |  |
 | CCE** |  |  | CCE** | CCE** |
 | | | | | |
-* - depending on the type of CCA
+
+*- depending on the type of CCA <br>
 ** - includes NE, ECG, SEd, CW and VIA
