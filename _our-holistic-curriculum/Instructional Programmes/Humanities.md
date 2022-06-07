@@ -33,11 +33,17 @@ view the world with an understanding of the Singapore perspective;
 
 As concerned citizens, students would:
 * have a sense of belonging to their community and nation;
-appreciate the importance of engaging in issues of societal concern;
+* appreciate the importance of engaging in issues of societal concern;
 * be committed to building social cohesion by appreciating diversity in society; and
 * have an awareness of the ethical considerations and consequences of decision-making.
 
 As participative citizens, students would:
 * be motivated to identify issues of concern and take action;
 * be resilient in addressing concerns of the community or society in spite of challenges faced; and
-* be empowered to take personal and collective responsibility for effecting change for the good of society, and serve to make a positive difference to others. 
+* be empowered to take personal and collective responsibility for effecting change for the good of society, and serve to make a positive difference to others.
+
+![](/images/Attempting%20to%20solve%20a%20puzzle%20during%20Humanities%20week.jpeg)
+Attempting to solve a puzzle during Humanities week
+
+![](/images/Building%20confidence%20in%20our%20NEWater%20through%20water%20testing.jpeg)
+Building confidence in our NEWater through water testing
