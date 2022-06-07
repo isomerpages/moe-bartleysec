@@ -41,3 +41,4 @@ Values-in-Action projects give students the opportunity to put into practice the
 
 ![](/images/project%20cube.jpg)
 
+![](/images/secondary%203.jpg)
