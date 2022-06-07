@@ -23,3 +23,11 @@ Bartley NPCC unit aims to mould cadets with character and leadership. Cadets can
 
 **Achievements:** <br>
 Unit Overall Proficiency Award: GOLD (2006 to current)
+
+![](/images/NP%20Banner1.jpg)
+
+![](/images/NPCC1.jpg)
+Recycling Drive - Cadets doing their part for the community	
+
+![](/images/NPCC2.jpg)
+Learning from the best - BNU alumni passing on valuable skills to the cadets
