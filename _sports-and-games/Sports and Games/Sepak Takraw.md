@@ -10,9 +10,9 @@ third_nav_title: Sports and Games
 A team that believes in working hard with a never say die attitude in becoming the best whilst showing class and sportsmanship at all times.
 
 **Objective** <br>
-1)    To improve the skills of the students.
-2)    Select students to represent the school at the National Sports Games Sepak Takraw ‘B’ and ‘C’ Division Competition.
-3)    To build the students’ character in the school values of Courage, Optimism, Respect and Excellence
+1) To improve the skills of the students.
+2) Select students to represent the school at the National Sports Games Sepak Takraw ‘B’ and ‘C’ Division Competition.
+3) To build the students’ character in the school values of Courage, Optimism, Respect and Excellence
 
 **CCA Teacher IC:** <br>
 Mr David Chua <br>
