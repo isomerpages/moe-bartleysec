@@ -38,3 +38,6 @@ To make learning authentic and relevant for our students, the Science department
 * National Kidney Foundation
 
 ![](/images/2%20(2).jpg)
+
+* 3M Innovations
+![](/images/3%20(1).jpg)
