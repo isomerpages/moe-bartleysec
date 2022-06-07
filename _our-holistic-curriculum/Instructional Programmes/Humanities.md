@@ -62,3 +62,11 @@ Learning Journey to Battle Box
 
 ![](/images/Sec%201%20History%20Field%20Trip.jpeg)
 Sec 1 History Field Trip
+
+![](/images/Sec%204%20Students%20in%20Chinatown%20for%20Geographical%20Investigation.jpeg)
+Sec 1 History Field Trip
+
+![](/images/Students%20conducting%20a%20tourism%20survey%20with%20tourists.jpeg)
+Students conducting a tourism survey with tourists
+
+
