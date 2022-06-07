@@ -15,18 +15,17 @@ To make an appointment, please click here: [https://go.gov.sg/bartley-ecg](https
 
 **To find out more about post-secondary education and pathways, please click on the following resources:**
 
-Post-Secondary Education:
-[https://www.moe.gov.sg/post-secondary](https://www.moe.gov.sg/post-secondary)
+Post-Secondary Education: <br>
+[https://www.moe.gov.sg/post-secondary](https://www.moe.gov.sg/post-secondary) <br>
 [https://www.youtube.com/watch?v=ndDVlzT-z0g](https://www.youtube.com/watch?v=ndDVlzT-z0g)
 
-My SkillsFuture Student Portal: 
-https://myskillsfuture.gov.sg/secondary
+My SkillsFuture Student Portal: <br>
+[https://myskillsfuture.gov.sg/secondary](https://myskillsfuture.gov.sg/secondary)
 
 
-Journey with Our Children, Achieving their Aspirations: 
-https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html
+Journey with Our Children, Achieving their Aspirations: <br>
+[https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html](https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html)
 
 
-
-The Next Step Forward:
-https://www.moe.gov.sg/microsites/next-step-forward/index.html
+The Next Step Forward: <br>
+[https://www.moe.gov.sg/microsites/next-step-forward/index.html](https://www.moe.gov.sg/microsites/next-step-forward/index.html)
