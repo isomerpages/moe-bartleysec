@@ -45,3 +45,6 @@ Values-in-Action projects give students the opportunity to put into practice the
 
 Secondary 3
 ![](/images/flag%20day.jpg)
+
+Secondary 4 & 5
+![](/images/newspaper.jpg)
