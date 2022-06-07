@@ -107,10 +107,10 @@ Sexuality Education Lessons: <br>
 
 **10.** Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-**11.** Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 21/03/2022.
+**11.** Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/BSS%20SED%20Form%202022%20with%20acknowledgement.pdf). The completed form is to be submitted by **21/03/2022.**
 
-**12.** Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here.  The completed form is to be submitted by 21/03/2022.
+**12.** Parents who wish to opt their children out of the **eTeens** programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens%20Opt%20Out%20Form%202022.pdf).  The completed form is to be submitted by **21/03/2022**.
 
 **13.** Parents can contact the school at Tel: 62889013 for discussion or to seek clarification about the school’s sexuality education programme.
 
-**14.** Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements. 
+**14.** Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
