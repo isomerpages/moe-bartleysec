@@ -2,10 +2,10 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - Sports & Games/Basketball.md
-      - Sports & Games/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/Red Cross Youth.md
       - Uniformed Groups/NCC(Air).md
       - Uniformed Groups/NCC(Land).md
+      - Sports & Games/.keep
+      - Sports & Games/Basketball.md
