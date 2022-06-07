@@ -9,7 +9,7 @@ third_nav_title: Student Development
 **ACQUIRE, APPLY, ASSESS, ADJUST**
 ![](/images/assess-adjust_images_thumb_medium300_200.png)
 
-**1. Arrangement & Colours** <br>
+**1) Arrangement & Colours** <br>
 a. The centre represents the programmes we have in place to help our students acquire our core values, and forge their moral anchor. It is coloured bright yellow, signifying Strength and Steadfastness on our school crest (CCE Outcome 2).
 
 b. The red layer refers to the programmes or concepts that the school uses to help our students acquire and develop their social-emotional (SE) competencies, which are related to Identity, Relationships and Choices (CCE Outcomes 1,3,4). These are linked to the virtues of Friendship, Love, Loyalty & Brotherhood represented by the Red on our crest.
@@ -20,7 +20,7 @@ d. The blue circle refers to the platforms that give students opportunities to t
 
 e. The outermost circle reminds our students to be Resilient and Responsible Leaders by assessing their performance and behaviour, and making the necessary adjustments to achieve the school’s vision of being a Value-Added School with a High Performing Culture. The White here reiterates the importance of Honesty in this process of Life-Long Learning.
 
-2. This table presents the different programmes that go in each layer. 
+2) This table presents the different programmes that go in each layer. 
 
 | Sec 1 | Sec 2 | Sec 3 | Sec 4/5 |  |
 |---|---|---|---|---|
@@ -30,4 +30,3 @@ e. The outermost circle reminds our students to be Resilient and Responsible Lea
 | Apply Values and SEC in National and Global context | · NYAA<br>· NE events<br>· Environmental Education | · VIA<br>· NYAA<br>· NE events<br>· NE Learning Journeys<br>· Environmental Education | · VIA<br>· Overseas Learning Journey<br>· Work Attachments<br>· NE events<br>· Environmental Education | · VIA<br>· Work Attachments<br>· NE events<br>· Environmental Education |
 | Assess Behaviour and Performance | · Reflections<br>· Student Organiser | · Reflections<br>· Student Organiser | · Reflections<br>· Student Organiser | · Reflections<br>· Student Organiser<br>· NE Quiz |
 | | | | |
-
