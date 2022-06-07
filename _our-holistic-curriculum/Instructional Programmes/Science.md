@@ -34,3 +34,7 @@ To make learning authentic and relevant for our students, the Science department
 * Translational Laboratory in Genetic Medicine (TLCM)
 
 ![](/images/1%20(1).jpg)
+
+* National Kidney Foundation
+
+![](/images/2%20(2).jpg)
