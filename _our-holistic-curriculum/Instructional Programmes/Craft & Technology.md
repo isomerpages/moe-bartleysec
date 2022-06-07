@@ -44,13 +44,22 @@ Mobile Robotics
 * Apply and refine design approaches in automation and robotics towards a viable solution;
 * Stimulate curiosity and interest in automated technology through design and build activities;
 * Have an awareness of: <br>
-
-	4.1. the impact of automated technology on society, industry, business, home and leisure;
-
-	as well as <br>
-
-	4.2. the changing and progressive nature of automated technology. 
-
-
+	4.1. the impact of automated technology on society, industry, business, home and leisure; <br>
+as well as <br>
+	4.2. the changing and progressive nature of automated technology.
 * Acquire knowledge and skills in preparation for post-secondary technical courses; and
 * Incucate and practice safety consciousness and safe working habits.
+
+### Signature Programmes
+Inculcating an appreciation of the Aesthetics & CT (ACT) through various platforms E2 Programme (eXcite & eXplore)
+* Drawing up ICT-based and Collaborative learning lesson plans
+
+a) E2@DT 
+* Outward Bound@ACT
+	- Sec 1 Sketching and Technical Skills Workshop
+	- Sec 3 AEM
+	- Sec 4 Auto Desk & OEL to IKEA
+
+![](/images/1%20(2).jpg)
+BUILDING DESIGN SKILLS WORKSHOP
+
