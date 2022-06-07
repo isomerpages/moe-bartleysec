@@ -50,3 +50,23 @@ e. The outermost circle reminds our students to be Resilient and Responsible Lea
 
 *- depending on the type of CCA <br>
 ** - includes NE, ECG, SEd, CW and VIA
+
+**Glossary of terms** <br>
+AEP - Arts Elective Programme <br>
+CCE - Character & Citizenship Education <br>
+CCA - Co-Curricular Activities <br>
+CW - Cyber Wellness <br>
+ECG - Education & Career Guidance <br>
+FT - Form Teacher <br> 
+IPW - Integrated Project Work <br> 
+NE - National Education (also known as Citizenship Education) <br>
+NYAA - National Youth Achievement Award <br> 
+PE - Physical Education <br> 
+RIPE - Respect for Self and Others, Integrity our Way of Life, Passion for Learning, Excellence our Pursuit <br> 
+SEd - Sexuality Education <br> 
+SPACE - Social, Physical, Aesthetic, Cognitive, Emotional domains <br> 
+SE - Social-Emotional <br> 
+SEC - Social-Emotional Competencies <br> 
+SEP - Sports Elective Programme <br>
+SL - Student Leadership <br> 
+VIA - Values-in-Action (formerly Community Involvement Programme or CIP) 
