@@ -17,7 +17,7 @@ Total Defence Day 16 February 2017**
 **International Friendship Day 10 April 2017 <br>
 Theme: ASEAN**
 
-![](/images/national%20flower.jpg)
+![](/images/national%20flower1.jpg)
 
 **NE Week (17 July - 21 July 2017) <br>
 Theme: The Singapore Way**
@@ -26,9 +26,9 @@ As we make the journey from tolerating differences to embracing diversity, our S
 
 ![](/images/racial%20harmony.jpg)
 
-![](/images/rhd.jpg)
+![](/images/rhd1.jpg)
 
-![](/images/racial.jpg)
+![](/images/racial1.jpg)
 
 **National Day Celebrations 2017 <br>
 8 August 2017**
