@@ -28,3 +28,4 @@ Selected members of the team are sent to represent the school at the zonal compe
 | CCA Achievements /<br>Niche Areas / Key Programme | 2018 | 2019 | 2020 | 2021  |
 |:---:|---|---|---|:---:|
 |  | · ‘B’ Division Zonal Competition<br>· ‘C’ Division Zonal Competition<br>· Inter-class Basketball Competition<br>· Fair Play Award | ·‘B’ Division Zonal Competition<br>·‘C’ Division Zonal Competition<br>Second round | · All competition canceled |  No competitions |
+| | | | | |
