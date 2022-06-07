@@ -31,3 +31,7 @@ Cadets can look forward to attaining ranks every year, with the top two Sec 4 ca
 **Achievements** <br>
 Best Unit Competition: GOLD (2009 – 2017) <br> 
 Distinction in Unit Recognition (2018 – Current)
+
+![](/images/photo_2022-06-07_15-35-32.jpg)
+![](/images/photo_2022-06-07_15-35-26.jpg)
+![](/images/photo_2022-06-07_15-35-27.jpg)
