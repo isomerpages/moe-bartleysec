@@ -69,4 +69,9 @@ Sec 1 History Field Trip
 ![](/images/Students%20conducting%20a%20tourism%20survey%20with%20tourists.jpeg)
 Students conducting a tourism survey with tourists
 
+![](/images/Students%20doing%20field%20sketching%20at%20Punggol%20Park.jpeg)
+Students doing field sketching at Punggol Park
+
+![](/images/Students%20sharing%20the%20water%20testing%20results.jpeg)
+Students sharing the water testing results
 
