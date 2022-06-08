@@ -62,4 +62,4 @@ Money counting in progress by our office staff! Our school has raised funds for 
 
 ![](/images/12%20(1).jpg)
 SLC students received Certificate of Active Participation from National Organ Transplant Unit (NOTU) Singapore
-Our tote bag design is shortlisted for this c
+Our tote bag design is shortlisted for this competition
