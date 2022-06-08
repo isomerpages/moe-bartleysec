@@ -45,4 +45,21 @@ Service Learning Club 2020 –  A celebration of Our Passion For Service ! We lo
 ![](/images/2%20(4).jpg)
 CNY VIA Celebrations @ Tembusu Senior Activity Centre -  Together we celebrate in harmony
 
+![](/images/teachers%20day.jpg)
 
+![](/images/81.jpg)
+Despite the challenges of Covid, we still manage to meet up for CCA… virtually.
+
+![](/images/91.jpg)
+
+![](/images/10.jpg)
+National Day tag designed by one of our talented SLC member!
+
+![](/images/13%20(1).jpg)
+Money counting in progress by our office staff! Our school has raised funds for the National Kidney Foundation (NKF). 
+
+![](/images/111.jpg)
+
+![](/images/12%20(1).jpg)
+SLC students received Certificate of Active Participation from National Organ Transplant Unit (NOTU) Singapore
+Our tote bag design is shortlisted for this c
