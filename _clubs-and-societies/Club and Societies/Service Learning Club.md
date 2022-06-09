@@ -68,7 +68,7 @@ National Day tag designed by one of our talented SLC member!
 Money counting in progress by our office staff! Our school has raised funds for the National Kidney Foundation (NKF).
 
 <img src="/images/111.jpg" 
-     style="width:50%">
+     style="width:30%">
 		 
 <img src="/images/12%20(1).jpg" 
      style="width:50%">
