@@ -6,7 +6,7 @@ description: ""
 <div>
 <div style="float: left">
 <img src="/images/1%20(5).jpg" 
-     style="width:50%">
+     style="width:70%">
 </div>
 <div>
 	
