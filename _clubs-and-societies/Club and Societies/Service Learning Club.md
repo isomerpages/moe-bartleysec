@@ -65,6 +65,11 @@ National Day tag designed by one of our talented SLC member!
 
 <img src="/images/13%20(1).jpg" 
      style="width:60%">
-Money counting in progress by our office staff! Our school has raised funds for the National Kidney Foundation (NKF). 
+Money counting in progress by our office staff! Our school has raised funds for the National Kidney Foundation (NKF).
 
-
+<img src="/images/111.jpg" 
+     style="width:60%">
+		 
+![](/images/12%20(1).jpg)
+SLC students received Certificate of Active Participation from National Organ Transplant Unit (NOTU) Singapore
+Our tote bag design is shortlisted for this competition
