@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Bartley Alumni.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/2021.md
@@ -10,3 +9,4 @@ collections:
       - Parent Support Group/2018.md
       - Parent Support Group/2017.md
       - School Advisory Committee.md
+      - Bartley Alumni.md
