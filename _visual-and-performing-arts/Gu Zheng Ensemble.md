@@ -27,4 +27,7 @@ Bartley Guzheng Ensemble was established since 1997, has embarked on the journey
 * To promote Chinese culture through the study of traditional Chinese musical instruments.
 
 **Achievements**
-NYAA Awardees, 13 Bronze 9 Silver 
+NYAA Awardees, 13 Bronze 9 Silver
+
+![](/images/photo_2022-06-09_13-32-42.jpg)
+![](/images/photo_2022-06-09_13-32-45.jpg)
