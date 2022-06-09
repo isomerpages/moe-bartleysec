@@ -40,9 +40,13 @@ Our dedicated Graduating members received tokens of appreciation from SLC toward
 
 Service Learning Club 2020 –  A celebration of Our Passion For Service ! We look forward to more fruitful service to the community  (school and society) and environment in 2021!
 
-![](/images/1%20(4).jpg)
+<img src="/images/1%20(4).jpg" 
+     style="width:90%">
 
-![](/images/2%20(4).jpg)
+<p> </p>
+
+<img src="/images/2%20(4).jpg" 
+     style="width:90%">
 CNY VIA Celebrations @ Tembusu Senior Activity Centre -  Together we celebrate in harmony
 
 ![](/images/teachers%20day.jpg)
