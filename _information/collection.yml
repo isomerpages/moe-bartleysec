@@ -2,7 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Students/.keep
+      - Students/2022 June Holiday Assignment for S1 to 3 students.md
       - Students/June Intensive Timetable for 4E5N, 4NA and 4NT students (31st
         May to 7th June).md
-      - Students/2022 June Holiday Assignment for S1 to 3 students.md
-      - Students/.keep
