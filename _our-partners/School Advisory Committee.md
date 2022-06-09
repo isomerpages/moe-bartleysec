@@ -9,10 +9,9 @@ description: ""
      style="width:50%">
 </div>
 <div>
-	
 Mr Liew Wing Kong Ronald
-**Appointment:** Chairman <br>
-**Career Background:** <br>
+	<strong>Appointment:</strong> Chairman <br>
+	<strong>Career Background:</strong> <br>
 Chairman
 QCD Group of Companies
 </div>
