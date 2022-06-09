@@ -10,7 +10,7 @@ The aim of the OBA was to be the bonding platform for former students of the sch
 To remain relevant in the new millennia, the OBA has undertaken a name change in 2013 to Bartley Alumni (BA) in a bid to attract the younger members of graduates from Bartley Secondary School.
 
 
-**Activities of the OBA and BA to date** 
+##### Activities of the OBA and BA to date
 * Formation of the OBA Bursary and Scholarship Award, now known as BA Bursary and Scholarship Awards
 * Annual Dinner
 * 50th Anniversary Dinner at the Ritz-Carlton Hotel
@@ -26,7 +26,7 @@ To remain relevant in the new millennia, the OBA has undertaken a name change in
 
 ![](/images/Strong%20friendship%20among%20BA%20@%20BA%20Dinner%202019.jpeg)
 
-**Activities in the Pipeline** 
+##### Activities in the Pipeline 
 * Photography Course for Members, Staff, current Students & Parents
 * Basic Fishing Course & BA Fishing Competition (Pasir Ris Pond)
 * Basic Sports Course – Tennis
