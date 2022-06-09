@@ -9,7 +9,7 @@ description: ""
      style="width:80%">
 </div>
 <div>
-<font size="+2">
+<font size="+1">
 Mr Liew Wing Kong Ronald <br>
 	<strong>Appointment:</strong> Chairman <br>
 	<strong>Career Background:</strong> <br>
