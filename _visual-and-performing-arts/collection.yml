@@ -2,5 +2,6 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
+      - Gu Zheng Ensemble.md
       - Choir.md
       - Concert Band.md
