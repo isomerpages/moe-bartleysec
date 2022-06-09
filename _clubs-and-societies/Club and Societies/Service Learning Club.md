@@ -62,27 +62,11 @@ Despite the challenges of Covid, we still manage to meet up for CCA… virtually
 <div>
 <div style="float: left">
 <img src="/images/10.jpg" 
-     style="width:70%">
+     style="width:25%">
 </div>
 <div>
 National Day tag designed by one of our talented SLC member!
 </div>
 </div>
 
-<div>
-<div style="float: left">
-<img src="/images/13%20(1).jpg" 
-     style="width:50%">
-</div>
-<div>
-Money counting in progress by our office staff! Our school has raised funds for the National Kidney Foundation (NKF). 
-</div>
-</div>
-	
-<img src="/images/111.jpg" 
-     style="width:50%">
 
-<img src="/images/12%20(1).jpg" 
-     style="width:80%">
-SLC students received Certificate of Active Participation from National Organ Transplant Unit (NOTU) Singapore
-Our tote bag design is shortlisted for this competition
