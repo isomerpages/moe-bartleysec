@@ -15,10 +15,8 @@ Mr Liew Wing Kong Ronald <br>
 	<strong>Career Background:</strong> <br>
 Chairman <br>
 	QCD Group of Companies </font>
+<div>
 </div>
-</div>
-
-<p> 
 
 <div>
 <div style="float: left">
