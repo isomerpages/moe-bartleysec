@@ -60,7 +60,7 @@ Despite the challenges of Covid, we still manage to meet up for CCA… virtually
      style="width:80%">
 
 <img src="/images/10.jpg" 
-     style="width:50%">
+     style="width:40%">
 National Day tag designed by one of our talented SLC member!
 
 <img src="/images/13%20(1).jpg" 
