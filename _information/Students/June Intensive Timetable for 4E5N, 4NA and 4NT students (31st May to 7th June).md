@@ -4,3 +4,7 @@ permalink: /information/students/june-intensive-timetable-for-4e5n-4na-and-4nt-s
 description: ""
 third_nav_title: Students
 ---
+### Click on the link below to access your timetable
+
+[June Intensive 4E5N.pdf](/files/June%20Intensive%204E5N.pdf) <br>
+[June Intensive 4N4T.pdf](/files/June%20Intensive%204N4T.pdf)
