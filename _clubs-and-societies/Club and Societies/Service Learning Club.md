@@ -52,20 +52,36 @@ CNY VIA Celebrations @ Tembusu Senior Activity Centre -  Together we celebrate i
 ![](/images/teachers%20day.jpg)
 
 <img src="/images/81.jpg" 
-     style="width:90%">
+     style="width:80%">
 Despite the challenges of Covid, we still manage to meet up for CCA… virtually.
 
 
 <img src="/images/91.jpg" 
-     style="width:90%">
+     style="width:80%">
 
+<div>
+<div style="float: left">
 <img src="/images/10.jpg" 
      style="width:50%">
+</div>
+<div>
 National Day tag designed by one of our talented SLC member!
+</div>
+</div>
 
+<p> </p>
+
+<div>
+<div style="float: left">
 <img src="/images/13%20(1).jpg" 
      style="width:50%">
+</div>
+<div>
 Money counting in progress by our office staff! Our school has raised funds for the National Kidney Foundation (NKF). 
+</div>
+</div>
+
+<p> </p>
 
 <img src="/images/111.jpg" 
      style="width:50%">
