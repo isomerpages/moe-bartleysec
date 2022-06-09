@@ -47,15 +47,11 @@ CNY VIA Celebrations @ Tembusu Senior Activity Centre -  Together we celebrate i
 
 ![](/images/teachers%20day.jpg)
 
-<div>
-<div style="float: left">
 <img src="/images/81.jpg" 
-     style="width:40%">
-</div>
-<div>
+     style="width:90%">
 Despite the challenges of Covid, we still manage to meet up for CCA… virtually.
-</div>
-	
+
+
 <img src="/images/91.jpg" 
      style="width:90%">
 
@@ -67,7 +63,8 @@ National Day tag designed by one of our talented SLC member!
      style="width:70%">
 Money counting in progress by our office staff! Our school has raised funds for the National Kidney Foundation (NKF). 
 
-![](/images/111.jpg)
+<img src="/images/111.jpg" 
+     style="width:70%">
 
 ![](/images/12%20(1).jpg)
 SLC students received Certificate of Active Participation from National Organ Transplant Unit (NOTU) Singapore
