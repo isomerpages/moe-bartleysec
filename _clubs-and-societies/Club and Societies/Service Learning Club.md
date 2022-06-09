@@ -54,7 +54,6 @@ CNY VIA Celebrations @ Tembusu Senior Activity Centre -  Together we celebrate i
 </div>
 <div>
 Despite the challenges of Covid, we still manage to meet up for CCA… virtually.
-<div>
 </div>
 	
 <img src="/images/91.jpg" 
