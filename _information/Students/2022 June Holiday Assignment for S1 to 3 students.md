@@ -23,3 +23,10 @@ Secondary 2
 | [2E1](https://docs.google.com/document/d/1vDGLTXPB1TnoHtjJRdZflbcekk9-nZTkmXPwFKpTFDM/edit) | [2E2](https://docs.google.com/document/d/1HiuyCc_VfegpKXLeHY6EctcZ8zWjmC48n39y6T3WBSQ/edit) | [2E3](https://docs.google.com/document/d/1zsPWMia7auc8sqzYMv8WaazUsLUmC-CkodFVtVZWteE/edit) | [2E4](https://docs.google.com/document/d/1x-olwun42sXmrNJT7EpN4mDUVWJddtRPr1ufHmMLBlQ/edit) |
 | [2N1](https://docs.google.com/document/d/1t685Gpbu984PcKWU9qyQO6gRtUYSbVXzPaoxcZzBxbc/edit) | [2N2](https://docs.google.com/document/d/1qWkAvRz0jTrp-LW-ubVbDi6zev2TGpyrANCVoD5eNWY/edit) | [2T1](https://docs.google.com/document/d/1T-LmkgX0DjKjq3HTzpmVXIijU1ma5nxqqNnHUcZ3bzg/edit) | [2T2](https://docs.google.com/document/d/1vlX7EhzNKkOGHjMHX2m_WZ_CxNfC-cccRibBSY_Y1CY/edit) |
 | | | | |
+
+Secondary 3
+|      |      |      |      |      |
+|----|------|------|------|------|
+|  3E1 | 3E2  | 3E3  | 3E4  | 3E5  |
+|  3N1 |  3N2 |  3T1 |  3T2 |      |
+| | | | | |
