@@ -9,11 +9,12 @@ description: ""
      style="width:70%">
 </div>
 <div>
-	
+<font size="+1">
 Mr Liew Wing Kong Ronald <br>
 	<strong>Appointment:</strong> Chairman <br>
 	<strong>Career Background:</strong> <br>
-Chairman
-QCD Group of Companies
+Chairman <br>
+	QCD Group of Companies </font>
 </div>
 </div>
+
