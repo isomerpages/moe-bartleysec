@@ -66,8 +66,6 @@ Despite the challenges of Covid, we still manage to meet up for CCA… virtually
 </div>
 <div>
 National Day tag designed by one of our talented SLC member!
-</div>
-</div>
 
 <p> </p>
 
