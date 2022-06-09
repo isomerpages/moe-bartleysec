@@ -18,3 +18,10 @@ To remain relevant in the new millennia, the OBA has undertaken a name change in
 * Fund Raising Golf Event in 2006 held at the Laguna National Golf and Country Club
 * Movie Night for members, staff, parents and students
 * Charity Drive for Nepal Earthquake Relief Fund.
+
+<img src="/images/Alumni%20@%20BA%20Dinner%202019.jpeg" 
+     style="width:70%">
+
+![](/images/Current%20Bartleyans%20@%20BA%20Dinner%202019.jpeg)
+
+![](/images/Strong%20friendship%20among%20BA%20@%20BA%20Dinner%202019.jpeg)
