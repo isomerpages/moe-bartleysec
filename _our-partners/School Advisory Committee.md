@@ -3,8 +3,6 @@ title: School Advisory Committee
 permalink: /our-partners/school-advisory-committee
 description: ""
 ---
-![](/images/1%20(5).jpg)
-
 <div>
 <div style="float: left">
 <img src="/images/1%20(5).jpg" 
@@ -19,5 +17,3 @@ Chairman
 QCD Group of Companies
 </div>
 </div>
-
-
