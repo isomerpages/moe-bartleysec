@@ -25,3 +25,16 @@ To remain relevant in the new millennia, the OBA has undertaken a name change in
 ![](/images/Current%20Bartleyans%20@%20BA%20Dinner%202019.jpeg)
 
 ![](/images/Strong%20friendship%20among%20BA%20@%20BA%20Dinner%202019.jpeg)
+
+**Activities in the Pipeline** 
+* Photography Course for Members, Staff, current Students & Parents
+* Basic Fishing Course & BA Fishing Competition (Pasir Ris Pond)
+* Basic Sports Course – Tennis
+* Sports Championship – 7 a side Soccer Tournament
+* Sports Tour – Golf Tour
+* Sports Tour – Trip to UK to watch BPL Match in March 2020 between Tottenham Hotspurs vs Manchester United & Everton vs Liverpool.
+* Eco Tourism Tour to Colmar Tropicale & Awana Genting, Malaysia
+* Golf Charity Drive – Laguna National Golf & Country Club
+
+
+For more information on the Bartley Alumni, you can visit the following website:  [www.bartleyalumni.org](www.bartleyalumni.org)
