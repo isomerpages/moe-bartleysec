@@ -18,7 +18,7 @@ Chairman <br>
 </div>
 </div>
 
-<p> </p>
+<p> 
 
 <div>
 <div style="float: left">
