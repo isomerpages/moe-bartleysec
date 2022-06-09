@@ -2,8 +2,8 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Club and Societies/CurioSTÉ Club (NEW).md
       - Club and Societies/.keep
       - Club and Societies/Entrepreneur Club.md
       - Club and Societies/MERIT Club.md
       - Club and Societies/Service Learning Club.md
+      - Club and Societies/CurioSTÉ Club (NEW).md
