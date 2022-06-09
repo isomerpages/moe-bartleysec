@@ -19,3 +19,12 @@ CurioSTÉ Club is an extension of the broad-based [ALP Curriculum](https://moe-b
 
 The holistic development of the students in the CCA is summarised below:
 ![](/images/CurioSTE%20Club%20Holistic%20Development%20Plan.jpg)
+
+**Achievement** <br>
+Singapore Youth Science Fair 2021 - Commendation
+
+![](/images/CurioSTE%20Club_CCA%20Session.jpg)
+
+![](/images/CurioSTE%20Club_%20Learning%20Journey%20to%20Spice%20Garden%202.jpg)
+
+![](/images/CurioSTE%20Club_Learning%20Journey%20to%20Spice%20Garden.jpg)
