@@ -27,6 +27,6 @@ Secondary 2
 Secondary 3
 |      |      |      |      |      |
 |----|------|------|------|------|
-|  3E1 | 3E2  | 3E3  | 3E4  | 3E5  |
-|  3N1 |  3N2 |  3T1 |  3T2 |      |
+| [3E1](https://docs.google.com/document/d/13Xk0nDF5QWwvZG6ZC015j3u1mD8Xxw87vEivr_9RcJc/edit) | [3E2](https://docs.google.com/document/d/1kyQAohlaYzfZCo7hBtDPQyclzu7MK8mZr0d-OHkceoM/edit) | [3E3](https://docs.google.com/document/d/1lRPNGgu9Xmy_Se401TyIZMtCHAyv_5vFzp6_hVW7qqk/edit) | [3E4](https://docs.google.com/document/d/1jGfRPqN4_TtpIqKTVaO-imoMXVqK2YFXQ_l43tpnx-U/edit) | [3E5](https://docs.google.com/document/d/1l30wVrbyKe5dJ3wQuoUytFX6IlS06ysNSuZ3V8u-B-4/edit) |
+| [3N1](https://docs.google.com/document/d/1OHWHboNcxQdyRLyWVktMxZVhLzQ9Okm_B95QRNlH9Ho/edit) | [3N2](https://docs.google.com/document/d/1zRq2N9aUG_Oh0OKewID5dxMTAJKQAdeEl1B1HW1wprI/edit) | [3T1](https://docs.google.com/document/d/142euE2rUHdF2lO0PFAJy-vjSiMzYKFxwMrXzmUuPptI/edit) | [3T2](https://docs.google.com/document/d/1wX6_gGDFtJfBDAfMJhWEaEtWqlKw3dQw7uLhqu5DGe4/edit) |      |
 | | | | | |
