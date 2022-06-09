@@ -66,8 +66,8 @@ Despite the challenges of Covid, we still manage to meet up for CCA… virtually
 </div>
 <div>
 National Day tag designed by one of our talented SLC member!
-
-<p> </p>
+</div>
+</div>
 
 <div>
 <div style="float: left">
@@ -76,9 +76,9 @@ National Day tag designed by one of our talented SLC member!
 </div>
 <div>
 Money counting in progress by our office staff! Our school has raised funds for the National Kidney Foundation (NKF). 
-
-<p> </p>
-
+</div>
+</div>
+	
 <img src="/images/111.jpg" 
      style="width:50%">
 
