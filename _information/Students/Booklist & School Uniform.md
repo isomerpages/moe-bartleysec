@@ -80,7 +80,7 @@ Books: 4N1 Classroom      Uniform: 4T2 Classroom
 | 30.12.2021 | SEC 1 AND 5 |  | 0900 HRS - 1600 HRS |
 | | | | |
 
-**Recommended Quality:** 
+**Recommended Quality:** <br>
 | Shirt / Blouse | 1 piece |
 |---|---|
 | Skirt / Bermudas | 2 pieces |
