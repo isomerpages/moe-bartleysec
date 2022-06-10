@@ -46,3 +46,45 @@ The physical purchase of books and uniform in the school bookstore is subject to
 * [Secondary 3](/files/Secondary%203%20Booklist.pdf)
 * [Secondary 4](/files/Secondary%204%20Booklist.pdf)
 * [Secondary 5](/files/Secondary%205%20Booklist.pdf)
+
+**Bookstore Venues** <br>
+Books: 4N1 Classroom      Uniform: 4T2 Classroom
+
+| DATE | FAS COLLECTION | SALE | TIME |
+|---|---|---|---|
+| 22.11.2021 | SEC 2 |   | 0900 HRS - 1600 HRS |
+| 23.11.2021 | SEC 2 |   | 0900 HRS - 1600 HRS |
+| 24.11.2021 | SEC 2 |   | 0900 HRS - 1600 HRS |
+| 25.11.2021 |   | SEC 2 | 0900 HRS - 1600 HRS |
+| 26.11.2021 |   | SEC 2 | 0900 HRS - 1600 HRS |
+| 29.11.2021 |   | SEC 2 | 0900 HRS - 1600 HRS |
+| 30.11.2021 |   | SEC 2 | 0900 HRS - 1600 HRS |
+| 01.12.2021 | SEC 4 |   | 0900 HRS - 1600 HRS |
+| 02.12.2021 | SEC 4 |   | 0900 HRS - 1600 HRS |
+| 03.12.2021 | SEC4 |   | 0900 HRS - 1600 HRS |
+| 06.12.2021 |   | SEC4 | 0900 HRS - 1600 HRS |
+| 07.12.2021 |   | SEC4 | 0900 HRS - 1600 HRS |
+| 08.12.2021 |   | SEC4 | 0900 HRS - 1600 HRS |
+| 09.12.2021 | SEC 3 |   | 0900 HRS - 1600 HRS |
+| 10.12.2021 | SEC 3 |   | 0900 HRS - 1600 HRS |
+| 13.12.2021 | SEC 3 |   | 0900 HRS - 1600 HRS |
+| 14.12.2021 |  | SEC 3 | 0900 HRS - 1600 HRS |
+| 15.12.2021 |   | SEC 3 | 0900 HRS - 1600 HRS |
+| 16.12.2021 |   | SEC 3 | 0900 HRS - 1600 HRS |
+| 17.12.2021 |   | SEC 3 | 0900 HRS - 1600 HRS |
+| 22.12.2021 | SEC 1 |  | 0900 HRS – 1600 HRS |
+| 23.12.2021 | SEC 1 |  | 0800 HRS - 1600 HRS |
+| 27.12.2021 | SEC 1 |  | 0900 HRS - 1600 HRS |
+| 28.12.2021 | SEC 1 AND 5 |  | 0900 HRS - 1600 HRS |
+| 29.12.2021 | SEC 1 AND 5 |  | 0900 HRS - 1600 HRS |
+| 30.12.2021 | SEC 1 AND 5 |  | 0900 HRS - 1600 HRS |
+| | | | |
+
+**Recommended Quality:** 
+| Shirt / Blouse | 1 piece |
+|---|---|
+| Skirt / Bermudas | 2 pieces |
+| Polo T-Shirt | 2 pieces |
+| PE T-Shirt | 2 pieces |
+| PE Shorts | 2 pieces |
+
