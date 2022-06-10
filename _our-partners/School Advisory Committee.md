@@ -16,7 +16,7 @@ Chairman <br> QCD Group of Companies
      style="width:20%">
 	<center>Dr Philip S.H. Soon, JP. <br> <strong> (SSMS. DPMP. SMS. AMS. PJK. DBA) </strong> <br>	<strong>Appointment:</strong> Vice-Chairman <br>
 	<strong>Career Background:</strong> <br>
-Private Equity Investor, Honorary Advisor & Chairman,  Singapore-Indonesia Business & Cultural Council Honorary Advisor, China One Belt One Road (Singapore) Chamber  President, Singapore Production Management Association
+Private Equity Investor, Honorary Advisor <br> & Chairman,  Singapore-Indonesia Business & Cultural Council Honorary Advisor, China One Belt One Road (Singapore) <br> Chamber  President, Singapore Production Management Association
 
 <p> </p>		
 		
@@ -42,3 +42,8 @@ Private Equity Investor, Honorary Advisor & Chairman,  Singapore-Indonesia Busi
 		 style="width:20%">
 		<center> Mr Foo Hee Jug <br> <strong> Appointment: </strong> Member <br> <strong>Career Background: </strong> <br> Chief Executive Officer Ng Teng Fong General Hospital and Deputy Chief Executive National University Health System
 			
+<p> </p>
+			
+<img src="/images/8%20(1).jpg"
+		 style="width:20%">
+		<center> Mr Ong Shun Ping Dylan <br> <strong> Appointment: </strong> Member <br> <strong>Career Background: </strong> <br> Restaurateur and Chef <br> The Masses – A place for modern, <br> French-inspired contemporary cuisine
