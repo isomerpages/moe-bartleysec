@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Students/Booklist & School Uniform.md
       - Students/.keep
       - Students/2022 June Holiday Assignment for S1 to 3 students.md
       - Students/June Intensive Timetable for 4E5N, 4NA and 4NT students (31st
@@ -14,3 +13,4 @@ collections:
       - Students/Announcements.md
       - Students/School Calendar.md
       - Students/JIE Briefing Slides.md
+      - Students/Booklist & School Uniform.md
