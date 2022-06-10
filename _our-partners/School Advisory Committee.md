@@ -9,3 +9,8 @@ description: ""
 	<strong>Appointment:</strong> Chairman <br>
 	<strong>Career Background:</strong> <br>
 Chairman <br> QCD Group of Companies
+	
+<img src="/images/2%20(5).jpg" 
+     style="width:30%">
+<center>Dr Philip S.H. Soon, JP. <br>
+	<strong>(SSMS. DPMP. SMS. AMS. PJK. DBA)</strong> <br> <strong>Appointment:</stong> Vice-Chairman <br> <strong>Career Background:</strong> <br> Private Equity Investor, Honorary Advisor & Chairman,  Singapore-Indonesia Business & Cultural Council Honorary Advisor, China One Belt One Road (Singapore) Chamber  President, Singapore Production Management Association	
