@@ -85,3 +85,17 @@ Parent/Guardian of child/ward who is in the Normal (Academic) or Normal (Technic
  **8.1.** Click [**here**](/files/Health%20%20Dental%20Services.pdf) for details by Health Promotion Board.
 
  **8.2.** Please provide a digital consent for your child’s/ward’s school-based health and dental services through an online link found in the attached document.
+ 
+**9. Appeal** <br>
+ **9.1.** Medical Appeal
+ * For matters relating to Medical Appeal for transfer out, please contact the school at **9618 9313** on **Thursday, 23 December 2021 from 8.30 a.m.**
+* All documents for Medical Appeal must be submitted to the school by **Thursday, 23 December 2021, 12.00 p.m.**
+
+**9.2.** Non-Medical Appeal <br>
+* To make a Non-Medical Appeal for transfer in, please click [**here**](https://go.gov.sg/2022sec1appeal) to fill in and submit this form.
+* All Non-Medical Appeals must be submitted by **Tuesday, 28 December 2021, 12 p.m.**
+
+ **10. Q&A** <br>
+ **10.1.** Parent/Guardian may click [**here**](https://go.gov.sg/2022sec1qna) to make an enquiry. Alternatively you may call the school for urgent matters.  
+
+ **10.2.** Our staff-in-charge will get back to you within 3 working days.
