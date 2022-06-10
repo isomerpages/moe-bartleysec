@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Teachers/Useful Links.md
       - Teachers/.keep
       - Students/.keep
       - Students/2022 June Holiday Assignment for S1 to 3 students.md
