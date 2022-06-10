@@ -4,9 +4,8 @@ permalink: /our-partners/school-advisory-committee
 description: ""
 ---
 <img src="/images/1%20(5).jpg" 
-     style="width:65%">
+     style="width:40%">
 <center>Mr Liew Wing Kong Ronald <br>
 	<strong>Appointment:</strong> Chairman <br>
 	<strong>Career Background:</strong> <br>
 Chairman <br> QCD Group of Companies
-	
