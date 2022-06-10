@@ -24,3 +24,10 @@ Please click on the following links to view the pre-recordings and slides by our
 * Principal's Opening Address - [Video](https://bartleysec.moe.edu.sg/qql/slot/u164/S1%20Registration_For%202022%20Cohort/Video%20-%20Principals%20Opening%20Address.mp4) / [Slides](/files/Slide%20-%20Principals%20Opening%20Address.pdf)
 * Administrative Information - [Video](https://bartleysec.moe.edu.sg/qql/slot/u164/S1%20Registration_For%202022%20Cohort/Video%20-%20Administrative%20Information.mp4) / [Slides](/files/Slide%20-%20Administrative%20Information.pdf)
 * Parent Talk - [Video](https://bartleysec.moe.edu.sg/qql/slot/u164/S1%20Registration_For%202022%20Cohort/Video%20-%20Parent%20Talk.mp4) / [Slides](/files/Slide%20-%20Parent%20Talk.pdf)
+
+**3. Administrative Information for Students** <br>
+**3.1.** We have prepared an information sheet for Secondary 1 students to help them prepare for the start of a new school year. Students are to read and familiarise themselves with the details.
+
+**3.2.** Information covered in this information sheet has also been elaborated in the pre-recording.
+
+**3.3.** Please click [**here**](/files/2022%20Secondary%201%20Information%20Sheet.pdf) to download the Information Sheet for Secondary 1 Students.
