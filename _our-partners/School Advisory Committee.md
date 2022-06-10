@@ -20,7 +20,7 @@ Chairman <br>
 
 <div>
 <div style="float: left">
-<img src="/images/1%20(5).jpg" 
+<img src="c" 
      style="width:65%">
 </div>
 <div>
@@ -32,3 +32,24 @@ Chairman <br>
 	QCD Group of Companies </font>
 </div>
 </div>
+	
+<img src="/images/1%20(5).jpg" 
+     style="width:65%">
+<center>Mr Liew Wing Kong Ronald
+	<strong>Appointment:</strong> Chairman <br>
+	<strong>Career Background:</strong> <br>
+Chairman <br>
+<strong>Appointment:</strong> Chairman <br>
+	<strong>Career Background:</strong> <br>
+Chairman <br>
+	
+<img src="/images/1%20(5).jpg" 
+     style="width:65%">
+<center>Mr Liew Wing Kong Ronald
+	<strong>Appointment:</strong> Chairman <br>
+	<strong>Career Background:</strong> <br>
+Chairman <br>
+<strong>Appointment:</strong> Chairman <br>
+	<strong>Career Background:</strong> <br>
+Chairman <br>
+	
