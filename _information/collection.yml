@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Parents/Announcements.md
       - Parents/.keep
       - Students/.keep
       - Students/2022 June Holiday Assignment for S1 to 3 students.md
