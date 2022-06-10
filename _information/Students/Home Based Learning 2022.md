@@ -69,3 +69,19 @@ Dear Students
 Please click on the link below to access the briefing slides on FHBL.
 
 [Briefing slides for students.](/files/HBL%20communication%20for%20students%2018%20May.pdf)
+
+--------------------------------------
+##### Sec 3 Foundation Programme [1 to 5 Nov 2021]
+
+**Timetable & Instructions**
+
+Dear Students,  
+  
+Please click on your class to access the instructions for Foundation Programme.
+
+|  |  |  |  |
+|:---:|---|---|---|
+| 3E1 | 3E2 | 3E3 | 3E4 |
+| 3N1 | 3N2 | 3N3 |  |
+|  3T1 | 3T2  |   |  |
+| | | | |
