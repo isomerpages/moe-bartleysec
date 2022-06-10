@@ -4,11 +4,11 @@ permalink: /information/parents/group-personal-accident-insurance-for-students
 description: ""
 third_nav_title: Parents
 ---
-1. The updated 2022 product factsheet for the NTUC Income Group Personal Accident (GPA) Insurance Plan for Students is attached for your reference.
+1) The updated 2022 product factsheet for the NTUC Income Group Personal Accident (GPA) Insurance Plan for Students is attached for your reference.
 
 [GPA Product Fact Sheet 2022.pdf](/files/GPA%20Product%20Fact%20Sheet%202022.pdf)
 
-2. With effect from 2022, all student accident insurance claims submission are to be submitted electronically.  Parents/students are to submit their claims online and check the claims status through the online portal. Schools are required to verify the claims information and access the claims records through the online portal.  A user guide for parent/student is given for reference.
+2) With effect from 2022, all student accident insurance claims submission are to be submitted electronically.  Parents/students are to submit their claims online and check the claims status through the online portal. Schools are required to verify the claims information and access the claims records through the online portal.  A user guide for parent/student is given for reference.
 
 Please note that: <br>
 a) Your claims should be submitted within 60 days from the date of insured incident. <br>
