@@ -30,3 +30,11 @@ Private Equity Investor, Honorary Advisor & Chairman,  Singapore-Indonesia Busi
 		 style="width:20%">
 		<center> Ms Britta Seet Ying Ling <br> <strong> Appointment: </strong> Hononary Secretary <br> <strong>Career Background: </strong> <br> Principal <br> Bartley Secondary School
 			
+<p> </p> 
+			
+<img src="/images/5%20(2).jpg"
+		 style="width:20%">
+		<center> Dr Chiang Hui Ling Michelle <br> <strong> Appointment: </strong> Member <br> <strong>Career Background: </strong> <br> Assistant Professor School of Humanities <br> Nanyang Technological University
+			
+
+			
