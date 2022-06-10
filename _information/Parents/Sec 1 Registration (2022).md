@@ -31,3 +31,18 @@ Please click on the following links to view the pre-recordings and slides by our
 **3.2.** Information covered in this information sheet has also been elaborated in the pre-recording.
 
 **3.3.** Please click [**here**](/files/2022%20Secondary%201%20Information%20Sheet.pdf) to download the Information Sheet for Secondary 1 Students.
+
+**4. Book and Uniform Purchase** <br>
+**4.1.** Parents/Guardians are highly encouraged to purchase their child’s/ward’s books and uniform **online** by ~~Thursday, 23 December 2021~~ **Saturday, 25 December 2021** so that orders can be delivered to your residence before the start of the new school term (online ordering for self-collection in school is not available).
+
+Alternatively, if you prefer to walk-in to school for purchase, please note that **only one** parent/guardian is allowed to accompany the child/ward with SMMs in place.
+
+**4.2.** For parent/guardian who has applied for **MOE Financial Assistance Scheme (FAS)** for your child/ward, you are required to bring along the letter of approval for FAS to collect his/her books and uniform **in person** (online purchase is **not** allowed).
+
+**4.3.** Please note the required attire for students on a daily basis.
+
+| Day | Attire |
+|:---:|:---:|
+| Monday | Girls: School blouse with school skirt<br>Boys: School shirt with school bermudas |
+| Tuesday to Friday | Girls: School Polo-Tee with school skirt<br>Boys: School Polo-Tee with school bermudas |
+| | | 
