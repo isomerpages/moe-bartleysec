@@ -80,8 +80,8 @@ Dear Students,
 Please click on your class to access the instructions for Foundation Programme.
 
 |  |  |  |  |
-|:---:|---|---|---|
-| 3E1 | 3E2 | 3E3 | 3E4 |
-| 3N1 | 3N2 | 3N3 |  |
-|  3T1 | 3T2  |   |  |
+|:-----------:|:---:|:---:|:---:|
+| [3E1](https://docs.google.com/document/d/1trBnvA5emoLWxu_BXjqzFIZAPZaaX7Xi/edit) | [3E2](https://docs.google.com/document/d/1mB7t9GvtLprRRdy5KsJdq1JW-av3a1Bv/edit) | [3E3](https://docs.google.com/document/d/1Fv2borkNqncJHCIlShA1M9NauHqh0Qln/edit) | [3E4](https://docs.google.com/document/d/1A83MDKJQ0rZBvABhFWMZF_MYGwvYlh8I/edit) |
+| [3N1](https://docs.google.com/document/d/1lnliAdygSDrdD9GviQl-eVcZKFE_WDnN/edit) | [3N2](https://docs.google.com/document/d/1hwhBKnOowpMHBDLP1HPt_JN1_c6lCnOE/edit) | [3N3](https://docs.google.com/document/d/1cuQO41c--H2jksteigN6hkIXN0511wz2/edit) |  |
+| [3T1](https://docs.google.com/document/d/1jxfZdmPiPEQPW1YHvizNoN6F-kQDsYQJ/edit) | [3T2](https://docs.google.com/document/d/11GNsU2bZY1mDwC4QyZO8R4saqcvkOrGK/edit)  |   |  |
 | | | | |
