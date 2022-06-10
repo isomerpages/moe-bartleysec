@@ -2,8 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Parents/Announcements.md
-      - Parents/.keep
       - Students/.keep
       - Students/2022 June Holiday Assignment for S1 to 3 students.md
       - Students/June Intensive Timetable for 4E5N, 4NA and 4NT students (31st
@@ -19,3 +17,5 @@ collections:
       - Students/Counselling Services.md
       - Students/School rules & regulations.md
       - Students/Useful links.md
+      - Parents/.keep
+      - Parents/Announcements.md
