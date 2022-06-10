@@ -32,12 +32,7 @@ Below are some pointers to take note during live lessons.
 -------------------------
 ##### Home Based Learning Instructions
 
-Dear Students,&nbsp;  
-
-<img src="/images/happy.png"> Please click on your class to access HBL instructions for 25 March 2022.  
-  
-Remember to plan your day so that you can make the most out of your learning!&nbsp;  
-  
-A gentle reminder that there is a&nbsp;class check-in from 1030 to 1045, Look out for the set of instructions from your Form Teachers in the HBL document!
-
-
+Dear Students,  
+* Please click on your class to access HBL instructions for 25 March 2022.  
+* Remember to plan your day so that you can make the most out of your learning! 
+* A gentle reminder that there is **a class check-in from 1030 to 1045**, Look out for the set of instructions from your Form Teachers in the HBL document!
