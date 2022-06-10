@@ -70,3 +70,18 @@ For more information, please visit: <br>
 **5.2.** For Express or Normal(Academic) students who want to offer MTL ‘B’, the following criteria applies.
 * AL 7 to AL 8 in standard MTL **or**
 * AL B to AL C in foundation MTL
+
+**6. Subject-based Banding (SBB)** <br>
+Parent/Guardian of child/ward who is in the Normal (Academic) or Normal (Technical) streams and are offered Subject-based Banding will be informed via Parents Gateway/phone using details provided in the registration form.
+  
+**7. Parent Talk 2022 – From Tweens to Teens** <br>
+**7.1.** Click [**here**](/files/Parent%20Talk.pdf) for information on the talk, speaker’s profile and registration.
+
+**7.2.** Information has also been elaborated in the pre-recording.
+
+**7.3.** Registration will close on **Friday, 31 December 2021**.
+
+ **8. Enrolment for Health & Dental Services** <br>
+ **8.1.** Click [**here**](/files/Health%20%20Dental%20Services.pdf) for details by Health Promotion Board.
+
+ **8.2.** Please provide a digital consent for your child’s/ward’s school-based health and dental services through an online link found in the attached document.
