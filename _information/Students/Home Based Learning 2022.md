@@ -41,4 +41,4 @@ Dear Students,
 | Secondary 1 |     |     |     |     |
 |:-----------:|:---:|:---:|:---:|:---:|
 | [1E1](https://docs.google.com/document/d/17-bg7RcHWwtxZGt1EP1c31wdDEoswm_qbxIBeAw7k7g/edit) | [1E2](https://docs.google.com/document/d/1GBioB3FhsNUmMJUwfPAyUD-naAKZlBlPUIb3n-_KUYU/edit) | [1E3](https://docs.google.com/document/d/1zWcUKKi2I3p2wL2WqdfB4YAy6q4GVSzo3YbmVE0upgY/edit) | [1E4](https://docs.google.com/document/d/1v21irUM--LWXNVM5blILBmKf4LuMMZ0DXB_pDAOt_68/edit) | [1E5](https://docs.google.com/document/d/1pE4766XCUCBMeCZdOgqBljdo1VD_7Cb8paSHv4G1cLY/edit) |
-|     1N1     | 1N2 | 1T1 | 1T2 |     |
+| [1N1](https://docs.google.com/document/d/1QcHWgowveIdQYYLAtKmL8Cf5J5dcXdKO832PH35v4Qk/edit) | [1N2](https://docs.google.com/document/d/1487XUw_dRcmYIcUo_jiF3GcUKk-SAOz7cJTIpHcKwmY/edit) | [1T1](https://docs.google.com/document/d/1eljAqc-MeT8CLslfNUpcQGSD9y72mO6fj77zUySSjPg/edit) | [1T2](https://docs.google.com/document/d/1fteSBerFvZxGGNODMI-dzitagRwL0jD0GS2rQ28aGsg/edit) |     |
