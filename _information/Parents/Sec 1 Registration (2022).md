@@ -30,7 +30,7 @@ Please click on the following links to view the pre-recordings and slides by our
 
 **3.2.** Information covered in this information sheet has also been elaborated in the pre-recording.
 
-**3.3.** Please click [**here**](/files/2022%20Secondary%201%20Information%20Sheet.pdf) to download the Information Sheet for Secondary 1 Students.
+**3.3.** Please click [here](/files/2022%20Secondary%201%20Information%20Sheet.pdf) to download the Information Sheet for Secondary 1 Students.
 
 **4. Book and Uniform Purchase** <br>
 **4.1.** Parents/Guardians are highly encouraged to purchase their child’s/ward’s books and uniform **online** by ~~Thursday, 23 December 2021~~ **Saturday, 25 December 2021** so that orders can be delivered to your residence before the start of the new school term (online ordering for self-collection in school is not available).
@@ -75,14 +75,14 @@ For more information, please visit: <br>
 Parent/Guardian of child/ward who is in the Normal (Academic) or Normal (Technical) streams and are offered Subject-based Banding will be informed via Parents Gateway/phone using details provided in the registration form.
   
 **7. Parent Talk 2022 – From Tweens to Teens** <br>
-**7.1.** Click [**here**](/files/Parent%20Talk.pdf) for information on the talk, speaker’s profile and registration.
+**7.1.** Click [here](/files/Parent%20Talk.pdf) for information on the talk, speaker’s profile and registration.
 
 **7.2.** Information has also been elaborated in the pre-recording.
 
 **7.3.** Registration will close on **Friday, 31 December 2021**.
 
  **8. Enrolment for Health & Dental Services** <br>
- **8.1.** Click [**here**](/files/Health%20%20Dental%20Services.pdf) for details by Health Promotion Board.
+ **8.1.** Click [here](/files/Health%20%20Dental%20Services.pdf) for details by Health Promotion Board.
 
  **8.2.** Please provide a digital consent for your child’s/ward’s school-based health and dental services through an online link found in the attached document.
  
@@ -92,10 +92,10 @@ Parent/Guardian of child/ward who is in the Normal (Academic) or Normal (Technic
 * All documents for Medical Appeal must be submitted to the school by **Thursday, 23 December 2021, 12.00 p.m.**
 
 **9.2.** Non-Medical Appeal <br>
-* To make a Non-Medical Appeal for transfer in, please click [**here**](https://go.gov.sg/2022sec1appeal) to fill in and submit this form.
+* To make a Non-Medical Appeal for transfer in, please click [here](https://go.gov.sg/2022sec1appeal) to fill in and submit this form.
 * All Non-Medical Appeals must be submitted by **Tuesday, 28 December 2021, 12 p.m.**
 
  **10. Q&A** <br>
- **10.1.** Parent/Guardian may click [**here**](https://go.gov.sg/2022sec1qna) to make an enquiry. Alternatively you may call the school for urgent matters.  
+ **10.1.** Parent/Guardian may click [here](https://go.gov.sg/2022sec1qna) to make an enquiry. Alternatively you may call the school for urgent matters.  
 
  **10.2.** Our staff-in-charge will get back to you within 3 working days.
