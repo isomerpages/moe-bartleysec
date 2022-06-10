@@ -60,3 +60,12 @@ Dear Students,
 |:-----------:|:---:|:---:|:---:|:---:|
 | [4E1](https://docs.google.com/document/d/18wJroulC6kBOm6DkfiTHykV6bcMpFAQCCEx5Zg3_70c/edit) | [4E2](https://docs.google.com/document/d/1kesOWjNvP5KtrKnMMfW_uU5P7fjMvisOfSmxRhi1VK8/edit) | [4E3](https://docs.google.com/document/d/1hSSOWMerrEq8V7k0gQLYM3ZGSK6EEApcSwzCMosVkVU/edit) | [4E4](https://docs.google.com/document/d/1K0JX9Ty1oRAKg5zXrHfAHrtr9bLw78KJQQk7NoZpYSQ/edit) | [5N1](https://docs.google.com/document/d/1UEY21B9NPJObecY72fGaHfeKzcP4oiHhU9y0s4WEc4g/edit) |
 | [4N1](https://docs.google.com/document/d/1n6-N_qiCVXwjh9mN7va455TOJZeAT01b_FJOGoXZkpI/edit) | [4N2](https://docs.google.com/document/d/1gtN6Fod3ZWiD6ccT5jnl3aPjsLRX3kP9Jn110cG2AXg/edit) | [4T1](https://docs.google.com/document/d/1V0n-yXXhMb6ZFJOvYrPkpDsBcEtElSBkE5oPMS-HSpI/edit) | [4T2](https://docs.google.com/document/d/1e63UYSMT4e5Svyvnno-LyuB4p7XH8RQsxMZyT2Y9mi8/edit) |  |
+| | | | | | 
+
+##### Briefing for students on Full Home-Based Learning
+
+Dear Students  
+  
+Please click on the link below to access the briefing slides on FHBL.
+
+[Briefing slides for students.](/files/HBL%20communication%20for%20students%2018%20May.pdf)
