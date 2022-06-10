@@ -2,8 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Teachers/Useful Links.md
-      - Teachers/.keep
       - Students/.keep
       - Students/2022 June Holiday Assignment for S1 to 3 students.md
       - Students/June Intensive Timetable for 4E5N, 4NA and 4NT students (31st
@@ -39,3 +37,5 @@ collections:
       - Parents/E article for Parents.md
       - Parents/Spontaneous Writing.md
       - Parents/Group Personal Accident Insurance for Students.md
+      - Teachers/.keep
+      - Teachers/Useful Links.md
