@@ -40,7 +40,7 @@ Private Equity Investor, Honorary Advisor <br> & Chairman,  Singapore-Indonesia
 			
 <img src="/images/6%20(2).jpg"
 		 style="width:20%">
-		<center> Mr Foo Hee Jug <br> <strong> Appointment: </strong> Member <br> <strong>Career Background: </strong> <br> Chief Executive Officer Ng Teng Fong General Hospital and Deputy Chief Executive National University Health System
+		<center> Mr Foo Hee Jug <br> <strong> Appointment: </strong> Member <br> <strong>Career Background: </strong> <br> Chief Executive Officer Ng Teng Fong General Hospital and <br> Deputy Chief Executive National University Health System
 			
 <p> </p>
 			
