@@ -50,4 +50,7 @@ Dear Students,
 | [2N1](https://docs.google.com/document/d/1YJKUFXVTKA7IY5S6DenRI_meYd_M4BAJHhMybM2-xCI/edit) | [2N2](https://docs.google.com/document/d/1e3uM7mi-5lheyNX-WChBY35U6XiWd-3WJE2ds3xxSyU/edit) | [2T1](https://docs.google.com/document/d/1c6gpno2La3QWnA9WHFhRCmteJ4TPHFj8f8tyy5zYEpI/edit) | [2T2](https://docs.google.com/document/d/1bTOd9bANm9LJIrV7IVZlb6sA9Ljh5OarCr6O-FKuOOg/edit) |
 | | | | |
 
-
+| Secondary 3 |     |     |     |     |
+|:-----------:|:---:|:---:|:---:|:---:|
+|     3E1     | 3E2 | 3E3 | 3E4 | 3E5 |
+|     3N1     | 3N2 | 3T1 | 3T2 |     |
