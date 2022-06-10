@@ -18,4 +18,4 @@ Private Equity Investor, Honorary Advisor & Chairman,  Singapore-Indonesia Busi
 		
 <img src="/images/3%20(3).jpg"
 		 style="width:20%">
-		<center> Ms Huang Shao-Ning <br> <strong> Appointment: </strong> Hononary Treasurer <br> <strong>Career Background: </strong> Chief Angel and co-Founder <br> AngelCentral
+		<center> Ms Huang Shao-Ning <br> <strong> Appointment: </strong> Hononary Treasurer <br> <strong>Career Background: </strong> <br> Chief Angel and co-Founder <br> AngelCentral
