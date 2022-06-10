@@ -49,4 +49,24 @@ Alternatively, if you prefer to walk-in to school for purchase, please note that
 
 **Students are allowed to wear PE attire (PE T-Shirt & PE shorts) to school on days with PE lessons to avoid intermingling while changing in the toilets in line with Safe Management Measures (SMM).*
 
-**4.4.**    The following is the opening hours of our school bookshop in December 2021.
+**4.4.** The following is the opening hours of our school bookshop in December 2021.
+
+| Date | Day | Time |
+|:---:|:---:|:---:|
+| 22 December 2021 | Wednesday | 0900 – 1600 hrs |
+| 23 December 2021 | Thursday | 0800 – 1600 hrs |
+| 27 December 2021 | Monday | 0900 – 1600 hrs |
+| 28 December 2021 | Tuesday | 0900 – 1600 hrs |
+| 29 December 2021 | Wednesday | 0900 – 1600 hrs |
+| 30 December 2021 | Thursday | 0900 – 1600 hrs |
+| | | |
+
+For more information, please visit: <br>
+[https://bartleysec.moe.edu.sg/information/parents/purchase-of-books-n-school-uniform](https://bartleysec.moe.edu.sg/information/parents/purchase-of-books-n-school-uniform)
+
+**5. Mother Tongue Language (MTL)** <br>
+**5.1.** Parent/Guardian of child/ward who qualify for Higher Mother Tongue Language will be contacted via email/phone using details provided in the registration form.
+
+**5.2.** For Express or Normal(Academic) students who want to offer MTL ‘B’, the following criteria applies.
+* AL 7 to AL 8 in standard MTL **or**
+* AL B to AL C in foundation MTL
