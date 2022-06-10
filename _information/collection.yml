@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Students/Curriculum Timetable.md
       - Students/.keep
       - Students/2022 June Holiday Assignment for S1 to 3 students.md
       - Students/June Intensive Timetable for 4E5N, 4NA and 4NT students (31st
@@ -10,3 +9,4 @@ collections:
       - Students/Home Based Learning 2022.md
       - Students/Basic troubleshooting tips for students using Chromebook.md
       - Students/Accessing Student ICON.md
+      - Students/Curriculum Timetable.md
