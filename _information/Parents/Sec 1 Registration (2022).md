@@ -45,4 +45,8 @@ Alternatively, if you prefer to walk-in to school for purchase, please note that
 |:---:|:---:|
 | Monday | Girls: School blouse with school skirt<br>Boys: School shirt with school bermudas |
 | Tuesday to Friday | Girls: School Polo-Tee with school skirt<br>Boys: School Polo-Tee with school bermudas |
-| | | 
+| | |
+
+**Students are allowed to wear PE attire (PE T-Shirt & PE shorts) to school on days with PE lessons to avoid intermingling while changing in the toilets in line with Safe Management Measures (SMM).*
+
+**4.4.**    The following is the opening hours of our school bookshop in December 2021.
