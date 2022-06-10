@@ -36,5 +36,9 @@ Private Equity Investor, Honorary Advisor & Chairman,  Singapore-Indonesia Busi
 		 style="width:20%">
 		<center> Dr Chiang Hui Ling Michelle <br> <strong> Appointment: </strong> Member <br> <strong>Career Background: </strong> <br> Assistant Professor School of Humanities <br> Nanyang Technological University
 			
-
+<p> </p>
+			
+<img src="/images/6%20(2).jpg"
+		 style="width:20%">
+		<center> Mr Foo Hee Jug <br> <strong> Appointment: </strong> Member <br> <strong>Career Background: </strong> <br> Chief Executive Officer Ng Teng Fong General Hospital and Deputy Chief Executive National University Health System
 			
