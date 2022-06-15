@@ -2,5 +2,5 @@ collections:
   clubs-and-societie:
     output: true
     order:
-      - MERIT Club.md
       - Entrepreneur Club.md
+      - MERIT Club.md
