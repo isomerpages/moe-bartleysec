@@ -1,6 +1,0 @@
-collections:
-  clubs-and-societies:
-    output: true
-    order:
-      - Service Learning Club.md
-      - CurioSTÉ Club (NEW).md
