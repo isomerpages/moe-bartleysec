@@ -66,10 +66,11 @@ For Combined Humanities, we offer
 * Social Studies and Literature
 
 For Elective subjects, we offer
-
-*   Design and Technology (D&T),
-*   Food and Consumer Education (FCE),
-*   Visual Art
-*   Principles of Account (POA).
+* Design and Technology (D&T),
+* Food and Consumer Education (FCE),
+* Visual Art
+* Principles of Account (POA).
 
 All Mother Tongue lessons (i.e. Chinese, Malay and Tamil) are done in school and within the school’s curriculum time.
+
+-------------------------
