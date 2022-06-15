@@ -2,7 +2,7 @@ collections:
   clubs-and-societie:
     output: true
     order:
-      - CurioSTÉ Club (NEW).md
       - Entrepreneur Club.md
       - MERIT Club.md
       - Service Learning Club.md
+      - CurioSTÉ Club (NEW).md
