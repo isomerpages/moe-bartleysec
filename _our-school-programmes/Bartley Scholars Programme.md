@@ -24,8 +24,11 @@ The Bartley Scholars Programme offers extensive and enriching experiences for ad
 | | |
 
 ##### Video and Photo 
-![](/images/Arts%20Appreciation-%20Kooza.jpg) 
-Arts Appreciation - Kooza 
+<img src="/images/Arts%20Appreciation-%20Kooza.jpg" 
+     style="width:70%">
+<center> Arts Appreciation - Kooza 
+	
+<p> </p>
 
 ![](/images/Learning%20Journey%20to%20Cirque%20Du%20Soleil-Kurios.jpeg) 
 Learning Journey to Cirque Du Soleil-Kurios 
@@ -35,4 +38,5 @@ Learning Journey to StarPix Production House
 
 ![](/images/photo_2022-06-06_15-56-56.jpg)
 
-![](/images/A%20STAR%20Facilities%20Tour.jpg)
+<img src="/images/A%20STAR%20Facilities%20Tour.jpg" 
+     style="width:80%">
