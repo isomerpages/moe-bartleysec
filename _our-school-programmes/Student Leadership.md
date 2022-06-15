@@ -23,6 +23,8 @@ The Students’ Council is the voice of the student body and the representative 
 
 **Student Council Key Events**
 
+<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7TbJ8Y4WbpYc3cwJKesfmIKsdRjxskdaZTzvsW4iO50trCbosuRD8QeoRFgqdCdM6kgjhJk1Cn2ut/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+
 **Class Committee** <br>
 The Class Committee of each class comprises the Chairperson, Vice-Chairperson, National Education (NE) ambassadors, Technology Leaders, Physical Education (PE) Leaders and Green Champs. Together, they enable the class to be responsible for its growth and development towards effectiveness.
 
