@@ -36,9 +36,8 @@ third_nav_title: Our Achievement
 2 Finalists (Flower Power and Goodbye to Pain) <br>
 1 Champion (Flower Power Category)
 
-<img src="/images/21.jpg" 
-     style="width:10%">
-
+<img src="/images/31.jpg" 
+     style="width:40%">
 
 ### 2019 Awards
 
