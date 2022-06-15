@@ -6,7 +6,7 @@ description: ""
 <div>
 	
 <img src="/images/MsBrittaSeet%20cropped.jpg"
-     style="width:25%"
+     style="width:30%"
 		 align="left">
 
 </div>
