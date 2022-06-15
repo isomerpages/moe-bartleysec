@@ -37,7 +37,7 @@ third_nav_title: Our Achievement
 1 Champion (Flower Power Category)
 
 <img src="/images/21.jpg" 
-     style="width:30%">
+     style="width:10%">
 
 
 ### 2019 Awards
