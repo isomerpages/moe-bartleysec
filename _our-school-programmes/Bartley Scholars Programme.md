@@ -40,6 +40,8 @@ Learning Journey to StarPix Production House
 
 <img src="/images/photo_2022-06-06_15-56-56.jpg" 
      style="width:80%">
+	
+<p> </p>
 
 <img src="/images/A%20STAR%20Facilities%20Tour.jpg" 
      style="width:80%">
