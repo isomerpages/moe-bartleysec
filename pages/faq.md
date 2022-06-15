@@ -57,7 +57,7 @@ Bartley offers a range of subjects to meet the different needs of our students.
 
 For Combined Science, we offer
 * Physics and Chemistry or
-* Chemistry and Biology.   
+* Chemistry and Biology.
 
 For Combined Humanities, we offer
 * Social Studies and Geography or
