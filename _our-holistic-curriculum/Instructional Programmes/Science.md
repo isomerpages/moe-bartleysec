@@ -36,7 +36,8 @@ To make learning authentic and relevant for our students, the Science department
      style="width:60%">
 
 * National Kidney Foundation
-![](/images/2%20(2).jpg)
+<img src="/images/2%20(2).jpg" 
+     style="width:60%">
 
 * 3M Innovations
 ![](/images/3%20(1).jpg)
