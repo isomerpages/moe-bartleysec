@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs And Societies/.keep
-      - Entrepreneur Club.md
       - MERIT Club.md
       - Service Learning Club.md
       - CurioSTÉ Club (NEW).md
