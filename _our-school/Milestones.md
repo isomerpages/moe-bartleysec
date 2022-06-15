@@ -5,12 +5,10 @@ description: ""
 ---
 <img src="/images/50yearsago.jpg" 
      style="width:40%">
-
 1952 - Founding of Bartley Secondary School. Formation of 3 Standard 6 classes with 91 students- 81 males and 10 females. First co-education secondary school in Singapore under the stewardship of Mr Chua Leong Hean.
 
 <img src="/images/crest.jpg" 
-     style="width:40%">
-
+     style="width:30%">
 1953 - Formation of school motto 'Facta Non Verba' and Crest.
 
 ![](/images/1954.jpg)
@@ -55,42 +53,52 @@ description: ""
      style="width:60%">
 2001 - Most improved school in 2000 GCE ‘O’ Level Examinations. School Hall was air-conditioned.
 
-![](/images/2002.jpg)
+<img src="/images/2002.jpg" 
+     style="width:60%">
 2002 - Celebrating 50 years of shaping lives and shaping the nation.
 
-![](/images/2004.jpg)
+<img src="/images/2004.jpg" 
+     style="width:60%">
 2002 - Celebrating 50 years of shaping lives and shaping the nation.
 
 2005 - Official Opening of Centre of Excellence for Innovation and Enterprise (BICE). Achieved People Developer Standard (Spring, Singapore). Attained Thinking Culture Award-Best School (Zone). 
 
-![](/images/2006.jpg)
+<img src="/images/2006.jpg" 
+     style="width:60%">
 2006 - Achieved Character Development Award. Attained Sustained Achievement Award (Uniformed Group).  
 
-![](/images/2007.jpg)
+<img src="/images/2007.jpg" 
+     style="width:60%">
 2006 - Achieved Character Development Award. Attained Sustained Achievement Award (Uniformed Group).
 
-![](/images/2008.jpg)
+<img src="/images/2008.jpg" 
+     style="width:60%">
 2008 - Introduction of Overseas Service Learning Trip  (Cambodia).
 
-![](/images/2009.jpg)
+<img src="/images/2009.jpg" 
+     style="width:60%">
 2009 - Achieved Sustained Achievement Award (Academic- Value-added for Express). Recognised as achieving Business Excellence Niche Standard (People) by Spring, Singapore. 
 Overseas Service Learning Trip to India.
 
 2012 - Opening of air-conditioned classrooms for graduating students.Celebrating 60 years of nurturing resilient and responsible Bartleyans.
 
-![](/images/ish.jpg)
+<img src="/images/ish.jpg" 
+     style="width:60%">
 2015 - Completion of Indoor Sports House (ISH) 
 
 2015 - Introduction of Learning for Life Programme
 
-![](/images/0cf271c74_158.jpg)
+<img src="/images/0cf271c74_158.jpg" 
+     style="width:60%">
 2016 - Introduction of Applied Learning Programme 
 
 ![](/images/2016.jpg)
 2016 - Introduction of Applied Learning Programme 
 
-![](/images/IMG_7312.jpg)
+<img src="/images/IMG_7312.jpg" 
+     style="width:70%">
 2018 - Singapore Guinness Book of Record - Largest National Day Dikir Barat 
 
-![](/images/mobile-robotics.jpg)
+<img src="/images/mobile-robotics.jpg" 
+     style="width:60%">
 2019 - Introduction of Mobile Robotics as a subject.
