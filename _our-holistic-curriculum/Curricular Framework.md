@@ -6,7 +6,8 @@ description: ""
 **BARTLEY CURRICULUM FRAMEWORK (BCF)** <br>
 The Bartley Curriculum Framework defines the school’s approaches and outcomes and sets the direction, for excellence in teaching and learning.  It guides the school in delivering a quality student-centric, values-driven and holistic education.
 
-![](/images/Bartley%20Curricular%20Framework.jpg)
+<img src="/images/Bartley%20Curricular%20Framework.jpg" 
+     style="width:50%">
 
 * The BCF is designed to be in a shape of a star and compass.
 * It is likened to that of a Polaris or more commonly known as the North Star. The North Star has been used for well over 2000 years by navigators to determine both their direction and latitude.
