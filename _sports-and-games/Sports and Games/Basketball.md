@@ -23,7 +23,8 @@ Basketball team members are trained to develop and hone the basic basketball ski
 
 Selected members of the team are sent to represent the school at the zonal competitions each year.
 
-![](/images/basketball%20shots.jpg)
+<img src="/images/basketball%20shots.jpg" 
+     style="width:60%">
 
 | CCA Achievements /<br>Niche Areas / Key Programme | 2018 | 2019 | 2020 | 2021  |
 |:---:|---|---|---|:---:|
