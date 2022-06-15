@@ -2,6 +2,5 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - MERIT Club.md
       - Service Learning Club.md
       - CurioSTÉ Club (NEW).md
