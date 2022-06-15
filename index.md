@@ -16,10 +16,10 @@ sections:
       key_highlights:
         - title: Applied Learning Programme
           description: ""
-          url: ""
+          url: /our-signature-programmes/alp-chemical-and-applied-sciences-fragrance
         - title: "Learning for Life Programme "
           description: ""
-          url: ""
+          url: /our-signature-programmes/llp-community-youth-leadership
   - infobar:
       title: Latest News
       button: Click here
