@@ -10,3 +10,5 @@ links:
     collection: our-partners
   - title: Information
     collection: information
+  - title: Our Contact
+    url: /our-contact
