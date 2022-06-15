@@ -31,9 +31,11 @@ They will also have various opportunities to hone their leadership skills throug
 2017 Excellent Unit Award (Gold), 2018 Excellent Unit Award (Silver), 2019 First Aid Championship 2020, Awareness Category (First Runner Up), 2019 Excellent Unit Award (Gold)
 
 Join Us
-![](/images/RC10.jpg)
+<img src="/images/RC10.jpg" 
+     style="width:90%">
 
-![](/images/RC11.jpg)
+<img src="/images/RC11.jpg" 
+     style="width:90%">
 
 ![](/images/RCY%201.jpeg)
 
