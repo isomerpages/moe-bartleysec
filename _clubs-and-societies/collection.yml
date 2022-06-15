@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Clubs And Societies/Entrepreneur Club.md
       - Clubs And Societies/.keep
       - MERIT Club.md
       - Service Learning Club.md
