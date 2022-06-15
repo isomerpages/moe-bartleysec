@@ -13,7 +13,6 @@ third_nav_title: Student Development
 
 </div>
 
-<div>
 
 Our ECG Counsellor, Ms Valerie, is in school every Wednesday to support students in making informed decisions on their education and career pathways. 
 Students (and their parents) who would like to find out more about their post-secondary education options, subject choices, career interests, or discover their strengths and interests, can have a chat with our ECG Counsellor.
