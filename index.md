@@ -23,6 +23,6 @@ sections:
   - infobar:
       title: Latest News
       button: Click here
-      url: /latestnews
+      url: /information/students/june-intensive-timetable-for-4e5n-4na-and-4nt-students-31st-may-to-7th-june
       description: from Bartley Secondary School
 ---
