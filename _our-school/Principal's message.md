@@ -4,8 +4,8 @@ permalink: /our-school/principals-message
 description: ""
 ---
 <div>
-
-<div style="float: left">
+	
+<img align="left">
 <img src="/images/MsBrittaSeet%20cropped.jpg"	
 	style="width:25%">
 
