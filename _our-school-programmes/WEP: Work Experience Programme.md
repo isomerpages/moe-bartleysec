@@ -18,16 +18,22 @@ If you or your organisation is interested to be our partner, you may contact Ms 
 
 <img src="/images/Student%20Work%20attachment%20at%20Singapore%20Zoo.jpeg" 
      style="width:70%">
-Student Work attachment at Singapore Zoo
+<center> Student Work attachment at Singapore Zoo
+	
+<p> </p>
 
 <img src="/images/WEP%20at%20QCD%20Technology.jpeg" 
      style="width:70%">
-WEP at QCD Technology
+<center> WEP at QCD Technology
+	
+<p> </p> 
 
 <img src="/images/WEP%20at%20Singapore%20Kindness%20Movement.jpeg" 
      style="width:70%">
-WEP at Singapore Kindness Movement
+<center> WEP at Singapore Kindness Movement
 
+<p> </p>	
+	
 <img src="/images/WEP%20at%20Takasago%20International.jpeg" 
-     style="width:70%">
-WEP at Takasago International
+     style="width:70%"> 
+	<center> WEP at Takasago International
