@@ -25,7 +25,9 @@ Students are equipped with the habits and skills through workshops, camps and ex
      style="width:70%">
 
 Voluntary Group Originations (VWO) EXPO
-![](/images/LLP%204.jpg)
+<img src="/images/LLP%204.jpg" 
+     style="width:70%">
 
 APEX Leadership Learning Experience
-![](/images/Apex%20Leadership%20Learning%20Experience.png)
+<img src="/images/Apex%20Leadership%20Learning%20Experience.png" 
+     style="width:70%">
