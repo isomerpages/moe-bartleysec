@@ -33,6 +33,8 @@ The Bartley Scholars Programme offers extensive and enriching experiences for ad
 ![](/images/Learning%20Journey%20to%20Cirque%20Du%20Soleil-Kurios.jpeg) 
 Learning Journey to Cirque Du Soleil-Kurios 
 
+<p> </p>	
+	
 ![](/images/Learning%20Journey%20to%20StarPix%20Production%20House.jpg) 
 Learning Journey to StarPix Production House
 
