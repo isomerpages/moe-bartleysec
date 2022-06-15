@@ -1,5 +1,5 @@
 collections:
-  clubs-and-societie:
+  clubs-and-societies:
     output: true
     order:
       - Entrepreneur Club.md
