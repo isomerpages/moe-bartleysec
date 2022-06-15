@@ -54,12 +54,12 @@ E-CCA programs include match analysis, as well as the introduction of games to b
 - South Zone Champions in SSSC National School Games Football C Division (U14s)
 - 1st in ActiveSG 5v5 U-14 Futsal Tournament
 
-![](/images/image1%20(1).jpg)
+<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTPW0WhgRuf2NjpF9pZlU2kqOA8xYNkAFXpiYmVRubzYe7Yf_Lyab5qwPQANVA3MpuNWBkQCyPRLrx/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 ##### SSSC Championships Semi-finals 2019
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vxo6jGun7nw?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vxo6jGun7nw?start=2" height="315" width="560"></iframe>
 
 ##### SSSC Championships 3rd/4th Placing 2019
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W4pwNcT8sK8?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/W4pwNcT8sK8?start=2" height="315" width="560"></iframe>
