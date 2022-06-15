@@ -5,9 +5,9 @@ description: ""
 ---
 <div>
 	
-<img align="left">
-<img src="/images/MsBrittaSeet%20cropped.jpg"	
-	style="width:25%">
+<img src="/images/MsBrittaSeet%20cropped.jpg"
+     style="width:25%"
+		 align="left">
 
 </div>
 
@@ -17,9 +17,7 @@ Welcome to Bartley Secondary School!
 
 Founded in 1952, the school has a long and rich history of nurturing learners and leaders. We are heartened that our alumni members actively contributing to the progress of the nation in different fields, ranging from public service, civic organisations, business to sports.  As the school’s 14th Principal, I am honoured for the opportunity to build on the good work of my predecessors and I hope to bring my varied experiences from MOEHQ, secondary schools and junior college to value-add to a more vibrant school life here in Bartley Secondary.
 	
-	Test
-
-	</div>
+</div>
 
 </div>
 	
