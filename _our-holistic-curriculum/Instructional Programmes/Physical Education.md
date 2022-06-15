@@ -26,7 +26,7 @@ Bartleyans attain the following sports skills during their time at Bartley Secon
 * Sec 4: Floorball and Volleyball
 * Sec 5: Tchoukball
 
-![](/images/1%20(3).jpg)
+<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQR-59MGjrcMJ3KGtiXfkvAgkr7qJIdnQYTfDvpcJsHGO09lIyieAoFaUXERLF7sozOJYU2gdZiqwOL/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 **Bartley Road Run**
 
