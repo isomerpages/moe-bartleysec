@@ -32,10 +32,10 @@ They will also have various opportunities to hone their leadership skills throug
 
 Join Us
 <img src="/images/RC10.jpg" 
-     style="width:90%">
+     style="width:60%">
 
 <img src="/images/RC11.jpg" 
-     style="width:90%">
+     style="width:60%">
 
 ![](/images/RCY%201.jpeg)
 
