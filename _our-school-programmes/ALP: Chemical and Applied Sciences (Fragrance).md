@@ -40,21 +40,27 @@ Our ALP aims to prepare Bartleyans to become Learners for Life by:
 
 ### Our Partners
 
-![](/images/STEM%20Inc.jpg)
+<img src="/images/STEM%20Inc.jpg" 
+     style="width:30%">
 
-![](/images/ICES_Logo_Full_Spelling_RGB.jpg)
+<img src="/images/ICES_Logo_Full_Spelling_RGB.jpg" 
+     style="width:30%">
 
-![](/images/Takasago_International_Corp-Logo.png)
+<img src="/images/Takasago_International_Corp-Logo.png" 
+     style="width:30%">
 
 ### Our ALP in the News
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4XVvFQt1TbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/images/Lianhe%20Zaobao.jpg)
+<img src="/images/Lianhe%20Zaobao.jpg" 
+     style="width:70%">
 
-![](/images/China%20Papers.jpg)
+<img src="/images/China%20Papers.jpg" 
+     style="width:70%">
 
-![](/images/Capture2.jpg)
+<img src="/images/Capture2.jpg" 
+     style="width:70%">
 
 **Arif Budiman Malay Language Teacher Award Ceremony (AGAB)** <br>
 ![](/images/2%20(1).jpg)
