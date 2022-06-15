@@ -68,7 +68,8 @@ Our TL students took part in "Navarasa Thiruvizha 2019” Cultural Competition a
 | Short Film Making - 2nd Prize | Creative Challenge - 2nd Prize |
 | | |
 
-![](/images/22.jpg)
+<img src="/images/22.jpg" 
+     style="width:70%">
 
 Our Secondary 2 & 3 Tamil Language students took part in the Tamil Literature Circle -North & South cluster Inter School Competition organized by St. Gabriel’s Secondary School. 
 
@@ -80,4 +81,4 @@ Our Secondary 2 & 3 Tamil Language students took part in the Tamil Literature Ci
 | |
 
 <img src="/images/33.jpg" 
-     style="width:60%">
+     style="width:70%">
