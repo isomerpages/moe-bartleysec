@@ -63,12 +63,16 @@ Our ALP aims to prepare Bartleyans to become Learners for Life by:
      style="width:70%">
 
 **Arif Budiman Malay Language Teacher Award Ceremony (AGAB)** <br>
-![](/images/2%20(1).jpg)
+<img src="/images/2%20(1).jpg" 
+     style="width:70%">
 
 **Singapore Day at Shanghai** <br>
-![](/images/311.jpg)
+<img src="/images/311.jpg" 
+     style="width:70%">
 
 **MOE ExCEL Fest 2019** <br>
-![](/images/411.jpg)
+<img src="/images/411.jpg" 
+     style="width:70%">
 
-![](/images/511.jpg)
+<img src="/images/511.jpg" 
+     style="width:70%">
