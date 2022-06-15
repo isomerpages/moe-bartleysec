@@ -2,6 +2,7 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
+      - Visual & Performing Arts/Gu Zheng Ensemble.md
       - Visual & Performing Arts/Concert Band.md
       - Visual & Performing Arts/Choir.md
       - Visual & Performing Arts/.keep
