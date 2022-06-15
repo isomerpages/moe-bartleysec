@@ -79,4 +79,5 @@ Our Secondary 2 & 3 Tamil Language students took part in the Tamil Literature Ci
 | Our Sec 2 students won the 3rd Place in “Book review video production” under Lower Secondary Category. |
 | |
 
-![](/images/33.jpg)
+<img src="/images/33.jpg" 
+     style="width:60%">
