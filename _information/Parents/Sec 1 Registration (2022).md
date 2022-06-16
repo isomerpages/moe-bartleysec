@@ -62,7 +62,7 @@ Alternatively, if you prefer to walk-in to school for purchase, please note that
 | | | |
 
 For more information, please visit: <br>
-[https://bartleysec.moe.edu.sg/information/parents/purchase-of-books-n-school-uniform](https://bartleysec.moe.edu.sg/information/parents/purchase-of-books-n-school-uniform)
+[https://moe-bartleysec-staging.netlify.app/information/parents/purchase-of-books-n-school-uniform](https://moe-bartleysec-staging.netlify.app/information/parents/purchase-of-books-n-school-uniform)
 
 **5. Mother Tongue Language (MTL)** <br>
 **5.1.** Parent/Guardian of child/ward who qualify for Higher Mother Tongue Language will be contacted via email/phone using details provided in the registration form.
