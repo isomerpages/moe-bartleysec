@@ -1,5 +1,5 @@
 collections:
-  our-school-programmes:
+  our-signature-programmes:
     output: true
     order:
       - "ALP: Chemical and Applied Sciences (Fragrance).md"
