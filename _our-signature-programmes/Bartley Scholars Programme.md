@@ -24,6 +24,9 @@ The Bartley Scholars Programme offers extensive and enriching experiences for ad
 | | |
 
 ##### Video and Photo 
+
+</insert video>
+
 <img src="/images/Arts%20Appreciation-%20Kooza.jpg" 
      style="width:70%">
 <center> Arts Appreciation - Kooza 
