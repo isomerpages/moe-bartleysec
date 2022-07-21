@@ -24,7 +24,8 @@ sections:
       title: Latest News
       button: Click here
       url: /information/students/june-intensive-timetable-for-4e5n-4na-and-4nt-students-31st-may-to-7th-june
-      description: from Bartley Secondary School
+      description: of Bartley Secondary School
+      subtitle: Check out the
   - infopic:
       title: Celebrating our 70th Anniversary!
       subtitle: "Announcement:"
