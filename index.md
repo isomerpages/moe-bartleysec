@@ -15,10 +15,10 @@ sections:
       url: /faq/
       key_highlights:
         - title: Applied Learning Programme
-          description: ""
+          description: "Chemical and Applied Sciences "
           url: /our-signature-programmes/alp-chemical-and-applied-sciences-fragrance
         - title: "Learning for Life Programme "
-          description: ""
+          description: Community Youth Leadership
           url: /our-signature-programmes/llp-community-youth-leadership
   - infopic:
       title: Celebrating our 70th Anniversary!
