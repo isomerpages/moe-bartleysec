@@ -25,4 +25,10 @@ sections:
       button: Click here
       url: /information/students/june-intensive-timetable-for-4e5n-4na-and-4nt-students-31st-may-to-7th-june
       description: from Bartley Secondary School
+  - infopic:
+      title: Celebrating our 70th Anniversary!
+      subtitle: "Announcement:"
+      description: "Join us at the Bartley Secondary School Hall. "
+      image: /images/06-28 Website Popup replacement_28 June.jpg
+      alt: Celebrating 70th Anniversary
 ---
