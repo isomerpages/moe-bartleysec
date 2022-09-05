@@ -1,15 +1,12 @@
 ---
 title: Bartley School Magazine
-permalink: /our-school/bartley-school-magazine
+permalink: /our-school/bartley-school-magazine/
 description: ""
 ---
-2020 School Magazine <br> 
- 2019 School Magazine <br>
- 2021 School Magazine
+</insert 2020 School Magazine> <br> 
+ </insert 2019 School Magazine> <br>
+ </insert 2021 School Magazine>
 
 ### Bartley Buzz
-Bartley Buzz Edition 2 <br>
-Bartley Buzz Edition 1
-
-
-
+</insert Bartley Buzz Edition 2> <br>
+</insert Bartley Buzz Edition 1>
