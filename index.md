@@ -12,7 +12,7 @@ sections:
         and learn with passion.
       background: /images/homepage1.gif
       button: Latest News
-      url: /faq/
+      url: /Latestnews/
       key_highlights:
         - title: Applied Learning Programme
           description: "Chemical and Applied Sciences "
@@ -26,10 +26,4 @@ sections:
       alt: Celebrating 70th Anniversary
       url: https://bartleysec.moe.edu.sg/general/anniversary/home
       button: 70th Anniversary Website
-  - infobar:
-      title: Latest News
-      button: Click here
-      url: /information/students/june-intensive-timetable-for-4e5n-4na-and-4nt-students-31st-may-to-7th-june
-      description: of Bartley Secondary School
-      subtitle: Check out the
 ---
