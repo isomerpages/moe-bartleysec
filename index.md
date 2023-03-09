@@ -11,7 +11,7 @@ sections:
       subtitle: Empowering every Bartleyan to lead with wisdom, serve with humility
         and learn with passion.
       background: /images/homepage1.gif
-      button: FREQUENTLY ASKED QUESTION (FAQ)
+      button: Latest News
       url: /faq/
       key_highlights:
         - title: Applied Learning Programme
