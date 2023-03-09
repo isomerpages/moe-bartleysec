@@ -26,4 +26,8 @@ sections:
       alt: Celebrating 70th Anniversary
       url: https://bartleysec.moe.edu.sg/general/anniversary/home
       button: 70th Anniversary Website
+  - resources:
+      title: Latest Announcements
+      subtitle: "Catch  up with the "
+      button: More
 ---
