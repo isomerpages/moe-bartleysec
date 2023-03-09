@@ -49,5 +49,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-bartleysec-staging.netlify.app
-prod: https://moe-bartleysec-prod.netlify.app
+staging: https://staging.d2dbd9z2fz7m9o.amplifyapp.com/
+prod: https://master.d2dbd9z2fz7m9o.amplifyapp.com/
