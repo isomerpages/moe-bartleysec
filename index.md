@@ -22,10 +22,10 @@ sections:
           url: /our-signature-programmes/llp-community-youth-leadership
   - infopic:
       title: Celebrating our 70th Anniversary!
-      subtitle: "Announcement:"
-      description: "Join us at the Bartley Secondary School Hall. "
       image: /images/06-28 Website Popup replacement_28 June.jpg
       alt: Celebrating 70th Anniversary
+      url: https://bartleysec.moe.edu.sg/general/anniversary/home
+      button: 70th Anniversary Website
   - infobar:
       title: Latest News
       button: Click here
