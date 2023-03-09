@@ -12,7 +12,7 @@ sections:
         and learn with passion.
       background: /images/homepage1.gif
       button: Latest News
-      url: /Latestnews/
+      url: /LatestNews/
       key_highlights:
         - title: Applied Learning Programme
           description: "Chemical and Applied Sciences "
