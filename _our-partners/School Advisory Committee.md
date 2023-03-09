@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /our-partners/school-advisory-committee
+permalink: /our-partners/school-advisory-committee/
 description: ""
 ---
 <img src="/images/1%20(5).jpg" 

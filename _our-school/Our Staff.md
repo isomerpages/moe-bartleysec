@@ -1,6 +1,6 @@
 ---
 title: Our Staff
-permalink: /our-school/our-staff
+permalink: /our-school/our-staff/
 description: ""
 ---
 ### CONTACT LIST T2022

@@ -1,6 +1,6 @@
 ---
 title: Milestones
-permalink: /our-school/milestones
+permalink: /our-school/milestones/
 description: ""
 ---
 <img src="/images/50yearsago.jpg" 

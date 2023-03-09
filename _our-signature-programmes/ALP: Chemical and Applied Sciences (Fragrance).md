@@ -1,6 +1,6 @@
 ---
 title: "ALP: Chemical and Applied Sciences (Fragrance)"
-permalink: /our-signature-programmes/alp-chemical-and-applied-sciences-fragrance
+permalink: /our-signature-programmes/alp-chemical-and-applied-sciences-fragrance/
 description: ""
 ---
 ### Aim of the Programme

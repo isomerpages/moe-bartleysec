@@ -1,6 +1,6 @@
 ---
 title: School Song, Crest & Motto
-permalink: /our-school/school-song-crest-n-motto
+permalink: /our-school/school-song-crest-n-motto/
 description: ""
 ---
 Bartley school of Singapore <br>

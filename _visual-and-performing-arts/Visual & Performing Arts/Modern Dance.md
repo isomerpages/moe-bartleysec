@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /our-holistic-curriculum/co-curricular-activities/visual-n-performing-arts/modern-dance
+permalink: /our-holistic-curriculum/co-curricular-activities/visual-n-performing-arts/modern-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

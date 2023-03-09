@@ -1,6 +1,6 @@
 ---
 title: Bartley Scholars Programme
-permalink: /our-school-programmes/bartley-scholars-programme
+permalink: /our-school-programmes/bartley-scholars-programme/
 description: ""
 ---
 ***Nurturing Bartleyans with exceptional abilities in the cognitive and affective domains to become Leaders for Others and Learners for Life***

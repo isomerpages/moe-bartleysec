@@ -1,6 +1,6 @@
 ---
 title: Latest News
-permalink: /LatestNews/
+permalink: /latestnews/
 description: Keep up to date with the latest annoucements in Bartley
 ---
 

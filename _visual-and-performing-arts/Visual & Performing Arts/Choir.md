@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /our-holistic-curriculum/co-curricular-activities/visual-n-performing-arts/choir
+permalink: /our-holistic-curriculum/co-curricular-activities/visual-n-performing-arts/choir/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

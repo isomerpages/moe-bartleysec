@@ -1,6 +1,6 @@
 ---
 title: X MILE
-permalink: /our-school-programmes/x-mile
+permalink: /our-school-programmes/x-mile/
 description: ""
 ---
 **Aim of the Programme** <br>

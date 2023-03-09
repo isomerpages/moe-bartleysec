@@ -1,6 +1,6 @@
 ---
 title: Bartley Alumni
-permalink: /our-partners/bartley-alumni
+permalink: /our-partners/bartley-alumni/
 description: ""
 ---
 Bartley Secondary School was formed in 1952 and the formation of the Old Bartleyans’ Association (OBA) was the brainchild of a group of enthusiastic, dedicated and loyal students of the school in 1961.

@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /our-school-programmes/student-leadership
+permalink: /our-school-programmes/student-leadership/
 description: ""
 ---
 **Bartley Secondary School - Student Leadership Development** <br>

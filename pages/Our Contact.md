@@ -1,6 +1,6 @@
 ---
 title: Our Contact
-permalink: /contact-us
+permalink: /contact-us/
 description: ""
 ---
 

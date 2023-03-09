@@ -1,6 +1,6 @@
 ---
 title: Concert Band
-permalink: /our-holistic-curriculum/co-curricular-activities/visual-n-performing-arts/concert-band
+permalink: /our-holistic-curriculum/co-curricular-activities/visual-n-performing-arts/concert-band/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

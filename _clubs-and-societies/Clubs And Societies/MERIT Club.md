@@ -1,6 +1,6 @@
 ---
 title: MERIT Club
-permalink: /our-holistic-curriculum/co-curricular-activities/clubs-n-societies/merit-club
+permalink: /our-holistic-curriculum/co-curricular-activities/clubs-n-societies/merit-club/
 description: ""
 third_nav_title: Clubs And Societies
 ---

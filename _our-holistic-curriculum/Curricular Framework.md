@@ -1,6 +1,6 @@
 ---
 title: Curricular Framework
-permalink: /our-holistic-curriculum/curricular-framework
+permalink: /our-holistic-curriculum/curricular-framework/
 description: ""
 ---
 **BARTLEY CURRICULUM FRAMEWORK (BCF)** <br>

@@ -1,6 +1,6 @@
 ---
 title: "LLP: Community Youth Leadership"
-permalink: /our-signature-programmes/llp-community-youth-leadership
+permalink: /our-signature-programmes/llp-community-youth-leadership/
 description: ""
 ---
 *Learning For Life Programme (LLP) <br>
