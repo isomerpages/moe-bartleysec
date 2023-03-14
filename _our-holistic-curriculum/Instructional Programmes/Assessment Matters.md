@@ -24,13 +24,20 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 7) Students who did not attain at least a 75% in attendance may not be allowed to sit for exams.  Please note that absence from school shall be permitted when it is supported by a Medical Certificate (MC) or Parents Letter covering 4 days per semester only stating special reasons other than medical.
 
 ##### Absence from Weighted Assessment (WA) and Examinations** <br>
-8)
-If a student is unwell on the day of an assessment, he/she has to consult a doctor and get a medical certificate for the day of absence. The medical certificate must be submitted to the Form Teacher immediately when the student returns to school. Upon receipt of the medical certificate, the status of the assessment grade will be reflected as “MC”. Proration of marks, based on the other weighted assessments for the year, will be computed and reflected in the progress report accordingly. Only medical certificates issued by doctors registered with the Singapore Medical Council are accepted.
-9) A student without a medical certificate will be given zero mark for the paper that he/she missed. Letters from parents will not be accepted. Any student who is absent for any WA/examination will not be able to sit for that particular paper and the paper will be given as a practice paper.  There is no retest or make-up test as this is consistent with that of the conduct of the national examinations where there is no re-take of examination paper missed.
+8) If a student is unwell on the day of an assessment, he/she has to consult a doctor and get a medical certificate for the day of absence. The medical certificate must be submitted to the Form Teacher immediately when the student returns to school. Upon receipt of the medical certificate, the status of the assessment grade will be reflected as “MC”. Proration of marks, based on the other weighted assessments for the year, will be computed and reflected in the progress report accordingly. Only medical certificates issued by doctors registered with the Singapore Medical Council are accepted.
 
-10) All documents to validate a student’s absence from school must be submitted to the Form Teacher immediately, once the student returns to school.
+9) For non-medical reasons, students are expected to notify the school of their absence through the Form Teacher at the earliest possible time. If the reason is accepted, the status of the assessment grade will be reflected as “VR” and proration of marks, based on the other weighted assessments for the year, will be computed and reflected in the progress report accordingly.
 
-11) The school’s practice to award zero mark for absence from assessment is to maintain the authenticity of the test/examination papers and ensure that there is fairness for all students who sat for the papers.    
+10) A student without a medical certificate or a valid reason will be given **zero mark** for the paper that he/she has missed. Letters from parents will not be accepted. This is to maintain the authenticity of the test/examination papers and to ensure fairness for all students who have prepared and sat for the papers. While there is no retest or make-up test, students who are absent from the WAs/ examination will be given the paper for practice when he/she returns to school.
+11) WAs and examinations are important checkpoints for students to gauge their learning progress and for teachers to identify learning gaps and conduct remediation. Students are expected to put in effort to prepare and revise for the assessment and be present on days of assessment. Students who miss more than 25% of the assessment for any subject in a year will not be eligible for school-based academic awards.
+
+##### Parent/Guardian Support 
+
+12) The school firmly believes in a tripartite partnership where parents work closely with the school to nurture and ensure that our students obtain the best possible start in life and learn the right values, skills, attitudes and behaviours. Hence, parents should notify the school the reason for f their child’s/ward’s absence and highlight any areas of concern they may have so that these can be addressed promptly.
+
+##### Weighted Assessment for School-Based Assessment 
+
+11) Please see below for the **Weighted Assessment (WA) Schedule** for **Secondary 1 to 3** in the academic year **2023.**
 
 12) We seek parents’/guardian’s cooperation NOT to send your child/ward to school for tests/examinations if he/she is unwell.  Do take your child/ward to the doctor when he/she is unwell and get a medical certificate so that the school can process the results accordingly.
 
