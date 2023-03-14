@@ -37,13 +37,13 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 
 ##### Weighted Assessment for School-Based Assessment 
 
-11) Please see below for the **Weighted Assessment (WA) Schedule** for **Secondary 1 to 3** in the academic year **2023.**
+13) Please see below for the **Weighted Assessment (WA) Schedule** for **Secondary 1 to 3** in the academic year **2023.**
 
 [Sec 1 Term 2 Weighted Assessment Plan](/files/2022%20Sec%201%20Term%202%20Consolidated%20Assessment%20Plan.pdf)
 
 [Sec 3 Term 2 Weighted Assessment Plan](/files/2022%20Sec%203%20Term%202%20Consolidated%20Assessment%20Plan.pdf)
 
-15) Please see below the Mid-Year Examination Timetable and the breakdown of the **Mid-Year Examination Topics for Sec 2 and S4/5** for in the academic year **2022**.
+14)Please see below for the **Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA** for  the academic year **2023.**
 
 [Sec 2ENA Mid-Year Examination Timetable](/files/S2E2NA_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf) <br>
 [Sec 2NT Mid-Year Examination Timetable](/files/S2NT_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf) <br>
