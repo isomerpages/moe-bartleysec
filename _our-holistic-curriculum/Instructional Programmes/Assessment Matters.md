@@ -65,15 +65,15 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 ##### Assessment Weighting
 17) Please see below for the assessment weighting for Secondary 1 to 3 for the academic year 2023.
         
-Assessment Weighting For Secondary 1
+**Assessment Weighting For Secondary 1**
 ![](/images/Capture%201.png)
 
-Assessment Weighting For Secondary 2
+**Assessment Weighting For Secondary 2**
 ![](/images/Capture%202.png)
 
-Assessment Weighting For Secondary 3
+**Assessment Weighting For Secondary 3**
 ![](/images/Capture%204.png)
 
 17) For Sec4E/4N/5N, the overall result is based solely on the Preliminary Examination results. However, there are non-weighted assessment conducted in each of the terms.
 
-**Assessment Weighting For Secondary 4E/4NA/4NT/5NA
+**Assessment Weighting For Secondary 4E/4NA/4NT/5NA** 
