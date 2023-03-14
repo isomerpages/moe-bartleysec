@@ -74,4 +74,4 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 **Assessment Weighting For Secondary 3**
 ![](/images/Capture%204.png)
 
-17) 
+17) For Sec4E/4N/5N, the overall result is based solely on the Preliminary Examination results. However, there are non-weighted assessment conducted in each of the terms.
