@@ -40,10 +40,11 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 13) Please see below for the Weighted Assessment (WA) Schedule for Secondary 1 to 3 in the academic year 2023.
 
 
-
+*to insert schedule*
 
 14) Please see below for the Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA for  the academic year 2023.
 
+*To insert schedule*
 
 15) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on.
 
