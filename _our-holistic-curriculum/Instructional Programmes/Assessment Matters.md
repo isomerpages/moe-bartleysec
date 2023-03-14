@@ -8,9 +8,9 @@ third_nav_title: Instructional Programmes
 
 1) The Ministry of Education announced in Sept 2018 changes to school-based assessment to shift away from over-emphasis on examinations and grades, and help students discover the joy of learning.
 
-2) In tandem with these changes, there will be only one weighted assessment per subject per term that counts towards the year-end score.  The school will undertake a range of student assessment (e.g. pop quizzes, worksheets, seat work and homework) and reporting (e.g. termly and semestral progress reports) to inform and support student learning. 
+2)    In tandem with these changes, there will be only one weighted assessment per subject per term that counts towards the year-end overall score.  The school will undertake a range of formative assessment (e.g. pop quizzes, worksheets, seat work and homework) and reporting (e.g. termly and semestral progress reports) to inform and support student learning.
 
-3) In addition, there will be no mid-year examination at Secondary 1 and 3.  
+3)   In addition, there will be no mid-year examination for all levels..  
 
 **Attendance Policy** <br>
 4) The staff of Bartley Secondary School works hard to design interesting and engaging programmes so that learning is meaningful to ignite the passion and joy for learning in our students.  Students can only benefit fully from these programmes by being present, punctual and participating actively in all school programmes.  
