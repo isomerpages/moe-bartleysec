@@ -39,24 +39,11 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 
 13) Please see below for the Weighted Assessment (WA) Schedule for Secondary 1 to 3 in the academic year 2023.
 
-[Sec 1 Term 2 Weighted Assessment Plan](/files/2022%20Sec%201%20Term%202%20Consolidated%20Assessment%20Plan.pdf)
 
-[Sec 3 Term 2 Weighted Assessment Plan](/files/2022%20Sec%203%20Term%202%20Consolidated%20Assessment%20Plan.pdf)
 
-14)Please see below for the Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA for  the academic year 2023.
 
-[Sec 2ENA Mid-Year Examination Timetable](/files/S2E2NA_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf) <br>
-[Sec 2NT Mid-Year Examination Timetable](/files/S2NT_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf) <br>
-[Sec 2 Mid-Year Examination Topics](/files/Sec%202%20MYE%20Topics%202022.pdf)
+14) Please see below for the Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA for  the academic year 2023.
 
-[Sec 4E5NA Mid-Year Examination Timetable](/files/S4E_5N_MYE%202022%20Timetable%206%20Apr%2022.pdf) <br>
-[Sec 4E5NA Mid-Year Examination Topics](/files/Sec%204E5NA%20MYE%20Topics%202022.pdf)
-
-[Sec 4NA Mid-Year Examination Timetable](/files/S4NA_MYE%202022%20timetable%20updated%206%20Apr%2022.pdf) <br>
-[Sec 4NA Mid-Year Examination Topics](/files/Sec%204NA%20MYE%20Topics%202022.pdf)
-
-[Sec 4NT Mid-Year Examination Timetable](/files/S4NT_MYE%202022%20timetable%20updated%206%20Apr%2022.pdf) <br>
-[Sec 4NT Mid-Year Examination Topics](/files/Sec%204NT%20MYE%20Topics%202022.pdf)
 
 15) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on.
 
