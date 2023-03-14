@@ -4,13 +4,15 @@ permalink: /our-holistic-curriculum/co-curricular-activities/clubs-n-societies/c
 description: ""
 third_nav_title: Clubs And Societies
 ---
-
 ### Vision:
 A vibrant learning hub where learners are developed into the leaders of the future.
 
 **CCA Teacher IC:** <br>
 Ms Ng Li Ya <br>
 Ms Cezanne Choo
+
+**CCA Teacher**<br>
+Ms Huang Wen Yan
 
 **About our CCA** <br>
 CurioSTÉ – a play on the French word, Curiosité, which means curiosity. Our club aims to pique the students’ curiosity for Science, Technology and Engineering.
