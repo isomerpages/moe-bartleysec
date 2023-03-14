@@ -11,12 +11,12 @@ To nurture our basketball players into becoming a highly disciplined and passion
 Lower ISH Indoor basketball court
 
 **CCA Teacher IC:** <br>
-Mr Sng MW <br>
-Mr Han YH
+Mr Han YH<br>
+Mr Tan CK
 
 **CCA Teacher:** <br>
-Mr Joel Tan <br>
-Mr Roy Chew Hock Wu
+Mr Roy Chew Hock Wu<br>
+Mr Benjamin Goh
 
 **About us** <br>
 Basketball team members are trained to develop and hone the basic basketball skills of passing, shooting and dribbling. Opportunities are also available for members to be nominated for First Aid Course as well as the Refereeing Course for them to develop other skills on and off the court, as well as the leadership positions of Captain and Vice-Captain. Above all, they are taught to exercise discipline, resilience and teamwork through training.
