@@ -10,7 +10,7 @@ third_nav_title: Instructional Programmes
 
 2)    In tandem with these changes, there will be only one weighted assessment per subject per term that counts towards the year-end overall score.  The school will undertake a range of formative assessment (e.g. pop quizzes, worksheets, seat work and homework) and reporting (e.g. termly and semestral progress reports) to inform and support student learning.
 
-3)   In addition, there will be no mid-year examination for all levels..  
+3)   In addition, there will be no mid-year examination for **all levels..  
 
 ##### Attendance policy
 
@@ -23,12 +23,12 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 
 7) Students who did not attain at least a 75% in attendance may not be allowed to sit for exams.  Please note that absence from school shall be permitted when it is supported by a Medical Certificate (MC) or Parents Letter covering 4 days per semester only stating special reasons other than medical.
 
-##### Absence from Weighted Assessment (WA) and Examinations** <br>
+##### Absence from Weighted Assessment (WA) and Examinations <br>
 8) If a student is unwell on the day of an assessment, he/she has to consult a doctor and get a medical certificate for the day of absence. The medical certificate must be submitted to the Form Teacher immediately when the student returns to school. Upon receipt of the medical certificate, the status of the assessment grade will be reflected as “MC”. Proration of marks, based on the other weighted assessments for the year, will be computed and reflected in the progress report accordingly. Only medical certificates issued by doctors registered with the Singapore Medical Council are accepted.
 
 9) For non-medical reasons, students are expected to notify the school of their absence through the Form Teacher at the earliest possible time. If the reason is accepted, the status of the assessment grade will be reflected as “VR” and proration of marks, based on the other weighted assessments for the year, will be computed and reflected in the progress report accordingly.
 
-10) A student without a medical certificate or a valid reason will be given **zero mark** for the paper that he/she has missed. Letters from parents will not be accepted. This is to maintain the authenticity of the test/examination papers and to ensure fairness for all students who have prepared and sat for the papers. While there is no retest or make-up test, students who are absent from the WAs/ examination will be given the paper for practice when he/she returns to school.
+10) A student without a medical certificate or a valid reason will be given zero mark for the paper that he/she has missed. Letters from parents will not be accepted. This is to maintain the authenticity of the test/examination papers and to ensure fairness for all students who have prepared and sat for the papers. While there is no retest or make-up test, students who are absent from the WAs/ examination will be given the paper for practice when he/she returns to school.
 11) WAs and examinations are important checkpoints for students to gauge their learning progress and for teachers to identify learning gaps and conduct remediation. Students are expected to put in effort to prepare and revise for the assessment and be present on days of assessment. Students who miss more than 25% of the assessment for any subject in a year will not be eligible for school-based academic awards.
 
 ##### Parent/Guardian Support 
@@ -37,13 +37,13 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 
 ##### Weighted Assessment for School-Based Assessment 
 
-13) Please see below for the **Weighted Assessment (WA) Schedule** for **Secondary 1 to 3** in the academic year **2023.**
+13) Please see below for the Weighted Assessment (WA) Schedule for Secondary 1 to 3 in the academic year 2023.
 
 [Sec 1 Term 2 Weighted Assessment Plan](/files/2022%20Sec%201%20Term%202%20Consolidated%20Assessment%20Plan.pdf)
 
 [Sec 3 Term 2 Weighted Assessment Plan](/files/2022%20Sec%203%20Term%202%20Consolidated%20Assessment%20Plan.pdf)
 
-14)Please see below for the **Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA** for  the academic year **2023.**
+14)Please see below for the Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA for  the academic year 2023.
 
 [Sec 2ENA Mid-Year Examination Timetable](/files/S2E2NA_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf) <br>
 [Sec 2NT Mid-Year Examination Timetable](/files/S2NT_MYE%202022%20timetable%20updated%2011%20Apr%2022.pdf) <br>
@@ -65,16 +65,15 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 ##### Assessment Weighting
 17) Please see below for the assessment weighting for Secondary 1 to 3 for the academic year 2023.
         
-**Assessment Weighting For Secondary 1**
+Assessment Weighting For Secondary 1
 ![](/images/Capture%201.png)
 
-**Assessment Weighting For Secondary 2**
+Assessment Weighting For Secondary 2
 ![](/images/Capture%202.png)
 
-**Assessment Weighting For Secondary 3**
+Assessment Weighting For Secondary 3
 ![](/images/Capture%204.png)
 
 17) For Sec4E/4N/5N, the overall result is based solely on the Preliminary Examination results. However, there are non-weighted assessment conducted in each of the terms.
 
-Assessment Weighting For Secondary 4E/4NA/4NT/5NA
-
+**Assessment Weighting For Secondary 4E/4NA/4NT/5NA
