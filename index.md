@@ -11,8 +11,6 @@ sections:
       subtitle: Empowering every Bartleyan to lead with wisdom, serve with humility
         and learn with passion.
       background: /images/homepage1.gif
-      button: Latest News
-      url: /LatestNews/
       key_highlights:
         - title: Applied Learning Programme
           description: "Chemical and Applied Sciences "
