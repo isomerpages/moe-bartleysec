@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/Home Based Learning 2022.md
+      - Students/Learners For Life Day.md
       - Students/Basic troubleshooting tips for students using Chromebook.md
       - Students/Accessing Student ICON.md
       - Students/Curriculum Timetable.md
