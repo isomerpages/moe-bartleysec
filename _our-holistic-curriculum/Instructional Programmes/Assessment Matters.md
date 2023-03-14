@@ -4,11 +4,9 @@ permalink: /our-holistic-curriculum/instructional-programmes/assessment-matters/
 description: ""
 third_nav_title: Instructional Programmes
 ---
+### Assessment Plan and Policy 2023
 
-
-### Assessment Plan and Policy 2022
-
-1) The Ministry of Education announced in Sept 2018 several changes to encourage schools and stakeholders to move away from focusing too much on examinations and grades, and to help students to discover the joy of learning.
+1) The Ministry of Education announced in Sept 2018 changes to school-based assessment to shift away from over-emphasis on examinations and grades, and help students discover the joy of learning.
 
 2) In tandem with these changes, there will be only one weighted assessment per subject per term that counts towards the year-end score.  The school will undertake a range of student assessment (e.g. pop quizzes, worksheets, seat work and homework) and reporting (e.g. termly and semestral progress reports) to inform and support student learning. 
 
