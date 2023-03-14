@@ -29,6 +29,7 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 9) For non-medical reasons, students are expected to notify the school of their absence through the Form Teacher at the earliest possible time. If the reason is accepted, the status of the assessment grade will be reflected as “VR” and proration of marks, based on the other weighted assessments for the year, will be computed and reflected in the progress report accordingly.
 
 10) A student without a medical certificate or a valid reason will be given zero mark for the paper that he/she has missed. Letters from parents will not be accepted. This is to maintain the authenticity of the test/examination papers and to ensure fairness for all students who have prepared and sat for the papers. While there is no retest or make-up test, students who are absent from the WAs/ examination will be given the paper for practice when he/she returns to school.
+
 11) WAs and examinations are important checkpoints for students to gauge their learning progress and for teachers to identify learning gaps and conduct remediation. Students are expected to put in effort to prepare and revise for the assessment and be present on days of assessment. Students who miss more than 25% of the assessment for any subject in a year will not be eligible for school-based academic awards.
 
 ##### Parent/Guardian Support 
@@ -47,8 +48,7 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 *To insert schedule*
 
 15) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on.
-
-16)Your child/ward will be duly notified by the respective subject teachers should there be any changes to the assessments conducted as the year progresses.
+16) Your child/ward will be duly notified by the respective subject teachers should there be any changes to the assessments conducted as the year progresses.
 
 ##### Assessment Weighting
 17) Please see below for the assessment weighting for Secondary 1 to 3 for the academic year 2023.
@@ -62,10 +62,10 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 **Assessment Weighting For Secondary 3**
 ![](/images/Capture%204.png)
 
-17) For Sec4E/4N/5N, the overall result is based solely on the Preliminary Examination results. However, there are non-weighted assessment conducted in each of the terms.
+18) For Sec4E/4N/5N, the overall result is based solely on the Preliminary Examination results. However, there are non-weighted assessment conducted in each of the terms.
 
 **Assessment Weighting For Secondary 4E/4NA/4NT/5NA**
 
 ![](/images/Capture5.png)
 
-18) Thank you for your kind attention.
+19) Thank you for your kind attention.
