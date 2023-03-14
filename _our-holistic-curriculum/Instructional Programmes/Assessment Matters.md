@@ -58,13 +58,14 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 [Sec 4NT Mid-Year Examination Timetable](/files/S4NT_MYE%202022%20timetable%20updated%206%20Apr%2022.pdf) <br>
 [Sec 4NT Mid-Year Examination Topics](/files/Sec%204NT%20MYE%20Topics%202022.pdf)
 
-16) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on.
+15) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on.
 
-17) Your child/ward will be duly notified by the respective subject teachers should there be any changes to the assessments conducted as the year progresses.
+16)Your child/ward will be duly notified by the respective subject teachers should there be any changes to the assessments conducted as the year progresses.
 
-18) Thank you for your kind attention.
+##### Assessment Weighting
+17) Please see below for the assessment weighting for Secondary 1 to 3 for the academic year 2023.
+        
+**Assessment Weighting For Secondary 1**
 
-Yours sincerely, <br>
-Mr Ng Chor Yam <br>
-Vice Principal (Academic) <br>
-Bartley Secondary School
+
+
