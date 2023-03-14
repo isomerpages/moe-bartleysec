@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/June Intensive Timetable for 4E5N, 4NA and 4NT students (31st
-        May to 7th June).md
       - Students/Home Based Learning 2022.md
       - Students/Basic troubleshooting tips for students using Chromebook.md
       - Students/Accessing Student ICON.md
