@@ -4,7 +4,6 @@ permalink: /our-holistic-curriculum/co-curricular-activities/clubs-n-societies/s
 description: ""
 third_nav_title: Clubs And Societies
 ---
-
 ![](/images/Service-Learning-Club-Formal.jpg)
 
 ### Vision:
@@ -15,7 +14,8 @@ Ms N Prema <br>
 Ms Nurul
 
 **CCA Teachers:** <br>
-Mr Darren Tham 
+Mr Darren Tham <br>
+Mrs Ho-Chan Choy Har
 
 **About our CCA** <br>
 Service Learning Club provides vast opportunities for students to reach out to both their school community and the external community in diverse ways be it to serve the elderly , the physically challenged , raise funds for the needy and to protect the environment they live in by ensuring the eco balance is not endangered. All members gain experience in planning their VIAs and initiating VIAs with teamwork and reflecting on it thereafter to make the necessary improvements. Besides, they also equip themselves with effective communciation skills when interacting with the elderly and the sick. The CCA aims to inculcate and nurture the passion for service as a lifelong skill for the students so that they will always spare a thought for the good of the society they live in and be active citizens.
