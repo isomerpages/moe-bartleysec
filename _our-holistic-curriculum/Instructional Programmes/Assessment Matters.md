@@ -23,9 +23,9 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 
 7) Students who did not attain at least a 75% in attendance may not be allowed to sit for exams.  Please note that absence from school shall be permitted when it is supported by a Medical Certificate (MC) or Parents Letter covering 4 days per semester only stating special reasons other than medical.
 
-**Absence from Weighted Assessment (WA) and Examinations** <br>
-8) A student who is absent for a paper due to illness must produce a medical certificate (only medical certificates from a doctor registered with the Singapore Medical Council are accepted).  For students with a valid reason for their absence, ‘VR’ (valid reason) would be reflected for the CA/SA and a proration of the marks will be reflected in the semestral reports.
-
+##### Absence from Weighted Assessment (WA) and Examinations** <br>
+8)
+If a student is unwell on the day of an assessment, he/she has to consult a doctor and get a medical certificate for the day of absence. The medical certificate must be submitted to the Form Teacher immediately when the student returns to school. Upon receipt of the medical certificate, the status of the assessment grade will be reflected as “MC”. Proration of marks, based on the other weighted assessments for the year, will be computed and reflected in the progress report accordingly. Only medical certificates issued by doctors registered with the Singapore Medical Council are accepted.
 9) A student without a medical certificate will be given zero mark for the paper that he/she missed. Letters from parents will not be accepted. Any student who is absent for any WA/examination will not be able to sit for that particular paper and the paper will be given as a practice paper.  There is no retest or make-up test as this is consistent with that of the conduct of the national examinations where there is no re-take of examination paper missed.
 
 10) All documents to validate a student’s absence from school must be submitted to the Form Teacher immediately, once the student returns to school.
