@@ -66,6 +66,12 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 17) Please see below for the assessment weighting for Secondary 1 to 3 for the academic year 2023.
         
 **Assessment Weighting For Secondary 1**
+![](/images/Capture%201.png)
 
+**Assessment Weighting For Secondary 2**
+![](/images/Capture%202.png)
 
+**Assessment Weighting For Secondary 3**
+![](/images/Capture%204.png)
 
+17) 
