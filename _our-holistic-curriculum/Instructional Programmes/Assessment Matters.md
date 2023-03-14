@@ -12,14 +12,16 @@ third_nav_title: Instructional Programmes
 
 3)   In addition, there will be no mid-year examination for all levels..  
 
-**Attendance Policy** <br>
-4) The staff of Bartley Secondary School works hard to design interesting and engaging programmes so that learning is meaningful to ignite the passion and joy for learning in our students.  Students can only benefit fully from these programmes by being present, punctual and participating actively in all school programmes.  
+##### Attendance policy
 
-5) Every single day a child is absent from school equates to a day of lost learning.  Parents are to note the start and end dates of each term in the academic year.  All students are expected to be present and to attend lessons during term time, as well as all other school activities that have been planned for them.
+4) Our teachers work hard to ignite passion and joy for learning in our students through meaningful and engaging learning experiences. Students can only benefit fully from these  learning experiences by being present, punctual and active in class.  
+
+5) 
+Every single day a child is absent from school is a day of learning lost.  Parents are to note the start and end dates of each term in the academic year.  All students are expected to be present and to attend lessons during term time, as well as all other school activities that have been planned for them.
  
-6) A student’s attendance and punctuality are recorded in his/her academic report (termly and semestral) as the number of school days present and instances of late coming. 
+6) A student’s attendance and punctuality are recorded in his/her academic report (termly and semestral) as the number of school days present and instances of late coming.
 
-7) In order to sit for examinations, students have to attain at least 75% in attendance.  In other words, their absence accounted for by medical certificates and parent’s letters must not exceed 25%.  The school will only accept a maximum of 4 parents’ / guardian’s letter per year.
+7) Students who did not attain at least a 75% in attendance may not be allowed to sit for exams.  Please note that absence from school shall be permitted when it is supported by a Medical Certificate (MC) or Parents Letter covering 4 days per semester only stating special reasons other than medical.
 
 **Absence from Weighted Assessment (WA) and Examinations** <br>
 8) A student who is absent for a paper due to illness must produce a medical certificate (only medical certificates from a doctor registered with the Singapore Medical Council are accepted).  For students with a valid reason for their absence, ‘VR’ (valid reason) would be reflected for the CA/SA and a proration of the marks will be reflected in the semestral reports.
