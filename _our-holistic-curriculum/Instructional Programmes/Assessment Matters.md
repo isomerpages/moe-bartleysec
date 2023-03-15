@@ -38,14 +38,17 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 
 ##### Weighted Assessment for School-Based Assessment 
 
-13) Please see below for the Weighted Assessment (WA) Schedule for Secondary 1 to 3 in the academic year 2023.
+13) Please click on the links below for the Term 2 Weighted Assessment (WA) Schedule for Secondary 1 to 3 in the academic year 2023.
 
 
-*to insert schedule*
+Secondary 1 <br>
+[Sec 1 Term 2 WA Schedule](/files/S1_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)<br> 
+[Sec 2 Term 2 WA Schedule](/files/S2_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)<br>
+[Sec 3 Term 2 WA Schedule](/files/S3_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)
 
-14) Please see below for the Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA for  the academic year 2023.
+14) Please click on the link below for the Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA for  the academic year 2023.
 
-*To insert schedule*
+[Sec 4E/4NA/4NT/5NA Term 2 NWA Schedule](/files/S4_5_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)
 
 15) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on.
 16) Your child/ward will be duly notified by the respective subject teachers should there be any changes to the assessments conducted as the year progresses.
