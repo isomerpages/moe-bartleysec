@@ -146,42 +146,29 @@ description: ""
 
 <p> </p>
 
-| SEC 4 FORM TEACHERS |  | EMAIL ADDRESS |
+| SEC 5 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
-| 4E1 | MR NG TIAN LYE ALEX | ng_tian_lye_alex@schools.gov.sg |
-|  | MS LEO MINYIN | leo_minyin@schools.gov.sg |
-| 4E2 | MR YONG FOO NYEN | yong_foo_nyen@schools.gov.sg |
-|  | MS SITI RAMZIYANI BTE RAMDZAN | siti_ramziyani_ramdzan@schools.gov.sg |
-| 4E3 | MS YANG YAN JIA | yang_yanjia@schools.gov.sg |
-|  | MR YEO NG JUN ALLEN | yeo_neng_jun_allen@schools.gov.sg |
-| 4E4 | MDM PANG SWEE LEE | pang_swee_lee@schools.gov.sg |
-|  | MR ANG YONG AN | ang_yong_an@schools.gov.sg |
-| 4N1 | MR SEAH YANG HOW FINIAN | seah_yang_how_finian@schools.gov.sg |
-|  | MS SUN MENGYI | sun_mengyi@schools.gov.sg |
-| 4N2 | MS RADIANA RAZA ALI | radiana_raza_ali@schools.gov.sg |
-|  | MS PREMA D/O NARAYANASAMY | prema_narayanasamy@schools.gov.sg |
-| 4T1 | MS NADIA BTE ROSLI | nadia_rosli@schools.gov.sg |
-|  | MR KOH MUI PONG THOMAS | koh_mui_pong@schools.gov.sg |
-| 4T2 | MR KHOO GHIM SOON EDWARD | khoo_ghim_soon@schools.gov.sg |
-| 5N1 | MDM KARTINI BTE YAYIT | kartini_yayit@schools.gov.sg |
-|  | MR LIM YONGDA DOMINIC | lim_yongda_dominic@schools.gov.sg |
-|  | MS NURUL ARIQAFITRI BINTE JUMARI | nurul_ariqafitri@schools.gov.sg |
+| 5 EXCELLENCE 1 | MS YAP BEE HONG | yap_bee_hong@schools.gov.sg |
+|  | MR YONG FOO NYEN|yong_foo_nyen@schools.gov.sg |
+
 
 <p> </p> 
 
 | TEACHERS | EMAIL ADDRESS |
 |---|---|
-| MDM NEO HWEE KOON | neo_hwee_koon@moe.edu.sg |
-| MS GAYATHRI SUBRAMANIAM | gayathri_subramaniam@moe.edu.sg |
+| MR SEAH CHIN LIANG | seah_chin_liang_a@moe.edu.sg|
+|MS GAYATHRI SUBRAMANIAM|gayathri_subramaniam@moe.edu.sg |
 | MS SOLOMONCHRLES PAULIN THEBORAL | solomonchrles_paulin_theboral@schools.gov.sg |
+|MRS TAN MING NGO|tan_ming_ngo@moe.edus.g|
+|MDM TAN CHIEW KWEE|tan_chiew_kwee@schools.gov.sg
 
 <p> </p>
 
 | DESIGNATION | SUPPORT STAFF | EMAIL ADDRESS |
 |---|---|---|
 | ICT MANAGER | MR MUHD ILYIA KAMSAI | muhammad_Ilyia_kamsani@schools.gov.sg |
-| AED COUNSELLING | ZARINA ABDUL PATAH | zarina_abdul_patah@schools.gov.sg |
-| SCHOOL COUNSELLOR | RYAN CHIN WEI XIONG | chin_wei_xiong_ryan@moe.edu.sg |
-| STUDENT WELFARE OFFICER | KAVIKUMAR S/O SUGUMARAN | kavikumar_sugumaran@schools.gov.sg |
+|SCHOOL COUNSELLOR | MDM ZARINA ABDUL PATAH | zarina_abdul_patah@schools.gov.sg |
+| STUDENT WELFARE OFFICER | MS SITI FATYAH BINTE MOHD YAHKUP|siti_fatyah_mohd_yahkup@schools.gov.sg |
 | AED LEARNING & BEHAVIOURAL SUPPORT | MUHAMMAD AMALLUDIN RATEMAN | muhammad_amalludin_rateman@schools.gov.sg |
-| ECG COUNSELLING | VALERIE PHUA | phua_chay_khim_valerie@schools.gov.sg |
+|SPECIAL EDUCATIONAL NEEDS OFFICER|MR MUHAMMAD AMALLUDIN RATEMAN|muhammad_amalludin_rateman@schools.gov.sg|
+| ECG COUNSELLING | MS VALERIE PHUA | phua_chay_khim_valerie@schools.gov.sg |
