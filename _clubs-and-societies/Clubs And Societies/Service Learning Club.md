@@ -4,8 +4,6 @@ permalink: /our-holistic-curriculum/co-curricular-activities/clubs-n-societies/s
 description: ""
 third_nav_title: Clubs And Societies
 ---
-![](/images/Service-Learning-Club-Formal.jpg)
-
 ### Vision:
 A gracious and compassionate club that shows care and concern to the community.
 
