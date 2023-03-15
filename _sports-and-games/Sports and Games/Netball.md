@@ -14,7 +14,7 @@ Ms Jasmine Kaur <br>
 Ms Lo Wan Ling
 
 **CCA Teacher:** <br>
-Ms Tay Ling Ling
+Mrs Bhanu Raj
 
 
 **About our CCA** <br>
