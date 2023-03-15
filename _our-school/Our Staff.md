@@ -35,10 +35,10 @@ description: ""
 | HOD ICT | MS SOH MEI YEE | soh_mei_yee@schools.gov.sg  |
 | SH KNOWLEDGE MANAGEMENT | MR CHUA WEI GUAN | chua_wei_guan@schools.gov.sg |
 |  SUBJECT HEAD STUDENT LEADERSHIP|  MS LIM YI WEI | lim_yi_wei@schools.gov.sg  |
-| YEAR HEAD<br>(SEC 1) | MR LIU KAH YANG | liu_kah_yang@schools.gov.sg |
-| ASSISTANT YEAR HEAD <br>(SEC 2) | MS GAN PEI LING | gan_pei_ling@schools.gov.sg |
-| YEAR HEAD<br>(SEC 3) | MR SIM LAI HENG | sim_lai_heng@schools.gov.sg |
-| ASSISTANT YEAR HEAD<br>(SEC 4&5) | MS LEE KIA LI | lee_kia_li@schools.gov.sg |
+|YEAR HEAD<br>(SEC 1)|MS LEE KIA LI|lee_kia_li@schools.gov.sg|
+| YEAR HEAD<br>(SEC 2) | MR LIU KAH YANG |liu_kah_yang@schools.gov.sg |
+|YEAH HEAD<br>(SEC 3)| MR TAN KENJIN|tan_ken_jin@schools.gov.sg|
+| YEAR HEAD<br>(SEC 4 & 5) | MR SIM LAI HENG | sim_lai_heng@schools.gov.sg |
 
 <p> </p>
 
