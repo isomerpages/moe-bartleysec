@@ -129,20 +129,19 @@ description: ""
 |  | MR CHUA WEI GUAN | chua_wei_guan@schools.gov.sg |
 | 4 EXCELLENCE 2 | MS CEZANNE CHOO SHA MIN | cezanne_choo_sha_min@schools.gov.sg |
 | | MS TEO MIN RU|teo_min_ru@schools.gov.sg
-|  | MR KIONG YEW LOON | MR KIONG YEW LOON|
-| 3E3 | MS YUEN YUET WAN | yuen_yuet_wan@schools.gov.sg |
-|  | MR KIONG YEW LOON | KIONG|
-| 3E4 | MR LEE GUO SHENG | lee_guo_sheng@schools.gov.sg |
+| 4 EXCELLENCE 3 | MS YUEN YUET WAN | yuen_yuet_wan@schools.gov.sg |
+|  | MR KIONG YEW LOON | kiong_yew_loon@schools.gov.sg|
+| 4 EXCELLENCE 4 | MR LEE GUO SHENG | lee_guo_sheng@schools.gov.sg |
 |  | MS TING CHU HWEE AGNES | ting_chu_hwee_agnes@schools.gov.sg |
-| 3E5 | MR HAN YUN HAO | han_yunhao@schools.gov.sg |
+| 4 EXCELLENCE 5 | MR HAN YUN HAO | han_yunhao@schools.gov.sg |
 |  | MS JULIET TAY  | Tay_Yan_Cheng_Juliet@schools.gov.sg  |
-| 3N1 | MS LIU MANRU MANDY | liu_manru_mandy@schools.gov.sg |
-|  | MR SEAK YOULIANG | seak_you_liang@schools.gov.sg |
-| 3N2 | MS QUEK SHIR RYN | Quek_shir_ryn@schools.gov.sg |
+| 4 EXCELLENCE 6| MR SEAK YOULIANG | seak_you_liang@schools.gov.sg |
+| | MISS SOH CHENG WEN|soh_cheng_wen@schools.gov.sg|
+| 4 EXCELLENCE 7 | MR LIEW KIAN PENG | lew-kian_peng@schools.gov.sg |
 |  | MR JAMAL ABDUL NAZAR | jamal_abdul_nazar@schools.gov.sg |
-| 3T1 | MS LO WAN LING | lo_wan_ling@schools.gov.sg |
+| 4 EXCELLENCE 8 | MS LO WAN LING | lo_wan_ling@schools.gov.sg |
 |  | MR LOW SWEE TAT | low_swee_tat@schools.gov.sg |
-| 3T2 | MS JASMINE KAUR | jasmine_kaur_daljit_singh@schools.gov.sg |
+| 4 EXCELLENCE 9| MS JASMINE KAUR | jasmine_kaur_daljit_singh@schools.gov.sg |
 |  | MS NURUL ARIQAFITRI BINTE JUMARI | nurul_ariqafitri@schools.gov.sg |
 
 <p> </p>
