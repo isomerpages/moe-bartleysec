@@ -98,7 +98,7 @@ description: ""
 <p></P>
 
 
-| SEC 2 FORM TEACHERS |  | EMAIL ADDRESS |
+| SEC 3 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
 | 2E1 | MS NG LI YA | ng_li_ya@schools.gov.sg |
 |  | MR MUHAMMAD BAZLEE BAKTHIAR | muhammad_bazlee_bakhtiar_afandi@schools.gov.sg |
