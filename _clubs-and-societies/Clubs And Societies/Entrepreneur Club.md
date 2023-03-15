@@ -4,9 +4,6 @@ permalink: /our-holistic-curriculum/co-curricular-activities/clubs-n-societies/e
 description: ""
 third_nav_title: Clubs And Societies
 ---
-
-![](/images/Entrepreneur-Club-Formal.jpg)
-
 ### Vision:
 To excel in the ever-changing world of business and finance.
 
