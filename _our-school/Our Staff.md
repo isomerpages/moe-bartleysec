@@ -58,9 +58,8 @@ description: ""
 | | MRS TAN LEE PUAY HOON| lee_puay_hoon_a@schools.gov.sg|
 |1 COURAGE 2| MR FINIAN SEAH|seah_yang_how_finian@schools.gov.sg|
 | | MDM CHAN HWEE PING| chan_hwee_ping@schools.gov.sg|
-|  | MR MELVIN SOH  CHIN AIK | melvin_soh_chin_aik@schools.gov.sg |
-| 1E2 | MS DAHLIA BINTE ABDUL SAMAD | dahlia_abdul_samad@schools.gov.sg |
-|  | MR LIM MING WEI, JERALD | lim_ming_wei_jerald@schools.gov.sg |
+| 1 COURAGE 3 | MSLEO MINYIN | leo_minyin@schools.gov.sg |
+|  | MR MUHAMMAD BAZLEE BAKTHIAR | muhammad_bazlee_bakhtiar_afandi@schools.gov.sg |
 | 1E3 | MR ISACK KUMAR LOUIS | isack_kumar_louis@schools.gov.sg |
 |  | MS BRENDA TEO YAN LING | brenda_teo_yan_ling@schools.gov.sg |
 |  | MR SEAH CHIN LIANG | seah_chin_liang@schools.gov.sg |
