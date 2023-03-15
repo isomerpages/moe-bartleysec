@@ -101,11 +101,12 @@ description: ""
 | SEC 3 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
 | 3 RESPECT 1 | MS SITI RAMZIYANI BTE RAMDZAN | siti_ramziyani_ramdzan@schools.gov.sg |
-|  | MR MUHAMMAD BAZLEE BAKTHIAR | muhammad_bazlee_bakhtiar_afandi@schools.gov.sg |
-| 2E2 | MR CHUA FENG QIAN DAVID | david_chua_feng_qian@schools.gov.sg |
-|  | MS LOH SEE MING | loh_see_ming@schools.gov.sg |
-| 2E3 | MR CHAND FEROZ CHAND FARSHAD | farshad_chand_feroz_chand@schools.gov.sg |
-|  | MS ERICA YAP XIN YIN | yap_xin_yin_erica@moe.edu.sg |
+|  | MS QUEK SHIR RYN | quek_shir_ryn@schools.gov.sg |
+| | MDM KHOO BEE RUI ANGELINA| khoo_bee_rui_angelina@schools.gov.sg|
+| 3 RESPECT 2 | MS ERICA YAP XIN YIN | yap_xin_yin_erica@schools.gov.sg |
+|  | MR LIM YONGDA DOMINIC | llim_yongda_dominic@schools.gov.sg |
+| 3 RESPECT 3 | MR TAN CHEE KEONG | tan_chee_keong@schools.gov.sg |
+|  | MR ROY CHEW|  roy_chew_hock_wu@moe.edu.sg |
 | 2E4 | MS YAP BEE HONG | yap_bee_hong@schools.gov.sg |
 |  | MR MUHAMMAD SYAHEENUL AIMAN BIN NASIMAN | muhammad_syaheenul_aiman_nasiman@schools.gov.sg |
 | 2N1 | MS MEHRAJ BEGUM BINTI KADER GHOUSE | mehraj_begum_kader_ghouse@schools.gov.sg |
