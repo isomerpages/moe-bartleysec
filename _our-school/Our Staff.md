@@ -60,12 +60,11 @@ description: ""
 | | MDM CHAN HWEE PING| chan_hwee_ping@schools.gov.sg|
 | 1 COURAGE 3 | MSLEO MINYIN | leo_minyin@schools.gov.sg |
 |  | MR MUHAMMAD BAZLEE BAKTHIAR | muhammad_bazlee_bakhtiar_afandi@schools.gov.sg |
-| 1E3 | MR ISACK KUMAR LOUIS | isack_kumar_louis@schools.gov.sg |
-|  | MS BRENDA TEO YAN LING | brenda_teo_yan_ling@schools.gov.sg |
-|  | MR SEAH CHIN LIANG | seah_chin_liang@schools.gov.sg |
-| 1E4 | MR DARREN THAM HWI JIN | darren_tham_hwi_jin@schools.gov.sg |
-|  | MRS FOO LING LING | tay_ling_ling@schools.gov.sg |
-| 1E5 | MDM KIREN  KAUR GILL | kiren_kaur_gill@schools.gov.sg |
+| 1 COURAGE 4| MS LOH SEE MING | loh_see_ming@schools.gov.sg |
+|  | MRS BHANU RAJ| bhanumathy_ganapathy@schools.gov.sg |
+| 1 COURAGE 5 | MR N PREMA | prema_narayanasamy@schools.gov.sg |
+|  | MR MUHAMMAD SYAHEENUL AIMAN BIN NASIMAN | muhammad_syaheenul_aiman@schools.gov.sg |
+| 1 COURAGE 6 | MDM KIREN  KAUR GILL | kiren_kaur_gill@schools.gov.sg |
 |  | MS NG JIE YING LYDIA | ng_jie_ying_lydia@schools.gov.sg |
 | 1N1 | MS MAISARAH BTE HARON | maisarah_haron@schools.gov.sg |
 |  | MR ROY CHEW | roy_chew_hock_wu@schools.gov.sg |
