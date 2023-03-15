@@ -37,7 +37,7 @@ description: ""
 |  SUBJECT HEAD STUDENT LEADERSHIP|  MS LIM YI WEI | lim_yi_wei@schools.gov.sg  |
 |YEAR HEAD<br>(SEC 1)|MS LEE KIA LI|lee_kia_li@schools.gov.sg|
 | YEAR HEAD<br>(SEC 2) | MR LIU KAH YANG |liu_kah_yang@schools.gov.sg |
-|YEAH HEAD<br>(SEC 3)| MR TAN KENJIN|tan_ken_jin@schools.gov.sg|
+|YEAR HEAD<br>(SEC 3)| MR TAN KENJIN|tan_ken_jin@schools.gov.sg|
 | YEAR HEAD<br>(SEC 4 & 5) | MR SIM LAI HENG | sim_lai_heng@schools.gov.sg |
 
 <p> </p>
