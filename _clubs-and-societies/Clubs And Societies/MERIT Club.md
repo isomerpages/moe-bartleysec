@@ -18,7 +18,8 @@ Ms Rohaiza
 Student members are active learners and contributors who give back to the community. The club comprises of a team of dedicated members who are responsible of providing media support and photography skills to all school events/functions, such as Chinese New Year, Racial Harmony Day, National Day, Commendation Day and various themed activities. Our members are trained to control and setup the lightings and sound system during Morning Assembly regularly. When opportunity arises, the student members also contribute their photographs to the school
 publications. Students are also given the opportunities to take part in various national level competitions such as Schools Digital Media Awards, N.E.mation and the Singapore National Co-operative Federation.
 
-**Achievements** <br>
-NYAA Awardees
+**Achievements**<br>
+NYAA Awardees<br>
 
-![](/images/photo_2022-06-07_16-28-53.jpg)
+*Merit Club teachers and students in action*
+![](/images/Merit.png)
