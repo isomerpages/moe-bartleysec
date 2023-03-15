@@ -4,8 +4,6 @@ permalink: /our-holistic-curriculum/co-curricular-activities/sports-n-games/sepa
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/Sepak-Takraw-Formal.jpg)
-
 ### Vision
 A team that believes in working hard with a never say die attitude in becoming the best whilst showing class and sportsmanship at all times.
 
@@ -21,8 +19,7 @@ Ms Maisarah Bte Haron
 **CCA Teachers:** <br>
 Mr Jamal Abdul Nazar
 
-![](/images/With%20the%20Teachers.jpg)
-Team with the teachers
+**B Division Boys Champion**
 
-![](/images/With%20the%20Teachers%20(1).jpg)
-C Boys Team
+![B Division Boys- Champion [2023]](/images/takraw.jpg)
+![](/images/Takraw.png) 
