@@ -4,8 +4,6 @@ permalink: /our-holistic-curriculum/co-curricular-activities/sports-n-games/foot
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/Football-Formal.jpg)
-
 ### Vision:
 To develop student athletes physically, mentally, and emotionally with an emphasis on sportsmanship, respect and teamwork.
 
@@ -15,9 +13,10 @@ Mr Syafiq Subair Muhammad
 
 **CCA Teachers** <br>
 Mr Kamil Kassim
+Mr Joel Tan
 
 **Coaches** <br>
-Mr Jeffery Macpherson
+Mr Jeffery Macpherson<br>
 Mr Gareth Chan
 
 **About our CCA** <br>
