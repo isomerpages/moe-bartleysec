@@ -115,7 +115,7 @@ description: ""
 |  | MS RADIANA RAZA ALI| radiana_raza_ali@schools.gov.sg |
 | 3 RESPECT 7 | MDM KARTINI BTE YAYIT| kartini_yayit@schools.gov.sg |
 |  | MR YEO NENG JUN ALLEN | yeo_neng_jun_allen@schools.gov.sg |
-| 2T2 | MS SITI JAMILAH BTE JUHARI | siti_jamilah_juhairi@schools.gov.sg |
+| 3 RESPECT 8 | MS SITI JAMILAH BTE JUHARI | siti_jamilah_juhairi@schools.gov.sg |
 |  | MR WONG WUN HEI, JONATHAN | wong_wun_hei_jonathan@schools.gov.sg |
 
 <p> </p> 
