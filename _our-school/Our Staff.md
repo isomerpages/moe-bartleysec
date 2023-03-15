@@ -86,15 +86,14 @@ description: ""
 |  | MR CHUA FENG QIAN DAVID | david_chua_feng_qian@schools.gov.sg |
 | 2 OPTIMISIM 6 | MS MAISARAH BTE HARON | maisarah_haron@schools.gov.sg |
 |  | MR IGNATIUS LIEN CHEONG WEE | ignatius_lien@schools.gov.sg |
-| 1N2 | MR SNG MENG WEI | sng_meng_wei@schools.gov.sg |
+| 2 OPTIMISM 7 | MR ANG YONG AN| ang_yong_an@schools.gov.sg |
 |  | MS SITI ROHAIZA BTE MOHD RAFI'EE | siti_rohaiza_mohamed_rafiee@schools.gov.sg |
-| 1T1 | MR KAMIL BIN MOHD KASSIM | kamil_kassim@schools.gov.sg |
+|2 OPTIMISM 8 | MR KAMIL BIN MOHD KASSIM | kamil_kassim@schools.gov.sg |
 |  | MS LIM YI WEI | lim_yi_wei@schools.gov.sg |
-| 1T2 | MDM SURIANI BTE KHAILANI | suriani_khailani@schools.gov.sg |
+| | MRS HO-CHAN CHOY HAR|chan_choy_har@schools.gov.sg|
+| 2 OPTIMISM 9 | MDM SURIANI BTE KHAILANI | suriani_khailani@schools.gov.sg |
 |  | MR TAN JIA YI, JOEL | tan_jia_yi_joel@schools.gov.sg |
-| ASSISTANT YEAR HEAD <br>(SEC 2) | MS GAN PEI LING | gan_pei_ling@schools.gov.sg |
-| YEAR HEAD<br>(SEC 3) | MR SIM LAI HENG | sim_lai_heng@schools.gov.sg |
-| ASSISTANT YEAR HEAD<br>(SEC 4&5) | MS LEE KIA LI | lee_kia_li@schools.gov.sg |
+
 
 <p></P>
 
