@@ -123,14 +123,15 @@ description: ""
 
 <p> </p> 
 
-| SEC 3 FORM TEACHERS |  | EMAIL ADDRESS |
+| SEC 4 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
-| 3E1 | MR ONG GUAN KUN EDMUND | ong_guan_kun@schools.gov.sg |
-|  | MR TAN CHEE KEONG | tan_chee_keong_a@schools.gov.sg |
-| 3E2 | MR LEW KIAN PENG | Lew_kian_peng@schools.gov.sg |
-|  | MR KIONG YEW LOON | kiong_yew_loon@schools.gov.sg |
+| 4 EXCELLENCE 1 | MR ONG GUAN KUN EDMUND | ong_guan_kun@schools.gov.sg |
+|  | MR CHUA WEI GUAN | chua_wei_guan@schools.gov.sg |
+| 4 EXCELLENCE 2 | MS CEZANNE CHOO SHA MIN | cezanne_choo_sha_min@schools.gov.sg |
+| | MS TEO MIN RU|teo_min_ru@schools.gov.sg
+|  | MR KIONG YEW LOON | MR KIONG YEW LOON|
 | 3E3 | MS YUEN YUET WAN | yuen_yuet_wan@schools.gov.sg |
-|  | MS CEZANNE CHOO SHA MIN | cezanne_choo_sha_min@schools.gov.sg |
+|  | MR KIONG YEW LOON | KIONG|
 | 3E4 | MR LEE GUO SHENG | lee_guo_sheng@schools.gov.sg |
 |  | MS TING CHU HWEE AGNES | ting_chu_hwee_agnes@schools.gov.sg |
 | 3E5 | MR HAN YUN HAO | han_yunhao@schools.gov.sg |
