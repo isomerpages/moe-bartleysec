@@ -117,6 +117,9 @@ description: ""
 |  | MR YEO NENG JUN ALLEN | yeo_neng_jun_allen@schools.gov.sg |
 | 3 RESPECT 8 | MR MUHAMMAD SYAFIQ| muhammad_syafiq_subair@schools.gov.sg |
 | | MS NADIA BTE ROSLI| nadia_rosli@schools.gov.sg |
+|3 RESPECT 9| MR KHOO GHIM SOON EDWARD| khoo_ghim_soon@schools.gov.sg|
+| | MS GAN PEI LING| gan_pei_ling@schools.gov.sg|
+
 
 <p> </p> 
 
