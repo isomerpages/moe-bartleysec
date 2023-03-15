@@ -4,8 +4,6 @@ permalink: /our-holistic-curriculum/co-curricular-activities/sports-n-games/netb
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/NETBALL-Formal.jpg)
-
 ### Vision:
 To groom each netballer with teamwork and netball competencies for a united and dynamic team.
 
