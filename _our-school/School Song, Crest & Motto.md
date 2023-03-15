@@ -38,4 +38,4 @@ To stand up to the fray <br>
 
 ##### School Song
 
-</insert audio file>
+[Bartley School Song](https://www.youtube.com/watch?v=RZ9y5v5qYvY&t=11s)
