@@ -107,10 +107,10 @@ description: ""
 |  | MR LIM YONGDA DOMINIC | llim_yongda_dominic@schools.gov.sg |
 | 3 RESPECT 3 | MR TAN CHEE KEONG | tan_chee_keong@schools.gov.sg |
 |  | MR ROY CHEW|  roy_chew_hock_wu@moe.edu.sg |
-| 2E4 | MS YAP BEE HONG | yap_bee_hong@schools.gov.sg |
-|  | MR MUHAMMAD SYAHEENUL AIMAN BIN NASIMAN | muhammad_syaheenul_aiman_nasiman@schools.gov.sg |
-| 2N1 | MS MEHRAJ BEGUM BINTI KADER GHOUSE | mehraj_begum_kader_ghouse@schools.gov.sg |
-|  | MDM TAN CHIEW KWEE | tan_chiew_kwee@schools.gov.sg |
+| 3 RESPECT 4 | MS YANG YAN JIA | yang_yanjia@schools.gov.sg| 
+| | MR GOH WEN XUAN BENJAMIN| goh_wen_xuan_benjamin@schools.gov.sg|
+| 3 RESPECT 5 | MDM PANG SWEE LEE | pang_swee_lee@schools.gov.sg |
+|  | MR CHAND FEROZ CHAND FARSHAD|  farshad_chand_feroz_chand@schools.gov.sg |
 | 2N2 | MDM ZAIHANA BTE AHMAD | zaihana_ahmad@schools.gov.sg |
 |  | MR IGNATIUS LIEN CHEONG WEE | ignatius_lien@schools.gov.sg |
 | 2T1 | MR MUHAMMAD SYAFIQ | muhammad_syafiq_subair@schools.gov.sg |
