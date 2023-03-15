@@ -78,15 +78,14 @@ description: ""
 | | MDM YANG HUI QIN | yang_huiqin@schools.gov.sg |
 | 2 OPTIMISM 2 | MS DAHLIA BINTE ABDUL SAMAD | dahlia_abdul_samad@schools.gov.sg|
 | | MS MEHRAJ BEGUM BINTI KADER GHOUSE| mehraj_begum_kader_ghouse@schools.gov.sg
-| 1E3 | MR ISACK KUMAR LOUIS | isack_kumar_louis@schools.gov.sg |
+| 2 OPTIMISM 3 | MR ISACK KUMAR LOUIS | isack_kumar_louis@schools.gov.sg |
 |  | MS BRENDA TEO YAN LING | brenda_teo_yan_ling@schools.gov.sg |
-|  | MR SEAH CHIN LIANG | seah_chin_liang@schools.gov.sg |
-| 1E4 | MR DARREN THAM HWI JIN | darren_tham_hwi_jin@schools.gov.sg |
+| 2 OPTIMISM 4 | MR DARREN THAM HWI JIN | darren_tham_hwi_jin@schools.gov.sg |
 |  | MRS FOO LING LING | tay_ling_ling@schools.gov.sg |
-| 1E5 | MDM KIREN  KAUR GILL | kiren_kaur_gill@schools.gov.sg |
-|  | MS NG JIE YING LYDIA | ng_jie_ying_lydia@schools.gov.sg |
-| 1N1 | MS MAISARAH BTE HARON | maisarah_haron@schools.gov.sg |
-|  | MR ROY CHEW | roy_chew_hock_wu@schools.gov.sg |
+| 2 OPTIMISM 5 | MDM KIREN  KAUR GILL | kiren_kaur_gill@schools.gov.sg |
+|  | MR CHUA FENG QIAN DAVID | david_chua_feng_qian@schools.gov.sg |
+| 2 OPTIMISIM 6 | MS MAISARAH BTE HARON | maisarah_haron@schools.gov.sg |
+|  | MR IGNATIUS LIEN CHEONG WEE | ignatius_lien@schools.gov.sg |
 | 1N2 | MR SNG MENG WEI | sng_meng_wei@schools.gov.sg |
 |  | MS SITI ROHAIZA BTE MOHD RAFI'EE | siti_rohaiza_mohamed_rafiee@schools.gov.sg |
 | 1T1 | MR KAMIL BIN MOHD KASSIM | kamil_kassim@schools.gov.sg |
