@@ -18,4 +18,4 @@ Mdm Kartini Yayit
 **About our CCA** <br>
 In Volleyball, members will learn volleyball skills, as well as the rules and strategies of the game. Sportsmanship and resilience are key values in the team. Through training and competitions, members build leadership skills and learn to work in teams, to strive to reach their fullest potential.
 
-![](/images/photo_2022-06-07_16-16-07.jpg)
+![](/images/VB.jpg)
