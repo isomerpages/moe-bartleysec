@@ -4,8 +4,6 @@ permalink: /our-holistic-curriculum/co-curricular-activities/sports-n-games/voll
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/VOLLEYBALL-Formal.jpg)
-
 ### Vision:
 To groom each volleyball player with individual skills and teamwork competencies for a dynamic and cohesive team
 
