@@ -111,10 +111,10 @@ description: ""
 | | MR GOH WEN XUAN BENJAMIN| goh_wen_xuan_benjamin@schools.gov.sg|
 | 3 RESPECT 5 | MDM PANG SWEE LEE | pang_swee_lee@schools.gov.sg |
 |  | MR CHAND FEROZ CHAND FARSHAD|  farshad_chand_feroz_chand@schools.gov.sg |
-| 2N2 | MDM ZAIHANA BTE AHMAD | zaihana_ahmad@schools.gov.sg |
-|  | MR IGNATIUS LIEN CHEONG WEE | ignatius_lien@schools.gov.sg |
-| 2T1 | MR MUHAMMAD SYAFIQ | muhammad_syafiq_subair@schools.gov.sg |
-|  | MDM CHAN HWEE PING | chan_hwee_ping@schools.gov.sg |
+| 3 RESPECT 6 | MDM ZAIHANA BTE AHMAD | zaihana_ahmad@schools.gov.sg |
+|  | MS RADIANA RAZA ALI| radiana_raza_ali@schools.gov.sg |
+| 3 RESPECT 7 | MDM KARTINI BTE YAYIT| kartini_yayit@schools.gov.sg |
+|  | MR YEO NENG JUN ALLEN | yeo_neng_jun_allen@schools.gov.sg |
 | 2T2 | MS SITI JAMILAH BTE JUHARI | siti_jamilah_juhairi@schools.gov.sg |
 |  | MR WONG WUN HEI, JONATHAN | wong_wun_hei_jonathan@schools.gov.sg |
 
