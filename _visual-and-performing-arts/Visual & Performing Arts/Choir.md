@@ -4,18 +4,14 @@ permalink: /our-holistic-curriculum/co-curricular-activities/visual-n-performing
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
-![](/images/Choir-Formal.jpg)
-
 ### Vision
 A choir filled with energetic and confident members, passionate in learning and willing to strive to reach our goals.
 
 **CCA Teacher IC** <br>
 Ms Brenda Teo <br>
-Ms Mandy Liu
 
 **CCA Teachers** <br>
-Mr Jerald Lim <br>
+Mrs Foo Ling Ling<br>
 Ms Juliet Tay
 
 **About our CCA** <br>
