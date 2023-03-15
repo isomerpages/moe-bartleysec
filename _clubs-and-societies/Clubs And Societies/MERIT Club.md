@@ -4,9 +4,6 @@ permalink: /our-holistic-curriculum/co-curricular-activities/clubs-n-societies/m
 description: ""
 third_nav_title: Clubs And Societies
 ---
-
-![](/images/Merit-Club-Formal.jpg)
-
 ### Vision:
 The Media Resource cum Information Technology Club (MERIT) is an active learning hub that supports the students in their pursuit for learning with its rich and varied resources. Students get opportunities to nurture their love for photography, videography and computer applications and apply what they learn by putting up varied photographic displays and creating short films. The club also train responsible highly efficient members to provide media support to ensure smooth running of events.
 
