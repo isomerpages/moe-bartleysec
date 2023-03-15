@@ -42,6 +42,46 @@ description: ""
 
 <p> </p>
 
+|SENIOR TEACHERS| | EMAIL ADDRESS|
+|---|---|---|
+|ST CHEMISTRY|MS LEO MINYIN| leo_minyin@schools.gov.sg|
+|ST EDUCATIONAL SUPPORT| MR FINIAN SEAH| seah_yang_how_finian@schools.gov.sg|
+|ST MATHEMATICS| MRS TAN LEE PUAY HOON| lee_puay_hoon_a@schools.gov.sg|
+|ST SOCIAL STUDIES| MR TAN CHEE KEONG| tan_chee_keong@schools.gov.sg|
+|ST TAMIL LANGUAGE| MR ISACK KUMAR LOUIS|isack_kumar_louis@schools.gov.sg|
+
+<p></p>
+
+| SEC 1 FORM TEACHERS |  | EMAIL ADDRESS |
+|---|---|---|
+| 1 COURAGE 1 | MR WONG WUN HEI, JONATHAN | wong_wun_hei_jonathan@schools.gov.sg|
+| | MRS TAN LEE PUAY HOON| lee_puay_hoon_a@schools.gov.sg|
+|1 COURAGE 2| MR FINIAN SEAH|seah_yang_how_finian@schools.gov.sg|
+| | MDM CHAN HWEE PING| chan_hwee_ping@schools.gov.sg|
+|  | MR MELVIN SOH  CHIN AIK | melvin_soh_chin_aik@schools.gov.sg |
+| 1E2 | MS DAHLIA BINTE ABDUL SAMAD | dahlia_abdul_samad@schools.gov.sg |
+|  | MR LIM MING WEI, JERALD | lim_ming_wei_jerald@schools.gov.sg |
+| 1E3 | MR ISACK KUMAR LOUIS | isack_kumar_louis@schools.gov.sg |
+|  | MS BRENDA TEO YAN LING | brenda_teo_yan_ling@schools.gov.sg |
+|  | MR SEAH CHIN LIANG | seah_chin_liang@schools.gov.sg |
+| 1E4 | MR DARREN THAM HWI JIN | darren_tham_hwi_jin@schools.gov.sg |
+|  | MRS FOO LING LING | tay_ling_ling@schools.gov.sg |
+| 1E5 | MDM KIREN  KAUR GILL | kiren_kaur_gill@schools.gov.sg |
+|  | MS NG JIE YING LYDIA | ng_jie_ying_lydia@schools.gov.sg |
+| 1N1 | MS MAISARAH BTE HARON | maisarah_haron@schools.gov.sg |
+|  | MR ROY CHEW | roy_chew_hock_wu@schools.gov.sg |
+| 1N2 | MR SNG MENG WEI | sng_meng_wei@schools.gov.sg |
+|  | MS SITI ROHAIZA BTE MOHD RAFI'EE | siti_rohaiza_mohamed_rafiee@schools.gov.sg |
+| 1T1 | MR KAMIL BIN MOHD KASSIM | kamil_kassim@schools.gov.sg |
+|  | MS LIM YI WEI | lim_yi_wei@schools.gov.sg |
+| 1T2 | MDM SURIANI BTE KHAILANI | suriani_khailani@schools.gov.sg |
+|  | MR TAN JIA YI, JOEL | tan_jia_yi_joel@schools.gov.sg |
+| ASSISTANT YEAR HEAD <br>(SEC 2) | MS GAN PEI LING | gan_pei_ling@schools.gov.sg |
+| YEAR HEAD<br>(SEC 3) | MR SIM LAI HENG | sim_lai_heng@schools.gov.sg |
+| ASSISTANT YEAR HEAD<br>(SEC 4&5) | MS LEE KIA LI | lee_kia_li@schools.gov.sg |
+
+<p> </p>
+
 | SEC 1 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
 | 1E1 | MDM YANG HUI QIN | yang_huiqin@schools.gov.sg |
@@ -67,7 +107,8 @@ description: ""
 | YEAR HEAD<br>(SEC 3) | MR SIM LAI HENG | sim_lai_heng@schools.gov.sg |
 | ASSISTANT YEAR HEAD<br>(SEC 4&5) | MS LEE KIA LI | lee_kia_li@schools.gov.sg |
 
-<p> </p>
+<p></P>
+
 
 | SEC 2 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
