@@ -67,25 +67,17 @@ description: ""
 | 1 COURAGE 6 | MS HUANG WENYAN | huang_wenyan@schools.gov.sg |
 |  | MR ELIJAH WONG SONG EN | wong_song_en_elijah@schools.gov.sg |
 | 1 COURAGE 7 | MS WEE JING YUN | wee_jing_yun@schools.gov.sg |
-|  | MR ROY CHEW | roy_chew_hock_wu@schools.gov.sg |
-| 1N2 | MR SNG MENG WEI | sng_meng_wei@schools.gov.sg |
-|  | MS SITI ROHAIZA BTE MOHD RAFI'EE | siti_rohaiza_mohamed_rafiee@schools.gov.sg |
-| 1T1 | MR KAMIL BIN MOHD KASSIM | kamil_kassim@schools.gov.sg |
-|  | MS LIM YI WEI | lim_yi_wei@schools.gov.sg |
-| 1T2 | MDM SURIANI BTE KHAILANI | suriani_khailani@schools.gov.sg |
-|  | MR TAN JIA YI, JOEL | tan_jia_yi_joel@schools.gov.sg |
-| ASSISTANT YEAR HEAD <br>(SEC 2) | MS GAN PEI LING | gan_pei_ling@schools.gov.sg |
-| YEAR HEAD<br>(SEC 3) | MR SIM LAI HENG | sim_lai_heng@schools.gov.sg |
-| ASSISTANT YEAR HEAD<br>(SEC 4&5) | MS LEE KIA LI | lee_kia_li@schools.gov.sg |
+|  | MS SUN MENGYI |sun_mengyi@schools.gov.sg |
+
 
 <p> </p>
 
-| SEC 1 FORM TEACHERS |  | EMAIL ADDRESS |
+| SEC 2 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
-| 1E1 | MDM YANG HUI QIN | yang_huiqin@schools.gov.sg |
-|  | MR MELVIN SOH  CHIN AIK | melvin_soh_chin_aik@schools.gov.sg |
-| 1E2 | MS DAHLIA BINTE ABDUL SAMAD | dahlia_abdul_samad@schools.gov.sg |
-|  | MR LIM MING WEI, JERALD | lim_ming_wei_jerald@schools.gov.sg |
+| 2 OPTIMISM 1 | MS SITI JAMILAH BTE JUHARI| siti_jamilah_juhari@schools.gov.sg|
+| | MDM YANG HUI QIN | yang_huiqin@schools.gov.sg |
+| 2 OPTIMISM 2 | MS DAHLIA BINTE ABDUL SAMAD | dahlia_abdul_samad@schools.gov.sg|
+| | MS MEHRAJ BEGUM BINTI KADER GHOUSE| mehraj_begum_kader_ghouse@schools.gov.sg
 | 1E3 | MR ISACK KUMAR LOUIS | isack_kumar_louis@schools.gov.sg |
 |  | MS BRENDA TEO YAN LING | brenda_teo_yan_ling@schools.gov.sg |
 |  | MR SEAH CHIN LIANG | seah_chin_liang@schools.gov.sg |
