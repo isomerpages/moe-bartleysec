@@ -4,19 +4,16 @@ permalink: /our-holistic-curriculum/co-curricular-activities/visual-n-performing
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
-![](/images/Modern-Dance-Formal.jpg)
-
 ### Vision:
 To cultivate dancers with gracious mind, body and soul through learning different forms of dance.
 
 **CCA Teacher IC** <br>
-Mdm Tan Chiew Kwee <br>
-Ms Zaihana Ahmad
+Ms Zaihana Ahmad <br>
 
 **CCA Teachers** <br>
 Ms Kiren Kaur Gill <br>
-Ms Sun Mengyi
+Ms Sun Mengyi<br>
+Mdm Tan Chiew Kwee
 
 **About our CCA** <br>
 BSS Modern Dance Club was newly inaugurated in 2016. All members go through weekly training by full time instructor. 
