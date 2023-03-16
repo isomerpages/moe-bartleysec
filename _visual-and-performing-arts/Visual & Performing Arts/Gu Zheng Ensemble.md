@@ -4,18 +4,15 @@ permalink: /our-holistic-curriculum/co-curricular-activities/visual-n-performing
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
-![](/images/GUZHENG-Formal.jpg)
-
 ### Vision:
 To promote Gu Zheng as a traditional Chinese instrument and nurture our members to appreciate Oriental music
 
 **CCA Teacher IC:** <br>
 Ms Leo Min Yin <br>
-Mr Alex Ng Tian Lye
 
 **CCA Teachers:** <br>
 Ms Yang Huiqin
+Mr Liew Kian Peng
 
 **About our CCA** <br>
 Bartley Guzheng Ensemble was established since 1997, has embarked on the journey of musicianship, armed with respect, integrity, passion and excellence. We aspire to instill all-rounded virtues in the members and accomplish a distinguished standard in our musicality. We have also gained remarkable experiences through the various performances such as Si-chuan charity fund raising, school festival celebrations and community involvement activities. 
