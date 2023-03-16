@@ -17,11 +17,21 @@ The school nurtures resilient and responsible leaders by offering all Bartleyans
 The Students’ Council is the voice of the student body and the representative of the school. As such, student councillors serve the school by influencing the student population to live out the school values and motto as well as leading changes to improve the school.
 
 **Student Council 2023** <br>
-![](/images/Student%20Council%202021.jpeg)
 
-![](/images/Org%20Chart%20for%20Website.jpg)
+On 6 March 2023, we had our Student Council Investiture.
+
+The 25th Student Council Executive Committee handed over their roles and responsibilities to the 26th Student Councill Executive Committee.
+
+**25th Student Council Executive Committee**
+![25th Student Council Executive Committee](/images/SC1.jpeg)
+
+**26th Student Council Executive Committee**
+![](/images/SC2.jpeg)
 
 **Student Council Key Events**
+
+
+*![]()*
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7TbJ8Y4WbpYc3cwJKesfmIKsdRjxskdaZTzvsW4iO50trCbosuRD8QeoRFgqdCdM6kgjhJk1Cn2ut/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
@@ -29,5 +39,4 @@ The Students’ Council is the voice of the student body and the representative 
 The Class Committee of each class comprises the Chairperson, Vice-Chairperson, National Education (NE) ambassadors, Technology Leaders, Physical Education (PE) Leaders and Green Champs. Together, they enable the class to be responsible for its growth and development towards effectiveness.
 
 **CCA Leaders** <br>
-CCA leaders are the top leaders within each CCA, selected to lead, coach and empower fellow CCA members to perform effectively within their CCAs. They also lead their CCA members to progress towards greater team effectiveness. 
-
+CCA leaders are the top leaders within each CCA, selected to lead, coach and empower fellow CCA members to perform effectively within their CCAs. They also lead their CCA members to progress towards greater team effectiveness.
