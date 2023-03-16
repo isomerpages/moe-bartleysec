@@ -15,5 +15,3 @@ If you answered yes to any of the above, then join the Bartley Parent Support Gr
 <img src="/images/download.png" 
      style="width:40%">
 
-Click on the **Year** to find out the PSG activities! <br>
-2021 2019 2018 2017
