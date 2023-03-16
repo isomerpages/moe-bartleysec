@@ -16,7 +16,7 @@ The school nurtures resilient and responsible leaders by offering all Bartleyans
 **Students’ Council (SC)** <br>
 The Students’ Council is the voice of the student body and the representative of the school. As such, student councillors serve the school by influencing the student population to live out the school values and motto as well as leading changes to improve the school.
 
-**Student Council 2021** <br>
+**Student Council 2023** <br>
 ![](/images/Student%20Council%202021.jpeg)
 
 ![](/images/Org%20Chart%20for%20Website.jpg)
@@ -33,5 +33,3 @@ CCA leaders are the top leaders within each CCA, selected to lead, coach and emp
 
 **Towards Team Leadership**
 
-##### 2019 Student Council
-![](/images/SC-Portraits-(12-of-33).jpg)
