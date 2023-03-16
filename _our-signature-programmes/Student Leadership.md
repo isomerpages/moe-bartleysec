@@ -31,5 +31,3 @@ The Class Committee of each class comprises the Chairperson, Vice-Chairperson, N
 **CCA Leaders** <br>
 CCA leaders are the top leaders within each CCA, selected to lead, coach and empower fellow CCA members to perform effectively within their CCAs. They also lead their CCA members to progress towards greater team effectiveness. 
 
-**Towards Team Leadership**
-
