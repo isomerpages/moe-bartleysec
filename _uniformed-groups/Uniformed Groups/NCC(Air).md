@@ -4,19 +4,17 @@ permalink: /our-holistic-curriculum/co-curricular-activities/uniformed-groups/nc
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/NCC-(Air)-Formal.jpg)
-
 ### Vision:
 To be a unit with disciplined and passionate leaders who strive towards excellence in everything we do.
 
 **CCA Teacher IC:** <br>
 Ms Loh See Ming <br>
-Mr Thomas Koh Mui Pong <br>
+Mr Seak You Liang <br>
 
 **CCA Teachers:** <br> 
 Ms Lim Yi Wei <br>
 Mr Allen Yeo <br>
-Mr Seak You Liang
+Ms Soh Cheng Wen
 
 
 **About our CCA:** <br>
