@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Our Contact.md
       - Students/.keep
       - Students/Learners For Life Day.md
       - Students/Basic troubleshooting tips for students using Chromebook.md
@@ -37,3 +36,4 @@ collections:
       - Parents/Group Personal Accident Insurance for Students.md
       - Teachers/.keep
       - Teachers/Useful Links.md
+      - Our Contact.md
