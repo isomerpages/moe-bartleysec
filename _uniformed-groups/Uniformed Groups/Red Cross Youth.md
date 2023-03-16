@@ -4,8 +4,6 @@ permalink: /our-holistic-curriculum/co-curricular-activities/uniformed-groups/re
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/Red-Cross-Youth-Formal.jpg)
-
 ### Vision:
 To be a united and discipline uniformed groups that serves with passion and conviction.
 
@@ -15,7 +13,7 @@ Miss Siti Ramziyani,
 
 **CCA Teachers:** <br>
 Mr Dominic Lim <br>
-Mr Melvin Soh
+Mrs Tan-Lee Puay Hoon
 
 **About our CCA** <br>
 The Red Cross Youth seeks to promote and encourage the participation of young adults in the works of Red Cross. In addition, we wish to inculcate a sense compassion for one's community and environment.
