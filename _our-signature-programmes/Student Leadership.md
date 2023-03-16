@@ -28,12 +28,10 @@ The 25th Student Council Executive Committee handed over their roles and respons
 **26th Student Council Executive Committee**
 ![](/images/SC2.jpeg)
 
-**Student Council Key Events**
+*Group photo of the 25th and 26th Student Council* 
+![](/images/SC.jpg)
 
 
-*![]()*
-
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7TbJ8Y4WbpYc3cwJKesfmIKsdRjxskdaZTzvsW4iO50trCbosuRD8QeoRFgqdCdM6kgjhJk1Cn2ut/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 **Class Committee** <br>
 The Class Committee of each class comprises the Chairperson, Vice-Chairperson, National Education (NE) ambassadors, Technology Leaders, Physical Education (PE) Leaders and Green Champs. Together, they enable the class to be responsible for its growth and development towards effectiveness.
