@@ -19,7 +19,7 @@ locations:
       - "10 Jalan Bunga Rampai "
       - Singapore 538403
       - ""
-    title: "Bartley Secondary School "
     operating_hours: []
     maps_link: ""
+    title: "Bartley Secondary School "
 ---
