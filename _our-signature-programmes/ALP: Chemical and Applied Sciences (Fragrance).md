@@ -51,16 +51,11 @@ Our ALP aims to prepare Bartleyans to become Learners for Life by:
 
 ### Our ALP in the News
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4XVvFQt1TbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Click on the link below to find out more Bartley's ALP
 
-<img src="/images/Lianhe%20Zaobao.jpg" 
-     style="width:70%">
+[ALP Chemical & Applied Sciences Fragrances in Bartley Secondary School](https://www.youtube.com/watch?v=4XVvFQt1TbA&t=4s)
 
-<img src="/images/China%20Papers.jpg" 
-     style="width:70%">
 
-<img src="/images/Capture2.jpg" 
-     style="width:70%">
 
 **Arif Budiman Malay Language Teacher Award Ceremony (AGAB)** <br>
 <img src="/images/2%20(1).jpg" 
