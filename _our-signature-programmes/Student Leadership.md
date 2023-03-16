@@ -18,7 +18,7 @@ The Students’ Council is the voice of the student body and the representative 
 
 **Student Council 2023** <br>
 
-On 6 March 2023, we had our Student Council Investiture.
+6 March, we had our Student Council Investiture. 
 
 The 25th Student Council Executive Committee handed over their roles and responsibilities to the 26th Student Councill Executive Committee.
 
@@ -30,7 +30,6 @@ The 25th Student Council Executive Committee handed over their roles and respons
 
 *Group photo of the 25th and 26th Student Council* 
 ![](/images/SC.jpg)
-
 
 
 **Class Committee** <br>
