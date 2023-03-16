@@ -3,7 +3,6 @@ title: Our Contact
 permalink: /contact-us/
 description: ""
 ---
-
 ##### Our Contact
 
 **Location:** 10 Jalan Bunga Rampai Singapore 538403  
@@ -30,7 +29,3 @@ Circle Line CC12 Bartley
   
 **Bus Stop No. 62069 | Before Upper Paya Lebar Road**  
 28, 93, 158
-
-##### Contact Us
-
-You may drop us a message [here](https://goo.gl/forms/h0Bm3Dd3HlE03BX12).
