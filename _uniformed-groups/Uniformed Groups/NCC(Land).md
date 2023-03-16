@@ -4,18 +4,16 @@ permalink: /our-holistic-curriculum/co-curricular-activities/uniformed-groups/nc
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/NCC-(Land)-Formal.jpg)
-
 ### Vision: 
 A disciplined unit with a high level of commitment to the school and nation 
 
 **CCA Teacher IC:** <br>
 Mr Finian Seah Yang How <br>
-Mr Chua Wei Guan
+Mr Jonanthan Wong <br> 
 
 **CCA Teachers:** <br>
-Mr Jonathan Wong Wun Hei <br>
-Mr Low Swee Tat
+Mr Low Swee Tat <br>
+Mr Elijah Wong
 
 **About our CCA** <br>
 Bartley NCC (Land) Unit is an all-boys uniform group that nurtures responsible, resilient and resourceful cadets to become successful citizens through all kinds of fun and challenging activities. 
