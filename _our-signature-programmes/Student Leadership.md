@@ -28,7 +28,10 @@ The 25th Student Council Executive Committee handed over their roles and respons
 **26th Student Council Executive Committee**
 ![](/images/SC2.jpeg)
 
-*Group photo of the 25th and 26th Student Council* 
+
+![](/images/SC3.jpg)
+
+
 ![](/images/SC.jpg)
 
 
