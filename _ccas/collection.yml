@@ -2,12 +2,12 @@ collections:
   ccas:
     output: true
     order:
-      - Sports and Games/Volleyball.md
-      - Sports and Games/Sepak Takraw.md
-      - Sports and Games/Netball.md
-      - Sports and Games/Football.md
-      - Sports and Games/Basketball.md
       - Sports and Games/.keep
+      - Sports and Games/Basketball.md
+      - Sports and Games/Football.md
+      - Sports and Games/Netball.md
+      - Sports and Games/Sepak Takraw.md
+      - Sports and Games/Volleyball.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Entrepreneur Club.md
       - Clubs and Societies/MERIT Club.md
