@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Uniformed Groups/.keep
-      - Uniformed Groups/NCC(Air).md
       - Uniformed Groups/NCC(Land).md
