@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Visual & Performing Arts/.keep
-      - Visual & Performing Arts/Choir.md
       - Visual & Performing Arts/Concert Band.md
       - Visual & Performing Arts/Gu Zheng Ensemble.md
       - Visual & Performing Arts/Modern Dance.md
