@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Visual and Performing Arts/.keep
-      - Uniformed Groups/NCC(Land).md
-      - Uniformed Groups/NCC(Air).md
-      - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/NPCC.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/NCC(Air).md
+      - Uniformed Groups/NCC(Land).md
       - Sports and Games/.keep
       - Sports and Games/Basketball.md
       - Sports and Games/Football.md
