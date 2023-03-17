@@ -2,11 +2,11 @@ collections:
   ccas:
     output: true
     order:
-      - Visual and Performing Arts/Modern Dance.md
-      - Visual and Performing Arts/Gu Zheng Ensemble.md
-      - Visual and Performing Arts/Concert Band.md
-      - Visual and Performing Arts/Choir.md
       - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Concert Band.md
+      - Visual and Performing Arts/Gu Zheng Ensemble.md
+      - Visual and Performing Arts/Modern Dance.md
       - Uniformed Groups/.keep
       - Uniformed Groups/NPCC.md
       - Uniformed Groups/Red Cross Youth.md
