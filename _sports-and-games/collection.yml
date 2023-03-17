@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Sports and Games/.keep
-      - Sports and Games/Sepak Takraw.md
       - Sports and Games/Volleyball.md
