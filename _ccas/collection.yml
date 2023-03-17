@@ -2,10 +2,10 @@ collections:
   ccas:
     output: true
     order:
-      - Clubs and Societies/CurioSTÉ Club (NEW).md
-      - Clubs and Societies/Service Learning Club.md
-      - Clubs and Societies/MERIT Club.md
-      - Clubs and Societies/Entrepreneur Club.md
       - Clubs and Societies/.keep
+      - Clubs and Societies/Entrepreneur Club.md
+      - Clubs and Societies/MERIT Club.md
+      - Clubs and Societies/Service Learning Club.md
+      - Clubs and Societies/CurioSTÉ Club (NEW).md
       - CCA Schedules.md
       - Co Curricular Activities.md
