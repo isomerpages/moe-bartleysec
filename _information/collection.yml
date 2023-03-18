@@ -2,10 +2,10 @@ collections:
   information:
     output: true
     order:
-      - Students/Collection of SGC for 4E and 4NT Graduands.md
-      - Students/Sec 2 Subject Options Results and Appeal Outcome.md
       - Students/.keep
       - Students/Curriculum Timetable.md
+      - Students/Collection of SGC for 4E and 4NT Graduands.md
+      - Students/Sec 2 Subject Options Results and Appeal Outcome.md
       - Students/Learners For Life Day.md
       - Students/Basic troubleshooting tips for students using Chromebook.md
       - Students/Accessing Student ICON.md
