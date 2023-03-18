@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Students/Collection of SGC for 4E and 4NT Graduands.md
       - Students/Sec 2 Subject Options Results and Appeal Outcome.md
       - Students/.keep
       - Students/Curriculum Timetable.md
