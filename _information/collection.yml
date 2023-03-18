@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Students/.keep
+      - Students/Curriculum Timetable.md
       - Students/Learners For Life Day.md
       - Students/Basic troubleshooting tips for students using Chromebook.md
       - Students/Accessing Student ICON.md
-      - Students/Curriculum Timetable.md
       - Students/Announcements.md
       - Students/School Calendar.md
       - Students/JIE Briefing Slides.md
