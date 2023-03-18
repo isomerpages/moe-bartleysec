@@ -12,4 +12,6 @@ Would you like to be a supportive partner of Bartley Secondary School to help ma
 
 If you answered yes to any of the above, then join the Bartley Parent Support Group today! You can email your interest to the PSG Chairperson, Ms Shauna Sng, at **bartley.psg@gmail.com**. We look forward to hearing from you soon!
 
->
+
+
+![](/images/psg1.png)
