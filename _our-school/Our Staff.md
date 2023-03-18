@@ -54,11 +54,11 @@ description: ""
 
 | SEC 1 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
-| 1 COURAGE 1 | MR WONG WUN HEI, JONATHAN | wong_wun_hei_jonathan@schools.gov.sg|
-| | MRS TAN LEE PUAY HOON| lee_puay_hoon_a@schools.gov.sg|
-|1 COURAGE 2| MR FINIAN SEAH|seah_yang_how_finian@schools.gov.sg|
-| | MDM CHAN HWEE PING| chan_hwee_ping@schools.gov.sg|
-| 1 COURAGE 3 | MSLEO MINYIN | leo_minyin@schools.gov.sg |
+| 1 COURAGE 1 | MR WONG WUN HEI, JONATHAN | [wong_wun_hei_jonathan@schools.gov.sg](mailto:wong_wun_hei_jonathan@schools.gov.sg)|
+| | MRS TAN LEE PUAY HOON| [lee_puay_hoon_a@schools.gov.sg](mailto:lee_puay_hoon_a@schools.gov.sg)|
+|1 COURAGE 2| MR FINIAN SEAH|[seah_yang_how_finian@schools.gov.sg](mailto:seah_yang_how_finian@schools.gov.sg)|
+| | MDM CHAN HWEE PING| [chan_hwee_ping@schools.gov.sg](mailto:chan_hwee_ping@schools.gov.sg)|
+| 1 COURAGE 3 | MSLEO MINYIN | [leo_minyin@schools.gov.sg](mailto:leo_minyin@schools.gov.sg) |
 |  | MR MUHAMMAD BAZLEE BAKTHIAR | muhammad_bazlee_bakhtiar_afandi@schools.gov.sg |
 | 1 COURAGE 4| MS LOH SEE MING | loh_see_ming@schools.gov.sg |
 |  | MRS BHANU RAJ| bhanumathy_ganapathy@schools.gov.sg |
