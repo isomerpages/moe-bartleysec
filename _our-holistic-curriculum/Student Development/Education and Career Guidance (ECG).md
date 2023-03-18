@@ -23,11 +23,3 @@ Post-Secondary Education: <br>
 
 My SkillsFuture Student Portal: <br>
 [https://myskillsfuture.gov.sg/secondary](https://myskillsfuture.gov.sg/secondary)
-
-
-Journey with Our Children, Achieving their Aspirations: <br>
-[https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html](https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html)
-
-
-The Next Step Forward: <br>
-[https://www.moe.gov.sg/microsites/next-step-forward/index.html](https://www.moe.gov.sg/microsites/next-step-forward/index.html)
