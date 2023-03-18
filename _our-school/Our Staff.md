@@ -100,10 +100,10 @@ description: ""
 
 | SEC 3 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
-| 3 RESPECT 1 | MS SITI RAMZIYANI BTE RAMDZAN | siti_ramziyani_ramdzan@schools.gov.sg |
-|  | MS QUEK SHIR RYN | quek_shir_ryn@schools.gov.sg |
-| | MDM KHOO BEE RUI ANGELINA| khoo_bee_rui_angelina@schools.gov.sg|
-| 3 RESPECT 2 | MS ERICA YAP XIN YIN | yap_xin_yin_erica@schools.gov.sg |
+| 3 RESPECT 1 | MS SITI RAMZIYANI BTE RAMDZAN | [siti_ramziyani_ramdzan@schools.gov.sg](mailto:siti_ramziyani_ramdzan@schools.gov.sg) |
+|  | MS QUEK SHIR RYN | [quek_shir_ryn@schools.gov.sg](mailto:quek_shir_ryn@schools.gov.sg) |
+| | MDM KHOO BEE RUI ANGELINA| [khoo_bee_rui_angelina@schools.gov.sg](mailto:khoo_bee_rui_angelina@schools.gov.sg)|
+| 3 RESPECT 2 | MS ERICA YAP XIN YIN | [yap_xin_yin_erica@schools.gov.sg](mailto:yap_xin_yin_erica@schools.gov.sg) |
 |  | MR LIM YONGDA DOMINIC | llim_yongda_dominic@schools.gov.sg |
 | 3 RESPECT 3 | MR TAN CHEE KEONG | tan_chee_keong@schools.gov.sg |
 |  | MR ROY CHEW|  roy_chew_hock_wu@moe.edu.sg |
