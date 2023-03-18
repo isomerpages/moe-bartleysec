@@ -3,7 +3,7 @@ title: Our Staff
 permalink: /our-school/our-staff/
 description: ""
 ---
-### CONTACT LIST T2022
+### CONTACT LIST 2023
 
 | SCHOOL LEADERS | EMAIL ADDRESS |
 |---|---|
@@ -15,11 +15,11 @@ description: ""
 
 | KEY PERSONNEL |  | EMAIL ADDRESS |
 |---|---|---|
-| HOD ENGLISH | MRS KOGILAVANI RAJ | kogilavani_veerappan@schools.gov.sg |
-|SH ENGLISH| MS GAN PEI LING|gan_pei_ling@schools.gov.sg|
-|LH ENGLISH| MS WEE JING YUN| wee_jing_yun@schools.gov.sg|
-| HOD MOTHER TONGUE | MDM HAMIDAH SALLEH | hamidah_salleh@schools.gov.sg |
-| SH CHINESE LANGUAGE | MS YANG YANJIA | yang_yanjia@schools.gov.sg |
+| HOD ENGLISH | MRS KOGILAVANI RAJ | [kogilavani_veerappan@schools.gov.sg](mailto:kogilavani_veerappan@schools.gov.sg) |
+|SH ENGLISH| MS GAN PEI LING|[gan_pei_ling@schools.gov.sg](mailto:gan_pei_ling@schools.gov.sg)|
+|LH ENGLISH| MS WEE JING YUN| [wee_jing_yun@schools.gov.sg](mailto:wee_jing_yun@schools.gov.sg)|
+| HOD MOTHER TONGUE | MDM HAMIDAH SALLEH | [hamidah_salleh@schools.gov.sg](mailto:hamidah_salleh@schools.gov.sg) |
+| SH CHINESE LANGUAGE | MS YANG YANJIA | [yang_yanjia@schools.gov.sg](mailto:yang_yanjia@schools.gov.sg) |
 | HOD MATHEMATICS | MS TAY LAY PENG ANGELINA | angelina_tay_lay_peng@moe.edu.sg  |
 | LH MATHEMATICS | MS TING CHU  HWEE AGNES | ting_chu_hwee_agnes@moe.edu.sg |
 | HOD SCIENCE | MR FU CHEE SHENG | fu_chee_sheng@schools.gov.sg |
