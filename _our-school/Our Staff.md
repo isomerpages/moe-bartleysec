@@ -125,50 +125,50 @@ description: ""
 
 | SEC 4 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
-| 4 EXCELLENCE 1 | MR ONG GUAN KUN EDMUND | ong_guan_kun@schools.gov.sg |
-|  | MR CHUA WEI GUAN | chua_wei_guan@schools.gov.sg |
-| 4 EXCELLENCE 2 | MS CEZANNE CHOO SHA MIN | cezanne_choo_sha_min@schools.gov.sg |
-| | MS TEO MIN RU|teo_min_ru@schools.gov.sg
-| 4 EXCELLENCE 3 | MS YUEN YUET WAN | yuen_yuet_wan@schools.gov.sg |
-|  | MR KIONG YEW LOON | kiong_yew_loon@schools.gov.sg|
-| 4 EXCELLENCE 4 | MR LEE GUO SHENG | lee_guo_sheng@schools.gov.sg |
-|  | MS TING CHU HWEE AGNES | ting_chu_hwee_agnes@schools.gov.sg |
-| 4 EXCELLENCE 5 | MR HAN YUN HAO | han_yunhao@schools.gov.sg |
-|  | MS JULIET TAY  | Tay_Yan_Cheng_Juliet@schools.gov.sg  |
-| 4 EXCELLENCE 6| MR SEAK YOULIANG | seak_you_liang@schools.gov.sg |
-| | MISS SOH CHENG WEN|soh_cheng_wen@schools.gov.sg|
-| 4 EXCELLENCE 7 | MR LIEW KIAN PENG | lew-kian_peng@schools.gov.sg |
-|  | MR JAMAL ABDUL NAZAR | jamal_abdul_nazar@schools.gov.sg |
-| 4 EXCELLENCE 8 | MS LO WAN LING | lo_wan_ling@schools.gov.sg |
-|  | MR LOW SWEE TAT | low_swee_tat@schools.gov.sg |
-| 4 EXCELLENCE 9| MS JASMINE KAUR | jasmine_kaur_daljit_singh@schools.gov.sg |
-|  | MS NURUL ARIQAFITRI BINTE JUMARI | nurul_ariqafitri@schools.gov.sg |
+| 4 EXCELLENCE 1 | MR ONG GUAN KUN EDMUND | [ong_guan_kun@schools.gov.sg](mailto:ong_guan_kun@schools.gov.sg) |
+|  | MR CHUA WEI GUAN | [chua_wei_guan@schools.gov.sg](mailto:chua_wei_guan@schools.gov.sg) |
+| 4 EXCELLENCE 2 | MS CEZANNE CHOO SHA MIN | [cezanne_choo_sha_min@schools.gov.sg](mailto:cezanne_choo_sha_min@schools.gov.sg) |
+| | MS TEO MIN RU|[teo_min_ru@schools.gov.sg](mailto:teo_min_ru@schools.gov.sg)
+| 4 EXCELLENCE 3 | MS YUEN YUET WAN | [yuen_yuet_wan@schools.gov.sg](mailto:yuen_yuet_wan@schools.gov.sg) |
+|  | MR KIONG YEW LOON | [kiong_yew_loon@schools.gov.sg](mailto:kiong_yew_loon@schools.gov.sg)|
+| 4 EXCELLENCE 4 | MR LEE GUO SHENG | [lee_guo_sheng@schools.gov.sg](mailto:lee_guo_sheng@schools.gov.sg) |
+|  | MS TING CHU HWEE AGNES | [ting_chu_hwee_agnes@schools.gov.sg](mailto:ting_chu_hwee_agnes@schools.gov.sg) |
+| 4 EXCELLENCE 5 | MR HAN YUN HAO | [han_yunhao@schools.gov.sg](mailto:han_yunhao@schools.gov.sg) |
+|  | MS JULIET TAY  | [Tay_Yan_Cheng_Juliet@schools.gov.sg](mailto:Tay_Yan_Cheng_Juliet@schools.gov.sg)  |
+| 4 EXCELLENCE 6| MR SEAK YOULIANG | [seak_you_liang@schools.gov.sg](mailto:seak_you_liang@schools.gov.sg) |
+| | MISS SOH CHENG WEN|[soh_cheng_wen@schools.gov.sg](mailto:soh_cheng_wen@schools.gov.sg)|
+| 4 EXCELLENCE 7 | MR LIEW KIAN PENG | [lew-kian_peng@schools.gov.sg](mailto:lew-kian_peng@schools.gov.sg) |
+|  | MR JAMAL ABDUL NAZAR | [jamal_abdul_nazar@schools.gov.sg](mailto:jamal_abdul_nazar@schools.gov.sg) |
+| 4 EXCELLENCE 8 | MS LO WAN LING | [lo_wan_ling@schools.gov.sg](mailto:lo_wan_ling@schools.gov.sg) |
+|  | MR LOW SWEE TAT | [low_swee_tat@schools.gov.sg](mailto:low_swee_tat@schools.gov.sg) |
+| 4 EXCELLENCE 9| MS JASMINE KAUR | [jasmine_kaur_daljit_singh@schools.gov.sg](mailto:jasmine_kaur_daljit_singh@schools.gov.sg) |
+|  | MS NURUL ARIQAFITRI BINTE JUMARI | [nurul_ariqafitri@schools.gov.sg](mailto:nurul_ariqafitri@schools.gov.sg) |
 
 <p> </p>
 
 | SEC 5 FORM TEACHERS |  | EMAIL ADDRESS |
 |---|---|---|
-| 5 EXCELLENCE 1 | MS YAP BEE HONG | yap_bee_hong@schools.gov.sg |
-|  | MR YONG FOO NYEN|yong_foo_nyen@schools.gov.sg |
+| 5 EXCELLENCE 1 | MS YAP BEE HONG | [yap_bee_hong@schools.gov.sg](mailto:yap_bee_hong@schools.gov.sg) |
+|  | MR YONG FOO NYEN|[yong_foo_nyen@schools.gov.sg](mailto:yong_foo_nyen@schools.gov.sg) |
 
 
 <p> </p> 
 
 | TEACHERS | EMAIL ADDRESS |
 |---|---|
-| MR SEAH CHIN LIANG | seah_chin_liang_a@moe.edu.sg|
-|MS GAYATHRI SUBRAMANIAM|gayathri_subramaniam@moe.edu.sg |
-| MS SOLOMONCHRLES PAULIN THEBORAL | solomonchrles_paulin_theboral@schools.gov.sg |
-|MRS TAN MING NGO|tan_ming_ngo@moe.edus.g|
-|MDM TAN CHIEW KWEE|tan_chiew_kwee@schools.gov.sg
+| MR SEAH CHIN LIANG | [seah_chin_liang_a@moe.edu.sg](mailto:seah_chin_liang_a@moe.edu.sg)|
+|MS GAYATHRI SUBRAMANIAM|[gayathri_subramaniam@moe.edu.sg](mailto:gayathri_subramaniam@moe.edu.sg) |
+| MS SOLOMONCHRLES PAULIN THEBORAL | [solomonchrles_paulin_theboral@schools.gov.sg](mailto:solomonchrles_paulin_theboral@schools.gov.sg) |
+|MRS TAN MING NGO|[tan_ming_ngo@moe.edu.sg](mailto:tan_ming_ngo@moe.edu.sg)|
+|MDM TAN CHIEW KWEE|[tan_chiew_kwee@schools.gov.sg](mailto:tan_chiew_kwee@schools.gov.sg)
 
 <p> </p>
 
 | DESIGNATION | SUPPORT STAFF | EMAIL ADDRESS |
 |---|---|---|
-| ICT MANAGER | MR MUHD ILYIA KAMSAI | muhammad_Ilyia_kamsani@schools.gov.sg |
-|SCHOOL COUNSELLOR | MDM ZARINA ABDUL PATAH | zarina_abdul_patah@schools.gov.sg |
-| STUDENT WELFARE OFFICER | MS SITI FATYAH BINTE MOHD YAHKUP|siti_fatyah_mohd_yahkup@schools.gov.sg |
-| AED LEARNING & BEHAVIOURAL SUPPORT | MUHAMMAD AMALLUDIN RATEMAN | muhammad_amalludin_rateman@schools.gov.sg |
-|SPECIAL EDUCATIONAL NEEDS OFFICER|MR MUHAMMAD AMALLUDIN RATEMAN|muhammad_amalludin_rateman@schools.gov.sg|
-| ECG COUNSELLING | MS VALERIE PHUA | phua_chay_khim_valerie@schools.gov.sg |
+| ICT MANAGER | MR MUHD ILYIA KAMSAI | [muhammad_Ilyia_kamsani@schools.gov.sg](mailto:muhammad_Ilyia_kamsani@schools.gov.sg) |
+|SCHOOL COUNSELLOR | MDM ZARINA ABDUL PATAH | [zarina_abdul_patah@schools.gov.sg](mailto:zarina_abdul_patah@schools.gov.sg) |
+| STUDENT WELFARE OFFICER | MS SITI FATYAH BINTE MOHD YAHKUP|[siti_fatyah_mohd_yahkup@schools.gov.sg](mailto:siti_fatyah_mohd_yahkup@schools.gov.sg) |
+| AED LEARNING & BEHAVIOURAL SUPPORT | MUHAMMAD AMALLUDIN RATEMAN | [muhammad_amalludin_rateman@schools.gov.sg](mailto:muhammad_amalludin_rateman@schools.gov.sg) |
+|SPECIAL EDUCATIONAL NEEDS OFFICER|MR MUHAMMAD AMALLUDIN RATEMAN|[muhammad_amalludin_rateman@schools.gov.sg](mailto:muhammad_amalludin_rateman@schools.gov.sg)|
+| ECG COUNSELLING | MS VALERIE PHUA | [phua_chay_khim_valerie@schools.gov.sg](mailto:phua_chay_khim_valerie@schools.gov.sg) |
