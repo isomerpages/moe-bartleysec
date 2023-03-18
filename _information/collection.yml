@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Students/Sec 2 Subject Options Results and Appeal Outcome.md
       - Students/.keep
       - Students/Curriculum Timetable.md
       - Students/Learners For Life Day.md
