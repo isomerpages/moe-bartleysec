@@ -12,8 +12,7 @@ Students (and their parents) who would like to find out more about their post-se
 
 To make an appointment, please click here: [https://go.gov.sg/bartley-ecg](https://go.gov.sg/bartley-ecg) or scan the QR Code below. You may also email Ms Valerie at phua_chay_khimm_valerie@schools.gov.sg.
 
-<img src="/images/qr%20code.png" 
-     style="width:50%">
+![](/images/bartley_ecg.png)
 
 **To find out more about post-secondary education and pathways, please click on the following resources:**
 
@@ -23,3 +22,12 @@ Post-Secondary Education: <br>
 
 My SkillsFuture Student Portal: <br>
 [https://myskillsfuture.gov.sg/secondary](https://myskillsfuture.gov.sg/secondary)
+
+MOE Course Finder:
+https://www.moe.gov.sg/coursefinder
+
+2023 JAE Booklet (for O level students):
+https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx
+
+2023 JIE Booklet (for N level students):
+https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf
