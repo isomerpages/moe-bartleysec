@@ -24,10 +24,10 @@ My SkillsFuture Student Portal: <br>
 [https://myskillsfuture.gov.sg/secondary](https://myskillsfuture.gov.sg/secondary)
 
 MOE Course Finder:
-https://www.moe.gov.sg/coursefinder
+[https://www.moe.gov.sg/coursefinder](https://www.moe.gov.sg/coursefinder)
 
 2023 JAE Booklet (for O level students):
-https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx
+[https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx)
 
 2023 JIE Booklet (for N level students):
-https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf
+[https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf)
