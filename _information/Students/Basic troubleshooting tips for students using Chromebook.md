@@ -16,6 +16,4 @@ If you are experiencing issues with the loading of websites, you can try the fol
   
 *Did not work? Try Method 3*
 
-**Method 3:** Clear your browsing data.  
-  
-To clear your browsing data, [click here](/files/Clear%20browsing%20data%20on%20PLD.pdf) to follow the step by step guide.
+**Method 3:** Clear your browsing data.  <br>
