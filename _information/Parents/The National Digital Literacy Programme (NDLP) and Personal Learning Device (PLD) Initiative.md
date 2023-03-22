@@ -11,9 +11,9 @@ Thank you for joining us for our  NDLP and PLD Initiative Briefing Webinar on
   
 1\. Please [click here](/files/BSS%20PLD%20Parents%20Sharing%2020230211_By%20PSG%20Chairman.pdf) to download the deck of slides used by our PSG Chairperson, Ms Shauna Sng.   
   
-2\. Please **[click here](https://bartleysec.moe.edu.sg/qql/slot/u164/NDLP%20Briefing_11%20Feb%202023_School%20Website.pdf)** to download the deck of briefing slides shared during the NDLP Programme and PLD Initiative.  
+2\. Please [click here](/files/NDLP%20Briefing_11%20Feb%202023_School%20Website.pdf) to download the deck of briefing slides shared during the NDLP Programme and PLD Initiative.  
   
-3. To indicate intent to purchase school's prescribed PLD, please [**click here**](https://go.gov.sg/pdlpadmin).   
-Please note that the deadline for submission is 17 Feb 2023.  
-  
-Parents are however strongly encouraged to complete the form before the deadline so that the school can consolidate the orders and proceed with procurement of the device for your child.
+3. Please [click here](/files/DR4%20-%20Student%20Device%20Information%20Kit_BSS_for%20parents_21%20Mar.pdf) to download the student device information kit. <br><br>
+4.  Parents/Guardians play an important role in keeping children safe online. Parents/Guardians are encouraged to read the following resources to learn more about how to keep your children safe online.
+
+Please [click here](/files/Parent%20handbook%20on%20Learning%20with%20a%20PLD%20I%20and%20II.pdf) to download the Parent Handbook on Learning with a Personal Learning Device.
