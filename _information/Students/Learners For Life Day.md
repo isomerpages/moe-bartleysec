@@ -35,4 +35,3 @@ Below are some pointers to take note when you join Zoom during the check in sess
 5. Your teacher will share the Meeting ID and Passcode with you separately.<br>
 6. To ensure security, do not share the link to the live meet on any social media platform.<br>
 7. Pay attention during the lesson and seek clarifications actively. Do not surf other websites unless instructed by your teacher.   
-Learners for Life Day.
