@@ -7,31 +7,32 @@ third_nav_title: Students
 ##### Student Learning Space
 Dear students,  
   
-During Home-Based Learning (HBL), the Singapore Student Learning Space (SLS) will be a key platform to support you in your learning.  
+During Learners For Life Day, the Singapore Student Learning Space (SLS) will be a key platform to support you in your learning.  
   
-Below are some possible scenarios and suggested steps that you can take when you are not able to access SLS for HBL.
+From Dec 2022, you will be able to login to SLS via two key ways. <br>
 
-![](/images/Steps%20to%20login%20to%20SLS.jpg)
+(1) Login via your MIMS ID [i.e your using your student iCON email ending with @students.edu.sg) and password (student iCON password). ]
+<br>or<br>(2) Login via your SLS ID & SLS password<br> 
+Your SLS ID consist of the first 5 characters of your name and last 5 characters of your NRIC. 
+<br>E.g. Adam Tan; T1234567A <br>SLS ID: ADAMT4567A
 
----------------------
-##### Guide to Live Lessons during HBL
-During HBL, some of your lessons may be live. It will be indicated in the HBL instructions. 
 
-Below are some pointers to take note during live lessons.  
+![](/images/SLS%20new%20loging.jpg)<br>
+<br>
+It is recommended that you login via MIMS, 
+so that you will need to remember less credential
   
-**During live lessons, take note of the following pointers:**
-1. Ensure that you are appropriately dressed.
-2. Have all necessary stationery with you.  
-3. Have all the necessary materials as specified in the HBL instructions ready in front of you.
-4. Note the time of the live lesson indicated in the HBL.
-5. Your teacher will share the Meeting ID and Passcode with you separately.
-6. To ensure security, do not share the link to the live meet on any social media platform.
-7. Pay attention during the lesson and seek clarifications actively. Do not surf other websites unless instructed by your teacher.
-    
-**Zoom** will be the commonly used platform for live lessons.
 
--------------------------
-##### Learning Instructions
+##### Guide to Check in Sessions Lessons during Learners for Life Day
+During Learners for LIfe Day, some of you  may be instructed to check in with your teachers OR you may have questions that you want to ask your teachers.
+
+Below are some pointers to take note when you join Zoom during the check in session.
   
-Dear Students,<br>  Please click [here](https://sites.google.com/moe.edu.sg/hblbss/home)
-to access the learning instructions during Learners for Life Day.
+**During zoom sessions, take note of the following pointers:** <br>1. Ensure that you are appropriately dressed.<br>
+2. Have all necessary stationery with you. <br>
+3. Have all the necessary materials as specified in the Learners for Life  instructions ready in front of you.<br>
+4. Note the check in time of the check in session indicated in instructions doc.
+5. Your teacher will share the Meeting ID and Passcode with you separately.<br>
+6. To ensure security, do not share the link to the live meet on any social media platform.<br>
+7. Pay attention during the lesson and seek clarifications actively. Do not surf other websites unless instructed by your teacher.   
+Learners for Life Day.
