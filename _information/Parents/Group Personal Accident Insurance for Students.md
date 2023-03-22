@@ -8,6 +8,8 @@ third_nav_title: Parents
 
 [Click here]() to download the GPA product factsheet
 
+[Click here](/files/Student%20GPA%20User%20Guide%20-%20Parent.pdf)
+
 2) With effect from 2022, all student accident insurance claims submission are to be submitted electronically.  Parents/students are to submit their claims online and check the claims status through the online portal. Schools are required to verify the claims information and access the claims records through the online portal.  A user guide for parent/student is given for reference.
 
 Please note that: <br>
