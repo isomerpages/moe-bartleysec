@@ -2,9 +2,9 @@ collections:
   information:
     output: true
     order:
-      - Students/Release of N Level Results.md
       - Students/.keep
       - Students/Curriculum Timetable.md
+      - Students/Release of N Level Results.md
       - Students/Collection of SGC for 4E and 4NT Graduands.md
       - Students/Sec 2 Subject Options Results and Appeal Outcome.md
       - Students/Learners For Life Day.md
