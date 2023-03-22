@@ -9,7 +9,7 @@ Dear Parent/Guardian
   
 Thank you for joining us for our  NDLP and PLD Initiative Briefing Webinar on 11 Feb 2023.   
   
-1\. Please [**click here**](https://bartleysec.moe.edu.sg/qql/slot/u164/NDLP%202023/BSS%20PLD%20Parents%20Sharing%2020230211_By%20PSG%20Chairman.pdf) to download the deck of slides used by our PSG Chairperson, Ms Shauna Sng.   
+1\. Please [click here](/files/BSS%20PLD%20Parents%20Sharing%2020230211_By%20PSG%20Chairman.pdf) to download the deck of slides used by our PSG Chairperson, Ms Shauna Sng.   
   
 2\. Please **[click here](https://bartleysec.moe.edu.sg/qql/slot/u164/NDLP%20Briefing_11%20Feb%202023_School%20Website.pdf)** to download the deck of briefing slides shared during the NDLP Programme and PLD Initiative.  
   
