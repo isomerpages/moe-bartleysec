@@ -4,7 +4,7 @@ permalink: /our-school-programmes/x-mile/
 description: ""
 ---
 **Aim of the Programme** <br>
-SMILE @ Bartley aims to heighten students’ awareness of and belief in themselves. Through a guided process of self-discovery, each pupil will realise he/she is both the limiting factor to and the activator of his/her own success. This is when the 7 Habits of Highly Effective Youths will be brought to play.
+X-SMILE @ Bartley aims to heighten students’ awareness of and belief in themselves. Through a guided process of self-discovery, each pupil will realise he/she is both the limiting factor to and the activator of his/her own success. This is when the 7 Habits of Highly Effective Youths will be brought to play.
 
 
 **Approach** <br>
