@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Please click on the link below to download the WA schedule for the various levels. <br>
 
 **Secondary 1**<br>
@@ -57,5 +56,3 @@ Please click on the link below to download the WA schedule for the various level
 [4E8](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E8.pdf)<BR>
 [4E9](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E9.pdf) <BR>
 [5E1](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%205E1.pdf)
-
-
