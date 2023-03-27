@@ -87,7 +87,7 @@ Sexuality Education Lessons: <br>
 | Respectful Relationships & Safety | This is Where I draw the Line <br>(60 mins) | In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.|·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 2 Week 6 |
 | | | | |
 
-*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”. 
+
 
 **eTeens Programme:**
 
@@ -95,7 +95,7 @@ Sexuality Education Lessons: <br>
 
 **9.** Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Bartley Secondary School, the eTeens programme will be implemented as follows in 2022:**
+**At Bartley Secondary School, the eTeens programme will be implemented as follows in 2023:**
 
 | Topics/Lessons | Programme Learning Objectives | Time Period<br>(e.g. Term 3 Week 9) | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
