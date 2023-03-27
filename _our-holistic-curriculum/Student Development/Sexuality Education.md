@@ -97,8 +97,8 @@ Sexuality Education Lessons: <br>
 
 **At Bartley Secondary School, the eTeens programme will be implemented as follows in 2023:**
 
-| Topics/Lessons | Programme Learning Objectives | Time Period<br>(e.g. Term 3 Week 9) | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|---|---|---|---|
+| Topics/Lessons | Programme Learning Objectives | Time Period<br>(e.g. Term 3 Week 9) |
+|---|---|---|
 | Mass Talk by HPB appointed vendor | ·       Awareness of the different STIs and HIV/AIDS<br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV | Term 2 Week 7 | Term 2 Week 6 |
 | Classroom-based Lesson | ·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 2 Week 8 |  |
 | | | | |
