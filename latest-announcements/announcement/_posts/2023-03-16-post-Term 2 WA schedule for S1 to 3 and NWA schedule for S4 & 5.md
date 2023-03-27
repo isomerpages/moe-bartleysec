@@ -44,4 +44,17 @@ Please click on the link below to download the WA schedule for the various level
 [3R9](/files/Secondary%203%20Term%202%20WA%20Schedule%202023%20-%203R9.pdf)<BR>
 
 **Secondary 4/5**<br>
-[Sec 4 & 5 Term 2 NWA Schedule [2023]](/files/S4_5_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)
+
+[Sec 4E4NA5NA Term 2 NWA Schedule [2023]](/files/S4_5_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf) <br>
+[4E1](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E1.pdf) <BR>
+[4E2](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E2.pdf) <BR>
+[4E3](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E3.pdf) <BR>
+[4E4](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E4.pdf) <BR>
+[4E5](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E5.pdf) <BR>
+[4E6](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E6.pdf) <BR>
+[4E7](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E7.pdf) <BR>
+[4E8](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E8.pdf)<BR>
+[4E9](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%204E9.pdf) <BR>
+[5E1](/files/Secondary%204_5%20Term%202%20NWA%20Schedule%202023%20-%205E1.pdf)
+
+
