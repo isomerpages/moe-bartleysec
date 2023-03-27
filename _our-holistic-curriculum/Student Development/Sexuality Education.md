@@ -8,7 +8,7 @@ third_nav_title: Student Development
 
 **1.** Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-**2.** The goals of Sexuality Education are to:
+**2.** The GOALS of Sexuality Education are to:
 
 **(i)**	To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
 
@@ -28,7 +28,7 @@ third_nav_title: Student Development
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-**OVERVIEW OF BARTLEY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022**
+**OVERVIEW OF BARTLEY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023**
 
 **4.** Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click here for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -47,9 +47,9 @@ Sexuality Education Lessons: <br>
 
 | UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
-| Respectful Relationships & Safety<br> | 1<br>(60 mins) | ·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>·       Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals | Term 3 Week 6 |
-|  | 2<br>(60 mins) | ·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 Week 8 |
-|  | 3<br>(60 mins) | ·       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>·       Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) | Term 4 Week 2 |
+| Respectful Relationships & Safety<br> | Lesson 1 <br>Steady or Not<br>(60 mins) | ·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>·       Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals | Term 3 Week 6 |
+|  | Lesson 2<br>Being Aware, Being Safe<br>(60 mins) | ·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 Week 8 |
+|  |Lesson 3 <br> More Than Meets the Eye<br>(60 mins) | ·       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>·       Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) | Term 4 Week 2 |
 | | | | |
 
 **Secondary 2**
