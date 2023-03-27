@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+[Please click here to access the school's Assessment Plan and Policy for 2023](https://staging.d2dbd9z2fz7m9o.amplifyapp.com/our-holistic-curriculum/instructional-programmes/assessment-matters/)
+
 Please click on the link below to download the WA schedule for the various levels. <br>
 
 **Secondary 1**<br>
