@@ -41,7 +41,7 @@ Sexuality Education Lessons: <br>
 
 **7.**	Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Bartley Secondary School, the following Sexuality Education lessons will be taught in 2022:**
+**At Bartley Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
 **Secondary 1**
 
@@ -56,9 +56,9 @@ Sexuality Education Lessons: <br>
 
 | UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
-| Respectful Relationships & Safety | 1<br>(60  mins) | ·      Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·      Understand what sexual orientation entails | Term 2 Week 6 |
-|  | 2A<br>(60 mins) | ·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3 Week 5 |
-|  | 2B<br>(60 mins) | ·     Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>·     Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 3 Week 6 |
+| Respectful Relationships & Safety | Lesson 1<br> A role for Everyone<br>(60  mins) | ·      Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·      Understand what sexual orientation entails | Term 2 Week 6 |
+|  | Lesson 2A<br> Online Safety Challenge<br>(60 mins) | ·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3 Week 5 |
+|  | Lesson 2B<br> Do I or Don't I<br>(60 mins) | ·     Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>·     Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 3 Week 6 |
 | | | | |
 
 **Secondary 3**
