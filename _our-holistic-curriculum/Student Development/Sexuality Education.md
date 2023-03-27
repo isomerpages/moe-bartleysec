@@ -109,6 +109,6 @@ Sexuality Education Lessons: <br>
 
 **11.** Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A_SED.pdf). The completed form is to be submitted by **14/02/2023.**
 
-**12.** Parents who wish to opt their children out of the **eTeens** programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens%20Opt%20Out%20Form%202022.pdf).  The completed form is to be submitted by **21/03/2022**.
+**12.** Parents who wish to opt their children out of the **eTeens** programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here]().  The completed form is to be submitted by **14/02/2023**.
 
 **13.** Parents can contact the school at Tel: 62889013 for discussion or to seek clarification about the school’s sexuality education programme.
