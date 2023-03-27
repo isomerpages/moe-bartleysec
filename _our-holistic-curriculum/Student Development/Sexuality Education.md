@@ -45,7 +45,7 @@ Sexuality Education Lessons: <br>
 
 **Secondary 1**
 
-| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to: |  TIME PERIOD<br>(e.g. Term 1 Week 2) 
 |---|---|---|---|
 | Respectful Relationships & Safety<br> | Lesson 1 <br>Steady or Not<br>(60 mins) | ·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>·       Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals | Term 3 Week 8 |
 |  | Lesson 2<br>Being Aware, Being Safe<br>(60 mins) | ·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 Week 9 |
