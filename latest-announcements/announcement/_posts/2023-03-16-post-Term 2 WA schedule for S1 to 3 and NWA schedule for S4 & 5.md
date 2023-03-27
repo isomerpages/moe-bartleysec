@@ -31,6 +31,17 @@ Please click on the link below to download the WA schedule for the various level
 [2O9](/files/Secondary%202%20Term%202%20WA%20Schedule%202023%20-%202O9.pdf)<br>
 
 **Secondary 3** <br>
-[Sec 3 Term 2 WA Schedule [2023]](/files/S3_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)
+[Sec 3 Term 2 WA Schedule [2023]](/files/S3_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf) <br>
+**WA Scheduled dates by class**<BR>
+[3R1](/files/Secondary%203%20Term%202%20WA%20Schedule%202023%20-%203R1.pdf)<BR>
+[3R2](/files/Secondary%203%20Term%202%20WA%20Schedule%202023%20-%203R2.pdf)<BR>
+[3R3](/files/Secondary%203%20Term%202%20WA%20Schedule%202023%20-%203R3.pdf)<BR>
+[3R4](/files/Secondary%203%20Term%202%20WA%20Schedule%202023%20-%203R4.pdf)<BR>
+[3R5](/files/Secondary%203%20Term%202%20WA%20Schedule%202023%20-%203R5.pdf)<BR>
+[3R6](/files/Secondary%203%20Term%202%20WA%20Schedule%202023%20-%203R6.pdf)<BR>
+[3R7](/files/Secondary%203%20Term%202%20WA%20Schedule%202023%20-%203R7.pdf)<BR>
+[3R8](/files/Secondary%203%20Term%202%20WA%20Schedule%202023%20-%203R8.pdf)<BR>
+[3R9](/files/Secondary%203%20Term%202%20WA%20Schedule%202023%20-%203R9.pdf)<BR>
+
 
 [Sec 4 & 5 Term 2 NWA Schedule [2023]](/files/S4_5_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)
