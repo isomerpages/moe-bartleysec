@@ -8,7 +8,19 @@ image: ""
 ---
 Please click on the link below to download the WA schedule for the various levels. <br>
 
-[Sec 1 Term 2 WA Schedule  [2023]](/files/S1_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf) <br>
+[Sec 1 Term 2 WA Schedule  [2023]](/files/S1_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf) <br> 
+**WA Scheduled dates** <br>
+[1C1](/files/Secondary%201%20%20Term%202%20WA%20Schedule%202023%20-%201C1.pdf) <BR>
+[1C2](/files/Secondary%201%20%20Term%202%20WA%20Schedule%202023%20-%201C2.pdf) <BR>
+[1C3](/files/Secondary%201%20%20Term%202%20WA%20Schedule%202023%20-%201C3.pdf) <BR>
+[1C4](/files/Secondary%201%20%20Term%202%20WA%20Schedule%202023%20-%201C4.pdf) <BR>
+[1C5](/files/Secondary%201%20%20Term%202%20WA%20Schedule%202023%20-%201C5.pdf) <BR>
+[1C6](/files/Secondary%201%20%20Term%202%20WA%20Schedule%202023%20-%201C6.pdf) <BR>
+[1C7](/files/Secondary%201%20%20Term%202%20WA%20Schedule%202023%20-%201C7.pdf)
+
+
+
+
 
 [Sec 2 Term 2 WA Schedule [2023]](/files/S2_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf) <br>
 
