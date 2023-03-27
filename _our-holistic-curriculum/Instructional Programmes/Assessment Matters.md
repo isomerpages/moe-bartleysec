@@ -50,7 +50,8 @@ Secondary 1 <br>
 
 [Sec 4E/4NA/4NT/5NA Term 2 NWA Schedule](/files/S4_5_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)
 
-15) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on.
+15) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on. <br>
+
 16) Your child/ward will be duly notified by the respective subject teachers should there be any changes to the assessments conducted as the year progresses.
 
 ##### Assessment Weighting
