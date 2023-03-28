@@ -2,31 +2,24 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: Bartley Secondary School
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6288 9013
+      - email: bartley_ss@moe.edu.sg
+      - other: ""
+    title: Telephone number
+  - content:
+      - phone: +65 6280 5595
+      - email: ""
+      - other: ""
+    title: "Fax Number "
+locations:
+  - address:
+      - "10 Jalan Bunga Rampai "
+      - Singapore 538403
+      - ""
+    operating_hours: []
+    maps_link: ""
+    title: "Bartley Secondary School "
 ---

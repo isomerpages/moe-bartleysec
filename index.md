@@ -1,32 +1,31 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Bartley Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Bartley Secondary School
+      subtitle: Empowering every Bartleyan to lead with wisdom, serve with humility
+        and learn with passion.
+      background: /images/homepage1.gif
+      key_highlights:
+        - title: Applied Learning Programme
+          description: "Chemical and Applied Sciences "
+          url: /our-signature-programmes/alp-chemical-and-applied-sciences-fragrance
+        - title: "Learning for Life Programme "
+          description: Community Youth Leadership
+          url: /our-signature-programmes/llp-community-youth-leadership
+  - resources:
+      title: Latest Announcements
+      subtitle: "Catch  up with the "
+      button: More
+  - infopic:
+      title: Celebrating our 70th Anniversary!
+      image: /images/06-28 Website Popup replacement_28 June.jpg
+      alt: Celebrating 70th Anniversary
+      url: https://bartleysec.moe.edu.sg/general/anniversary/home
+      button: 70th Anniversary Website
 ---
-
