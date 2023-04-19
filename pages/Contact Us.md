@@ -35,4 +35,4 @@ Please click [**here**](https://drive.google.com/file/d/1ArDI9Y4pgO6JVGieJ0Yt1g
 Contact Us
 ----------
 
-Please email us at bartley_ss@moe.edu.sg. 
+Please email us at bartley_ss@moe.edu.sg.
