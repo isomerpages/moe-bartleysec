@@ -15,7 +15,7 @@ We invite pupils in Primary Six in 2022 to apply for DSA-Sec to the school in th
 * Community Youth Leadership (Girls and Boys)
 * Football (Boys)<br>
 
-Information on Selection Criteria and Process, and Application procedure for 2023 would be updates at a later date. 
+##### Note:  Information on Selection Criteria and Process, and Application procedure for 2023 would be updated at a later date. 
 
 | Chemical and Applied Sciences (Fragrance) (Girls &amp; Boys) | Community Youth Leadership (Girls &amp; Boys)	| Football (Boys only) |
 | -------- | -------- | -------- |
