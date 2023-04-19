@@ -11,13 +11,13 @@ The DSA-Sec Exercise is an admission exercise to allow participating secondary s
 
 **Bartley Secondary School DSA-Sec Exercise 2022** <br>
 We invite pupils in Primary Six in 2022 to apply for DSA-Sec to the school in the following distinctive programmes:
-* Chemical and Applied Sciences (Fragrance)
-* Community Youth Leadership 
-* Football
+* Chemical and Applied Sciences (Fragrance) (Girls and Boys)
+* Community Youth Leadership (Girls and Boys)
+* Football (Boys)
 
-| Chemical and Applied Sciences (Fragrance) (Girls & Boys) | Community Youth Leadership (Girls & Boys)	| Football (Boys only) |
+| Chemical and Applied Sciences (Fragrance) (Girls &amp; Boys) | Community Youth Leadership (Girls &amp; Boys)	| Football (Boys only) |
 | -------- | -------- | -------- |
-| [Selection criteria & process, and application procedure.](https://moe-bartleysec-staging.netlify.app/our-signature-programmes/direct-school-admission/applied-learning-programme) | [Selection criteria & process, and application procedure.](https://moe-bartleysec-staging.netlify.app/our-signature-programmes/direct-school-admission/learning-for-life-programme) | [Selection criteria & process, and application procedure.](https://moe-bartleysec-staging.netlify.app/our-signature-programmes/direct-school-admission/football) |
+| [Selection criteria &amp; process, and application procedure.](https://moe-bartleysec-staging.netlify.app/our-signature-programmes/direct-school-admission/applied-learning-programme) | [Selection criteria &amp; process, and application procedure.](https://moe-bartleysec-staging.netlify.app/our-signature-programmes/direct-school-admission/learning-for-life-programme) | [Selection criteria &amp; process, and application procedure.](https://moe-bartleysec-staging.netlify.app/our-signature-programmes/direct-school-admission/football) |
 | | |
 
 | Useful MOE Weblinks |  |
