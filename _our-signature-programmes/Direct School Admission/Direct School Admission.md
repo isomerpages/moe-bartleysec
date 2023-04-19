@@ -4,16 +4,18 @@ permalink: /our-school-programmes/direct-school-admission/direct-school-admissio
 description: ""
 third_nav_title: Direct School Admission
 ---
-##### DSA-Sec for Admission to Secondary One in 2022 <br> 
+##### DSA-Sec for Admission to Secondary One in 2023 <br> 
 Direct School Admission (DSA) is a scheme which provides students with the opportunity to seek admission to a secondary school, based on a diverse range of academic and non-academic achievements and talents that they can demonstrate beyond the Primary School Leaving Examination (PSLE).
 
 The DSA-Sec Exercise is an admission exercise to allow participating secondary schools to select some Primary Six  students for admission to Secondary One. The selection will be based on their achievements and talents before the PSLE results are released.
 
-**Bartley Secondary School DSA-Sec Exercise 2022** <br>
+**Bartley Secondary School DSA-Sec Exercise 2023** <br>
 We invite pupils in Primary Six in 2022 to apply for DSA-Sec to the school in the following distinctive programmes:
 * Chemical and Applied Sciences (Fragrance) (Girls and Boys)
 * Community Youth Leadership (Girls and Boys)
-* Football (Boys)
+* Football (Boys)<br>
+
+Information on Selection Criteria and Process, and Application procedure for 2023 would be updates at a later date. 
 
 | Chemical and Applied Sciences (Fragrance) (Girls &amp; Boys) | Community Youth Leadership (Girls &amp; Boys)	| Football (Boys only) |
 | -------- | -------- | -------- |
