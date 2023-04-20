@@ -3,12 +3,12 @@ title: Our Contact
 permalink: /contact-us/
 description: ""
 ---
-
 ##### Our Contact
 
 **Location:** 10 Jalan Bunga Rampai Singapore 538403  
-**Tel:** +65 6288 9013  
-**Fax:** +65 6280 5595
+**Tel:**&nbsp;+65 6288 9013  
+**Fax:**&nbsp;+65 6280 5595<br>
+** Email: **bartley_ss@moe.edu.sg
 
 ![](/images/BartleyMap.jpg)
 
@@ -30,3 +30,4 @@ Circle Line CC12 Bartley
   
 **Bus Stop No. 62069 | Before Upper Paya Lebar Road**  
 28, 93, 158
+

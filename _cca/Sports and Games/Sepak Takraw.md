@@ -4,7 +4,6 @@ permalink: /our-holistic-curriculum/co-curricular-activities/sports-n-games/sepa
 description: ""
 third_nav_title: Sports and Games
 ---
-
 ### Vision
 A team that believes in working hard with a never say die attitude in becoming the best whilst showing class and sportsmanship at all times.
 
@@ -22,5 +21,7 @@ Mr Jamal Abdul Nazar
 
 **B Division Boys Champion**
 
+![](/images/takraw%20st.png)
+
 ![B Division Boys- Champion [2023]](/images/takraw.jpg)
-![](/images/Takraw.png) 
+![](/images/Takraw.png)
