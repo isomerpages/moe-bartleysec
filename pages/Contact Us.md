@@ -4,8 +4,9 @@ permalink: /Contact-Us/
 description: ""
 ---
 **Location:** 10 Jalan Bunga Rampai Singapore 538403  
-**Tel:** +65 6288 9013  
-**Fax:** +65 6280 5595
+**Tel:**&nbsp;+65 6288 9013  
+**Fax:**&nbsp;+65 6280 5595<br>
+**Email us at:**   bartley_ss@moe.edu.sg
 
 **Getting Here**  
   
@@ -13,7 +14,7 @@ MRT:
 Circle Line CC12 Bartley
 
   
-Please click [**here**](https://drive.google.com/file/d/1ArDI9Y4pgO6JVGieJ0Yt1gVoBgOTIGyp/view?ts=63a18764) to access the video on how to get to Bartley Secondary School.
+Please click&nbsp;[**here**](https://drive.google.com/file/d/1ArDI9Y4pgO6JVGieJ0Yt1gVoBgOTIGyp/view?ts=63a18764)&nbsp;to access the video on how to get to Bartley Secondary School.
 
   
 **Buses:**  
@@ -30,7 +31,7 @@ Please click [**here**](https://drive.google.com/file/d/1ArDI9Y4pgO6JVGieJ0Yt1g
 **Bus Stop No. 62069 | Before Upper Paya Lebar Road**  
 28, 93, 158
 
-   
+&nbsp; &nbsp;
 
 Contact Us
 ----------
