@@ -25,4 +25,3 @@ Mr Jamal Abdul Nazar
 
 ![B Division Boys- Champion [2023]](/images/takraw.jpg)
 ![](/images/Takraw.png)
-
