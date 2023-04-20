@@ -21,7 +21,8 @@ Mr Jamal Abdul Nazar
 
 **B Division Boys Champion**
 
+![](/images/takraw%20st.png)
+
 ![B Division Boys- Champion [2023]](/images/takraw.jpg)
 ![](/images/Takraw.png)
 
-![ST report Takraw Champion Bartley](/images/takraw%20st.png)
