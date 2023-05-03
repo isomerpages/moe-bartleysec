@@ -21,13 +21,6 @@ We invite pupils in Primary Six in 2023 to apply for DSA-Sec to the school in th
 | [Selection Criteria and Process, and Application for 2023](https://staging.d2dbd9z2fz7m9o.amplifyapp.com/our-signature-programmes/direct-school-admission/applied-learning-programme/)     | [Selection Criteria and Process, and Application for 2023](https://staging.d2dbd9z2fz7m9o.amplifyapp.com/our-signature-programmes/direct-school-admission/learning-for-life-programme/)    | [Selection Criteria and Process, and Application for 2023](https://staging.d2dbd9z2fz7m9o.amplifyapp.com/our-signature-programmes/direct-school-admission/football/)| 
 ||
 
-
-
-
-
-
-
-
 <br>
 
 
