@@ -23,7 +23,7 @@ Application is free-of-charge and will be open from **4th May 2023, 11 am to 31s
 **Selection Process** <br>
 Given the prevailing national posture, the school will be conducting in-person selection for all DSA talent areas for 2022 DSA-Sec, with the prevailing safe management measures (SMM).
 
-Shortlisted applicants will be required to participate in an **in-person interview between 26 June 2023 to 11 September 2023**. The school will notify the shortlisted applicants on the details of the in-person selection.
+Shortlisted applicants will be required to participate in an **in-person interview and sports trial between 26 June 2023 to 11 September 2023**. The school will notify the shortlisted applicants on the details of the in-person selection.
 
 All applicants will be informed of the outcome (Confirmed Offer, Wait List or Unsuccessful) via letters and/or phone calls by **11th September 2023**.
 
