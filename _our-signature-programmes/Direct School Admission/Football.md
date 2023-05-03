@@ -28,17 +28,17 @@ Shortlisted applicants will be required to participate in an **in-person intervi
 All applicants will be informed of the outcome (Confirmed Offer, Wait List or Unsuccessful) via letters and/or phone calls by **11th September 2023**.
 
 **Should you have any query, please contact: <br>
-Mr Jeremy Seah, HOD at 62889013 ext 261 / seah_kuang_wei_jeremy@schools.gov.sg**
+Mr Jeremy Seah, HOD PE &amp; CCA, at 62889013 ext 261 / seah_kuang_wei_jeremy@schools.gov.sg**
 
 Successful applicant’s primary school will follow up with the next stage of DSA exercise. Admission will only be confirmed when the PSLE results are released.
+| Important Dates to Note |  |  |  |
+|:---:|:---:|:---:|:---:|
+| Process |  | Dates |  |
+| DSA Application period    |  | 4 May 2023, 11 am to 31 May 2023, 3 pm |  |
+|    Selection interview for shortlisted applicants. |  | 26 June 2023 to 11 September 2023 |  |
+|    Notification of the outcome of application |  | 11 September 2023 |  |
+| | | | |
 
-| Important Dates to Note |  |
-|:---:|:---:|
-| Process | Date |
-| DSA Application period | 5 May 2022, 11 am to 1 June 2022, 3 pm |
-| Selection programme for shortlisted applicant. | 27 June 2022 to 12 September 2022 |
-| Notification of the outcome of application. | 12 September 2022 |
-| | |
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.
 
