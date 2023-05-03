@@ -35,13 +35,22 @@ Mdm Kavitha, HOD (Character and Citizenship Education) at kavitha_nagarajan@scho
 
 Successful applicant’s primary school will follow up with the next stage of DSA exercise. Admission will only be confirmed when the PSLE results are released.
 
+
+
+
+
 | Important Dates to Note |  |  |  |
 |:---:|:---:|:---:|:---:|
 | Process |  | Dates |  |
-| DSA Application period &nbsp;  |  | 4 May 2023, 11 am to 31 May 2023, 3 pm |  |
-| &nbsp;  Selection interview for shortlisted applicants. |  | 26 June 2023 to 11 September 2023 |  |
-| &nbsp;  Notification of the outcome of application |  | 11 September 2023 |  |
+| DSA Application period    |  | 4 May 2023, 11 am to 31 May 2023, 3 pm |  |
+|    Selection interview for shortlisted applicants. |  | 26 June 2023 to 11 September 2023 |  |
+|    Notification of the outcome of application |  | 11 September 2023 |  |
 | | | | |
+
+
+
+
+
 
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.
