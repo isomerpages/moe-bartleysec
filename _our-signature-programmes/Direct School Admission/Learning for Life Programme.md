@@ -31,7 +31,7 @@ Shortlisted applicants will be required to participate in an **in-person intervi
 All applicants will be informed of the outcome (Confirmed Offer, Wait List or Unsuccessful) via letters and/or phone calls by **11th September 2023**.
 
 **Should you have any query, please contact: <br>
-Mdm Kavitha, HOD (Character and Citizenship Education) at 62889013 ext 212 / kavitha_nagarajan@schools.gov.sg**
+Mdm Kavitha, HOD (Character and Citizenship Education) at kavitha_nagarajan@schools.gov.sg**
 
 Successful applicant’s primary school will follow up with the next stage of DSA exercise. Admission will only be confirmed when the PSLE results are released.
 ​
