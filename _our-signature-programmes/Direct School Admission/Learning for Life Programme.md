@@ -22,7 +22,7 @@ Parents/guardians who are unable to apply online can approach their child's prim
 Application is free-of-charge and will be open from **5th May 2022, 11 am to 1st June 2022, 3 pm**.
 
 **Selection Process** <br>
-Given the prevailing national posture, the school will be conducting in-person selection for all DSA talent areas for 2023 DSA-Sec, with the prevailing safe management measures (SMM).
+Given the prevailing national posture, the school will be conducting in-person selection for all DSA talent areas for 2023
 
 
 Shortlisted applicants will be required to participate in an **in-person interview between 26 June 2023 to 11 September 2023**. The school will notify the shortlisted applicants on the details of the in-person selection.
