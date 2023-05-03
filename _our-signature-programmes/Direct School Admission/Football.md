@@ -31,6 +31,8 @@ All applicants will be informed of the outcome (Confirmed Offer, Wait List or Un
 Mr Jeremy Seah, HOD PE &amp; CCA, seah_kuang_wei_jeremy@schools.gov.sg**
 
 Successful applicant’s primary school will follow up with the next stage of DSA exercise. Admission will only be confirmed when the PSLE results are released.
+
+
 | Important Dates to Note | |
 | -------- | -------- |
 | Process    | Dates    | |
