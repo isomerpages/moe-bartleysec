@@ -32,6 +32,7 @@ Mr Quek Shir Ryn, SH(Physics) at 62889013 ext 213 / quek_shir_ryn@schools.gov.sg
 
 Successful applicant’s primary school will follow up with the next stage of DSA exercise. Admission will only be confirmed when the PSLE results are released. **It is compulsory for students who are accepted into the school through DSA (ALP) to join the [CurioSTÉ Club](https://moe-bartleysec-staging.netlify.app/our-holistic-curriculum/co-curricular-activities/clubs-n-societies/curiost-club-new).**
 
+
 | Important Dates to Note |  |  |  |
 |:---:|:---:|:---:|:---:|
 | Process |  | Dates |  |
