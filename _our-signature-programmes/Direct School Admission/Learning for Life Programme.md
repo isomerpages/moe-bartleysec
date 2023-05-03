@@ -19,7 +19,7 @@ or
 
 Parents/guardians who are unable to apply online can approach their child's primary school for assistance.
 
-Application is free-of-charge and will be open from **4th May 2022, 11 am to 31st May 2023, 3 pm**.
+Application is free-of-charge and will be open from **4th May 2023, 11 am to 31st May 2023, 3 pm**.
 
 **Selection Process** <br>
 Given the prevailing national posture, the school will be conducting in-person selection for all DSA talent areas for 2023
