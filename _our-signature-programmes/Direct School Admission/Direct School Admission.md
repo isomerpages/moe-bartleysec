@@ -23,7 +23,6 @@ We invite pupils in Primary Six in 2023 to apply for DSA-Sec to the school in th
 
 <br>
 
-
 | Useful MOE Weblinks |  |
 |---|---|
 |  DSA-Sec Main Webpage | [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec) |
