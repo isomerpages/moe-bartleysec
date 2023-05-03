@@ -36,7 +36,7 @@ Successful applicant’s primary school will follow up with the next stage of DS
 | Important Dates to Note |  |  |  |
 |:---:|:---:|:---:|:---:|
 | Process |  | Dates |  |
-| DSA Application period    |  | 4 May 2022, 11 am to 31 May 2023, 3 pm |  |
+| DSA Application period    |  | 4 May 2023, 11 am to 31 May 2023, 3 pm |  |
 |    Selection interview for shortlisted applicants. |  | 26 June 2023 to 11 September 2023 |  |
 |    Notification of the outcome of application |  | 11 September 2023 |  |
 | | | | |
