@@ -10,7 +10,7 @@ third_nav_title: Instructional Programmes
 
 2)    In tandem with these changes, there will be only one weighted assessment per subject per term that counts towards the year-end overall score.&nbsp; The school will undertake a range of formative assessment (e.g. pop quizzes, worksheets, seat work and homework) and reporting (e.g. termly and semestral progress reports) to inform and support student learning.
 
-3)  &nbsp;In addition, there will be no mid-year examination for **all levels. **
+3)  &nbsp;In addition, there will be no mid-year examination for **all levels**.
 
 ##### Attendance policy
 
