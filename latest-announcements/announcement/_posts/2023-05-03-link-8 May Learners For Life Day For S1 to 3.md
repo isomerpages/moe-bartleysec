@@ -1,6 +1,6 @@
 ---
-title: 11 Apr Learners For Life Day For S1 to 3
-date: 2023-04-04
+title: 8 May Learners For Life Day For S1 to 3
+date: 2023-05-03
 layout: link
 description: ""
 image: ""

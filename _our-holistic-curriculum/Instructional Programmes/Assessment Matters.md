@@ -8,20 +8,20 @@ third_nav_title: Instructional Programmes
 
 1) The Ministry of Education announced in Sept 2018 changes to school-based assessment to shift away from over-emphasis on examinations and grades, and help students discover the joy of learning.
 
-2)    In tandem with these changes, there will be only one weighted assessment per subject per term that counts towards the year-end overall score.  The school will undertake a range of formative assessment (e.g. pop quizzes, worksheets, seat work and homework) and reporting (e.g. termly and semestral progress reports) to inform and support student learning.
+2)    In tandem with these changes, there will be only one weighted assessment per subject per term that counts towards the year-end overall score.&nbsp; The school will undertake a range of formative assessment (e.g. pop quizzes, worksheets, seat work and homework) and reporting (e.g. termly and semestral progress reports) to inform and support student learning.
 
-3)   In addition, there will be no mid-year examination for **all levels..  
+3)  &nbsp;In addition, there will be no mid-year examination for **all levels**.
 
 ##### Attendance policy
 
-4) Our teachers work hard to ignite passion and joy for learning in our students through meaningful and engaging learning experiences. Students can only benefit fully from these  learning experiences by being present, punctual and active in class.  
+4) Our teachers work hard to ignite passion and joy for learning in our students through meaningful and engaging learning experiences. Students can only benefit fully from these &nbsp;learning experiences by being present, punctual and active in class.  
 
 5) 
-Every single day a child is absent from school is a day of learning lost.  Parents are to note the start and end dates of each term in the academic year.  All students are expected to be present and to attend lessons during term time, as well as all other school activities that have been planned for them.
+Every single day a child is absent from school is a day of learning lost.&nbsp; Parents are to note the start and end dates of each term in the academic year.&nbsp; All students are expected to be present and to attend lessons during term time, as well as all other school activities that have been planned for them.
  
 6) A student’s attendance and punctuality are recorded in his/her academic report (termly and semestral) as the number of school days present and instances of late coming.
 
-7) Students who did not attain at least a 75% in attendance may not be allowed to sit for exams.  Please note that absence from school shall be permitted when it is supported by a Medical Certificate (MC) or Parents Letter covering 4 days per semester only stating special reasons other than medical.
+7) Students who did not attain at least a 75% in attendance may not be allowed to sit for exams.&nbsp; Please note that absence from school shall be permitted when it is supported by a Medical Certificate (MC) or Parents Letter covering 4 days per semester only stating special reasons other than medical.
 
 ##### Absence from Weighted Assessment (WA) and Examinations <br>
 8) If a student is unwell on the day of an assessment, he/she has to consult a doctor and get a medical certificate for the day of absence. The medical certificate must be submitted to the Form Teacher immediately when the student returns to school. Upon receipt of the medical certificate, the status of the assessment grade will be reflected as “MC”. Proration of marks, based on the other weighted assessments for the year, will be computed and reflected in the progress report accordingly. Only medical certificates issued by doctors registered with the Singapore Medical Council are accepted.
@@ -38,7 +38,7 @@ Every single day a child is absent from school is a day of learning lost.  Pare
 
 ##### Weighted Assessment for School-Based Assessment 
 
-13) Please click on the links below for the Term 2 Weighted Assessment (WA) Schedule for Secondary 1 to 3 in the academic year 2023.
+13) Please click on the links below for the Term 2&nbsp;Weighted Assessment (WA) Schedule&nbsp;for&nbsp;Secondary 1 to 3&nbsp;in the academic year&nbsp;2023.
 
 
 Secondary 1 <br>
@@ -46,7 +46,7 @@ Secondary 1 <br>
 [Sec 2 Term 2 WA Schedule](/files/S2_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)<br>
 [Sec 3 Term 2 WA Schedule](/files/S3_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)
 
-14) Please click on the link below for the Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA for  the academic year 2023.
+14) Please click on the link below for the&nbsp;Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA&nbsp;for &nbsp;the academic year&nbsp;2023.
 
 [Sec 4E/4NA/4NT/5NA Term 2 NWA Schedule](/files/S4_5_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)
 

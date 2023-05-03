@@ -16,14 +16,10 @@ We invite pupils in Primary Six in 2023 to apply for DSA-Sec to the school in th
 * Football (Boys)<br>
 
 
-| Chemical and Applied Sciences (Frangrance) (Girls &amp; Boys) | Community Youth Leadership (Girls &amp; Boys) | Football (Boys) |
+|Chemical and Applied Sciences (Fragrance) (Girls &amp; Boys) | Community Youth Leadership (Girls &amp; Boys) | Football (Boys) |
 | -------- | -------- | -------- |
-| [Selection Criteria &amp; Process, and Application Procedure for 2022](https://moe-bartleysec-staging.netlify.app/our-signature-programmes/direct-school-admission/applied-learning-programme/)     | [Selection Criteria and Process, and Application for 2022](https://staging.d2dbd9z2fz7m9o.amplifyapp.com/our-signature-programmes/direct-school-admission/learning-for-life-programme/)    | [Selection Criteria and Process, and Application for 2022](https://staging.d2dbd9z2fz7m9o.amplifyapp.com/our-signature-programmes/direct-school-admission/football/)     |
-
-
- 
-##### Note:  Information on Selection Criteria and Process, and Application procedure for 2023 would be updated at a later date. <br>
-<br>
+| [Selection Criteria and Process, and Application for 2023](https://staging.d2dbd9z2fz7m9o.amplifyapp.com/our-signature-programmes/direct-school-admission/applied-learning-programme/)     | [Selection Criteria and Process, and Application for 2023](https://staging.d2dbd9z2fz7m9o.amplifyapp.com/our-signature-programmes/direct-school-admission/learning-for-life-programme/)    | [Selection Criteria and Process, and Application for 2023](https://staging.d2dbd9z2fz7m9o.amplifyapp.com/our-signature-programmes/direct-school-admission/football/)| 
+||
 
 | Useful MOE Weblinks |  |
 |---|---|
