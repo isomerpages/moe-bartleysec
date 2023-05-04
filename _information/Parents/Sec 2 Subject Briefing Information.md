@@ -4,7 +4,7 @@ permalink: /information/parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
-Dear Parents/Guardians
+Dear Parent/Guardian
   
 Thank you for attending the Face-to-Face and/or Zoom Webinar Parent Engagement & Subject Options Briefing on 31 March and 28 April 2023 respectively.
   
