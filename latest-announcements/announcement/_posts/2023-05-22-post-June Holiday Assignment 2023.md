@@ -8,7 +8,7 @@ image: ""
 ---
 Dear Student
 
-Please click on your class to access your June Holiday Assignment for 2023
+Please click on your class to access your June Holiday Assignment for 2023.
 
 | Sec 1 | Sec 2 | Sec 3 | Sec 4/5  |
 | -------- | -------- | -------- | -------| 
