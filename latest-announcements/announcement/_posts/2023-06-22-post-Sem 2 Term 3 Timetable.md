@@ -8,6 +8,6 @@ image: ""
 ---
 Dear Parents and Students,
 
-You may download the timetable for Semester 2 [](/files/2023%20sem%202%20timetable%20by%20class.pdf).
+You may download the timetable for Semester 2 [here](/files/2023%20sem%202%20timetable%20by%20class.pdf).
 
 Thank you.
