@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### School Canteen Advertisement
+#### School Canteen Advertisement for Muslim Cooked Food Stall
 
 
 
