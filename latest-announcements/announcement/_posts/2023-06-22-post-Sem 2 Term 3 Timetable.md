@@ -8,7 +8,6 @@ image: ""
 ---
 Dear Parents and Students,
 
-The timetable for Semester 2 2023 would be uploaded by Sunday (25/6) afternoon.
+You may download the timetable for Semester 2 [](/files/2023%20sem%202%20timetable%20by%20class.pdf).
 
-
-Do visit our site again then. Thank you.
+Thank you.
