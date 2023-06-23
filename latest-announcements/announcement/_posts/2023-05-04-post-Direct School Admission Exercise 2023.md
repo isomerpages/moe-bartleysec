@@ -5,6 +5,6 @@ layout: post
 description: ""
 image: ""
 external: staging.d2dbd9z2fz7m9o.amplifyapp.com/our-school-programmes/direct-school-admission/direct-school-admission/
-permalink: /latest-announcements/announcement/permalink/
+permalink: /latest-announcements/announcement/permalink/direct-school-admission-exercise-2023/
 ---
 ## Click [here](https://staging.d2dbd9z2fz7m9o.amplifyapp.com/our-school-programmes/direct-school-admission/direct-school-admission/) to find out more about Bartley's DSA!
