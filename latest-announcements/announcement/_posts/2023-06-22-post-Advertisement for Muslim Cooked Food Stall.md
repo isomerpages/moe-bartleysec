@@ -1,12 +1,12 @@
 ---
-title: School Canteen Advertisement for Muslim Cooked Food Stall
-permalink: /latest-announcements/announcement/permalink/
+title: Advertisement for Muslim Cooked Food Stall
+permalink: /latest-announcements/announcement/permalink/advertisement-for-muslim-cooked-food-stall/
 date: 2023-06-22
 layout: post
 description: ""
 image: ""
 ---
-#### School Canteen Advertisement
+#### School Canteen Advertisement for Muslim Cooked Food Stall
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: June Holiday Assignment 2023
-permalink: /latest-announcements/announcement/permalink/
+permalink: /latest-announcements/announcement/permalink/june-holiday-assignment-2023/
 date: 2023-05-22
 layout: post
 description: ""

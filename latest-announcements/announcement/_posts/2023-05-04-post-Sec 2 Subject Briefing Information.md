@@ -1,6 +1,6 @@
 ---
 title: Sec 2 Subject Briefing Information
-permalink: /latest-announcements/announcement/permalink/
+permalink: /latest-announcements/announcement/permalink/sec-2-subject-briefing-information/
 date: 2023-05-04
 layout: post
 description: ""
