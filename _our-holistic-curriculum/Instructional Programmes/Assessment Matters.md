@@ -38,7 +38,9 @@ Every single day a child is absent from school is a day of learning lost.&nbsp; 
 
 ##### Weighted Assessment for School-Based Assessment 
 
-13) Please click on the links below for the Term 2&nbsp;Weighted Assessment (WA) Schedule&nbsp;for&nbsp;Secondary 1 to 3&nbsp;in the academic year&nbsp;2023.
+13) Please click on the links below for the Term 2&nbsp;Weighted Assessment (WA) Schedule&nbsp;for&nbsp;Secondary 1 to 3&nbsp;in the academic year&nbsp;2023. <br>
+
+[Sec 1 Term 3 WA schedule](/files/sec%201_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf)
 
 
 14) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on. <br>
