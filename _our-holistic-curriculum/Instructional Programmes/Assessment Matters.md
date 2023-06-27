@@ -38,24 +38,21 @@ Every single day a child is absent from school is a day of learning lost.&nbsp; 
 
 ##### Weighted Assessment for School-Based Assessment 
 
-13) Please click on the links below for the Term 2&nbsp;Weighted Assessment (WA) Schedule&nbsp;for&nbsp;Secondary 1 to 3&nbsp;in the academic year&nbsp;2023.
+13) Please click on the links below for the Term 3&nbsp;Weighted Assessment (WA) Schedule&nbsp;for&nbsp;Secondary 1 to 3&nbsp;in the academic year&nbsp;2023. <br>
+
+[Sec 1 Term 3 WA schedule](/files/sec%201_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf) <br>
+
+[Sec 2 Term 3 WA schedule](/files/sec%202_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf) <br>
+
+[Sec 3 Term 3 WA schedule](/files/sec%203_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf)
 
 
-Secondary 1 <br>
-[Sec 1 Term 2 WA Schedule](/files/S1_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)<br> 
-[Sec 2 Term 2 WA Schedule](/files/S2_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)<br>
-[Sec 3 Term 2 WA Schedule](/files/S3_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)
-
-14) Please click on the link below for the&nbsp;Non-Weighted Assessment (NWA) schedule for Secondary 4E4NA5NA&nbsp;for &nbsp;the academic year&nbsp;2023.
-
-[Sec 4E/4NA/4NT/5NA Term 2 NWA Schedule](/files/S4_5_2023%20Term%202%20Weighted%20Assessment%20Schedule.pdf)
-
-15) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on. <br>
+14) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on. <br>
 
 16) Your child/ward will be duly notified by the respective subject teachers should there be any changes to the assessments conducted as the year progresses.
 
 ##### Assessment Weighting
-17) Please see below for the assessment weighting for Secondary 1 to 3 for the academic year 2023.
+16) Please see below for the assessment weighting for Secondary 1 to 3 for the academic year 2023.
         
 **Assessment Weighting For Secondary 1**
 ![](/images/Capture%201.png)
@@ -66,10 +63,10 @@ Secondary 1 <br>
 **Assessment Weighting For Secondary 3**
 ![](/images/Capture%204.png)
 
-18) For Sec4E/4N/5N, the overall result is based solely on the Preliminary Examination results. However, there are non-weighted assessment conducted in each of the terms.
+17) For Sec4E/4N/5N, the overall result is based solely on the Preliminary Examination results. However, there are non-weighted assessment conducted in each of the terms.
 
 **Assessment Weighting For Secondary 4E/4NA/4NT/5NA**
 
 ![](/images/Capture5.png)
 
-19) Thank you for your kind attention.
+18) Thank you for your kind attention.
