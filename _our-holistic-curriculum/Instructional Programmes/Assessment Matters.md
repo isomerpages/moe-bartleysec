@@ -48,13 +48,15 @@ Every single day a child is absent from school is a day of learning lost.&nbsp; 
 
 14) Please click on the links below for 4N Preliminary Schedule.
 
+[4NA Preliminary Examination Timetable](/files/4na%20prelim%202023_timetable%20updated%2026%20jun%202023_v2.pdf) <br>
+[4NT Preliminary Examination Timetable](/files/4nt%20prelim%202023_timetable%20updated%2026%20jun%202023_v2.pdf)
 
 15) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on. <br>
 
 16) Your child/ward will be duly notified by the respective subject teachers should there be any changes to the assessments conducted as the year progresses.
 
 ##### Assessment Weighting
-16) Please see below for the assessment weighting for Secondary 1 to 3 for the academic year 2023.
+17) Please see below for the assessment weighting for Secondary 1 to 3 for the academic year 2023.
         
 **Assessment Weighting For Secondary 1**
 ![](/images/Capture%201.png)
@@ -65,10 +67,10 @@ Every single day a child is absent from school is a day of learning lost.&nbsp; 
 **Assessment Weighting For Secondary 3**
 ![](/images/Capture%204.png)
 
-17) For Sec4E/4N/5N, the overall result is based solely on the Preliminary Examination results. However, there are non-weighted assessment conducted in each of the terms.
+18) For Sec4E/4N/5N, the overall result is based solely on the Preliminary Examination results. However, there are non-weighted assessment conducted in each of the terms.
 
 **Assessment Weighting For Secondary 4E/4NA/4NT/5NA**
 
 ![](/images/Capture5.png)
 
-18) Thank you for your kind attention.
+19) Thank you for your kind attention.
