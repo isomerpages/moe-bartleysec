@@ -10,6 +10,7 @@ image: ""
 
 Please click on the link below to download the 4NA and 4NT Preliminary Examination Timetable 
 
-[4NA Preliminary Examination Timetable](/files/4na%20prelim%202023_timetable%20updated%2026%20jun%202023_v2.pdf)<br>
+[4NA Preliminary Examination Timetable](/files/4na%20prelim%202023_timetable%20updated%2026%20jun%202023_v2_latest.pdf) <br>
 
-[4NT Preliminary Examination Timetable](/files/4nt%20prelim%202023_timetable%20updated%2026%20jun%202023_v2.pdf)
+
+[4NT Preliminary Examination Timetable](/files/4nt%20prelim%202023_timetable%20updated%2026%20jun%202023_v2_latest.pdf)
