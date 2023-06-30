@@ -48,8 +48,9 @@ Every single day a child is absent from school is a day of learning lost.&nbsp; 
 
 14) Please click on the links below for 4N Preliminary Schedule.
 
-[4NA Preliminary Examination Timetable](/files/4na%20prelim%202023_timetable%20updated%2026%20jun%202023_v2.pdf) <br>
-[4NT Preliminary Examination Timetable](/files/4nt%20prelim%202023_timetable%20updated%2026%20jun%202023_v2.pdf)
+[4NA Preliminary Examination Timetable](/files/4na%20prelim%202023_timetable%20updated%2026%20jun%202023_v2_latest.pdf) <br>
+
+[4NT Preliminary Examination Timetable](/files/4nt%20prelim%202023_timetable%20updated%2026%20jun%202023_v2_latest.pdf)
 
 15) We appreciate your assistance in ensuring that your child/ward does the necessary preparation and revision for the components that he/she will be assessed on. <br>
 
