@@ -25,7 +25,12 @@ WA scheduled dates by class: <br>
 [2O1](/files/2o1%20term%203%20wa%20schedule%202023.pdf) <br>
 [2O2](/files/2o2%20term%203%20wa%20schedule%202023.pdf) <br>
 [2O3](/files/2o3%20term%203%20wa%20schedule%202023.pdf) <br>
-[2O4](/files/2o4%20term%203%20wa%20schedule%202023.pdf)
+[2O4](/files/2o4%20term%203%20wa%20schedule%202023.pdf) <br>
+[2O5](/files/2o5%20term%203%20wa%20schedule%202023.pdf) <br>
+[2O6](/files/2o6%20term%203%20wa%20schedule%202023.pdf) <br>
+[2O7](/files/2o7%20term%203%20wa%20schedule%202023.pdf) <br>
+[2O8](/files/2o8%20term%203%20wa%20schedule%202023.pdf) <br>
+[2O9](/files/2o9%20term%203%20wa%20schedule%202023.pdf)
 
 [Sec 3 WA schedule overview](/files/sec%203_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf) <br>
 
