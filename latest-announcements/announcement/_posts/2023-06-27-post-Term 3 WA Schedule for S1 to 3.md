@@ -21,6 +21,8 @@ WA scheduled dates by class:<br>
 [1C7](/files/1c7%20%20term%203%20wa%20schedule%202023.pdf)
 
 [Sec 2 WA schedule overview](/files/sec%202_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf) <br>
+WA scheduled dates by class: <br>
+
 
 [Sec 3 WA schedule overview](/files/sec%203_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf) <br>
 
