@@ -33,6 +33,16 @@ WA scheduled dates by class: <br>
 [2O9](/files/2o9%20term%203%20wa%20schedule%202023.pdf)
 
 [Sec 3 WA schedule overview](/files/sec%203_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf) <br>
+WA scheduled dates by class: <br>
+[3R1](/files/3r1%20term%203%20wa%20schedule%202023.pdf) <br>
+[3R2](/files/3r2%20term%203%20wa%20schedule%202023.pdf) <br>
+[3R3](/files/3r3%20term%203%20wa%20schedule%202023.pdf) <br>
+[3R4](/files/3r4%20term%203%20wa%20schedule%202023.pdf)<br>
+[3R5](/files/3r5%20term%203%20wa%20schedule%202023.pdf) <br>
+[3R6](/files/3r6%20term%203%20wa%20schedule%202023.pdf) <br>
+[3R7](/files/3r7%20term%203%20wa%20schedule%202023.pdf) <br>
+[3R8](/files/3r8%20term%203%20wa%20schedule%202023.pdf) <br>
+[3R9](/files/3r9%20term%203%20wa%20schedule%202023.pdf)
 
 The scheduled dates for various WA by classes would be uploaded by 4 July.
 
