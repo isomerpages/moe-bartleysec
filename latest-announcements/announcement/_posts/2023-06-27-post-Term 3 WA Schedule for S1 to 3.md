@@ -44,6 +44,5 @@ WA scheduled dates by class: <br>
 [3R8](/files/3r8%20term%203%20wa%20schedule%202023.pdf) <br>
 [3R9](/files/3r9%20term%203%20wa%20schedule%202023.pdf)
 
-The scheduled dates for various WA by classes would be uploaded by 4 July.
 
 Thank you.
