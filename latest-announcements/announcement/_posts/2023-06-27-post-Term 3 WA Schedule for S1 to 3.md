@@ -12,7 +12,13 @@ Please click on the link below to download the overall WA schedule for the vario
 
 [Sec 1 WA schedule overview](/files/sec%201_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf)<br>
 WA scheduled dates by class:<br>
-[1C1 ](/files/1c1%20%20term%203%20wa%20schedule%202023.pdf)
+[1C1 ](/files/1c1%20%20term%203%20wa%20schedule%202023.pdf) <br>
+[1C2](/files/1c2%20%20term%203%20wa%20schedule%202023.pdf) <br>
+[1C3](/files/1c3%20%20term%203%20wa%20schedule%202023.pdf) <br>
+[1C4](/files/1c4%20%20term%203%20wa%20schedule%202023.pdf) <br>
+[1C5](/files/1c5%20%20term%203%20wa%20schedule%202023.pdf) <br>
+[1C6](/files/1c6%20term%203%20wa%20schedule%202023.pdf) <br>
+[1C7](/files/1c7%20%20term%203%20wa%20schedule%202023.pdf)
 
 [Sec 2 WA schedule overview](/files/sec%202_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf) <br>
 
