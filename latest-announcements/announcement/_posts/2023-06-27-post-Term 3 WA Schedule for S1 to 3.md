@@ -11,8 +11,8 @@ image: ""
 Please click on the link below to download the overall WA schedule for the various levels.
 
 [Sec 1 WA schedule overview](/files/sec%201_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf)<br>
-WA scheduled dates by class:
-
+WA scheduled dates by class:<br>
+[1C1 ](/files/1c1%20%20term%203%20wa%20schedule%202023.pdf)
 
 [Sec 2 WA schedule overview](/files/sec%202_%20overview%202023%20term%203%20weighted%20assessment%20schedule.pdf) <br>
 
