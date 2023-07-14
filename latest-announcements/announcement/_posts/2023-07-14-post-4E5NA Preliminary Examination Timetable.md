@@ -10,4 +10,4 @@ image: ""
 <br>
 
 Please click here to download the 4E5NA Preliminary Examination Timetable. <br>
-[4E5NA Preliminary Examination Timetable](/files/4e5na%20prelim%20timetable%202023%2013%20jul.pdf)
+[4E5NA Preliminary Examination Timetable](/files/4e5na%20prelim%20timetable%202023%2013%20jul_v2.pdf)
