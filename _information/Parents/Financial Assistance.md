@@ -70,4 +70,4 @@ For applications submitted through the school, please submit your forms with the
 
 [Click here] [](/files/annex%20a%20-%202024%20stspmf%20application%20form%20for%20schools.pdf)to download Annex A - The STSPMF application form.
 
-[Click here ] [](/files/annex%20b%20-%20income%20declaration%20form.pdf) to download Annex B - Income Declaration Form 2022 [revised 2023 cycle]
+[Click here ] [](/files/annex%20b%20-%20income%20declaration%20form.pdf) to download Annex B - Income Declaration form.
