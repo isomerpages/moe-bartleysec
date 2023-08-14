@@ -171,4 +171,4 @@ description: ""
 | STUDENT WELFARE OFFICER | MS SITI FATYAH BINTE MOHD YAHKUP|[siti_fatyah_mohd_yahkup@schools.gov.sg](mailto:siti_fatyah_mohd_yahkup@schools.gov.sg) |
 | AED LEARNING &amp; BEHAVIOURAL SUPPORT | MUHAMMAD AMALLUDIN RATEMAN | [muhammad_amalludin_rateman@schools.gov.sg](mailto:muhammad_amalludin_rateman@schools.gov.sg) |
 |SPECIAL EDUCATIONAL NEEDS OFFICER|MR MUHAMMAD AMALLUDIN RATEMAN|[muhammad_amalludin_rateman@schools.gov.sg](mailto:muhammad_amalludin_rateman@schools.gov.sg)|
-| ECG COUNSELLING | MS VALERIE PHUA | [phua_chay_khimm_valerie@schools.gov.sg](mailto:phua_chay_khim_valerie@schools.gov.sg) |
+| ECG COUNSELLING | MS VALERIE PHUA | [phua_chay_khimm_valerie@schools.gov.sg](mailto:phua_chay_khimm_valerie@schools.gov.sg) |
