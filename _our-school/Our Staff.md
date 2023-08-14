@@ -27,8 +27,8 @@ description: ""
 | HOD HUMANITIES | MR PEK CHI HIONG GARY | [pek_chi_hiong_gary@schools.gov.sg](mailto:pek_chi_hiong_gary@schools.gov.sg) |
 | SH GEOGRAPHY | MS ERICA YAP XIN YIN | [yap_xin_yin_erica@schools.gov.sg](mailto:yap_xin_yin_erica@schools.gov.sg) |
 | HOD CRAFT AND TECHNOLOGY | MDM SRI HIRDAYU BTE AHMAD | [sri_hirdayu_ahmad@schools.gov.sg](mailto:sri_hirdayu_ahmad@schools.gov.sg) |
-| SH D&T | MR IGNATIUS LIEN CHEONG WEE | [ignatius_lien@schools.gov.sg](mailto:ignatius_lien@schools.gov.sg) |
-| HOD PE & CCA | MR SEAH KUANG WEI JEREMY | [seah_kuang_wei_jeremy@schools.gov.sg](mailto:seah_kuang_wei_jeremy@schools.gov.sg) |
+| SH D&amp;T | MR IGNATIUS LIEN CHEONG WEE | [ignatius_lien@schools.gov.sg](mailto:ignatius_lien@schools.gov.sg) |
+| HOD PE &amp; CCA | MR SEAH KUANG WEI JEREMY | [seah_kuang_wei_jeremy@schools.gov.sg](mailto:seah_kuang_wei_jeremy@schools.gov.sg) |
 | HOD CCE | MDM KAVITHA NAGARAJAN | [kavitha_nagarajan@schools.gov.sg](mailto:kavitha_nagarajan@schools.gov.sg) |
 | HOD STUDENT MANAGEMENT | MR VS RANGEN | [v_s_rangen@schools.gov.sg](mailto:v_s_rangen@schools.gov.sg) |
 | HOD SSD | MR TAN KEN JIN | [tan_ken_jin@schools.gov.sg](mailto:tan_ken_jin@schools.gov.sg) |
@@ -38,7 +38,7 @@ description: ""
 |YEAR HEAD<br>(SEC 1)|MS LEE KIA LI|[lee_kia_li@schools.gov.sg](mailto:lee_kia_li@schools.gov.sg)|
 | YEAR HEAD<br>(SEC 2) | MR LIU KAH YANG |[liu_kah_yang@schools.gov.sg](mailto:liu_kah_yang@schools.gov.sg) |
 |YEAR HEAD<br>(SEC 3)| MR TAN KENJIN|[tan_ken_jin@schools.gov.sg](mailto:tan_ken_jin@schools.gov.sg)|
-| YEAR HEAD<br>(SEC 4 & 5) | MR SIM LAI HENG | [sim_lai_heng@schools.gov.sg](mailto:sim_lai_heng@schools.gov.sg) |
+| YEAR HEAD<br>(SEC 4 &amp; 5) | MR SIM LAI HENG | [sim_lai_heng@schools.gov.sg](mailto:sim_lai_heng@schools.gov.sg) |
 
 <p> </p>
 
@@ -95,7 +95,7 @@ description: ""
 |  | MR TAN JIA YI, JOEL | [tan_jia_yi_joel@schools.gov.sg](mailto:tan_jia_yi_joel@schools.gov.sg) |
 
 
-<p></P>
+<p></p>
 
 
 | SEC 3 FORM TEACHERS |  | EMAIL ADDRESS |
@@ -169,6 +169,6 @@ description: ""
 | ICT MANAGER | MR MUHD ILYIA KAMSAI | [muhammad_Ilyia_kamsani@schools.gov.sg](mailto:muhammad_Ilyia_kamsani@schools.gov.sg) |
 |SCHOOL COUNSELLOR | MDM ZARINA ABDUL PATAH | [zarina_abdul_patah@schools.gov.sg](mailto:zarina_abdul_patah@schools.gov.sg) |
 | STUDENT WELFARE OFFICER | MS SITI FATYAH BINTE MOHD YAHKUP|[siti_fatyah_mohd_yahkup@schools.gov.sg](mailto:siti_fatyah_mohd_yahkup@schools.gov.sg) |
-| AED LEARNING & BEHAVIOURAL SUPPORT | MUHAMMAD AMALLUDIN RATEMAN | [muhammad_amalludin_rateman@schools.gov.sg](mailto:muhammad_amalludin_rateman@schools.gov.sg) |
+| AED LEARNING &amp; BEHAVIOURAL SUPPORT | MUHAMMAD AMALLUDIN RATEMAN | [muhammad_amalludin_rateman@schools.gov.sg](mailto:muhammad_amalludin_rateman@schools.gov.sg) |
 |SPECIAL EDUCATIONAL NEEDS OFFICER|MR MUHAMMAD AMALLUDIN RATEMAN|[muhammad_amalludin_rateman@schools.gov.sg](mailto:muhammad_amalludin_rateman@schools.gov.sg)|
-| ECG COUNSELLING | MS VALERIE PHUA | [phua_chay_khim_valerie@schools.gov.sg](mailto:phua_chay_khim_valerie@schools.gov.sg) |
+| ECG COUNSELLING | MS VALERIE PHUA | [phua_chay_khimm_valerie@schools.gov.sg](mailto:phua_chay_khimm_valerie@schools.gov.sg) |
