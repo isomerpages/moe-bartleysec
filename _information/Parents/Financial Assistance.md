@@ -53,9 +53,9 @@ For low-income families with school-going children or households with MOE FAS / 
 Straits Times School Pocket Money Fund
 --------------------------------------
 
-*Updated 3 Aug 2022*
+*Updated 15 Aug 2022*
 
-Students in primary and secondary schools who are Singapore Citizens (SC) or Singapore Permanent Residents (SPR) may apply for the ST School Pocket Money Fund if the family per capita income (PCI) per month is $690 or less, and they are living in a 4-room HDB flat or smaller. Primary school beneficiaries receive $60 a month and secondary school beneficiaries receive $95 a month.&nbsp; For more information, please refer to&nbsp;[https://www.spmf.org.sg/primary-secondary-students](https://www.spmf.org.sg/primary-secondary-students).
+Students in primary and secondary schools who are Singapore Citizens (SC) or Singapore Permanent Residents (SPR) may apply for the ST School Pocket Money Fund if the family per capita income (PCI) per month is $750 or less, and they are living in a 4-room HDB flat or smaller. Primary school beneficiaries receive $65 a month and secondary school beneficiaries receive $100 a month.  For more information, please refer to [https://www.spmf.org.sg/primary-secondary-students](https://www.spmf.org.sg/primary-secondary-students).
 
 For applications submitted through the school, please submit your forms with the necessary supporting documents and adhere to the submission timeline for verification.&nbsp; Please fill up all necessary fields as accurately as possible, and submit them to the school General Office
 
@@ -65,8 +65,8 @@ For applications submitted through the school, please submit your forms with the
 
 | Application Phase | Category of students | Timeline for submission |
 | -------- | -------- | -------- |
-| Cycle 1     | Current Sec 1, 2 and 3 students    | by 31 Aug   |
-|Cycle 2| Incoming Sec 1 students| by 31 January|
+| Cycle 1     | Current Sec 1, 2 and 3 students    | by 11 Sept   |
+|Cycle 2| Incoming Sec 1 students| TBA|
 
 [Click here] [](/files/annex%20a%20-%202024%20stspmf%20application%20form%20for%20schools.pdf)to download Annex A - The STSPMF application form.
 
