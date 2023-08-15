@@ -53,7 +53,7 @@ For low-income families with school-going children or households with MOE FAS / 
 Straits Times School Pocket Money Fund
 --------------------------------------
 
-*Updated 15 Aug 2022*
+*Updated 15 Aug 2023*
 
 Students in primary and secondary schools who are Singapore Citizens (SC) or Singapore Permanent Residents (SPR) may apply for the ST School Pocket Money Fund if the family per capita income (PCI) per month is $750 or less, and they are living in a 4-room HDB flat or smaller. Primary school beneficiaries receive $65 a month and secondary school beneficiaries receive $100 a month.  For more information, please refer to [https://www.spmf.org.sg/primary-secondary-students](https://www.spmf.org.sg/primary-secondary-students).
 
