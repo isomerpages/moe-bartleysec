@@ -20,9 +20,8 @@ Please click on the links below to download the EOY Exam Timetable and Topics fo
 ### Secondary 2
 
 [Sec 2ENA EOY Exam Timetable 2023](/files/sec%202e2na%20eoy%20exam_2023_timetable%20updated%2028%20aug_for%20comms.pdf) <br>
-
-[Sec 2NT EOY Exam Timetable 2023](/files/2nt%20eoy%20end-of-year%20exam%20topics%202023.pdf) <br>
-
+ [Sec 2NT EOY Exam Timetable 2023](/files/sec%202nt%20eoy%20exam_2023_timetable%20updated%2028%20aug_for%20comms.pdf)
+ <br>
 [Sec 2ENANT EOY Exam Topics 2023](/files/2enant%20eoy%20end-of-year%20exam%20topics%202023.pdf) <br>
 
 ### Secondary 3
