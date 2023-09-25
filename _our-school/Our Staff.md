@@ -22,7 +22,6 @@ description: ""
 | SH CHINESE LANGUAGE | MS YANG YANJIA | [yang_yanjia@schools.gov.sg](mailto:yang_yanjia@schools.gov.sg) |
 | HOD MATHEMATICS | MS TAY LAY PENG ANGELINA | [angelina_tay_lay_peng@moe.edu.sg](mailto:angelina_tay_lay_peng@moe.edu.sg)  |
 | LH MATHEMATICS | MS TING CHU  HWEE AGNES | [ting_chu_hwee_agnes@moe.edu.sg](mailto:ting_chu_hwee_agnes@moe.edu.sg) |
-| HOD SCIENCE | MR FU CHEE SHENG | [fu_chee_sheng@schools.gov.sg](mailto:fu_chee_sheng@schools.gov.sg) |
 | SH PHYSICS | MS QUEK SHIR RYN | [quek_shir_ryn@schools.gov.sg](mailto:quek_shir_ryn@schools.gov.sg) |
 | HOD HUMANITIES | MR PEK CHI HIONG GARY | [pek_chi_hiong_gary@schools.gov.sg](mailto:pek_chi_hiong_gary@schools.gov.sg) |
 | SH GEOGRAPHY | MS ERICA YAP XIN YIN | [yap_xin_yin_erica@schools.gov.sg](mailto:yap_xin_yin_erica@schools.gov.sg) |
@@ -171,4 +170,4 @@ description: ""
 | STUDENT WELFARE OFFICER | MS SITI FATYAH BINTE MOHD YAHKUP|[siti_fatyah_mohd_yahkup@schools.gov.sg](mailto:siti_fatyah_mohd_yahkup@schools.gov.sg) |
 | AED LEARNING &amp; BEHAVIOURAL SUPPORT | MUHAMMAD AMALLUDIN RATEMAN | [muhammad_amalludin_rateman@schools.gov.sg](mailto:muhammad_amalludin_rateman@schools.gov.sg) |
 |SPECIAL EDUCATIONAL NEEDS OFFICER|MR MUHAMMAD AMALLUDIN RATEMAN|[muhammad_amalludin_rateman@schools.gov.sg](mailto:muhammad_amalludin_rateman@schools.gov.sg)|
-| ECG COUNSELLING | MS VALERIE PHUA | [phua_chay_khimm_valerie@schools.gov.sg](mailto:phua_chay_khimm_valerie@schools.gov.sg) |
+| ECG COUNSELLING | MR ISAAC LING | [ling_liang_wei_isaac@schools.gov.sg](mailto:ling_liang_wei_isaac@schools.gov.sg)|
