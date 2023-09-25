@@ -28,7 +28,7 @@ Please click on the links below to download the EOY Exam Timetable and Topics fo
 [3E EOY Exam Timetable 2023](/files/sec%203e%20eoy%20exam_2023_timetable%20updated%2018%20sept_for%20comms.pdf)<br>
 [Sec 3E EOY Exam Topics 2023](/files/3e%20eoy%20end-of-year%20exam%20topics%202023.pdf) <br>
 
-[3NA EOY Exam Timetable 2023](/files/sec%203na%20eoy%20exam_2023_timetable%20updated%2018%20sept_for%20comms.pdf)
+[3NA EOY Exam Timetable 2023](/files/sec%203na%20eoy%20exam_2023_timetable%20updated%2020%20sept_for%20comms.pdf)
 <br>
 [Sec 3NA EOY Exam Topic 2023](/files/3na%20eoy%20end-of-year%20exam%20topics%202023.pdf) <br>
 
