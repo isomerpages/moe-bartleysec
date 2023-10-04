@@ -6,8 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-[Please click here to access the school’s Assessment Plan and Policy for 2023](https://www.bartleysec.moe.edu.sg/our-holistic-curriculum/instructional-programmes/assessment-matters/)
+[Please click here to access the school’s Assessment Plan and Policy for 2023](https://www.bartleysec.moe.edu.sg/our-holistic-curriculum/instructional-programmes/assessment-matters/)<br>
+Please click on the link below for SEAB approved list of calculators and dictionaries
 
+* [SEAB Approved List of Calculators]()<br>
+* [SEAB Approved List of Dictionaries](/files/seab_list_of_dictionaries_for_examination.pdf)
 
 Please click on the links below to download the EOY Exam Timetable and Topics for the respective levels and stream
 
