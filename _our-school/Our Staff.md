@@ -15,7 +15,6 @@ description: ""
 
 | KEY PERSONNEL |  | EMAIL ADDRESS |
 |---|---|---|
-| HOD ENGLISH | MRS KOGILAVANI RAJ | [kogilavani_veerappan@schools.gov.sg](mailto:kogilavani_veerappan@schools.gov.sg) |
 |SH ENGLISH| MS GAN PEI LING|[gan_pei_ling@schools.gov.sg](mailto:gan_pei_ling@schools.gov.sg)|
 |LH ENGLISH| MS WEE JING YUN| [wee_jing_yun@schools.gov.sg](mailto:wee_jing_yun@schools.gov.sg)|
 | HOD MOTHER TONGUE | MDM HAMIDAH SALLEH | [hamidah_salleh@schools.gov.sg](mailto:hamidah_salleh@schools.gov.sg) |
