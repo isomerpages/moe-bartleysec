@@ -59,7 +59,7 @@ description: ""
 | 1 COURAGE 3 | MSLEO MINYIN | [leo_minyin@schools.gov.sg](mailto:leo_minyin@schools.gov.sg) |
 |  | MR MUHAMMAD BAZLEE BAKTHIAR | [muhammad_bazlee_bakhtiar_afandi@schools.gov.sg](mailto:muhammad_bazlee_bakhtiar_afandi@schools.gov.sg) |
 | 1 COURAGE 4| MS LOH SEE MING | [loh_see_ming@schools.gov.sg](mailto:loh_see_ming@schools.gov.sg) |
-|  | MRS BHANU RAJ| [bhanumathy_ganapathy@schools.gov.sg](mailto:bhanumathy_ganapathy@schools.gov.sg) |
+|  |MS PANG ANQI| pang_an_qi@schools.gov.sg |
 | 1 COURAGE 5 | MS N PREMA | [prema_narayanasamy@schools.gov.sg](mailto:prema_narayanasamy@schools.gov.sg) |
 |  | MR MUHAMMAD SYAHEENUL AIMAN BIN NASIMAN | [muhammad_syaheenul_aiman@schools.gov.sg](mailto:muhammad_syaheenul_aiman@schools.gov.sg) |
 | 1 COURAGE 6 | MS HUANG WENYAN | [huang_wenyan@schools.gov.sg](mailto:huang_wenyan@schools.gov.sg) |
