@@ -78,7 +78,7 @@ description: ""
 | | MS MEHRAJ BEGUM BINTI KADER GHOUSE| [mehraj_begum_kader_ghouse@schools.gov.sg](mailto:mehraj_begum_kader_ghouse@schools.gov.sg)
 | 2 OPTIMISM 3 | MR ISACK KUMAR LOUIS | [isack_kumar_louis@schools.gov.sg](mailto:isack_kumar_louis@schools.gov.sg) |
 |  | MS BRENDA TEO YAN LING | [brenda_teo_yan_ling@schools.gov.sg](mailto:brenda_teo_yan_ling@schools.gov.sg) |
-| 2 OPTIMISM 4 | MR DARREN THAM HWI JIN | [darren_tham_hwi_jin@schools.gov.sg](mailto:darren_tham_hwi_jin@schools.gov.sg) |
+| 2 OPTIMISM 4 | MRS BHANU RAJ | bhanumathy_ganapathy@schools.gov.sg |
 |  | MRS FOO LING LING | [tay_ling_ling@schools.gov.sg](mailto:tay_ling_ling@schools.gov.sg) |
 | 2 OPTIMISM 5 | MDM KIREN  KAUR GILL | [kiren_kaur_gill@schools.gov.sg](mailto:kiren_kaur_gill@schools.gov.sg) |
 |  | MR CHUA FENG QIAN DAVID | [david_chua_feng_qian@schools.gov.sg](mailto:david_chua_feng_qian@schools.gov.sg) |
