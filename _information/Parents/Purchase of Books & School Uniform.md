@@ -385,7 +385,3 @@ For 2024 Secondary 1 students, online purchase is available&nbsp;from&nbsp;**18*
   padding:5.25pt 5.25pt 5.25pt 5.25pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:15.75pt"><span lang="EN-SG" style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:
   none;mso-ansi-language:EN-SG">2 pairs</span><span style="font-size:10.5pt;
   font-family:Raleway;mso-ligatures:none"></span></p></td></tr></tbody></table>
-  
-
-  
-![Uniform Measurement.PNG](https://bartleysec-moe-edu-sg-admin.cwp.sg/qql/slot/u164/Booklist/2023/Uniform%20Measurement.PNG)
