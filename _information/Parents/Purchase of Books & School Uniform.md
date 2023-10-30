@@ -59,7 +59,10 @@ For 2024 Secondary 1 students, online purchase is available&nbsp;from&nbsp;**18*
 | Item | Quantity
 | -------- | -------- | 
 | Shirt/Blouse     | 1 pair    | 
-
+| Skirt/Bermudas | 2 pairs
+| Polo T-Shirt | 2 pairs |
+| PE T-Shirt | 2 pairs |
+| PE Shorts | pairs |
 
   
 
