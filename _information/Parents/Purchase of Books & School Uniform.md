@@ -3,6 +3,7 @@ title: Purchase of Books & School Uniform
 permalink: /information/parents/purchase-of-books-n-school-uniform/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 Booklist &amp; School Uniform
 =========================
@@ -36,7 +37,7 @@ Year-End Purchase of Books &amp; School Uniform&nbsp;
 We strongly encourage our parents to purchase their child’s books and school uniform (with home delivery) via the vendor’s online portal&nbsp;[**www.asencio.com.sg**](http://www.asencio.com.sg/).&nbsp;The portal will be opened from&nbsp;**6 Nov 2023 to 15 Dec 2023**&nbsp;(2024 Sec 2-Sec 4 students).
 
   
-For 2024 Secondary 1 students, online purchase is available&nbsp;from&nbsp;**18**&nbsp;**December**&nbsp;**to&nbsp;23 December 2022.**
+For 2024 Secondary 1 students, online purchase is available&nbsp;from&nbsp;**18**&nbsp;**December**&nbsp;**to&nbsp;23 December 2023.**
 
   
 
