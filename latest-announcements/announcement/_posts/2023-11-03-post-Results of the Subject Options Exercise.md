@@ -5,6 +5,6 @@ date: 2023-11-03
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 external: /information/students/sec-2-subject-options-results-and-appeal-outcome/
 ---
