@@ -12,7 +12,7 @@ Dear Sec 2 students,
 
 You may check the results of the Subject Options Exercise by clicking the link below or by scanning the QR code.
 
-https://forms.moe.edu.sg/forms/v3AG8o
+[https://forms.moe.edu.sg/forms/v3AG8o](https://forms.moe.edu.sg/forms/v3AG8o)
 
 ![Subject Options Results](/images/results%20of%20subject%20allocation%20for%20secondary%203%202024%20qr.png)
 
