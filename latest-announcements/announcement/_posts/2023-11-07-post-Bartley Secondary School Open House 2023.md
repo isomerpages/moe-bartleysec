@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-# Bartley Secondary School Open House 2023
+
 ### Bartley Secondary School Open House 2023
 #### Saturday, 18 Nov 2023<br>
 0830 - 1300
