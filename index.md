@@ -26,4 +26,5 @@ sections:
       title: Bartley Secondary School Open House 2023
       id: infopic
       image: /images/motd nov (1).png
+      alt: "Bartley Open House "
 ---
