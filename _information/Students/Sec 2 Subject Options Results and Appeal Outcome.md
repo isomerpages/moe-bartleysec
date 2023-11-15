@@ -26,7 +26,7 @@ Appeal Outcomes
 -----------------------
 Dear Sec 2 students,  
 
-You may check the appeal outcome of the Subject Options Exercise by clicking the link below or by scanning the QR code.
+You may check the appeal outcomes of the Subject Options Exercise by clicking the link below or by scanning the QR code.
 
 [https://forms.moe.edu.sg/forms/eQ6EZv](https://forms.moe.edu.sg/forms/eQ6EZv)
 
