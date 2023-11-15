@@ -1,6 +1,6 @@
 ---
-title: Results of the Subject Options Exercise
-date: 2023-11-03
+title: Results of the Subject Options Exercise And Appeal Outcome
+date: 2023-11-15
 layout: link
 description: ""
 image: ""
