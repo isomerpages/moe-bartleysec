@@ -22,7 +22,7 @@ Please refer to the booklist on the school website to purchase your lesson mater
 
 Thank you.
 
-Appeal Outcome
+Appeal Outcomes
 -----------------------
 Dear Sec 2 students,  
 
