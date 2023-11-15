@@ -21,3 +21,15 @@ If you wish to appeal, please approach the school's General Office and obtain an
 Please refer to the booklist on the school website to purchase your lesson materials accordingly. You will be informed of your Sec 3 class on the first day of school next year.
 
 Thank you.
+
+APPEAL OUTCOMES
+-----------------------
+Dear Sec 2 students,  
+
+You may check the Appeal Outcomes of the Subject Options Exercise by clicking the link below or by scanning the QR code.
+
+[https://forms.moe.edu.sg/forms/eQ6EZv](https://forms.moe.edu.sg/forms/eQ6EZv)
+
+![](/images/Release_of_Results_for_Subject_Options_Appeal_2023_QR.png)
+
+Thank you.
