@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /our-school/our-staff/
 description: ""
+variant: markdown
 ---
 ### CONTACT LIST 2023
 
@@ -45,7 +46,7 @@ description: ""
 |ST CHEMISTRY|MS LEO MINYIN| leo_minyin@schools.gov.sg|
 |ST EDUCATIONAL SUPPORT| MR FINIAN SEAH| seah_yang_how_finian@schools.gov.sg|
 |ST MATHEMATICS| MRS TAN LEE PUAY HOON| lee_puay_hoon_a@schools.gov.sg|
-|ST SOCIAL STUDIES| MR TAN CHEE KEONG| tan_chee_keong@schools.gov.sg|
+|ST SOCIAL STUDIES| MR TAN CHEE KEONG| tan_chee_keong_a@schools.gov.sg|
 |ST TAMIL LANGUAGE| MR ISACK KUMAR LOUIS|isack_kumar_louis@schools.gov.sg|
 
 <p></p>
@@ -103,7 +104,7 @@ description: ""
 | | MDM KHOO BEE RUI ANGELINA| [khoo_bee_rui_angelina@schools.gov.sg](mailto:khoo_bee_rui_angelina@schools.gov.sg)|
 | 3 RESPECT 2 | MS ERICA YAP XIN YIN | [yap_xin_yin_erica@schools.gov.sg](mailto:yap_xin_yin_erica@schools.gov.sg) |
 |  | MR LIM YONGDA DOMINIC | [lim_yongda_dominic@schools.gov.sg](mailto:lim_yongda_dominic@schools.gov.sg) |
-| 3 RESPECT 3 | MR TAN CHEE KEONG | [tan_chee_keong@schools.gov.sg](mailto:tan_chee_keong@schools.gov.sg) |
+| 3 RESPECT 3 | MR TAN CHEE KEONG | [tan_chee_keong_a@schools.gov.sg](mailto:tan_chee_keong@schools.gov.sg) |
 |  | MR ROY CHEW|  [roy_chew_hock_wu@moe.edu.sg](mailto:roy_chew_hock_wu@moe.edu.sg) |
 | 3 RESPECT 4 | MS YANG YAN JIA | [yang_yanjia@schools.gov.sg](mailto:yang_yanjia@schools.gov.sg)| 
 | | MR GOH WEN XUAN BENJAMIN| [goh_wen_xuan_benjamin@schools.gov.sg](mailto:goh_wen_xuan_benjamin@schools.gov.sg)|
