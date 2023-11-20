@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /our-school/our-staff/
 description: ""
+variant: markdown
 ---
 ### CONTACT LIST 2023
 
@@ -45,7 +46,7 @@ description: ""
 |ST CHEMISTRY|MS LEO MINYIN| leo_minyin@schools.gov.sg|
 |ST EDUCATIONAL SUPPORT| MR FINIAN SEAH| seah_yang_how_finian@schools.gov.sg|
 |ST MATHEMATICS| MRS TAN LEE PUAY HOON| lee_puay_hoon_a@schools.gov.sg|
-|ST SOCIAL STUDIES| MR TAN CHEE KEONG| tan_chee_keong@schools.gov.sg|
+|ST SOCIAL STUDIES| MR TAN CHEE KEONG| tan_chee_keong_a@schools.gov.sg|
 |ST TAMIL LANGUAGE| MR ISACK KUMAR LOUIS|isack_kumar_louis@schools.gov.sg|
 
 <p></p>
