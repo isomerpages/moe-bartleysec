@@ -104,7 +104,7 @@ variant: markdown
 | | MDM KHOO BEE RUI ANGELINA| [khoo_bee_rui_angelina@schools.gov.sg](mailto:khoo_bee_rui_angelina@schools.gov.sg)|
 | 3 RESPECT 2 | MS ERICA YAP XIN YIN | [yap_xin_yin_erica@schools.gov.sg](mailto:yap_xin_yin_erica@schools.gov.sg) |
 |  | MR LIM YONGDA DOMINIC | [lim_yongda_dominic@schools.gov.sg](mailto:lim_yongda_dominic@schools.gov.sg) |
-| 3 RESPECT 3 | MR TAN CHEE KEONG | [tan_chee_keong@schools.gov.sg](mailto:tan_chee_keong@schools.gov.sg) |
+| 3 RESPECT 3 | MR TAN CHEE KEONG | [tan_chee_keong_a@schools.gov.sg](mailto:tan_chee_keong@schools.gov.sg) |
 |  | MR ROY CHEW|  [roy_chew_hock_wu@moe.edu.sg](mailto:roy_chew_hock_wu@moe.edu.sg) |
 | 3 RESPECT 4 | MS YANG YAN JIA | [yang_yanjia@schools.gov.sg](mailto:yang_yanjia@schools.gov.sg)| 
 | | MR GOH WEN XUAN BENJAMIN| [goh_wen_xuan_benjamin@schools.gov.sg](mailto:goh_wen_xuan_benjamin@schools.gov.sg)|
