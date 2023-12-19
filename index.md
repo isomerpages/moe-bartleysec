@@ -26,5 +26,5 @@ sections:
       title: 2024 Secondary 1 Registration
       id: infobar
       button: Click here for more details
-      url: /latest-announcements/announcement/permalink/2024-secondary-1-registration/
+      url: /latest-announcements/announcement/permalink/2024-secondary-1-posting/
 ---
