@@ -23,7 +23,7 @@ sections:
       subtitle: Catch  up with the
       button: More
   - infobar:
-      title: 2024 Secondary 1 Registration
+      title: 2024 Secondary 1 Posting
       id: infobar
       button: Click here for more details
       url: /latest-announcements/announcement/permalink/2024-secondary-1-posting/
