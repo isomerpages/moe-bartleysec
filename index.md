@@ -22,13 +22,6 @@ sections:
       title: Latest Announcements
       subtitle: Catch  up with the
       button: More
-  - infopic:
-      title: Bartley Secondary School Open House 2023
-      id: infopic
-      image: /images/MOTD_BSS_1.png
-      alt: Bartley Open House
-      url: /latest-announcements/announcement/permalink/bartley-secondary-school-open-house-2023/
-      button: Click here for more details
   - infobar:
       title: 2024 Secondary 1 Registration
       id: infobar
