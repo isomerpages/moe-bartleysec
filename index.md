@@ -29,4 +29,9 @@ sections:
       alt: Bartley Open House
       url: /latest-announcements/announcement/permalink/bartley-secondary-school-open-house-2023/
       button: Click here for more details
+  - infobar:
+      title: 2024 Secondary 1 Registration
+      id: infobar
+      button: Click here for more details
+      url: /latest-announcements/announcement/permalink/2024-secondary-1-registration/
 ---
