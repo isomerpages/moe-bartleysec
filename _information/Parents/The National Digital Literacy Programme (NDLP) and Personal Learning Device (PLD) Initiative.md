@@ -4,16 +4,6 @@ title: The National Digital Literacy Programme (NDLP) and Personal Learning
 permalink: /information/parents/the-national-digital-literacy-programme-ndlp-n-personal-learning-device-pld/
 description: ""
 third_nav_title: Parents
+variant: tiptap
 ---
-Dear Parent/Guardian  
-  
-Thank you for joining us for our  NDLP and PLD Initiative Briefing Webinar on 11 Feb 2023.   
-  
-1\. Please [click here](/files/BSS%20PLD%20Parents%20Sharing%2020230211_By%20PSG%20Chairman.pdf) to download the deck of slides used by our PSG Chairperson, Ms Shauna Sng.   
-  
-2\. Please [click here](/files/NDLP%20Briefing_11%20Feb%202023_School%20Website.pdf) to download the deck of briefing slides shared during the NDLP Programme and PLD Initiative.  
-  
-3. Please [click here](/files/DR4%20-%20Student%20Device%20Information%20Kit_BSS_for%20parents_21%20Mar.pdf) to download the student device information kit. <br><br>
-4.  Parents/Guardians play an important role in keeping children safe online. Parents/Guardians are encouraged to read the following resources to learn more about how to keep your children safe online.
-
-Please [click here](/files/Parent%20handbook%20on%20Learning%20with%20a%20PLD%20I%20and%20II.pdf) to download the Parent Handbook on Learning with a Personal Learning Device.
+<p>Dear Parent/Guardian</p><p>Thank you for joining us for our&nbsp;&nbsp;NDLP and PLD Initiative Briefing&nbsp;Webinar on 20 Jan 2024.&nbsp;</p><p></p><p>1. Please <a href="/files/NDLP_Briefing_20_Jan_2024_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> to download the deck of briefing slides shared during the NDLP Programme and PLD Initiative.</p><p><br>2.&nbsp; Parents/Guardians play an important role in keeping children safe online. Parents/Guardians are encouraged to read the following resources to learn more about how to keep your children safe online.</p><p><a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook 1</a></p><p><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook 2</a></p><p>Additional resources:</p><p>•Parent Kit on Cyber Wellness for Your Child (<a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-cyber-wellness</a>)</p><p>•Schoolbag article ‘Keeping our teens safe online’ (<a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online</a>)</p><p>•MOE Cyber Wellness Programme (<a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/programmes/cyber-wellness/</a>)</p><p>•Media Literacy Council (<a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/better-internet-sg</a>)</p><p>•National Library’s Learning &amp; Information Literacy Resources (<a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://sure.nlb.gov.sg/</a>)</p><p>TOUCH Community Services (<a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://help123.sg</a>)</p>
