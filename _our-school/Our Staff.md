@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH ENGLISH Language</p>
+<p>LH ENGLISH LANGUAGE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS WEE JING YUN</p>
