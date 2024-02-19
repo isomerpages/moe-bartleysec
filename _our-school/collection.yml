@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - School Year Book 2023.md
       - Principal's message.md
       - Milestones.md
       - VMV & Philosophy.md
