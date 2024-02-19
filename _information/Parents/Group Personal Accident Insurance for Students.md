@@ -18,8 +18,7 @@ their claims online and check the claims status through the online claims
 portal. <strong>&nbsp;</strong><a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank"> https://studentgpa.incomegroupins.com.sg</a>
 </p>
 <p>3) Schools are required to verify the claims information and access the
-claims records through the online portal.&nbsp;<a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident for Students | Income Insurance</a>
-</p>
+claims records through the online portal.&nbsp;</p>
 <p>Please note that:
 <br>a) All claims should be submitted as soon as possible, <u>preferably within 60 days</u> from
 the date of insured incident.</p>
@@ -37,5 +36,6 @@ at these hospitals.</p>
 <p>f) For hospitalization or day surgery, a copy of the inpatient discharge
 summary/day surgery report/attending physician’s medical report is required.</p>
 <p>g) Information on claims, FAQs and other details pertaining to the GPA
-Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a></strong>
+Insurance Plan for Students can be found on NTUC Income’s website at
+<a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident for Students | Income Insurance</a>
 </p>
