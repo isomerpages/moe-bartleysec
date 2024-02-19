@@ -36,5 +36,6 @@ at these hospitals.</p>
 <p>f) For hospitalization or day surgery, a copy of the inpatient discharge
 summary/day surgery report/attending physician’s medical report is required.</p>
 <p>g) Information on claims, FAQs and other details pertaining to the GPA
-Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a></strong>
+Insurance Plan for Students can be found on NTUC Income’s website at
+<a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident for Students | Income Insurance</a>
 </p>
