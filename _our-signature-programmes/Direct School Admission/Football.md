@@ -4,7 +4,7 @@ permalink: /our-signature-programmes/direct-school-admission/football/
 description: ""
 third_nav_title: Direct School Admission
 ---
-Football has always been Bartley's strength in the local schools' sports scene. Through football, our school aims to develop the physical, mental and emotional growth of our players; stressing the importance of sportsmanship, respect and teamwork. The details of the programme can be found [here](https://moe-bartleysec-staging.netlify.app/our-holistic-curriculum/co-curricular-activities/sports-n-games/football).
+Football has always been Bartley's strength in the local schools' sports scene. Through football, our school aims to develop the physical, mental and emotional growth of our players; stressing the importance of sportsmanship, respect and teamwork. The details of the programme can be found [here](/our-holistic-curriculum/co-curricular-activities/sports-n-games/football).
 
 **Admission Selection Criteria**
 * Pupils who are currently playing competitive Football (e.g. National Inter-school competitions) or who display a strong interest and aptitude for the sport.
