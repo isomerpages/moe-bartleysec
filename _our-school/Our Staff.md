@@ -384,6 +384,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST MATHEMATICS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM TEO OI MEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Teo_Oi_Mei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST EDUCATIONAL SUPPORT</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -941,6 +953,18 @@ variant: tiptap
 <p>3 RESPECT 3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>MDM TEO OI MEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Teo_Oi_Mei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 RESPECT 3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>MS AGNES TING</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1446,15 +1470,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">susan_lim_siok_hiang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM TEO OI MEI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Teo_Oi_Mei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
