@@ -12,7 +12,7 @@ variant: tiptap
 <p>Please click on the link below to download the overall WA schedule for
 the various levels.</p>
 <h4>Sec 1</h4>
-<p><a href="/files/S1_2024_T1WA_19_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Term 1 WA Plan 2024 </a><em><a href="/files/S1_2024_T1WA_19_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">[updated]</a></em>
+<p><a href="/files/S1_2024_T1WA_28_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Term 1 WA Plan 2024file </a><em><a href="/files/S1_2024_T1WA_28_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">[updated]</a></em>
 </p>
 <p>Sec 1 WA scheduled dates by class</p>
 <ul data-tight="true" class="tight">
