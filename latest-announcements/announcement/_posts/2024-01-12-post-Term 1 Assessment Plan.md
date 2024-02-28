@@ -17,31 +17,31 @@ the various levels.</p>
 <p>Sec 1 WA scheduled dates by class</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/1C1_T1WA.pdf" rel="noopener noreferrer nofollow" target="_blank">1C1</a>
+<p><a href="/files/1C1_T1WA_28_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">1C1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/1C2_T1WA.pdf" rel="noopener noreferrer nofollow" target="_blank">1C2</a>
+<p><a href="/files/1C2_T1WA_28_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">1C2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/1C3_T1WA.pdf" rel="noopener noreferrer nofollow" target="_blank">1C3</a>
+<p><a href="/files/1C3_T1WA_28_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">1C3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/1C4_T1WA.pdf" rel="noopener noreferrer nofollow" target="_blank">1C4</a>
+<p><a href="/files/1C4_T1WA_28_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">1C4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/1C5_T1WA.pdf" rel="noopener noreferrer nofollow" target="_blank">1C5</a>
+<p><a href="/files/1C5_T1WA_28_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">1C5</a>
 </p>
 </li>
 <li>
-<p><a href="/files/1C6_T1WA.pdf" rel="noopener noreferrer nofollow" target="_blank">1C6</a>
+<p><a href="/files/1C6_T1WA_28_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">1C6</a>
 </p>
 </li>
 <li>
-<p><a href="/files/1C7_T1WA.pdf" rel="noopener noreferrer nofollow" target="_blank">1C7</a>
+<p><a href="/files/1C7_T1WA_28_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">1C7</a>
 </p>
 </li>
 </ul>
