@@ -1,0 +1,32 @@
+collections:
+  information:
+    output: true
+    order:
+      - Students/.keep
+      - Students/Curriculum Timetable.md
+      - Students/School Calendar.md
+      - Students/Learners For Life Day.md
+      - Students/Acceptable Use Policy.md
+      - Students/Accessing Student ICON.md
+      - Students/Basic troubleshooting tips for students using Chromebook.md
+      - Students/Collection of SGC for 2022 4E and 4NT Graduands.md
+      - Students/Sec 2 Subject Options Results and Appeal Outcome.md
+      - Students/Booklist & School Uniform.md
+      - Students/JIE Briefing Slides.md
+      - Students/Release of N Level Results.md
+      - Students/Counselling Services.md
+      - Students/School rules & regulations.md
+      - Students/Useful links.md
+      - Parents/.keep
+      - Parents/School Letters.md
+      - Parents/Sec 2 Subject Briefing Information.md
+      - Parents/The National Digital Literacy Programme (NDLP) and Personal
+        Learning Device (PLD) Initiative.md
+      - Parents/Sec 1 Registration (2023).md
+      - Parents/Purchase of Books & School Uniform.md
+      - Parents/Financial Assistance.md
+      - Parents/Group Personal Accident Insurance for Students.md
+      - Parents/Useful Links.md
+      - Teachers/.keep
+      - Teachers/Useful Links.md
+      - Our Contact.md

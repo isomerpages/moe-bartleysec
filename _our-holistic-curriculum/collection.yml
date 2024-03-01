@@ -1,0 +1,21 @@
+collections:
+  our-holistic-curriculum:
+    output: true
+    order:
+      - Curricular Framework.md
+      - Instructional Programmes/.keep
+      - Instructional Programmes/Assessment Matters.md
+      - Instructional Programmes/English Language and Literature.md
+      - Instructional Programmes/Mother Tongue Language.md
+      - Instructional Programmes/Mathematics.md
+      - Instructional Programmes/Science.md
+      - Instructional Programmes/Humanities.md
+      - Instructional Programmes/Craft & Technology.md
+      - Instructional Programmes/Physical Education.md
+      - Instructional Programmes/Computer Applications (CPA).md
+      - Instructional Programmes/Music.md
+      - Student Development/.keep
+      - Student Development/Sexuality Education.md
+      - Student Development/National Education.md
+      - Student Development/Values in Action.md
+      - Student Development/Education and Career Guidance (ECG).md
