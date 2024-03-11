@@ -27,7 +27,7 @@ the various levels.</p>
 </p>
 <p></p>
 <h4>Sec 2</h4>
-<p><a href="/files/S2_Term_2_WA_Overall_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Term 2 Overall Weighted  (WA) Assessment Plan</a>
+<p><a href="/files/S2_Term_2_WA_Overall_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Term 2 Overall Weighted (WA) Assessment Plan</a>
 </p>
 <h4>Sec 3</h4>
 <p><a href="/files/S3_Term_2_WA_Overall_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Term 2 Overall Weighted Assessment (WA) Plan</a>
