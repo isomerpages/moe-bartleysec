@@ -1085,10 +1085,10 @@ variant: tiptap
 <p>3 RESPECT 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS HO - CHAN CHOY HAR</p>
+<p>MS LIN LIYI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_choy_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_choy_har@schools.gov.sg</a>
+<p><a href="mailto:lin_liyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_liyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1475,19 +1475,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MR JEGANATHAN</p>
+<p>MRS HO - CHAN CHOY HAR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Jeganathan_Thangavelu@schools.gov.sg</a>
+<p><a href="mailto:chan_choy_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_choy_har@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR EDWARD ONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
