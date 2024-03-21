@@ -1478,7 +1478,7 @@ variant: tiptap
 <p>MRS HO - CHAN CHOY HAR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_choy_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_choy_har@schools.gov.sg</a>
+<p><a href="mailto:chan_choy_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_choy_har_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
