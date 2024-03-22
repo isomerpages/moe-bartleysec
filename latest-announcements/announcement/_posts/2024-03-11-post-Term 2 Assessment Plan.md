@@ -25,6 +25,21 @@ the various levels.</p>
 <h4>Sec 1</h4>
 <p><a href="/files/S1_Term_2_WA_Overall_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Term 2 Overall Weighted Assessment (WA) Plan</a>
 </p>
+<p>Sec 1 WA scheduled dates by class</p>
+<p><a href="/files/1C1_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">1C1</a>
+</p>
+<p><a href="/files/1C2_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">1C2</a>
+</p>
+<p><a href="/files/1C3_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">1C3</a>
+</p>
+<p><a href="/files/1C4_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">1C4</a>
+</p>
+<p><a href="/files/1C5_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">1C5</a>
+</p>
+<p><a href="/files/1C6_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">1C6</a>
+</p>
+<p><a href="/files/1C7_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">1C7</a>
+</p>
 <p></p>
 <h4>Sec 2</h4>
 <p><a href="/files/S2_Term_2_WA_Overall_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Term 2 Overall Weighted (WA) Assessment Plan</a>
