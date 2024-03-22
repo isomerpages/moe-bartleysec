@@ -63,7 +63,7 @@ the various levels.</p>
 <p><a href="/files/S3_Term_2_WA_Overall_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Term 2 Overall Weighted Assessment (WA) Plan</a>
 </p>
 <p>Sec 3 WA scheduled dates by class</p>
-<p><a href="/files/3R1_Term_1_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R1</a>
+<p><a href="/files/3R1_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R1</a>
 </p>
 <p><a href="/files/3R2_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R2</a>
 </p>
