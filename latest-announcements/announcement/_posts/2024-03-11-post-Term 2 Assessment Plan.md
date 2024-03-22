@@ -62,6 +62,25 @@ the various levels.</p>
 <h4>Sec 3</h4>
 <p><a href="/files/S3_Term_2_WA_Overall_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Term 2 Overall Weighted Assessment (WA) Plan</a>
 </p>
+<p>Sec 3 WA scheduled dates by class</p>
+<p><a href="/files/3R1_Term_1_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R1</a>
+</p>
+<p><a href="/files/3R2_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R2</a>
+</p>
+<p><a href="/files/3R3_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R3</a>
+</p>
+<p><a href="/files/3R4_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R4</a>
+</p>
+<p><a href="/files/3R5_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R5</a>
+</p>
+<p><a href="/files/3R6_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R6</a>
+</p>
+<p><a href="/files/3R7_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R7</a>
+</p>
+<p><a href="/files/3R8_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R8</a>
+</p>
+<p><a href="/files/3R9_Term_2_WA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">3R9</a>
+</p>
 <h4>Sec 4/5</h4>
 <p><a href="/files/S4_5_Term_2_NWA_Overall_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 Term 2 Overall Non-Weighted Assessment (NWA) Plan</a>
 </p>
