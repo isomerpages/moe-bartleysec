@@ -84,7 +84,29 @@ the various levels.</p>
 <h4>Sec 4/5</h4>
 <p><a href="/files/S4_5_Term_2_NWA_Overall_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 Term 2 Overall Non-Weighted Assessment (NWA) Plan</a>
 </p>
-<p></p>
-<p></p>
-<p><a href="/files/S4_5_Term_2_NWA_Overall_Schedule_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 Overall Non-Weighted Assessment (NWA) Plan</a>
+<p>Sec 4/5 NWA scheduled dates by class</p>
+<p><a href="/files/4E1_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E1</a>
 </p>
+<p><a href="/files/4E2_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E2</a>
+</p>
+<p><a href="/files/4E3_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E3</a>
+</p>
+<p><a href="/files/4E4_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E4</a>
+</p>
+<p><a href="/files/4E5_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5</a>
+</p>
+<p><a href="/files/4E6_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E6</a>
+</p>
+<p><a href="/files/4E7_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E7</a>
+</p>
+<p><a href="/files/4E8_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E8</a>
+</p>
+<p><a href="/files/4E9_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E9</a>
+</p>
+<p><a href="/files/5E1_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">5E1</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
