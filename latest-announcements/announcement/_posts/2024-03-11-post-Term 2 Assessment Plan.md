@@ -37,4 +37,5 @@ the various levels.</p>
 </p>
 <p></p>
 <p></p>
-<p></p>
+<p><a href="/files/S4_5_Term_2_NWA_Overall_Schedule_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 Overall Non-Weighted Assessment (NWA) Plan</a>
+</p>
