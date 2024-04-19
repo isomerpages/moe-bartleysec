@@ -99,7 +99,7 @@ the various levels.</p>
 </p>
 <p><a href="/files/4E7_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E7</a>
 </p>
-<p><a href="/files/4E8_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E8</a>
+<p><a href="/files/4E8_Term_2_NWA_Detailed_Schedule_updated_19_Apr.pdf" rel="noopener noreferrer nofollow" target="_blank">4E8</a>
 </p>
 <p><a href="/files/4E9_Term_2_NWA_Detailed_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E9</a>
 </p>
