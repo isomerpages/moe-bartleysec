@@ -104,8 +104,8 @@ in the following distinctive programmes:</p>
 <br>(Mainstream students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The link to access the instructions on application will be available at
-a later time. Please check back later for updates. Thank you for your understanding</p>
+<p><a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,8 +114,8 @@ a later time. Please check back later for updates. Thank you for your understand
 <br>(Non-mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The link to access the instructions on application will be available at
-a later time. Please check back later for updates. Thank you for your understanding</p>
+<p><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,8 +124,8 @@ a later time. Please check back later for updates. Thank you for your understand
 <br>(Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
-</p>
+<p>The link to the portal will be available at a later time. Please check
+back later for updates. Thank you for your understanding</p>
 </td>
 </tr>
 <tr>
@@ -134,8 +134,8 @@ a later time. Please check back later for updates. Thank you for your understand
 <br>(Non-mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
-</p>
+<p>The link to the portal will be available at a later time. Please check
+back later for updates. Thank you for your understanding</p>
 </td>
 </tr>
 <tr>
