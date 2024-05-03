@@ -1,7 +1,7 @@
 ---
-title: 16 Apr Learners for Life Day S2 to S3
+title: 7 May Learners for Life Day S2 to S3
 permalink: /latest-announcements/announcement/permalink/23-jan-learners-for-life-day-s2-to-5/
-date: 2024-04-12
+date: 2024-05-02
 layout: post
 description: ""
 image: ""
