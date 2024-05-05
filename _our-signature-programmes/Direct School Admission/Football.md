@@ -95,14 +95,6 @@ are released.</p>
 <p>10 September 2024</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>Parents and students are encouraged to choose schools wisely based on
