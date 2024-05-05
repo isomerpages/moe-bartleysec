@@ -43,7 +43,7 @@ selection for all DSA talent areas for 2024.</p>
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
-List or Unsuccessful) via letters and/or phone calls by <strong>10 September 2023</strong>.</p>
+List or Unsuccessful) via letters and/or phone calls by <strong>10 September 2024</strong>.</p>
 <p><strong>Should you have any query, please contact: <br>Mr Quek Shir Ryn, SH (Physics) at quek_shir_ryn@schools.gov.sg</strong>
 </p>
 <p>Successful applicant’s primary school will follow up with the next stage
