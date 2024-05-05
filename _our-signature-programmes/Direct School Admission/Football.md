@@ -92,7 +92,7 @@ are released.</p>
 <p>Notification of outcome</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 - 12 September 2024</p>
+<p>10 September 2024</p>
 </td>
 </tr>
 <tr>
