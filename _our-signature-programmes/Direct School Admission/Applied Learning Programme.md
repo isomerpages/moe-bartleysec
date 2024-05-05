@@ -32,11 +32,11 @@ requires one parent’s SingPass to log in
 <br>or
 <br>Parents/guardians who are unable to apply online can approach their child's
 primary school for assistance.
-<br>Application is free-of-charge and will be open from <strong>4th May 2023, 11 am to 31st May 2023, 3 pm.</strong>
+<br>Application is free-of-charge and will be open from <strong>7 May 2024, 11 am to 3 Jun 2024, 3 pm.</strong>
 </p>
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
-selection for all DSA talent areas for 2023.</p>
+selection for all DSA talent areas for 2024.</p>
 <p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 26 June 2023 to 11 September 2023</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
@@ -92,7 +92,7 @@ are released. <strong>It is compulsory for students who are accepted into the sc
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 May 2023, 11 am to 31 May 2023, 3 pm</p>
+<p>7 May 2024, 11 am to 3 June 2024, 3 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -121,20 +121,6 @@ are released. <strong>It is compulsory for students who are accepted into the sc
 </td>
 <td rowspan="1" colspan="1">
 <p>11 September 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
