@@ -36,13 +36,12 @@ primary school for assistance.</p>
 </p>
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
-selection for all DSA talent areas for 2024 DSA-Sec, with the prevailing
-safe management measures (SMM).</p>
-<p>Shortlisted applicants will be required to participate in an <strong>in-person interview and sports trial between 26 June 2023 to 11 September 2023</strong>.
+selection for all DSA talent areas for 2024.</p>
+<p>Shortlisted applicants will be required to participate in an <strong>in-person interview and sports trial between 24 June 2024 to 9 September 2024</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
-List or Unsuccessful) via letters and/or phone calls by <strong>11th September 2023</strong>.</p>
+List or Unsuccessful) via letters and/or phone calls by <strong>10 September 2024</strong>.</p>
 <p><strong>Should you have any query, please contact: <br>Mr Jeremy Seah, HOD PE &amp; CCA, seah_kuang_wei_jeremy@schools.gov.sg</strong>
 </p>
 <p>Successful applicant’s primary school will follow up with the next stage
@@ -64,10 +63,12 @@ are released.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Process</p>
+<p><strong>Process</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dates</p>
+<p><strong>Dates</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +84,7 @@ are released.</p>
 <p>Selection Interview for shortlisted applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 June 2023 to 11 September 2023</p>
+<p>24 June 2024 to 9 September 2024</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +92,7 @@ are released.</p>
 <p>Notification of outcome</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 September 2023</p>
+<p>10 - 12 September 2024</p>
 </td>
 </tr>
 <tr>
