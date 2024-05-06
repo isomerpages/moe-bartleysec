@@ -50,21 +50,15 @@ in the following distinctive programmes:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The selection criteria and process for the talent areas will be updated
-from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The selection criteria and process for the talent areas will be updated
-from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/learning-for-life-programme/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The selection criteria and process for the talent areas will be updated
-from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/football/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2024</a>
 </p>
 </td>
 </tr>
