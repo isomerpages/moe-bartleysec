@@ -6,8 +6,9 @@ third_nav_title: Our Achievement
 variant: tiptap
 ---
 <h3>CCA Awards</h3>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -35,6 +36,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>2022</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -57,6 +61,13 @@ variant: tiptap
 <p></p>
 <p>NPCC SPF Badge:</p>
 <p>1) SI KANITI TARUN BHASKAR CHOWDARY"</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC Unit Overall Proficiency Award 2022 (Distinction)</p>
+<p></p>
+<p>NPCC SPF Badge:</p>
+<p>1) SI RYAN MING JUNWEI</p>
+<p>2) SSGT IVAN TAN</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +92,15 @@ variant: tiptap
 <p>NDP@THE FLOAT 2022 NCC AIR CONTINGEN</p>
 <p>NCC Outstanding Cadet Awards:</p>
 <p>1) MSG KARIN LEE HUI SI (USM)</p>
-<p>2) MSG AHMED UZAIR (ASM)"</p>
+<p>2) MSG AHMED UZAIR (ASM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Unit Recognition 2022 (Distinction)</p>
+<p></p>
+<p>National Cadet Corps NDP 23 Marching Contingent (selected cadets)</p>
+<p>NCC Outstanding Cadet Awards:</p>
+<p>1) MSG GAY DING HAN, KENNETH (USM)</p>
+<p>2) MSG CAROLINE TAY KAI MAN (ASM)</p>
 </td>
 </tr>
 <tr>
@@ -106,6 +125,18 @@ variant: tiptap
 <p>NCC Outstanding Cadet Awards</p>
 <p>1) MSG DHINESH SHANKER (USM)</p>
 <p>2) MSG HAMKA PUTRA BIN ABDUL JALIL (ASM)"</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Unit Recognition 2022 (Distinction)</p>
+<p>NCC Freestyle Exhibition Drills Competition - East District Preliminary
+Finalist</p>
+<p></p>
+<p>NCC Sports Championship Captain's Ball (Sec One Junior Cadets - Boys)
+- East District Finalist</p>
+<p>National Cadet Corps NDP 23 Marching Contingent (selected cadets)</p>
+<p>NCC Outstanding Cadet Awards:</p>
+<p>1) MSG MUHAMMAD NUR ILYAS BIN ABDULLAH (USM)</p>
+<p>2) MSG AUNG KYI MOE (ASM)</p>
 </td>
 </tr>
 <tr>
@@ -134,8 +165,15 @@ variant: tiptap
 </p>
 <p>Trailblazer Competition - Silver Award</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>\Excellent Unit Award 2022 (Gold)</p>
+<p>First Aid Championship (Senior Category) - Bronze Award</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -158,8 +196,9 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -187,6 +226,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>2022</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -209,6 +251,9 @@ variant: tiptap
 <p>NIL</p>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>SYF Certificate of Accomplishment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -229,6 +274,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -251,6 +299,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>NIL</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>SYF Certificate of Accomplishment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -269,6 +320,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>SYF 2019 Arts Presentation
 <br>Certificate of Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
@@ -296,8 +350,14 @@ Plaza</p>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>SYF Certificate of Distinction</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -320,8 +380,9 @@ Plaza</p>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -348,6 +409,9 @@ Plaza</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>2022</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
 </th>
 </tr>
 <tr>
@@ -378,6 +442,11 @@ Plaza</p>
 <p>Top 8 South Zone (C Division)</p>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Top 8 National (B Division)</p>
+<p>League 3 Runner Up (C Division)</p>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -398,6 +467,9 @@ Plaza</p>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>NSG Sepak Takraw 'B' Division - Champion</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -415,6 +487,9 @@ Plaza</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>C Division (Boys) South Zone Second Round</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Schools Games Participation (B and C Division)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Schools Games Participation (B and C Division)</p>
@@ -440,6 +515,9 @@ rounds.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -461,8 +539,14 @@ rounds.</p>
 <p>National Schools Games Participation (B and C Division)</p>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>National Schools Games Participation (B and C Division)</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -485,8 +569,9 @@ rounds.</p>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -514,6 +599,9 @@ rounds.</p>
 <th rowspan="1" colspan="1">
 <p>2022</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -534,6 +622,9 @@ rounds.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ozone 2023 - Champions (Video Category)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -550,6 +641,9 @@ rounds.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -572,6 +666,9 @@ Young Champ Award</p>
 <td rowspan="1" colspan="1">
 <p>NKF Young Champ Award And HDB Heartland Ambassador Award and Certificates
 of Particiaption</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -607,8 +704,16 @@ of Particiaption</p>
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Nxplorers 2.0 Journey - Participation</p>
+<p>Swift Explorers Singapore 2023 Inclusive App Design Challenge Coding Bootcamp
+Build Apps with Swift - Participation</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
