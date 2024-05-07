@@ -39,7 +39,7 @@ selection for all DSA talent areas for 2023</p>
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
-List or Unsuccessful) via letters and/or phone calls by <strong>10 September 2024</strong>.</p>
+List or Unsuccessful) via letters and/or phone calls by <strong>9 September 2024</strong>.</p>
 <p><strong>Should you have any query, please contact: <br>Mdm Kavitha, HOD (Character and Citizenship Education) at kavitha_nagarajan@schools.gov.sg</strong>
 </p>
 <p>Successful applicant’s primary school will follow up with the next stage
@@ -88,7 +88,7 @@ are released.</p>
 <p>Notification of outcome</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 September 2024</p>
+<p>9 September 2024</p>
 </td>
 </tr>
 </tbody>
