@@ -59,7 +59,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Florence_3.jpg">
 </div>
-<p><strong>Ms Florence Leong</strong>
+<p><strong>Ms Florence Leong</strong> 
 <br><strong> Appointment: </strong>&nbsp;Member
 <br><strong>Career Background: </strong>
 <br>Startup Entrepreneur
