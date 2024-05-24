@@ -47,7 +47,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1umBXpVsl-WTWLst_G6ez27AIj2TQP2Kxfx6-IagAirs/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E1</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +65,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1Mof1e1dLaVytegCiIWFUAN1xsQi_0NTR61BtEkVo69I/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E2</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +83,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1Mof1e1dLaVytegCiIWFUAN1xsQi_0NTR61BtEkVo69I/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E3</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +101,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1IumHKeODKpM-S-b-PEfRubHvwXPTgqqwi3hu-LUm1KY/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E4</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +119,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1P1g4o6AXJkX-sKf7Io88n-ENXbMDg56fev7J_FbSZqE/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E5</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +137,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1P1g4o6AXJkX-sKf7Io88n-ENXbMDg56fev7J_FbSZqE/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E6</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +155,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1mMAzn1O3LXOCzpbaZerM_mMVpCrmDjuKikYoyRqcwEg/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E7</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +171,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1PLHn8yVUvL68CAkbEz6j6kGE5ng4n62y__inqkxB5jY/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E8</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +187,23 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/document/d/1Cn4O_qKzAiYxzYpPS4Fl09w3qly9C-2F30lJRNeEHJo/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E9</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/document/d/1nJk8CHMD-5028A2_wfV5n-Qged9cO9RyvOhOLR_EPEQ/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">5E1</a>
+</p>
 </td>
 </tr>
 </tbody>
