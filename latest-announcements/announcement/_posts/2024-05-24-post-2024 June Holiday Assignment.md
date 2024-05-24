@@ -133,7 +133,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/document/d/14Q0gBXLz9P7TjTS8RgyOME5lYy4Tw-Y2ZPoIWkVZmws/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R6</a>
+<p><a href="https://docs.google.com/document/d/1v-QyoRsuTwAAwSthl-aCthmdONaExDNLhG4OdLY2SWo/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
