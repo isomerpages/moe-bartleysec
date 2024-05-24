@@ -183,7 +183,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/document/d/1KCoiyXzJ2PN4tDB2JKx8w70huYdO07JhSuagD4iFkis/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R9</a>
+<p><a href="https://docs.google.com/document/d/1W_1NzmjBIr2U8z2oY9Nf-AhkiKqaqpTxW5PV4phZ76o/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R9</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
