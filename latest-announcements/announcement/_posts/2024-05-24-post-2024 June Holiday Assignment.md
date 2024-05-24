@@ -43,7 +43,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1DNdOR48X42tIyebwRH_d-OhTdn8G992V-nPpkSq0Z_w/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -59,7 +60,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/15leepS_EXzWF4osZ7Y40zu_k8peolVUtELq0qjf6FSI/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -75,7 +77,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1dXErkDHU4hDOVS_WoyBGVc2N1NlPB77V4qygxZ7oCCE/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -91,7 +94,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1hbH9F7rLVWT5iUcLCn8WmAAHkalAmaliwXCjVPQk1sI/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,7 +111,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/14Q0gBXLz9P7TjTS8RgyOME5lYy4Tw-Y2ZPoIWkVZmws/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R5</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -123,7 +128,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/14Q0gBXLz9P7TjTS8RgyOME5lYy4Tw-Y2ZPoIWkVZmws/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R6</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -139,7 +145,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1bmOUJ2bMUz2lpuzD8xLJTR6Wu3UW68G1iSid2_zv2iM/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R7</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
