@@ -152,6 +152,36 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/document/d/1KCoiyXzJ2PN4tDB2JKx8w70huYdO07JhSuagD4iFkis/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R8</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/document/d/1KCoiyXzJ2PN4tDB2JKx8w70huYdO07JhSuagD4iFkis/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3R9</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
