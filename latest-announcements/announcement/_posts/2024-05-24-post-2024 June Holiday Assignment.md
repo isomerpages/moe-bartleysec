@@ -83,7 +83,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/document/d/1Mof1e1dLaVytegCiIWFUAN1xsQi_0NTR61BtEkVo69I/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E3</a>
+<p><a href="https://docs.google.com/document/d/12d9dtIeXphz6I7JHmrNrUvFR66mO8x9ZnC13qG9_BNA/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E3</a>
 </p>
 </td>
 </tr>
@@ -137,7 +137,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/document/d/1P1g4o6AXJkX-sKf7Io88n-ENXbMDg56fev7J_FbSZqE/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E6</a>
+<p><a href="https://docs.google.com/document/d/1xmjcWEg55pZPMH_K-dckkQdHaO6LkYQjforU1pZRAlQ/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">4E6</a>
 </p>
 </td>
 </tr>
