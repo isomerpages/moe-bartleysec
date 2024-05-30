@@ -380,8 +380,9 @@ Plaza</p>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 175px">
+<table style="minWidth: 200px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -406,6 +407,9 @@ Plaza</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>2019</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2021</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>2022</p>
@@ -438,6 +442,9 @@ Plaza</p>
 <br>• U-14 Inter-school Futsal 2nd Position</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>NIL</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>South Zone Champions (B Division)</p>
 <p>Top 8 South Zone (C Division)</p>
 <p></p>
@@ -453,16 +460,19 @@ Plaza</p>
 <p>Sepak Takraw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nil</p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nil</p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nil</p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in NSG B and C division 2019 National rounds.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Sepak Takraw 'B' Division - 2nd Place</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIL</p>
@@ -476,10 +486,10 @@ Plaza</p>
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nil</p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nil</p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• B Division (Boys) South Zone Fair Play Award
@@ -487,6 +497,9 @@ Plaza</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>C Division (Boys) South Zone Second Round</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Schools Games Participation (B and C Division)</p>
@@ -500,23 +513,26 @@ Plaza</p>
 <p>Volleyball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nil</p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd in South Zone C division Volleyball 2017.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nil</p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in South Zone Volleyball B and C division 2019 preliminary
 rounds.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
 </td>
 </tr>
 <tr>
@@ -527,13 +543,16 @@ rounds.</p>
 <p>Participated in South Zone Netball B and C division 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nil</p>
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in South Zone Netball B and C division 2019</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in South Zone Netball B and C division 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Schools Games Participation (B and C Division)</p>
@@ -544,6 +563,9 @@ rounds.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
