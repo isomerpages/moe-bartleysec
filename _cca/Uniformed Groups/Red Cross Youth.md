@@ -3,8 +3,8 @@ title: Red Cross Youth
 permalink: /our-holistic-curriculum/co-curricular-activities/uniformed-groups/red-cross-youth/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-
 ### Vision:
 To be a united and discipline uniformed groups that serves with passion and conviction.
 
@@ -14,7 +14,7 @@ Miss Siti Ramziyani,
 
 **CCA Teachers:** <br>
 Mr Dominic Lim <br>
-Mrs Tan-Lee Puay Hoon
+Mr Kenneth Chin
 
 **About our CCA** <br>
 The Red Cross Youth seeks to promote and encourage the participation of young adults in the works of Red Cross. In addition, we wish to inculcate a sense compassion for one's community and environment.
@@ -27,23 +27,19 @@ They will also have various opportunities to hone their leadership skills throug
 
 
 **Achievements:** <br>
-2017 Excellent Unit Award (Gold), 2018 Excellent Unit Award (Silver), 2019 First Aid Championship 2020, Awareness Category (First Runner Up), 2019 Excellent Unit Award (Gold)
+2022 Excellent Unit Award (Gold)<br>
+2023 Excellent Unit Award (Gold)<br>
+2024 First Aid Championships (Senior) – Bronze Award<br>
+2024 First Aid Championships (Junior) – Bronze Award<br>
 
-Join Us
-<img src="/images/RC10.jpg" 
-     style="width:60%">
 
-<img src="/images/RC11.jpg" 
-     style="width:60%">
+Join Us!
 
-![](/images/RCY%201.jpeg)
-
-![](/images/RCY%202.jpeg)
-
-![](/images/RCY%203.jpg)
-
-![](/images/RCY%204.jpeg)
-
-![](/images/RCY%205.jpeg)
-
-![](/images/RCY%206.jpeg)
+![](/images/1.jpg)
+![](/images/2.jpg)
+![](/images/3.jpg)
+![](/images/4.jpg)
+![](/images/5.jpg)
+![](/images/6.jpg)
+![](/images/7.jpg)
+![](/images/8.jpg)
