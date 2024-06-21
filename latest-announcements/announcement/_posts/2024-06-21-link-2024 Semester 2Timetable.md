@@ -1,6 +1,6 @@
 ---
-title: 2024 Semester 1 Timetable
-date: 2023-12-31
+title: 2024 Semester 2Timetable
+date: 2024-06-21
 layout: link
 description: ""
 image: ""
