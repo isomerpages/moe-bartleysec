@@ -3,21 +3,30 @@ title: Modern Dance
 permalink: /our-holistic-curriculum/co-curricular-activities/visual-n-performing-arts/modern-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
-
 ### Vision:
 To cultivate dancers with gracious mind, body and soul through learning different forms of dance.
 
 **CCA Teacher IC** <br>
-Ms Zaihana Ahmad <br>
+Ms Zaihana Ahmad (Overall IC)<br>
+Ms Sun Mengyi (2nd IC)
 
 **CCA Teachers** <br>
 Ms Kiren Kaur Gill <br>
-Ms Sun Mengyi<br>
 Mdm Tan Chiew Kwee
 
 **About our CCA** <br>
-BSS Modern Dance Club was newly inaugurated in 2016. All members go through weekly training by full time instructor. 
-Bartley’s Modern Dance Club comprises of boys and girls who show enthusiasm and a passion for dance. We focus more on ballet and contemporary techniques, as well as occasionally exposing the dancers to other genre of dances. We promote dance as a form of art beyond its aesthetic value. We are optimistic that each individual can dance and embark on the gracious journey together to discover their potential beyond dance. As they work towards a common goal of attaining excellence they also forge stronger bonds and great team work among themselves. 
+Bartley Secondary School Modern Dance Club was inaugurated in 2016. Dance
+members go through twice a week training by full time instructor which focus on
+enhancing physical strength, foundational techniques and choreography skills. Beyond
+the dance floor, our training cultivates resilience, discipline and team work. The club
+comprises of boys and girls who are enthusiastic and passionate in dance. Our focus is
+on contemporary techniques but occasionally we expose the dancers to other genre of
+dances.
+
+BSS Modern Dance Club boasts a strong performance record. We offer numerous
+opportunities for public performances, including school events and competitions like the
+Singapore Youth Festival (SYF).
 
 ![](/images/photo_2022-06-09_15-08-07.jpg)
