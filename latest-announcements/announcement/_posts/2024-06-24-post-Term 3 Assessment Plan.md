@@ -24,7 +24,7 @@ variant: tiptap
 the various levels.</p>
 <p></p>
 <h3>Sec 1</h3>
-<p><a href="/files/S1_2024_Term_3_Weighted_Assessment__Overall_Schedule_24_June.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Term 3 Overall Weighted Assessment (WA) Plan</a>
+<p><a href="/files/S1_2024_Term_3_Weighted_Assessment__Overall_Schedule_26_June.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Term 3 Overall Weighted Assessment (WA) Plan </a><em>(updated 28 June)</em>
 </p>
 <p></p>
 <h3>Sec 2</h3>
