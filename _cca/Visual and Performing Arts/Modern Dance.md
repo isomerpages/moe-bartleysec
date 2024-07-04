@@ -6,11 +6,12 @@ third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
 ### Vision:
-To cultivate dancers with gracious mind, body and soul through learning different forms of dance.
+To cultivate dancers with gracious mind, body and soul through learning different forms
+of dance.
 
 **CCA Teacher IC** <br>
-Ms Zaihana Ahmad (Overall IC)<br>
-Ms Sun Mengyi (2nd IC)
+Ms Zaihana Ahmad (Overall in-charge)<br>
+Ms Sun Mengyi (2nd in-charge)
 
 **CCA Teachers** <br>
 Ms Kiren Kaur Gill <br>
@@ -29,4 +30,15 @@ BSS Modern Dance Club boasts a strong performance record. We offer numerous
 opportunities for public performances, including school events and competitions like the
 Singapore Youth Festival (SYF).
 
-![](/images/photo_2022-06-09_15-08-07.jpg)
+**Our Achievements** <br>
+**Singapore Youth Festival Arts Presentation**<br>
+
+
+
+| Year | Achievement |  |
+| -------- | -------- | -------- |
+| 2017    | Certificate of Accomplishment     |
+| 2019    | Certificate of Accomplishment     |
+| 2021    | Certificate of Accomplishment     |
+| 2023    | Certificate of Distinction     |
+
