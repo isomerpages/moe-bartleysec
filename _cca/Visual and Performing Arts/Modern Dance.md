@@ -35,13 +35,12 @@ Singapore Youth Festival (SYF).
 
 
 
-| Year | Achievement |  |
-| -------- | -------- | -------- |
-| 2017    | Certificate of Accomplishment     |
-| 2019    | Certificate of Accomplishment     |
-| 2021    | Certificate of Accomplishment     |
-| 2023    | Certificate of Distinction     |
-
+| Year | Achievement ||
+| -------- | -------- | -
+| 2017    | Certificate of Accomplishment
+| 2019    | Certificate of Accomplishment
+| 2021    | Certificate of Accomplishment
+| 2023    | Certificate of Distinction
 
 ![](/images/WhatsApp_Image_2024_06_20_at_11_36_35_AM.jpg)
 ![](/images/WhatsApp_Image_2024_06_20_at_11_36_36_AM__1_.jpg)
