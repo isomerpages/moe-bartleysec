@@ -21,7 +21,7 @@ Mr Tan CK
 **About us** <br>
 Basketball team members are trained to develop and hone the basic basketball skills of passing, shooting and dribbling. Opportunities are also available for members to be nominated for First Aid Course as well as the Refereeing Course for them to develop other skills on and off the court, as well as the leadership positions of Captain and Vice-Captain. Above all, they are taught to exercise discipline, resilience and teamwork through training.
 
-Selected members of the team are sent to represent the school at the zonal competitions each year.
+Selected members of the team are sent to represent the school at the zonal competitions each year. In addition, we also organise friendlies with other schools to increase student exposure to match conditions. Players are also given the opportunity to learn and keep track of statistics during matches, where they can have a tangible understanding of their performance.
 
      
 **Building strong relationships – CCA Handover Session &amp; Grad Students Swansong Exhibition Game**
