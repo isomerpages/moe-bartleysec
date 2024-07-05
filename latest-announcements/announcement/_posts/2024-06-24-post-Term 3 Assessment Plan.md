@@ -28,24 +28,24 @@ the various levels.</p>
 </p>
 <p></p>
 <h3>Sec 2</h3>
-<p><a href="/files/S2_2024_Term_3_Weighted_Assessment__Overall_Schedule_24_June.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Term 3 Overall Weighted Assessment (WA) Plan</a>
-</p>
-<p>Sec 2 WA scheduled dates by class</p>
-<p><a href="/files/2O1_Term_3_WA_Detailed_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2O1</a>
-</p>
-<p><a href="/files/2O2_Term_3_WA_Detailed_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2O2</a>
-</p>
-<p><a href="/files/2O3_Term_3_WA_Detailed_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2O3</a>
-</p>
-<p><a href="/files/2O4_Term_3_WA_Detailed_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2O4</a>
-</p>
-<p><a href="/files/2O5_Term_3_WA_Detailed_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2O5</a>
-</p>
-<p><a href="/files/2O6_Term_3_WA_Detailed_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2O6</a>
-</p>
-<p><a href="/files/2O7_Term_3_WA_Detailed_Schedule_2024_updated_3_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">2O7</a>
+<p><a href="/files/S2_2024_Term_3_Weighted_Assessment__Overall_Schedule_updated_5_July.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Term 3 Overall Weighted Assessment (WA) Plan</a>
 </p>
 <p></p>
+<p>Sec 2 WA scheduled dates by class</p>
+<p><a href="/files/2O1_Term_3_WA_Detailed_Schedule_2024_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">201</a>
+</p>
+<p><a href="/files/2O2_Term_3_WA_Detailed_Schedule_2024_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">2O2</a>
+</p>
+<p><a href="/files/2O3_Term_3_WA_Detailed_Schedule_2024_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">2O3</a>
+</p>
+<p><a href="/files/2O4_Term_3_WA_Detailed_Schedule_2024_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">2O4</a>
+</p>
+<p><a href="/files/2O5_Term_3_WA_Detailed_Schedule_2024_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">2O5</a>
+</p>
+<p><a href="/files/2O6_Term_3_WA_Detailed_Schedule_2024_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">2O6</a>
+</p>
+<p><a href="/files/2O7_Term_3_WA_Detailed_Schedule_2024_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">2O7</a>
+</p>
 <h3>Sec 3</h3>
 <p><a href="/files/S3_2024_Term_3_Weighted_Assessment__Overall_Schedule_24_June.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Term 3 Overall Weighted Assessment (WA) Plan</a>
 </p>
