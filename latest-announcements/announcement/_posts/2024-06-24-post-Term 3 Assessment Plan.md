@@ -26,12 +26,26 @@ the various levels.</p>
 <h3>Sec 1</h3>
 <p><a href="/files/S1_2024_Term_3_Weighted_Assessment__Overall_Schedule_26_June.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Term 3 Overall Weighted Assessment (WA) Plan </a><em>(updated 28 June)</em>
 </p>
-<p></p>
+<p>Sec 1 WA schedule by dates</p>
+<p><a href="/files/1C1_Term_3_WA_Detailed_Schedule_2024___1C1.pdf" rel="noopener noreferrer nofollow" target="_blank">1C1</a>
+</p>
+<p><a href="/files/1C2_Term_3_WA_Detailed_Schedule_2024___1C2.pdf" rel="noopener noreferrer nofollow" target="_blank">1C2</a>
+</p>
+<p><a href="/files/1C3_Term_3_WA_Detailed_Schedule_2024___1C3.pdf" rel="noopener noreferrer nofollow" target="_blank">1C3</a>
+</p>
+<p><a href="/files/1C4_Term_3_WA_Detailed_Schedule_2024___1C4.pdf" rel="noopener noreferrer nofollow" target="_blank">1C4</a>
+</p>
+<p><a href="/files/1C5_Term_3_WA_Detailed_Schedule_2024___1C5.pdf" rel="noopener noreferrer nofollow" target="_blank">1C5</a>
+</p>
+<p><a href="/files/1C6_Term_3_WA_Detailed_Schedule_2024___1C6.pdf" rel="noopener noreferrer nofollow" target="_blank">1C6</a>
+</p>
+<p><a href="/files/1C7__Term_3_WA_Detailed_Schedule_2024___1C7.pdf" rel="noopener noreferrer nofollow" target="_blank">1C7</a>
+</p>
 <h3>Sec 2</h3>
 <p><a href="/files/S2_2024_Term_3_Weighted_Assessment__Overall_Schedule_updated_5_July.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Term 3 Overall Weighted Assessment (WA) Plan</a>
 </p>
 <p></p>
-<p>Sec 2 WA scheduled dates by class</p>
+<p>Sec 2 WA schedule dates by class</p>
 <p><a href="/files/2O1_Term_3_WA_Detailed_Schedule_2024_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">201</a>
 </p>
 <p><a href="/files/2O2_Term_3_WA_Detailed_Schedule_2024_5_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">2O2</a>
