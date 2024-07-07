@@ -23,5 +23,6 @@ variant: tiptap
 <p>Please click on the link below to download the 4NA and 4NT prelim timetable.</p>
 <p><a href="/files/4NA_Prelim_2024_timetable_2_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA Prelim Timetable</a>
 </p>
-<p><a href="/files/4NT_Prelim_2024_timetable_3_Jul_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">4NT Prelim Timetable [Updated]</a>
+<p><a href="/files/4NT_Prelim_2024_timetable_3_Jul_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">4NT Prelim Timetable [U</a>
+<a href="/files/4NT_Prelim_2024_timetable_7_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/4NT_Prelim_2024_timetable_3_Jul_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">pdated]</a>
 </p>
