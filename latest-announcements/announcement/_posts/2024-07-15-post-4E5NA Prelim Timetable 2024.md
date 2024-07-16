@@ -21,5 +21,5 @@ variant: tiptap
 </li>
 </ul>
 <p>Please click on the link below to download the 4E5NA prelim timetable.</p>
-<p><a href="/files/4E5NA_Prelim_Timetable_2024__9_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5NA Prelim Timetable</a>
+<p><a href="/files/4E5NA_Prelim_Timetable_2024__10_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5NA Prelim Timetable</a>
 </p>
