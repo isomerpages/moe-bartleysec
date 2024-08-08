@@ -128,19 +128,19 @@ please mail the completed application form direct to:</p>
 </p>
 <p></p>
 <h2>Straits Times School Pocket Money Fund</h2>
-<p><em>[Updated 1 Feb 2024]</em>
+<p><em>[Updated 6 Aug 2024]</em>
 </p>
 <p>Students in primary and secondary schools who are Singapore Citizens (SC)
 or Singapore Permanent Residents (SPR) may apply for the ST School Pocket
 Money Fund if the family per capita income (PCI) per month is $750 or less,
 and the child is not concurrently receiving school pocket money from another
 STSPMF disbursing agency or receiving monthly school pocket money from
-other schemes, excluding MOE/SPED FAS and Comcare. If the application is
+other schemes, excluding MOE/SPED FAS and ComCare. If the application is
 submitted through the school and the child is receiving MOE/SPED FAS or
-Comcare Assistance at the point of application, there is no need to submit
-the income support documents. Students under MOE/SPED FAS or Com Care Assistance
+ComCare Assistance at the point of application, there is no need to submit
+the income support documents. Students under MOE/SPED FAS or ComCare Assistance
 will only need to submit the completed Annex A (Application form) with
-the MOE/SPED FAS or Com Care Assistance letter indicating period of assistance.</p>
+the MOE/SPED FAS or ComCare Assistance letter indicating period of assistance.</p>
 <p>If a child has already received the maximum 24 months of subsidy from
 the primary/secondary school, he/she will no longer be eligible for the
 fund.</p>
@@ -176,7 +176,7 @@ school's General Office by the timeline given.</p>
 <p>Current Sec 1, 2 and 3 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>by 11 Sept</p>
+<p>by 11 Sep</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@ school's General Office by the timeline given.</p>
 <p>Incoming Sec 1 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>by 7 February</p>
+<p>by 7 Feb</p>
 </td>
 </tr>
 </tbody>
