@@ -24,7 +24,7 @@ dictionaries</p>
 </li>
 </ul>
 <p>Please click on the links below to download the EOY Exam Timetable and
-Topics for the respective levels and streams.</p>
+Exam Topics for the respective levels and streams.</p>
 <p></p>
 <h3>Secondary 1</h3>
 <p><a href="/files/S1_2024_EOY_End_of_Year_Exam_Topics.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Exam Topics</a>
