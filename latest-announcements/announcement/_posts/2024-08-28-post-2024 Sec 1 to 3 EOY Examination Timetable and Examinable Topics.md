@@ -8,7 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<p><a href="https://www.bartleysec.moe.edu.sg/our-holistic-curriculum/instructional-programmes/assessment-matters/" rel="noopener noreferrer nofollow" target="_blank"><u>Please click here to access the school’s Assessment Plan and Policy for 2023</u></a>
+<p><a href="https://www.bartleysec.moe.edu.sg/our-holistic-curriculum/instructional-programmes/assessment-matters/" rel="noopener noreferrer nofollow" target="_blank"><u>Please click here to access the </u></a><strong><a href="https://www.bartleysec.moe.edu.sg/our-holistic-curriculum/instructional-programmes/assessment-matters/" rel="noopener noreferrer nofollow" target="_blank"><u>Bartley's Secondary School Assessment Policy for 2024</u></a></strong>
+</p>
+<p>
 <br>Please click on the link below for SEAB approved list of calculators and
 dictionaries</p>
 <ul data-tight="true" class="tight">
@@ -46,6 +48,6 @@ Topics for the respective levels and streams.</p>
 <p><a href="/files/S3NT_EOY_Timetable_2024_26_Aug_for_comms.pdf" rel="noopener nofollow" target="_blank">Sec 3NT EOY Exam Timetable</a>
 </p>
 <p></p>
-<h4><strong>Note: During the exam period, students are to report to school for morning assembly before 0745 from Monday to Friday. Assembly will start at 0745 sharp daily.				</strong></h4>
+<h4><strong>Note: During the exam period, students are to report to school for morning assembly before 0745 from Monday to Friday. Assembly will start at 0745 sharp daily.</strong></h4>
 <p></p>
 <p></p>
