@@ -48,6 +48,6 @@ Topics for the respective levels and streams.</p>
 <p><a href="/files/S3NT_EOY_Timetable_2024_26_Aug_for_comms.pdf" rel="noopener nofollow" target="_blank">Sec 3NT EOY Exam Timetable</a>
 </p>
 <p></p>
-<h4><strong>Note: During the exam period, students are to report to school for morning assembly before 0745 from Monday to Friday. Assembly will start at 0745 sharp daily.</strong></h4>
+<h4><strong>Note: During the exam period, students are to report to school for morning assembly before 0745 from <u>Monday</u> to Friday. Assembly will start at 0745 sharp daily.</strong></h4>
 <p></p>
 <p></p>
