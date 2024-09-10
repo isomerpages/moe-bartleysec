@@ -29,7 +29,7 @@ Exam Topics for the respective levels and streams.</p>
 <h3>Secondary 1</h3>
 <p><a href="/files/S1_2024_EOY_End_of_Year_Exam_Topics.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Exam Topics</a>
 </p>
-<p><a href="/files/S1_EOY_Timetable_2024_31_Aug_for_comms.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Exam Timetable</a>
+<p><a href="/files/S1_EOY_Timetable_2024_31_Aug_for_comms_V2.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Exam Timetable</a>
 </p>
 <p></p>
 <h3>Secondary 2</h3>
@@ -44,7 +44,7 @@ Exam Topics for the respective levels and streams.</p>
 </p>
 <p><a href="/files/S3E_EOY_Timetable_2024_26_Aug_for_comms_v1.pdf" rel="noopener nofollow" target="_blank">Sec 3E EOY Exam Timetable</a>
 </p>
-<p><a href="/files/S3NA_EOY_Timetable_2024_31_Aug_for_comms_v1.pdf" rel="noopener nofollow" target="_blank">Sec 3NA EOY Exam Timetable</a>
+<p><a href="/files/S3NA_EOY_Timetable_2024_31_Aug_for_comms_v4.pdf" rel="noopener nofollow" target="_blank">Sec 3NA EOY Exam Timetable</a>
 </p>
 <p><a href="/files/S3NT_EOY_Timetable_2024_26_Aug_for_comms_v1.pdf" rel="noopener nofollow" target="_blank">Sec 3NT EOY Exam Timetable</a>
 </p>
