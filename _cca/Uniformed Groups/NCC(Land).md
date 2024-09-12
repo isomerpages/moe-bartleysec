@@ -42,6 +42,8 @@ grade.</p>
 <br>2022 NDP Contingent - The Float@Marina Bay
 <br>Best Unit Competition: GOLD (2009 – 2017)
 <br>Distinction in Unit Recognition (2018 – Current)</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_2022-06-07_15-35-32.jpg">
 </div>
