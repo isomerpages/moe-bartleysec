@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<p><strong>2024 Term 3 Letters</strong>
+<p><strong>2024 Term 4 Letters</strong>
 </p>
 <p></p>
 <p><a href="/files/2024_T4_Sec_1_Principal_s_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 4 Principal's Letter to Sec 1 Parents</a>
