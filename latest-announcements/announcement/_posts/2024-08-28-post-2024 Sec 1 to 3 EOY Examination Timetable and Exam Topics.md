@@ -33,7 +33,7 @@ Exam Topics for the respective levels and streams.</p>
 </p>
 <p></p>
 <h3>Secondary 2</h3>
-<p><a href="/files/S2_2024_EOY_End_of_Year_Exam_Topics.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Exam Topics</a>
+<p><a href="/files/S2_2024_EOY_End_of_Year_Exam_Topics_updated.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Exam Topics_</a><em><a href="/files/S2_2024_EOY_End_of_Year_Exam_Topics_updated.pdf" rel="noopener nofollow" target="_blank">Updated</a></em>
 </p>
 <p><a href="/files/S2_EOY_Timetable_2024_31_Aug_for_comms_v4.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Exam Timetable</a>
 </p>
