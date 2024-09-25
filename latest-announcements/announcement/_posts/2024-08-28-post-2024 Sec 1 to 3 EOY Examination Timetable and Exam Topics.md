@@ -44,7 +44,7 @@ Exam Topics for the respective levels and streams.</p>
 </p>
 <p><a href="/files/S3E_EOY_Timetable_2024_26_Aug_for_comms_v1.pdf" rel="noopener nofollow" target="_blank">Sec 3E EOY Exam Timetable</a>
 </p>
-<p><a href="/files/S3NA_EOY_Timetable_2024_31_Aug_for_comms_v4_1.pdf" rel="noopener nofollow" target="_blank">Sec 3NA EOY Exam Timetable</a>
+<p><a href="/files/S3NA_EOY_Timetable_2024_31_Aug_for_comms_v4_2.pdf" rel="noopener nofollow" target="_blank">Sec 3NA EOY Exam Timetable</a>
 </p>
 <p><a href="/files/S3NT_EOY_Timetable_2024_26_Aug_for_comms_v1.pdf" rel="noopener nofollow" target="_blank">Sec 3NT EOY Exam Timetable</a>
 </p>
