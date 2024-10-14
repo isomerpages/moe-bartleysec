@@ -3,10 +3,49 @@ title: Useful links
 permalink: /information/students/useful-links/
 description: ""
 third_nav_title: Students
+variant: tiptap
 ---
-|  |  | 
-| -------- | -------- | 
-| [SLS](https://vle.learning.moe.edu.sg/login) | [iMTL](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login) | 
-| [My Skills Future](https://www.myskillsfuture.sg/content/student/en/secondary.html) | [Ace Learning ](https://www.ace-learning.com/) |
-| [AskNLearn](https://lms.wizlearn.com/LMS/Login_main.aspx) | |
-| | |
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/index.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ace-learning.com/" rel="noopener noreferrer nofollow" target="_blank">Ace Learning</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
