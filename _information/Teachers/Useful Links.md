@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Teachers
 variant: tiptap
 ---
-<h3>Links for your easy access [MOE related links may require VPN]</h3>
+<h3>Links for staff access only [MOE related links may require VPN]</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
