@@ -3,22 +3,21 @@ title: Sec 2 Subject Briefing Information
 permalink: /information/parents/permalink/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 Dear Parent/Guardian
-  
-Thank you for attending the Face-to-Face and/or Zoom Webinar Parent Engagement & Subject Options Briefing on 31 March and 28 April 2023 respectively.
-  
 
-The following resources are useful references to help you and your child/ward make informed decisions on his/her subject options for Upper Secondary at the end of this year.
+Please refer to the table below for the dates of the Subject Option Exercise 2024.
 
-[Info Booklet for 2024 for Sec 3 Options](/files/info%20booklet%20for%202024%20sec%203%20subject%20options%20exercise%20(1).pdf)
+|Date | Event |  |
+| -------- | -------- |-------- |
+| 26 Apr 24    | Parents’ Engagement/ Sec 3 Subject Options Exercise     |    |
+| 11 Oct 24     | Briefing on Sec 3 subjects     |    |
+| 22/23 Oct 24     | Sec  3 Subject Options Exercise     |    |
+| 1 Nov 24     | Release of outcome     |    |
+| 4/ 5 Nov 24     | Appeal      |    |
+| 13 Nov 24    | Release of outcome for appeals     |    |
 
-[2023 Sec 2 Parents Talk (By ECG counsellor)](/files/2023%20sec%202%20parents%20talk%20(by%20ecg%20counsellor).pdf)
+For more information, you may refer to this [link](https://drive.google.com/drive/folders/1_QccPJtx4kCWNGUnm7NHev68dck3pCcy?usp=sharing) for materials related to the Subject Option Exercise.
 
-#### Videos:
-[Post Sec Pathway for O Level](https://youtu.be/LyFjnqf03bo)
-
-
-[Post Sec Pathway for NA Level](https://youtu.be/UMu1iM-e-K0)
-
-[ Post Sec Pathway for NT Level ](https://youtu.be/IBvRGQvUiCk)
+Thank you.
