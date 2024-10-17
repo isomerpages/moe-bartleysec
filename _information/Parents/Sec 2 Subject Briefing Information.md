@@ -21,5 +21,3 @@ Please refer to the table below for the dates of the Subject Option Exercise 202
 For more information, you may refer to this [link](https://drive.google.com/drive/folders/1_QccPJtx4kCWNGUnm7NHev68dck3pCcy?usp=sharing) for materials related to the Subject Option Exercise.
 
 Thank you.
-
-
