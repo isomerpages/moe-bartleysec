@@ -63,6 +63,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR TING POH LEONG, ALOYSIUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VICE-PRINCIPAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ting_poh_leong_aloysius@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ting_poh_leong_aloysius@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -1078,18 +1090,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 RESPECT 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR YEE KOK KHEONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yee_kok_kheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yee_kok_kheong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3 RESPECT 7</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1488,24 +1488,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS SUSAN LIM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">susan_lim_siok_hiang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MRS HO - CHAN CHOY HAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_choy_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_choy_har_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
@@ -1591,6 +1573,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_amalludin_rateman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPECIAL EDUCATIONAL NEEDS OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS GUOK HUI PING, MAGDELENE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:guok_hui_ping_magdalene_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guok_hui_ping_magdalene_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
