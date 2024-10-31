@@ -32,23 +32,23 @@ in 2025.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/bartley%20secondary%20school%20booklist%202024_s1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/Bartley_Secondary_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/bartley%20secondary%20school%20booklist%202024_s2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Bartley_Secondary_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/bartley%20secondary%20school%20booklist%202024_s3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Bartley_Secondary_Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/bartley%20secondary%20school%20booklist%202024_s4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
+<p><a href="/files/Bartley_Secondary_Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
 </p>
 </li>
 <li>
-<p><a href="/files/bartley%20secondary%20school%20booklist%202024_s5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
+<p><a href="/files/Bartley_Secondary_Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
 </p>
 </li>
 </ul>
