@@ -9,8 +9,9 @@ variant: tiptap
 <br><strong>Tel:</strong>&nbsp;+65 6288 9013
 <br><strong>Fax:</strong>&nbsp;+65 6280 5595
 <br><strong>Email</strong>: bartley_ss@moe.edu.sg</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BartleyMap.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_Map_Location.png">
 </div>
 <p><strong>Getting Here</strong>
 </p>
