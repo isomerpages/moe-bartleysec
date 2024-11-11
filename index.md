@@ -22,9 +22,10 @@ sections:
       title: Latest Announcements
       subtitle: Catch  up with the
       button: More
-  - infobar:
-      title: 2024 Secondary 1 Posting
-      id: infobar
-      button: Click here for more details
-      url: /latest-announcements/announcement/permalink/2024-secondary-1-posting/
+  - infopic:
+      title: Bartley Open House
+      id: infopic
+      description: 23 Nov 2024, 8.30 am to 12.30pm
+      image: /images/WebSite_Pop_up_updated.png
+      alt: Image alt text
 ---
