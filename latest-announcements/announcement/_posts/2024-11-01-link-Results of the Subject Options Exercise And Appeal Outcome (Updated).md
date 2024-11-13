@@ -1,5 +1,5 @@
 ---
-title: Results of the Subject Options Exercise
+title: Results of the Subject Options Exercise And Appeal Outcome (Updated)
 date: 2024-11-01
 layout: link
 description: ""

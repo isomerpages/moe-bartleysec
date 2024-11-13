@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students
 variant: markdown
 ---
-Subject Options Results
+Subject Options Results And Appeal Outcomes
 -----------------------
 
 Dear Sec 2 students,  
@@ -16,8 +16,13 @@ You may check the results of the Subject Options Exercise by clicking the link b
 
 ![](/images/Results_of_Subject_Allocation_for_Secondary_3_2025_QR.png)
 
-If you wish to appeal, please approach the school's General Office and obtain an appeal form. Submit the signed appeal form to the General Office by **5pm, Tuesday, 5 Nov 2024**. The appeal outcomes will be posted on the school website on Wednesday, 13 Nov 2024.
+#### Updated 13 Nov 2024
 
+If you had submitted an appeal, you may check the outcome of your appeal by clicking the link below or by scanning the QR code.
+
+[https://forms.moe.edu.sg/forms/vY9Qmw](https://forms.moe.edu.sg/forms/vY9Qmw)
+
+![](/images/Release_of_Results_for_Subject_Options_Appeal_2024_QR.png)
 Please refer to the booklist on the school website to purchase your lesson materials accordingly. You will be informed of your Sec 3 class on the first day of school next year.
 
 Thank you.
