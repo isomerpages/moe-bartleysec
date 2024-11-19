@@ -314,18 +314,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH PARTNERSHIP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR YEE KOK KHEONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yee_kok_kheong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yee_kok_kheong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>YEAR HEAD
 <br>(SEC 1)</p>
 </td>
