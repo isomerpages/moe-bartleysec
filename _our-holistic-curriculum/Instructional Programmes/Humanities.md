@@ -139,8 +139,4 @@ to others.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Study%20Session%20with%20the%20teacher.jpeg">
 </div>
 <p>Study Session with the teacher</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Winners%20of%202019%20%20International%20Stamp%20Collection%20Competition%20chatting%20with%20Minister%20Mr%20S%20Iswaran.jpeg">
-</div>
-<p>Winners of 2019 International Stamp Collection Competition chatting with
-Minister Mr S Iswaran</p>
+<p></p>
