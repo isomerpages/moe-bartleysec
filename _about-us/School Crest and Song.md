@@ -39,9 +39,6 @@ variant: tiptap
 <br>Whether it be work or play
 <br>We’ll go on from day to day,
 <br>And be well-prepared
-<br>To stand up to the fray
-<br>
-</p>
-<h5>School Song</h5>
-<p><a href="https://www.youtube.com/watch?v=RZ9y5v5qYvY&amp;t=11s" rel="noopener noreferrer nofollow" target="_blank">Bartley School Song</a>
+<br>To stand up to the fray</p>
+<p><a href="https://www.youtube.com/watch?v=RZ9y5v5qYvY&amp;t=11s" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to Bartley's School Song</a>
 </p>
