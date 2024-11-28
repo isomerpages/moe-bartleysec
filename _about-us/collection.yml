@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Advisory Committee/.keep
       - Welcome to Bartley Secondary School.md
       - Principal's message.md
       - School's History.md
