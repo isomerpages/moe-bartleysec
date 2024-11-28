@@ -1,5 +1,5 @@
 collections:
-  our-holistic-curriculum:
+  academic:
     output: true
     order:
       - Curricular Framework.md
