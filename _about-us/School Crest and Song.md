@@ -4,7 +4,7 @@ permalink: /our-school/school-song-crest-n-motto/
 description: ""
 variant: tiptap
 ---
-<h3>School Crest Writeup </h3>
+<h3>School Crest Writeup</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_crest_write_up.jpg">
 </div>
