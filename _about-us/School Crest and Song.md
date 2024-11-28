@@ -4,6 +4,10 @@ permalink: /our-school/school-song-crest-n-motto/
 description: ""
 variant: tiptap
 ---
+<h3>School Crest Writeup </h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_crest_write_up.jpg">
+</div>
 <h3>School Song</h3>
 <p>Bartley school of Singapore
 <br>Up and coming to the fore,
@@ -40,5 +44,8 @@ variant: tiptap
 <br>We’ll go on from day to day,
 <br>And be well-prepared
 <br>To stand up to the fray</p>
-<p><a href="https://www.youtube.com/watch?v=RZ9y5v5qYvY&amp;t=11s" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to Bartley's School Song</a>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RZ9y5v5qYvY?si=j8fWtPS_eT7_7j7g"></iframe>
+</div>
+<p></p>
