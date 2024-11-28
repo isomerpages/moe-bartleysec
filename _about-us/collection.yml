@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - School Advisory Committee/Our Partners.md
-      - School Advisory Committee/.keep
+      - Our Partners/Our Partners.md
+      - Our Partners/.keep
       - Welcome to Bartley Secondary School.md
       - Principal's message.md
       - School's History.md
