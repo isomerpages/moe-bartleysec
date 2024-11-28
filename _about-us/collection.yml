@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Welcome to Bartley Secondary School.md
       - Principal's message.md
       - Milestones.md
       - VMV & Philosophy.md
@@ -11,5 +12,4 @@ collections:
       - Our Achievement/Academic Awards.md
       - Our Achievement/CCA Awards.md
       - Our Achievement/Staff Reward & Recognition.md
-      - Welcome to Bartley Secondary School.md
       - Bartley School Magazine.md
