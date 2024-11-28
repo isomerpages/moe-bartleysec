@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
-      - Our Partners/Our Partners.md
-      - Our Partners/.keep
       - Welcome to Bartley Secondary School.md
       - Principal's message.md
       - School's History.md
       - School Crest and Song.md
       - School's VMV, Motto, Beliefs.md
       - Our People.md
+      - Our Partners/.keep
+      - Our Partners/Our Partners.md
       - Our Achievement/.keep
       - Our Achievement/Academic Awards.md
       - Our Achievement/CCA Awards.md
