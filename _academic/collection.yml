@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Assessment Matters/.keep
       - Curricular Framework.md
       - Instructional Programmes/.keep
       - Instructional Programmes/Assessment Matters.md
@@ -15,6 +14,7 @@ collections:
       - Instructional Programmes/Physical Education.md
       - Instructional Programmes/Computer Applications (CPA).md
       - Instructional Programmes/Music.md
+      - Assessment Matters/.keep
       - Student Development/.keep
       - Student Development/Sexuality Education.md
       - Student Development/National Education.md
