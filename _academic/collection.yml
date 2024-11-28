@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Class Timetable.md
       - Curricular Framework.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English Language and Literature.md
@@ -17,6 +16,7 @@ collections:
       - Assessment Matters/.keep
       - Assessment Matters/Assessment Plan and Policy.md
       - Assessment Matters/Assessment Schedule.md
+      - Class Timetable.md
       - Student Development/.keep
       - Student Development/Sexuality Education.md
       - Student Development/National Education.md
