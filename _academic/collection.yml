@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Class Timetable.md
       - Curricular Framework.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English Language and Literature.md
