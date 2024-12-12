@@ -1,5 +1,5 @@
 ---
-title: Our Staff
+title: Our People
 permalink: /our-school/our-staff/
 description: ""
 variant: tiptap

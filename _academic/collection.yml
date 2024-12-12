@@ -1,12 +1,11 @@
 collections:
-  our-holistic-curriculum:
+  academic:
     output: true
     order:
       - Curricular Framework.md
       - Instructional Programmes/.keep
-      - Instructional Programmes/Assessment Matters.md
       - Instructional Programmes/English Language and Literature.md
-      - Instructional Programmes/Mother Tongue Language.md
+      - Instructional Programmes/Mother Tongue Languages.md
       - Instructional Programmes/Mathematics.md
       - Instructional Programmes/Science.md
       - Instructional Programmes/Humanities.md
@@ -14,6 +13,10 @@ collections:
       - Instructional Programmes/Physical Education.md
       - Instructional Programmes/Computer Applications (CPA).md
       - Instructional Programmes/Music.md
+      - Assessment Matters/.keep
+      - Assessment Matters/Assessment Plan and Policy.md
+      - Assessment Matters/Assessment Schedule.md
+      - Class Timetable.md
       - Student Development/.keep
       - Student Development/Sexuality Education.md
       - Student Development/National Education.md

@@ -1,15 +1,17 @@
 collections:
-  our-school:
+  about-us:
     output: true
     order:
+      - Welcome to Bartley Secondary School.md
       - Principal's message.md
-      - Milestones.md
-      - VMV & Philosophy.md
-      - School Song, Crest & Motto.md
-      - Our Staff.md
+      - School's History.md
+      - School Crest and Song.md
+      - School's VMV, Motto, Beliefs.md
+      - Our People.md
+      - Our Partners/.keep
+      - Our Partners/School Advisory Committee.md
       - Our Achievement/.keep
       - Our Achievement/Academic Awards.md
       - Our Achievement/CCA Awards.md
       - Our Achievement/Staff Reward & Recognition.md
-      - Welcome to Bartley Secondary School.md
       - Bartley School Magazine.md
