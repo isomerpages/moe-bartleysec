@@ -27,15 +27,15 @@ child/ward to look through before the start of the academic year on Thursday,
 2 January 2025.</p>
 <p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome Message by Principal</strong>
 </p>
-<p>&nbsp;2.1.&nbsp;&nbsp;&nbsp; Please click <strong><a rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
-view a welcome message by our Principal.</p>
+<p>&nbsp;2.1.&nbsp;&nbsp;&nbsp; Please click here to view a welcome message
+by our Principal.</p>
 <p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administrative Information for Students</strong>
 </p>
 <p>&nbsp;3.1.&nbsp;&nbsp;&nbsp; We have prepared an information sheet for
 Secondary 1 students to help them prepare for the start of a new school
 year. Students are to read and familiarise themselves with the details.</p>
-<p>&nbsp;3.2.&nbsp;&nbsp;&nbsp; Please click <a href="/files/2025_Secondary_1_Information_Sheet_updated_16_Dec.pdf" rel="noopener nofollow" target="_blank">here</a> to
-download the Information Sheet for Secondary 1 Students.</p>
+<p>&nbsp;3.2.&nbsp;&nbsp;&nbsp; Please <strong><a href="/files/2025_Secondary_1_Information_Sheet_updated_16_Dec.pdf" rel="noopener nofollow" target="_blank">here</a></strong> here
+to download the Information Sheet for Secondary 1 Students.</p>
 <p><strong>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higher Mother Tongue Language &amp; 3<sup>rd</sup> Language</strong>
 </p>
 <p>&nbsp;4.1.&nbsp;&nbsp;&nbsp; For students who are eligible to offer Higher
@@ -48,7 +48,7 @@ December 2024. The deadline for submission is Thursday, 26 December 2024.</p>
 to take subjects at a more demanding level will receive the SBB acceptance
 form via Parents Gateway (PG) from 19 December 2024. The deadline for submission
 is Thursday, 26 December 2024.</p>
-<p>5.2.&nbsp;&nbsp;&nbsp; &nbsp;Click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">here </a> for
+<p>5.2.&nbsp;&nbsp;&nbsp; &nbsp;Click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener nofollow" target="_blank">here </a>for
 more information on FSBB.</p>
 <p>&nbsp;5.3.&nbsp;&nbsp;&nbsp; If you would like to speak to the key personnel
 in charge of a particular subject, please indicate your preference through
@@ -223,8 +223,8 @@ fill in and submit this form by <strong>Friday, 27 December 2024, 12pm.</strong>
 contact the school at <strong>6288 9013</strong> from <strong>Wednesday, 18 December</strong>&nbsp;<strong> 2024, 10 a.m. to Thursday, 19 December 2024, 5pm.</strong>
 </p>
 <p>8.3.&nbsp;&nbsp;&nbsp; For medical reasons, please contact the posted
-secondary school directly. The deadline to seek transfer of school due
-medical reason is Thursday, 19 December, 12 noon.</p>
+secondary school directly. The deadline to seek transfer of school based
+on medical reason is Thursday, 19 December, 12 noon.</p>
 <p>&nbsp;<strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Q&amp;A</strong>
 </p>
 <p>Parent/Guardian may submit your questions by clicking <a href="https://go.gov.sg/enquiry2024" rel="noopener nofollow" target="_blank">here.</a> We
