@@ -22,5 +22,7 @@ to come to school only at 3.30pm. Please proceed to the school’s General
 Office to collect the results. Proxies are required to produce the relevant
 documents (Photo ID for identification &amp; Letter of Authorisation) for
 the school’s verification when collecting the results.</p>
+<p></p>
+<h4>Briefing slides and Factsheet related to JIE</h4>
 <p>Please click <a href="https://drive.google.com/drive/folders/1Mdp195747nBabyE72Zl8L97qkW1K0-Gq?usp=drive_link" rel="noopener nofollow" target="_blank">here</a> to
 access the briefing slides and factsheet related to JIE.</p>

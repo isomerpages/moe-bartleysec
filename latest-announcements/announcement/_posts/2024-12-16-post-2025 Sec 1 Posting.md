@@ -92,6 +92,48 @@ you are advised to purchase the books after confirming your decision.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;4E2 &amp; 4E3 Classroom (Ground floor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 a.m. – 3 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;4E2 &amp; 4E3 Classroom (Ground floor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 a.m. – 3 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;4E2 &amp; 4E3 Classroom (Ground floor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 a.m. – 3 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>23 December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,7 +259,7 @@ programmes in 2025.</p>
 </p>
 <p>8.1.&nbsp;&nbsp;&nbsp; To seek transfer to Bartley Secondary School (non-medical),
 please click <a href="https://go.gov.sg/bartley-s1appeal" rel="noopener nofollow" target="_blank">here</a> to
-fill in and submit this form by <strong>Friday, 27 December 2024, 12pm.</strong>
+fill in and submit this form by <strong>Tuesday, 24 December 2024, 9am.</strong>
 </p>
 <p>8.2.&nbsp;&nbsp;&nbsp; For queries related to school transfer, please
 contact the school at <strong>6288 9013</strong> from <strong>Wednesday, 18 December</strong>&nbsp;<strong> 2024, 10 a.m. to Thursday, 19 December 2024, 5pm.</strong>
