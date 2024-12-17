@@ -92,6 +92,48 @@ you are advised to purchase the books after confirming your decision.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 a.m. – 3 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 a.m. – 3 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 a.m. – 3 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>23 December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
