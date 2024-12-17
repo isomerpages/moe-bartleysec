@@ -259,7 +259,7 @@ programmes in 2025.</p>
 </p>
 <p>8.1.&nbsp;&nbsp;&nbsp; To seek transfer to Bartley Secondary School (non-medical),
 please click <a href="https://go.gov.sg/bartley-s1appeal" rel="noopener nofollow" target="_blank">here</a> to
-fill in and submit this form by <strong>Friday, 27 December 2024, 12pm.</strong>
+fill in and submit this form by <strong>Tuesday, 24 December 2024, 9am.</strong>
 </p>
 <p>8.2.&nbsp;&nbsp;&nbsp; For queries related to school transfer, please
 contact the school at <strong>6288 9013</strong> from <strong>Wednesday, 18 December</strong>&nbsp;<strong> 2024, 10 a.m. to Thursday, 19 December 2024, 5pm.</strong>
