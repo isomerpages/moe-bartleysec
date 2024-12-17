@@ -98,7 +98,7 @@ you are advised to purchase the books after confirming your decision.</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;4E2 &amp; 4E3 Classroom (Ground floor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 a.m. – 3 p.m.</p>
@@ -112,7 +112,7 @@ you are advised to purchase the books after confirming your decision.</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;4E2 &amp; 4E3 Classroom (Ground floor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 a.m. – 3 p.m.</p>
@@ -126,7 +126,7 @@ you are advised to purchase the books after confirming your decision.</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;4E2 &amp; 4E3 Classroom (Ground floor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 a.m. – 3 p.m.</p>
