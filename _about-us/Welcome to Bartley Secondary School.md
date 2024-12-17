@@ -4,6 +4,9 @@ permalink: /our-school/permalink/
 description: ""
 variant: tiptap
 ---
-Join Our Student Council Leaders Virtual Tour of Bartley!
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gT0E2c2JD7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p>Join Our Student Council Leaders Virtual Tour of Bartley!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gT0E2c2JD7w"></iframe>
+</div>
+<p></p>
+<p></p>
