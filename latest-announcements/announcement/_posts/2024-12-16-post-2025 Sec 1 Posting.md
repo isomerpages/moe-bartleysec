@@ -34,7 +34,7 @@ by our Principal.</p>
 <p>&nbsp;3.1.&nbsp;&nbsp;&nbsp; We have prepared an information sheet for
 Secondary 1 students to help them prepare for the start of a new school
 year. Students are to read and familiarise themselves with the details.</p>
-<p>&nbsp;3.2.&nbsp;&nbsp;&nbsp; Please <strong><a href="/files/2025_Secondary_1_Information_Sheet_updated_16_Dec.pdf" rel="noopener nofollow" target="_blank">here</a></strong> here
+<p>&nbsp;3.2.&nbsp;&nbsp;&nbsp; Please <a href="/files/2025_Secondary_1_Information_Sheet_updated_17_Dec.pdf" rel="noopener nofollow" target="_blank">here</a> here
 to download the Information Sheet for Secondary 1 Students.</p>
 <p><strong>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higher Mother Tongue Language &amp; 3<sup>rd</sup> Language</strong>
 </p>
