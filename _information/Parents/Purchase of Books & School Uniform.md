@@ -278,7 +278,7 @@ in 2025.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Open for All Levels</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -319,6 +319,39 @@ in 2025.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0900 - 1500&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900 - 1500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900 - 1500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 December 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0900 - 1500</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
