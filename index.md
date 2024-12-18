@@ -24,7 +24,6 @@ sections:
       button: More
   - infopic:
       title: 2025 Secondary 1 Posting
-      subtitle: Add an image and text
       id: infopic
       description: Please click the link below for more information
       button: Click here
