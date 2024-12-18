@@ -27,11 +27,9 @@ child/ward to look through before the start of the academic year on Thursday,
 2 January 2025.</p>
 <p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome Message by Principal</strong>
 </p>
-<p>&nbsp;2.1.&nbsp;&nbsp;&nbsp; Please click here to view a welcome message
-by our Principal.</p>
-<p>&nbsp;2.2.&nbsp;&nbsp;&nbsp; Please click <a href="https://drive.google.com/file/d/11kR19A2kQRnG8CGKyWvhLdKiDKnn2sC2/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
-view the slides.</p>
-<p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administrative Information for Students</strong>
+<p>&nbsp;2.1.&nbsp;&nbsp;&nbsp; Please click <a href="https://drive.google.com/file/d/11kR19A2kQRnG8CGKyWvhLdKiDKnn2sC2/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+view a welcome message by our Principal.</p>
+<p>&nbsp;&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administrative Information for Students</strong>
 </p>
 <p>&nbsp;3.1.&nbsp;&nbsp;&nbsp; We have prepared an information sheet for
 Secondary 1 students to help them prepare for the start of a new school
