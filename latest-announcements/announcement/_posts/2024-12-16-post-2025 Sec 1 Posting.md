@@ -18,7 +18,7 @@ report physically to our school for registration.</p>
 <p>1.1.&nbsp;&nbsp;&nbsp; The school would need to gather some information
 from you to help us better understand your child’s/ward’s needs as well
 as to prepare for the upcoming orientation.</p>
-<p>1.2.&nbsp;&nbsp;&nbsp; Please click <strong><a href="https://go.gov.sg/needsassessment2025" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> </strong>to
+<p>1.2.&nbsp;&nbsp;&nbsp; Please click <a href="https://go.gov.sg/needsassessment2025" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><strong> </strong>to
 fill in the online survey form.&nbsp;</p>
 <p>1.3.&nbsp;&nbsp;&nbsp; For assistance, please contact the school at 6288
 9013.</p>
