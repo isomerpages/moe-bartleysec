@@ -48,9 +48,89 @@ inspiring a sense of purpose and collaboration.</p>
 <br>NYAA Awardees
 <br>
 </p>
-<p><em>Merit Club teachers and students in action</em>
+<p></p>
+<p><strong><em>Merit Club teachers and students in action</em></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Merit.png">
 </div>
+<p><strong>Achievements</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions - Video Creation Category in the OZONE 2023, National Level
+Inter-school jointly organized by Raffles Girls School &amp; Toa Payoh
+West CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Second Runner up - Quiz Category in the OZONE 2023, National Level Inter-school
+jointly organized by Raffles Girls School &amp; Toa Payoh West CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Runner up - Video Creation Category in the OZONE 2023, National
+Level Inter-school jointly organized by Raffles Girls School &amp; Toa
+Payoh West CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Runner up - Quiz Category in the OZONE 2023, National Level Inter-school
+jointly organized by Raffles Girls School &amp; Toa Payoh West CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Runer Up - 'Digital for Life Video Competition 2024,' a national-level
+competition organized by the Infocomm Media Development Authority (IMDA).</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
