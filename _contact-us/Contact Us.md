@@ -9,6 +9,11 @@ variant: tiptap
 <br><strong>Fax:</strong>&nbsp;+65 6280 5595
 <br><strong>Email us at:</strong>  <a href="mailto:bartley_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bartley_ss@moe.edu.sg</a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_Map_Location.png">
+</div>
 <p><strong>Getting Here</strong>
 </p>
 <p>MRT:
