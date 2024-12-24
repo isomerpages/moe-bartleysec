@@ -7,7 +7,7 @@ third_nav_title: Our Partners
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Ronald_Liew.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Ronald_Liew.png">
 </div>
 <p><strong>Mr Liew Wing Kong Ronald</strong>
 <br><strong>Appointment:</strong> Chairman
@@ -16,7 +16,7 @@ third_nav_title: Our Partners
 <br>QCD Group of Companies</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Philip_Soon.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Philip_Soon.png">
 </div>
 <p><strong>Dr Philip S.H. Soon, JP.</strong>
 <br><strong>(SSMS. DPMP. SMS. AMS. PJK. DBA)</strong>
@@ -28,7 +28,7 @@ third_nav_title: Our Partners
 <br>Singapore Production Management Association</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Foo_Hee_Jug.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Foo_Hee_Jug.png">
 </div>
 <p><strong>Mr Foo Hee Jug</strong>
 <br><strong>Appointment: </strong>&nbsp;Honorary Treasurer
@@ -37,7 +37,7 @@ third_nav_title: Our Partners
 <br>Deputy Chief Executive National University Health System</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Britta_Seet.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Britta_Seet.png">
 </div>
 <p><strong>Ms Britta Seet Ying Ling</strong>
 <br><strong>Appointment: </strong>&nbsp;Honorary Secretary
@@ -46,7 +46,7 @@ third_nav_title: Our Partners
 <br>Bartley Secondary School</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Michelle.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Michelle.png">
 </div>
 <p><strong>Dr Chiang Hui Ling Michelle</strong>
 <br><strong>Appointment: </strong>&nbsp;Member
@@ -55,7 +55,7 @@ third_nav_title: Our Partners
 <br>Nanyang Technological University</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Florence_2.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Florence_2.jpg">
 </div>
 <p><strong>Ms Florence Leong</strong>
 <br><strong>Appointment: </strong>&nbsp;Member
@@ -65,7 +65,7 @@ third_nav_title: Our Partners
 <br>KosmodeHealth Singapore</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Huang_Shao_Ning.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Huang_Shao_Ning.png">
 </div>
 <p><strong>Ms Huang Shao-Ning</strong>
 <br><strong>Appointment: </strong>&nbsp;Honorary Treasurer
@@ -74,7 +74,7 @@ third_nav_title: Our Partners
 <br>AngelCentral</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Dylan.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Dylan.png">
 </div>
 <p>
 <br>Mr Ong Shun Ping Dylan

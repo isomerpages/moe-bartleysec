@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Assessment Matters
 ---
-<h1>Assessment Plan and Policy 2024</h1>
+<h1>Assessment Plan and Policy 2025</h1>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Ministry of Education announced
 in Sept 2018 changes to school-based assessment to shift away from over-emphasis
 on examinations and grades, and help students discover the joy of learning.</p>
