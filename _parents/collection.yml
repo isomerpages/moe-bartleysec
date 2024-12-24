@@ -2,12 +2,12 @@ collections:
   parents:
     output: true
     order:
+      - Parent Support Group.md
+      - Termly Letters.md
+      - Full Subject Based Banding.md
+      - Personal Learning Device.md
+      - Financial Assistance.md
+      - School Insurance For Students.md
+      - School Admissions/.keep
       - School Admissions/Sec 1 Posting.md
       - School Admissions/Direct School Admissions.md
-      - School Admissions/.keep
-      - School Insurance For Students.md
-      - Financial Assistance.md
-      - Personal Learning Device.md
-      - Full Subject Based Banding.md
-      - Termly Letters.md
-      - Parent Support Group.md
