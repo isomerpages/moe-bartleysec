@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Release of N Level Results/.keep
-      - National Exam Matters.md
       - Learners For Life Day.md
       - School Calendar.md
       - Acceptable Use Policy.md
