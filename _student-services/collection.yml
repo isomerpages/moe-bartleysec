@@ -2,9 +2,9 @@ collections:
   student-services:
     output: true
     order:
-      - Acceptable Use Policy.md
       - Learners For Life Day.md
       - School Calendar.md
+      - Acceptable Use Policy.md
       - Students/.keep
       - Students/Learners For Life Day.md
       - Students/School Calendar.md
