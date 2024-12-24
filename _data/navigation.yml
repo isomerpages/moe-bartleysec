@@ -10,7 +10,7 @@ links:
     collection: special-programmes
   - title: Student Services
     collection: student-services
-  - title: Contact Us
-    url: /contact-us
   - title: Parents
     collection: parents
+  - title: Contact Us
+    url: /contact-us
