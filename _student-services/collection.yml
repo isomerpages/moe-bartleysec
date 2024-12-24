@@ -2,7 +2,7 @@ collections:
   student-services:
     output: true
     order:
-      - School Rules & Regulations.md
-      - Acceptable Use Policy.md
       - School Calendar.md
       - Learners For Life Day.md
+      - Acceptable Use Policy.md
+      - School Rules & Regulations.md
