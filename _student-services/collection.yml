@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - School Calendar.md
       - Learners For Life Day.md
       - Students/.keep
       - Students/Learners For Life Day.md
