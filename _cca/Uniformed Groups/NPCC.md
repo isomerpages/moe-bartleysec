@@ -38,4 +38,11 @@ and outdoor camps organised by NPCC HQ.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Unit Hike" src="/images/Unit_Hike.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="K9 Visit" src="/images/K9_Visit.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="POP" src="/images/POP.jpg">
+</div>
+<p></p>
 <p></p>
