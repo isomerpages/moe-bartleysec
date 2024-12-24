@@ -2,8 +2,8 @@ collections:
   student-services:
     output: true
     order:
-      - Release of N Level Results/National Exam Matters.md
-      - Release of N Level Results/.keep
+      - National Exam Matters/National Exam Matters.md
+      - National Exam Matters/.keep
       - Learners For Life Day.md
       - School Calendar.md
       - Acceptable Use Policy.md
