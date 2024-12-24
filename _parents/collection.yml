@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - School Admissions.md
       - School Insurance For Students.md
       - Financial Assistance.md
       - Personal Learning Device.md
