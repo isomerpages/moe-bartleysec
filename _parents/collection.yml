@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Admissions/.keep
-      - School Admissions.md
       - School Insurance For Students.md
       - Financial Assistance.md
       - Personal Learning Device.md
