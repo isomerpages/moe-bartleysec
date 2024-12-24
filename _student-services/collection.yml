@@ -2,7 +2,7 @@ collections:
   student-services:
     output: true
     order:
-      - National Exam Matters/National Exam Matters.md
+      - National Exam Matters/2024 GCE N(A) and N(T) Levels Results Release.md
       - National Exam Matters/.keep
       - Learners For Life Day.md
       - School Calendar.md
