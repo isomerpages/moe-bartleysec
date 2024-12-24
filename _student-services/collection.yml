@@ -2,7 +2,6 @@ collections:
   student-services:
     output: true
     order:
-      - National Examination Matters.md
       - Learners For Life Day.md
       - School Calendar.md
       - Acceptable Use Policy.md
