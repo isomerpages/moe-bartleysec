@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Education and Career Guidance (ECG).md
       - Co Curricular Activities.md
       - CCA Schedules.md
       - Uniformed Groups/.keep
@@ -28,3 +27,4 @@ collections:
       - Visual and Performing Arts/Modern Dance.md
       - Values In Action (VIA).md
       - Character & Citizenship Education.md
+      - Education and Career Guidance (ECG).md
