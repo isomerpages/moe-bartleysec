@@ -2,12 +2,12 @@ collections:
   information:
     output: true
     order:
+      - Students/.keep
+      - Students/Learners For Life Day.md
       - Students/Safety.md
       - Students/Mental Wellness.md
-      - Students/.keep
       - Students/Curriculum Timetable.md
       - Students/School Calendar.md
-      - Students/Learners For Life Day.md
       - Students/Acceptable Use Policy.md
       - Students/Accessing Student ICON.md
       - Students/Basic troubleshooting tips for students using Chromebook.md
