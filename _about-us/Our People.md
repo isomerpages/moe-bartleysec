@@ -176,7 +176,8 @@ variant: tiptap
 <p>MS KAREN CHIN LEE YONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>karen_chin_lee_yong@schools.gov.sg</p>
+<p><a href="mailto:karen_chin_lee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karen_chin_lee_yong@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +224,8 @@ variant: tiptap
 <p>MS XIE XUEYING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xie_xueying@schools.gov.sg</p>
+<p><a href="mailto:xie_xueying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xie_xueying@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -318,7 +320,8 @@ variant: tiptap
 <p>MR CHU YAN LONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:chu_yan_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_yan_long@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -417,7 +420,8 @@ variant: tiptap
 <p>MR LIM KOK BOON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;4. <a href="mailto:Lim_Kok_Boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Kok_Boon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
