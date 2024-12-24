@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CHARACTER & CITIZENSHIP EDUCATION.md
       - Co Curricular Activities.md
       - CCA Schedules.md
       - Uniformed Groups/.keep
@@ -27,3 +26,4 @@ collections:
       - Visual and Performing Arts/Gu Zheng Ensemble.md
       - Visual and Performing Arts/Modern Dance.md
       - Values In Action (VIA).md
+      - CHARACTER & CITIZENSHIP EDUCATION.md
