@@ -30,4 +30,12 @@ and outdoor camps organised by NPCC HQ.</p>
 </div>
 <p><strong>Activities</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Unarmed Tactic" src="/images/Unarmed_Tactic.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Unit Hike" src="/images/Unit_Hike.jpg">
+</div>
+<p></p>
 <p></p>
