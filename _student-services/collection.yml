@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Subject Option Exercise.md
       - School Calendar.md
       - Learners For Life Day.md
       - Acceptable Use Policy.md
