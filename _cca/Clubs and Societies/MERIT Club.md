@@ -44,15 +44,16 @@ commitment to making a positive difference through technology and creativity.</p
 <p>The Media Club offers a platform for students to grow as creative leaders
 and impactful contributors, equipping them with skills for the future while
 inspiring a sense of purpose and collaboration.</p>
-<p><strong>Achievements</strong>
-<br>NYAA Awardees
-<br>
+<p><strong><em>LEAPS 2.0 in MeRIT Club</em></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
 <p></p>
 <p><strong><em>Merit Club teachers and students in action</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Merit.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Merit.png">
 </div>
 <p><strong>Achievements</strong>
 </p>
