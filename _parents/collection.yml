@@ -1,5 +1,4 @@
 collections:
   parents:
     output: true
-    order:
-      - Sec 2 Subject Option Exercise.md
+    order: []
