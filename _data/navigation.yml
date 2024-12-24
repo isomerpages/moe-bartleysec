@@ -2,10 +2,8 @@ logo: /images/sch_logo1.png
 links:
   - title: About Us
     collection: about-us
-  - title: Our Signature Programmes
-    collection: our-signature-programmes
-  - title: Our Holistic Curriculum
-    url: /our-holistic-curriculum/curricular-framework/
+  - title: Academic
+    url: /academic
     sublinks:
       - title: Curricular Framework
         url: /our-holistic-curriculum/curricular-framework/
@@ -15,6 +13,10 @@ links:
         url: /our-holistic-curriculum/student-development/sexuality-education/
       - title: Co-curricular Activities
         url: /our-holistic-curriculum/co-curricular-activities/
+      - title: New submenu
+        url: /permalink
+  - title: Our Signature Programmes
+    collection: our-signature-programmes
   - title: Our Partners
     collection: our-partners
   - title: Information
