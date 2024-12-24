@@ -3,6 +3,8 @@ links:
   - title: About Us
     collection: about-us
   - title: Academic
+    collection: academic
+  - title: Academic
     url: /academic/curricular-framework
     sublinks:
       - title: Curricular Framework
