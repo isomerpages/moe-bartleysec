@@ -1,5 +1,5 @@
 collections:
-  information:
+  student-services:
     output: true
     order:
       - Students/.keep
