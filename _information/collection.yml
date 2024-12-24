@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Students/Useful Links.md
       - Students/.keep
       - Students/Learners For Life Day.md
       - Students/School Calendar.md
