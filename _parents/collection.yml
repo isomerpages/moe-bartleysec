@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - School Calendar.md
       - Acceptable Use Policy.md
       - School Rules & Regulations.md
       - Sec 2 Subject Option Exercise.md
