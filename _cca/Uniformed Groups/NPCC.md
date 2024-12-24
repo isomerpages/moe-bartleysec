@@ -45,4 +45,8 @@ and outdoor camps organised by NPCC HQ.</p>
 <img style="width: 100%" height="auto" width="100%" alt="POP" src="/images/POP.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Commendation Day" src="/images/Commendation_Day.jpg">
+</div>
+<p></p>
 <p></p>
