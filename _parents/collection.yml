@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Purchase of Books and School Uniform.md
       - Parent Support Group.md
       - Termly Letters.md
       - Full Subject Based Banding.md
@@ -12,3 +11,4 @@ collections:
       - School Admissions/.keep
       - School Admissions/Direct School Admissions.md
       - School Admissions/Sec 1 Posting.md
+      - Purchase of Books and School Uniform.md
