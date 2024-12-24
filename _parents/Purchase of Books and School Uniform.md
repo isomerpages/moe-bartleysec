@@ -54,8 +54,7 @@ in 2025.</p>
 </ul>
 <p><strong>Year End Sale Venue for Uniform / Textbook:</strong>&nbsp;4E2
 &amp; 4E3 Classroom (Ground floor)</p>
-<p>*<strong>Closed on 18-20 December</strong>
-</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
