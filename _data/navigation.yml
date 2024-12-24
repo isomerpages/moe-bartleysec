@@ -4,6 +4,8 @@ links:
     collection: about-us
   - title: Academic
     collection: academic
+  - title: student development
+    collection: student-development
   - title: Academic
     url: /academic/curricular-framework
     sublinks:
