@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Mental Health & Cyberwellness.md
       - Co Curricular Activities.md
       - CCA Schedules.md
       - Uniformed Groups/.keep
@@ -29,4 +28,5 @@ collections:
       - Values In Action (VIA).md
       - Character & Citizenship Education.md
       - Education and Career Guidance (ECG).md
+      - Mental Health & Cyberwellness.md
       - Sexuality Education.md
