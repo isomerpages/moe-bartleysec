@@ -6,19 +6,6 @@ links:
     collection: academic
   - title: student development
     collection: student-development
-  - title: Academic
-    url: /academic/curricular-framework
-    sublinks:
-      - title: Curricular Framework
-        url: /our-holistic-curriculum/curricular-framework/
-      - title: Instructional Programmes
-        url: /academic/instructional-programmes/
-      - title: Assessment Matters
-        url: /academic/assessment-matters/
-      - title: Student Development
-        url: /our-holistic-curriculum/student-development/sexuality-education/
-      - title: Co-curricular Activities
-        url: /our-holistic-curriculum/co-curricular-activities/
   - title: Our Signature Programmes
     collection: our-signature-programmes
   - title: Our Partners
