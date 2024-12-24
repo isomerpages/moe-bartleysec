@@ -28,5 +28,32 @@ and outdoor camps organised by NPCC HQ.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NP%20Banner1.jpg">
 </div>
-<p><strong>adets as Road Marshallers at Road Safety Park</strong>
+<p><strong>Activities</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Unarmed Tactic" src="/images/Unarmed_Tactic.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Unit Hike" src="/images/Unit_Hike.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="K9 Visit" src="/images/K9_Visit.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="POP" src="/images/POP.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Commendation Day" src="/images/Commendation_Day.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Adventure Training Camp" src="/images/Adventure_Training_Camp.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Others" src="/images/Other.jpg">
+</div>
+<p></p>
