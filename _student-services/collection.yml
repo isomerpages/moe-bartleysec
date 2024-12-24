@@ -2,12 +2,12 @@ collections:
   student-services:
     output: true
     order:
-      - Sec 2 Subject Option Exercise (2024).md
       - Learners For Life Day.md
       - School Calendar.md
       - Acceptable Use Policy.md
       - School Rules & Regulations.md
       - School Safety & Security.md
+      - Sec 2 Subject Option Exercise (2024).md
       - Students/.keep
       - Students/Learners For Life Day.md
       - Students/School Calendar.md
