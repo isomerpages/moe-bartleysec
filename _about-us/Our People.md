@@ -420,7 +420,7 @@ variant: tiptap
 <p>MR LIM KOK BOON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;4. <a href="mailto:Lim_Kok_Boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Kok_Boon@moe.edu.sg</a>
+<p>&nbsp;<a href="mailto:Lim_Kok_Boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Kok_Boon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
