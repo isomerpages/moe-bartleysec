@@ -1,0 +1,15 @@
+collections:
+  special-programmes:
+    output: true
+    order:
+      - "ALP: Chemical and Applied Sciences (Fragrance).md"
+      - "LLP: Community Youth Leadership.md"
+      - Student Leadership.md
+      - Internationalisation.md
+      - Bartley Scholars Programme.md
+      - Full Subject Based Banding (FSBB) @ BSS.md
+      - Direct School Admission/.keep
+      - Direct School Admission/Direct School Admission.md
+      - Direct School Admission/Applied Learning Programme.md
+      - Direct School Admission/Learning for Life Programme.md
+      - Direct School Admission/Football.md

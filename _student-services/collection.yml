@@ -1,0 +1,13 @@
+collections:
+  student-services:
+    output: true
+    order:
+      - Learners For Life Day.md
+      - School Calendar.md
+      - Acceptable Use Policy.md
+      - School Rules & Regulations.md
+      - School Safety & Security.md
+      - Sec 2 Subject Option Exercise (2024).md
+      - National Exam Matters/.keep
+      - National Exam Matters/2024 GCE N(A) and N(T) Levels Results Release.md
+      - Useful Links.md
