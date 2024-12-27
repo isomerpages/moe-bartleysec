@@ -672,8 +672,7 @@ variant: tiptap
 <p>MR ALAN TOH THIAM WEE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:thiam_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thiam_wee@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
