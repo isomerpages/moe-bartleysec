@@ -4,7 +4,7 @@ permalink: /school-rules-regulations/
 variant: tiptap
 description: ""
 ---
-<p>Click <a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/files/School_Rules_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://drive.google.com/file/d/1XSg7pcbuckz6QfetziDXGS_nAJSBtlMn/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 download the school rules. Please take some time to review and familiarize
 yourself with them to ensure a positive and respectful learning environment
 for everyone.</p>
