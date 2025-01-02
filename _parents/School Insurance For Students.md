@@ -11,7 +11,7 @@ to download GPA Product Fact Sheet 2025</p>
 <p>Please <a href="https://www.bartleysec.moe.edu.sg/files/2023%20Student%20GPA%20User%20Guide%20-%20Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 download the Student GPA User Guide for Parent.</p>
 <p>2) From 2025, it is <strong>mandatory</strong> that MOE GPA insurance claims
-submission are to be submitted online at <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>.
+submission are to be submitted online at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>.
 The electronic submission allows parents/students to check the claims status
 through the online portal and also expedites the claims processing by Income
 Insurance Ltd (Income).</p>
