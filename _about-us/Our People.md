@@ -420,7 +420,7 @@ variant: tiptap
 <p>MR LIM KOK BOON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:Lim_Kok_Boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Kok_Boon@schools.gov.sg </a>
+<p>&nbsp;<a href="mailto:Lim_Kok_Boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Kok_Boon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -672,7 +672,8 @@ variant: tiptap
 <p>MR ALAN TOH THIAM WEE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Toh_Thiam_Wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Toh_Thiam_Wee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
