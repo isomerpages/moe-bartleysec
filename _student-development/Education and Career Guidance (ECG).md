@@ -27,15 +27,28 @@ below:</p>
 </div>
 <p><strong>To find out more about post-secondary education and pathways, please click on the following resources:</strong>
 </p>
-<p>Post-Secondary Education:
-<br><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/post-secondary<br>https://www.youtube.com/watch?v=ndDVlzT-z0g</u></a>
+<p>Post-Secondary Education:</p>
+<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary</a>
 </p>
-<p>My SkillsFuture Student Portal:
-<br><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank"><u>https://myskillsfuture.gov.sg/secondary</u></a>
+<p>My SkillsFuture Student Portal:</p>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a>
 </p>
-<p>MOE Course Finder: <a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/coursefinder</u></a>
+<p>MOE Course Finder:</p>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
 </p>
-<p>Please click <a href="https://www.moe.gov.sg/-/media/files/post-secondary/2024-jae/2024-jae-courses.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here to access 2024 JAE Booklet (for O level students)</u></a>
+<p>MOE School Finder:</p>
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder</a>
 </p>
-<p>Please <a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here to access 2024 JIE Booklet (for N level students):</u></a>
+<p>ITE Course Booklet 2025:</p>
+<p><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5</a>
 </p>
+<p>JIE ITE Booklet for NA/NT 2025:</p>
+<p><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-and-course-information-brochure/admission-and-course-information-brochure-jan-2025.pdf?sfvrsn=25d380a3_11" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-and-course-information-brochure/admission-and-course-information-brochure-jan-2025.pdf?sfvrsn=25d380a3_11</a>
+</p>
+<p>JIE / JAE ITE Booklet for EXP 2025:</p>
+<p><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-and-course-information-brochure/admission-course-information-brochure-for-gce-o-holders.pdf?sfvrsn=336f6972_1" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-and-course-information-brochure/admission-course-information-brochure-for-gce-o-holders.pdf?sfvrsn=336f6972_1</a>
+</p>
+<p>JAE Booklet for EXP 2025:</p>
+<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf</a>
+</p>
+<p></p>
