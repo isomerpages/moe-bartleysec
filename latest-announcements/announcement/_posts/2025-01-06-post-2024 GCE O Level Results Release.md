@@ -33,4 +33,9 @@ proceed to the school’s General Office to collect the results.&nbsp;</p>
 ECG Counsellor and Teachers will be present to provide support to students.
 Students are strongly encouraged to approach the ECG Counsellor and their
 teachers to seek advice about post-secondary education options.</p>
+<p></p>
+<h4>Briefing slides and Factsheet related to JAE</h4>
+<p></p>
+<p>Please click <a href="https://drive.google.com/drive/folders/1kyfmOyU8_l6u7BT1S1uYY-Qsu-RET_ce?usp=drive_link" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+access the briefing slides and factsheet related to JAE.</p>
 <p>&nbsp;</p>
