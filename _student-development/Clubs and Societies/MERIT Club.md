@@ -15,11 +15,11 @@ films. The club also train responsible highly efficient members to provide
 media support to ensure smooth running of events.</p>
 <p><strong>CCA Teacher IC:</strong> 
 <br>Mr Louis Isack Kumar</p>
-<p><strong>CCA Teacher IC:</strong> 
+<p><strong>CCA Teacher 2IC:</strong> 
 <br>Ms Rohaiza</p>
 <p><strong>CCA Teachers:</strong> 
 <br>Mr Randy Chia
-<br>Mr Edmund Khoo</p>
+<br>Mr Edmund Choo</p>
 <p><strong>About our CCA</strong> 
 <br>The MeRIT Club is a vibrant and dynamic group of active learners and contributors
 who are passionate about giving back to the community. Our team of dedicated
