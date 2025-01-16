@@ -8,12 +8,11 @@ description: ""
 <p>During Learners For Life Day, the Singapore Student Learning Space (SLS)
 will be a key platform to support you in your learning.</p>
 <p></p>
-<p><strong>To access your learning instructions</strong>:</p>
+<h4><strong>To access your learning instructions</strong>:</h4>
 <p>(1) Login to your SLS.</p>
 <p>(2)&nbsp;Access your SLS planner for assigned lessons instructions for
 the day.&nbsp;</p>
-<p>(3) Students can click on the link <a href="/files/Accessing_lesson_instructions_via_SLS_during_LFL_day.pdf" rel="noopener nofollow" target="_blank">h</a>
-<a href="/files/Accessing_lesson_instructions_via_SLS_during_LFL_day_updated.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Accessing_lesson_instructions_via_SLS_during_LFL_day.pdf" rel="noopener nofollow" target="_blank">ere</a> to
+<p>(3) Students can click on the link <a href="/files/Accessing_lesson_instructions_via_SLS_during_LFL_day_updated.pdf" rel="noopener nofollow" target="_blank">here</a> to
 on the guide on how to access their lesson instructions from SLS Planner.</p>
 <p></p>
 <p><strong>How to login to SLS</strong>
