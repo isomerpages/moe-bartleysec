@@ -12,8 +12,8 @@ will be a key platform to support you in your learning.</p>
 <p>(1) Login to your SLS.</p>
 <p>(2)&nbsp;Access your SLS planner for assigned lessons instructions for
 the day.&nbsp;</p>
-<p>(3) Students can refer to this user guide to SLS planner: <a href="https://www.learning.moe.edu.sg/student-user-guide/plan/access-planner/" rel="noopener noreferrer nofollow" target="_blank"><u>link to user guide</u></a>
-</p>
+<p>(3) Students can click on the link <a href="/files/Accessing_lesson_instructions_via_SLS_during_LFL_day.pdf" rel="noopener nofollow" target="_blank">here</a> to
+on the guide on how to access their lesson instructions from SLS Planner.</p>
 <p></p>
 <p><strong>How to login to SLS</strong>
 </p>
@@ -52,8 +52,11 @@ Edge or Safari&nbsp;only.
 that you use to login to your laptop.</p>
 <hr>
 <h3>Resetting student ICON password</h3>
-<p>In the event if you need to&nbsp;<strong>reset your student icon password</strong>,
-please look for:</p>
+<p>In the event if you need to&nbsp;<strong>reset your student icon/MIMS or SLS password</strong>,
+please click on the <a href="https://for.edu.sg/bsstechsupport" rel="noopener nofollow" target="_blank">link</a> to
+access the password reset form. Please read through the instructions on
+the form before you submit the request.</p>
+<p>Alternatively, you can look for</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>ICT Manager, Mr Ilyia</p>
