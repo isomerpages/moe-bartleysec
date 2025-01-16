@@ -58,13 +58,17 @@ Edge or Safari&nbsp;only.
 <br>(2) Your student ICON password is the same password as your MIMS password
 that you use to login to your laptop.</p>
 <hr>
-<h3>Resetting student ICON password</h3>
+<h3>Resetting student MIMS/ICON password</h3>
 <p>In the event if you need to&nbsp;<strong>reset your student icon/MIMS or SLS password</strong>,
-please click on the following link (<a href="https://for.edu.sg/bsstechsupport" rel="noopener nofollow" target="_blank">https://for.edu.sg/bsstechsupport</a> )
+there are a few ways that you can do it:</p>
+<p>(1) Do a self-reset. Click <a href="/files/MIMS_Password_Self_Reset_.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the instructions on how to do a self-reset.</p>
+<p>(2) Make use of the password reset form.</p>
+<p>Please click on the following link (<a href="https://for.edu.sg/bsstechsupport" rel="noopener nofollow" target="_blank">https://for.edu.sg/bsstechsupport</a> )
 to access the password reset form. Please read through the instructions
 on the form before you submit the request.</p>
-<p>Alternatively, if you are still experiencing problems, you can contact
-the school to look for the following personnels:</p>
+<p>(3) If you are still experiencing problems doing a password reset for
+your MIMS/SLS, you can contact the school to look for the following personnels:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>ICT Manager, Mr Ilyia</p>
@@ -78,11 +82,30 @@ the school to look for the following personnels:</p>
 </ul>
 <p>After your password is reset, you will be required to change your password.</p>
 <p><strong>Note:</strong>&nbsp;
-<br>Password must be 8 to 24 characters
-<br>Mixture of upper and lower case letters and alphanumeric
-<br>Must not be one of the three previous passwords
-<br>Must not match or contain any part of your name</p>
-<p></p>
+<br>The current password requirements is of following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Password is case sensitive.</p>
+</li>
+<li>
+<p>Must be at least 12 characters long</p>
+</li>
+<li>
+<p>Must include at least 1 number.</p>
+</li>
+<li>
+<p>Must have at least 1 lowercase letter.</p>
+</li>
+<li>
+<p>Must have at least 1 uppercase letter.</p>
+</li>
+<li>
+<p>Must not include part of your name or user name.</p>
+</li>
+<li>
+<p>New password must not have been used previously</p>
+</li>
+</ul>
 <p>Remember to <strong>keep your passwords safe and secure</strong>. Avoid
 sharing them with anyone and use strong, unique passwords to protect your
 accounts. If you suspect your password has been compromised, update it
