@@ -137,73 +137,7 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;&nbsp;Assessment Weighting for Secondary 1 modular subjects</strong>
-</p>
-<p></p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="4">
-<p><strong>Design and Technology [Semester 1]</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 4</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15%</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>85%</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;-</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;-</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>100%</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;-</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;-</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;&nbsp;</strong>
+<p><strong><u>&nbsp;&nbsp;Assessment Weighting for Secondary 1 modular subjects</u></strong>
 </p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -217,8 +151,73 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 <tbody>
 <tr>
 <td rowspan="1" colspan="6">
-<p><strong>Food &amp; Consumer Education [Semester 2]</strong>
+<p><strong>Food &amp; Consumer Education [Semester 1]</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Term 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Total</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>70%</p>
+<p>SA Applied Module*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>*SA Applied Module – Semestral Assessment Applied Module (Project Work)</em>
+</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Design and Technology [Semester 2]</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -234,7 +233,7 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 <p><strong>Term 3</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Term 4</strong>
 </p>
 </td>
@@ -254,12 +253,7 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 <p>15%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15%</p>
-<p>(written)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>70%</p>
-<p>SA Applied Module*</p>
+<p>85%</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>100%</p>
@@ -267,7 +261,7 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 </tbody>
 </table>
-<p><em>*SA Applied Module – Semestral Assessment Applied Module (Project Work)</em>
+<p><strong>&nbsp;&nbsp;</strong>
 </p>
 <h4><strong>&nbsp;Assessment Weighting For Secondary 2</strong></h4>
 <p></p>
@@ -321,7 +315,9 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;Assessment Weighting for Secondary 2 FCE</strong>
+<p><strong><u>Assessment Weighting for Secondary 2 modular subjects</u></strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -334,66 +330,10 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 <tbody>
 <tr>
 <td rowspan="1" colspan="5">
-<p><strong>Food &amp; Consumer Education [Semester 2]</strong>
+<p><strong>Assessment Weighting for Secondary 2 D&amp;T [Semester 1]</strong>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Total</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15%</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15%</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>70%</p>
-<p>SA Applied Module*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>100%</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>*SA Applied Module – Semestral Assessment Applied Module (Project Work)</em>
-</p>
-<p><strong>&nbsp;Assessment Weighting for Secondary 2 D&amp;T</strong>
-</p>
-<p></p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Term 1</strong>
@@ -418,16 +358,16 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>15%</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>85%</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>85%</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>100%</p>
@@ -435,6 +375,73 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 </tbody>
 </table>
+<p></p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="6">
+<p><strong>Food &amp; Consumer Education [Semester 2]</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Total</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>70%</p>
+<p>SA Applied Module*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>*SA Applied Module – Semestral Assessment Applied Module (Project Work)</em>
+</p>
 <h4>&nbsp;<strong>Assessment Weighting For Secondary 3</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -486,7 +493,7 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;Assessment Weighting For Secondary 3 D&amp;T</strong>
+<p><strong><u>&nbsp;Assessment Weighting For Secondary 3 D&amp;T</u></strong>
 </p>
 <p></p>
 <table style="minWidth: 150px">
