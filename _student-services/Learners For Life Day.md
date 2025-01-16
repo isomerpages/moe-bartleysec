@@ -7,13 +7,20 @@ description: ""
 <p>Dear students,</p>
 <p>During Learners For Life Day, the Singapore Student Learning Space (SLS)
 will be a key platform to support you in your learning.</p>
+<h4><strong>Morning Check-In during LFL Day</strong></h4>
+<p>In the morning, between 7am to 9am, you are expected to login to the Nurture
+Platform to do your morning check-in.</p>
+<p>Click here to access <a href="/files/Accessing_the_nurture_platform.pdf" rel="noopener nofollow" target="_blank">here</a> the
+deck of slides on the use of nurture platform during LFL day.</p>
+<p>After you are done with your check-in, login to SLS for lesson instructions,
+plan your time and complete your learning for the day.</p>
 <p></p>
-<p><strong>To access your learning instructions</strong>:</p>
+<h4><strong>To access your learning instructions</strong>:</h4>
 <p>(1) Login to your SLS.</p>
 <p>(2)&nbsp;Access your SLS planner for assigned lessons instructions for
 the day.&nbsp;</p>
-<p>(3) Students can refer to this user guide to SLS planner: <a href="https://www.learning.moe.edu.sg/student-user-guide/plan/access-planner/" rel="noopener noreferrer nofollow" target="_blank"><u>link to user guide</u></a>
-</p>
+<p>(3) Students can click on the link <a href="/files/Accessing_lesson_instructions_via_SLS_during_LFL_day_updated.pdf" rel="noopener nofollow" target="_blank">here</a> to
+on the guide on how to access their lesson instructions from SLS Planner.</p>
 <p></p>
 <p><strong>How to login to SLS</strong>
 </p>
@@ -52,8 +59,12 @@ Edge or Safari&nbsp;only.
 that you use to login to your laptop.</p>
 <hr>
 <h3>Resetting student ICON password</h3>
-<p>In the event if you need to&nbsp;<strong>reset your student icon password</strong>,
-please look for:</p>
+<p>In the event if you need to&nbsp;<strong>reset your student icon/MIMS or SLS password</strong>,
+please click on the following link (<a href="https://for.edu.sg/bsstechsupport" rel="noopener nofollow" target="_blank">https://for.edu.sg/bsstechsupport</a> )
+to access the password reset form. Please read through the instructions
+on the form before you submit the request.</p>
+<p>Alternatively, if you are still experiencing problems, you can contact
+the school to look for the following personnels:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>ICT Manager, Mr Ilyia</p>
