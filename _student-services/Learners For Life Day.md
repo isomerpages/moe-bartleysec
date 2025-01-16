@@ -7,6 +7,13 @@ description: ""
 <p>Dear students,</p>
 <p>During Learners For Life Day, the Singapore Student Learning Space (SLS)
 will be a key platform to support you in your learning.</p>
+<h4><strong>Morning Check-In during LFL Day</strong></h4>
+<p>In the morning, between 7am to 9am, you are expected to login to the Nurture
+Platform to do your morning check-in.</p>
+<p>Click here to access <a href="/files/Accessing_the_nurture_platform.pdf" rel="noopener nofollow" target="_blank">here</a> the
+deck of slides on the use of nurture platform during LFL day.</p>
+<p>After you are done with your check-in, login to SLS for lesson instructions,
+plan your time and complete your learning for the day.</p>
 <p></p>
 <h4><strong>To access your learning instructions</strong>:</h4>
 <p>(1) Login to your SLS.</p>
@@ -53,10 +60,11 @@ that you use to login to your laptop.</p>
 <hr>
 <h3>Resetting student ICON password</h3>
 <p>In the event if you need to&nbsp;<strong>reset your student icon/MIMS or SLS password</strong>,
-please click on the <a href="https://for.edu.sg/bsstechsupport" rel="noopener nofollow" target="_blank">link</a> to
-access the password reset form. Please read through the instructions on
-the form before you submit the request.</p>
-<p>Alternatively, you can look for</p>
+please click on the following link (<a href="https://for.edu.sg/bsstechsupport" rel="noopener nofollow" target="_blank">https://for.edu.sg/bsstechsupport</a> )
+to access the password reset form. Please read through the instructions
+on the form before you submit the request.</p>
+<p>Alternatively, if you are still experiencing problems, you can contact
+the school to look for the following personnels:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>ICT Manager, Mr Ilyia</p>
