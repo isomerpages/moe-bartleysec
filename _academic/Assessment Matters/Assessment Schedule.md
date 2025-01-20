@@ -16,10 +16,10 @@ the various levels</p>
 </p>
 <p><a href="/files/Sec_3_2025_Term_1_WA_Topic_Plan.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 1 WA Topics Plan</a>
 </p>
-<p><a href="/files/Sec_4_5_2025_Term_1_WA_Topic_Plan.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 Term 1 WA Topics Plan</a>
+<p><a href="/files/Sec_4_5_2025_Term_1_WA_Topic_Plan_20_Jan.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 Term 1 WA Topics Plan</a>
 </p>
 <p></p>
-<p><strong><em>Note:</em></strong><em> All absences from WA must be supported by a valid Medical Certificate. </em>
+<p><strong><em>Note:</em></strong><em> All absences from WA must be supported by a valid Medical Certificate.</em>
 </p>
 <p>Please click on the link below for the list of SEAB approved calculators
 and dictionaries that can be used during WA/Examinations.</p>
