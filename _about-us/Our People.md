@@ -320,7 +320,7 @@ variant: tiptap
 <p>MR CHU YAN LONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chu_yan_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_yan_long@moe.edu.sg</a>
+<p><a href="mailto:chu_yan_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chu_yan_long@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1069,7 +1069,7 @@ variant: tiptap
 <p>MR CHU YAN LONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:chu_yan_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_yan_long@moe.edu.sg</a>
+<p><a href="mailto:chu_yan_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chu_yan_long@schools.gov.sg</a>
 </p>
 </td>
 </tr>
