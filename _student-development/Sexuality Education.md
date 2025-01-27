@@ -19,9 +19,9 @@ communities in Singapore on sexuality issues.</p>
 <p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
 Education are to:</p>
-<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+students in managing their physiological, social and emotional changes
+as they grow up and develop safe and healthy relationships.</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide
 students to make wise, informed and responsible decisions on sexuality
 matters.</p>
@@ -32,8 +32,8 @@ on the family as the basic unit of society.</p>
 <p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
-<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Love and respect yourself as you love and respect others;</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others;</p>
 <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
 positive relationships based on love and respect (which are the foundation
 for strong families);</p>
@@ -42,18 +42,18 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+<p>&nbsp;</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Bartley Secondary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Bartley Secondary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>for
+Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
-<p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp; Science</p>
@@ -63,26 +63,26 @@ on sexuality include:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our
 youth towards sexuality are increasingly shaped by their peers, exposure
 to the media, popular culture and the internet. Adolescence is a complex
-stage in life as the adolescent attempts to find his/her own identity and
-often struggles with new social relationships. The period of middle adolescence
-(generally from 15 – 17 years old) can be a turbulent period for adolescents.
-The gap between physical and emotional/cognitive maturity may result in
-a tendency to act on impulse, experiment with various activities (including
-sexual activities), sometimes without understanding the unpleasant consequences
-that may arise from such experimentation. The need for peer acceptance
-can be overwhelmingly strong and hinder one’s ability to act responsibly.&nbsp;
-Given the pressures faced by the middle adolescent from within themselves
-and from peers, it is important to build a strong sense of self-worth,
-personal conviction and an understanding of the possible consequences of
-sexual behaviour.</p>
-<p></p>
+stage in life as the adolescent attempts to find his or her own identity
+and often struggles with new social relationships. The period of middle
+adolescence (generally from 15 – 17 years old) can be a turbulent period
+for adolescents. The gap between physical and emotional/cognitive maturity
+may result in a tendency to act on impulse, experiment with various activities
+(including sexual activities), sometimes without understanding the unpleasant
+consequences that may arise from such experimentation. The need for peer
+acceptance can be overwhelmingly strong and hinder one’s ability to act
+responsibly.&nbsp; Given the pressures faced by the middle adolescent from
+within themselves and from peers, it is important to build a strong sense
+of self-worth, personal conviction and an understanding of the possible
+consequences of sexual behaviour.</p>
+<p>&nbsp;</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p></p>
-<p><strong>At Bartley Secondary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<p><strong>At Bartley Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
@@ -147,13 +147,14 @@ and managing our emotional reactions, in helpful ways that are reflective
 of our values and principles</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are different
 forms of love (e.g. familial, platonic, romantic love)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance and understand
-what builds healthy and supportive relationships, both online and offline</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of, and
+understand what builds healthy and supportive relationships, both online
+and offline</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what dating is, and recognise
 that the readiness and interest in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +180,7 @@ abuse from others, especially those we know and trust, can have strong
 negative effects on a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +211,7 @@ irresponsibly or maliciously when online (e.g. spreading of online falsehoods,
 flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 </tbody>
@@ -226,6 +227,31 @@ flouting copyright laws, etc.)</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Title/ Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="3" colspan="1">
 <p>Respectful Relationships &amp; Safety</p>
@@ -288,7 +314,7 @@ and the importance of exercising discretion to reduce risks and avoid negative
 consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -315,45 +341,7 @@ and the importance of exercising discretion to reduce risks and avoid negative
 consequences, both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A Role for Everyone</p>
-<p>Lesson 1</p>
-<p>(60&nbsp; mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focus on how the family, culture and society can influence
-one’s perception of their gender roles. Students will learn what gender
-stereotypes are (e.g. males traditionally as breadwinners and females traditionally
-as doing household chores) and how gender stereotypes are formed. &nbsp;Students
-will discuss how one’s understanding of gender roles should not be limited
-by gender stereotypes, for example women can be pilots, while men can be
-nurses.</p>
-<p>&nbsp;</p>
-<p>Students learn to focus on their personal strengths to pursue their interests
-and build their self- confidence.</p>
-<p>&nbsp;</p>
-<p>Students will also learn about the definitions of biological sex, gender
-identity, gender expression and sexual orientation. They will learn to
-treat everyone with respect and empathy.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that one’s understanding of
-gender roles should not be limited by gender stereotypes</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; develop an appreciation of one’s
-own unique qualities and characteristics as a male or female</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what sexual orientation
-entails</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -428,7 +416,7 @@ entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -438,7 +426,7 @@ entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship-building involves personal emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
@@ -460,7 +448,7 @@ ways of coping with broken relationships, and family and friends are important
 pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 6/7</p>
 </td>
 </tr>
 <tr>
@@ -491,7 +479,7 @@ we strengthen our character when we commit to sound values-based viewpoints
 our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 3 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -561,7 +549,7 @@ of oneself and others and should be avoided</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -598,7 +586,7 @@ and emotional boundaries in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -612,10 +600,12 @@ and emotional boundaries in a relationship</p>
 in a marriage. Students will understand that while a marriage, defined
 in Singapore as a union between a man and a woman, requires mutual commitment
 and effort like the other relationships in their lives, what sets a marriage
-apart is its lifelong commitment. Students will learn that what really
-matters to sustain and maintain a long-term romantic relationship leading
-to marriage is understanding the other person’s perspective and effectively
-communicating with each other.</p>
+apart is its lifelong commitment.</p>
+<p></p>
+<p>Students will learn that what really matters in &nbsp;sustaining and maintaining
+a long-term romantic relationship that leads to marriage, is understanding
+the other person’s perspective and effectively communicating with each
+other.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term romantic relationships
@@ -630,7 +620,7 @@ handles conflict is critical to the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -656,7 +646,7 @@ our character when we commit to sound values-based viewpoints (e.g. respect
 for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -722,7 +712,7 @@ character when we commit to sound values-based viewpoints (e.g. respect
 for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -742,7 +732,7 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<p><strong>At Bartley Secondary School, the eTeens programme will be implemented as follows in 2024:</strong>
+<p><strong>At Bartley Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -765,7 +755,7 @@ are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
@@ -777,7 +767,7 @@ faithful, correct, and consistent condom use).</p>
 healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -791,7 +781,7 @@ decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 </tbody>
@@ -804,13 +794,15 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/files/Annex_A___SEd_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed form is to be submitted by <strong>8 April 2024.</strong>
-</p>
+of the year and is also downloadable <u>here</u> (please upload parents opt-out
+form found in Annex <strong>A</strong> and insert a hyperlink for parents
+to download the form). The completed form is to be submitted by 14/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/files/Annex_B___eTeens_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed form is to be submitted by <strong>8 April 2024</strong>.</p>
-<p>13. Parents can contact the school at Tel: 62889013 for discussion or
-to seek clarification about the school’s Sexuality Education programme.</p>
+the year and is also downloadable <u>here</u> (please upload parents opt-out
+form found in Annex <strong>B</strong> and insert a hyperlink for parents
+to download the form). &nbsp;The completed form is to be submitted by 14/02/2025.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at Tel:
+62889013 for discussion or to seek clarification about the school’s Sexuality
+Education programme.</p>
