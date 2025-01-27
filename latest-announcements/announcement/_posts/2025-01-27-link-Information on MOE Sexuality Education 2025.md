@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.bartleysec.moe.edu.sg/sexuality-education/
+external: https://www.bartleysec.moe.edu.sg/sexuality-education/
 ---
