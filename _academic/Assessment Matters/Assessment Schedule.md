@@ -73,11 +73,31 @@ class</p>
 </p>
 <p><a href="/files/3R8__Term_1_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R8 Detailed WA Plan</a>
 </p>
-<h4>Secondary 4/5 Non-Weighted Assessment (NWA) </h4>
+<h4>Secondary 4/5 Non-Weighted Assessment (NWA)</h4>
 <p><a href="/files/Sec_4_5_2025_Term_1_NWA_Topic_Plan__updated_20_Jan.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 Term 1 NWA Topics Plan</a>
 </p>
 <p>Please on the link below to download the detailed NWA schedule for your
 class</p>
+<p><a href="/files/4E1_Term_1_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E1 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/4E2_Term_1_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E2 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/4E3_Term_1_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E3 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/4E4_Term_1_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E4 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/4E5_Term_1_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E5 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/4E6_Term_1_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E6 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/4E7_Term_1_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E7 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/4E8_Term_1_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E8 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/4E9_Term_1_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E9 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/5E1_Term_1_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">5E1 Detailed NWA Plan</a>
+</p>
 <p></p>
 <p><strong><em>Note:</em></strong><em> All absences from WA must be supported by a valid Medical Certificate.</em>
 </p>
@@ -87,6 +107,7 @@ and dictionaries that can be used during WA/Examinations.</p>
 </p>
 <p><a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener nofollow" target="_blank">SEAB Approved List of Dictionaries</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
