@@ -8,7 +8,7 @@ description: ""
 <p>Thank you for joining us for our&nbsp;&nbsp;NDLP and PLD Initiative Briefing&nbsp;Webinar
 on 8 Feb 2025.&nbsp;</p>
 <p></p>
-<p>1. Please <a href="/files/NDLP_Briefing_8_Feb_2025.pdf" rel="noopener nofollow" target="_blank">click here</a> to
+<p>1. Please <a href="/files/NDLP_Briefing_8_Feb_2025_updated.pdf" rel="noopener nofollow" target="_blank">click here</a> to
 download the deck of briefing slides shared during the NDLP Programme and
 PLD Initiative.</p>
 <p>
