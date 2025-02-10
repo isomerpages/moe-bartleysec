@@ -795,12 +795,12 @@ education programmes by MOE-approved external providers.</p>
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also downloadable <a href="/files/Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted
-by 18/02/2025.</p>
+by 21/02/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
 the year and is also downloadable <a href="/files/Annex_B.pdf" rel="noopener nofollow" target="_blank">here</a>. &nbsp;The completed form is to be submitted
-by 18/02/2025.</p>
+by 21/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at Tel:
 62889013 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
