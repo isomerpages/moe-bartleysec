@@ -57,11 +57,11 @@ class</p>
 </p>
 <p>Please on the link below to download the detailed WA schedule for your
 class</p>
-<p><a href="/files/3R1__Term_1_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R1 Detailed WA Plan</a>
+<p><a href="/files/3R1__Term_1_WA_Detailed_Schedule_2025_updated_11_Feb.pdf" rel="noopener nofollow" target="_blank">3R1 Detailed WA Plan</a>
 </p>
 <p><a href="/files/3R2__Term_1_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R2 Detailed WA Plan</a>
 </p>
-<p><a href="/files/3R3__Term_1_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R3 Detailed WA Plan</a>
+<p><a href="/files/3R3__Term_1_WA_Detailed_Schedule_2025_updated_11_Feb.pdf" rel="noopener nofollow" target="_blank">3R3 Detailed WA Plan</a>
 </p>
 <p><a href="/files/3R4__Term_1_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R4 Detailed WA Plan</a>
 </p>
