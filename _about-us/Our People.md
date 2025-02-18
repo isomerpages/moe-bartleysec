@@ -1165,7 +1165,7 @@ variant: tiptap
 <p>MR EDMUND CHOO SWEE TECK</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:edmund_choo_swee_teck@schools.gov.sge" rel="noopener noreferrer nofollow" target="_blank">edmund_choo_swee_teck@schools.gov.sge</a>
+<p><a href="mailto:edmund_choo_swee_teck@schools.gov.sge" rel="noopener noreferrer nofollow" target="_blank">edmund_choo_swee_teck@schools.gov.sg</a>
 </p>
 </td>
 </tr>
