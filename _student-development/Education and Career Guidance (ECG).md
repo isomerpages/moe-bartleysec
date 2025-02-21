@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg counsellor.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_Booking_Poster_for_school_website_2025_20_Feb.jpg">
 </div>
 <p>Our school’s ECG Counsellor, Mr Isaac Ling, is stationed in our school
 every Monday, Thursday and selected Fridays to provide ECG counselling
