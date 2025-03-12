@@ -8,6 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Ronald_Liew.png">
 </div>
+<p></p>
 <p><strong>Mr Liew Wing Kong Ronald </strong>
 <br><strong>Appointment:</strong> Chairman
 <br><strong>Career Background:</strong> 
