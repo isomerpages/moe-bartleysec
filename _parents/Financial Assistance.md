@@ -123,7 +123,7 @@ please mail the completed application form direct to:</p>
 <p>Infocomm Media Development Authority
 <br>PSA Building Post Office, P.O. Box 317.
 <br>Singapore 911141</p>
-<p>For more information, please refer to details in the IMDA website <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.imda.gov.sg/how-we-can-help/digital-access-at-home</u></a>
+<p>For more information, please refer to details in the IMDA website <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.imda.gov.sg/how-we-can-help/digital-access-at-home</u></a>
 </p>
 <p></p>
 <h2>Straits Times School Pocket Money Fund</h2>
@@ -145,7 +145,7 @@ the primary/secondary school, he/she will no longer be eligible for the
 fund.</p>
 <p>Primary school beneficiaries receive $65 a month and secondary school
 beneficiaries receive $100 a month. For more information, please refer
-to <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.spmf.org.sg/primary-secondary-students</u></a>.</p>
+to <a href="https://www.spmf.org.sg/primary-secondary-students" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.spmf.org.sg/primary-secondary-students</u></a>.</p>
 <p>For applications submitted through the school, please submit them to the
 school's General Office by the timeline given.</p>
 <p></p>
