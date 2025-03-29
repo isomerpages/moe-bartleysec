@@ -14,10 +14,10 @@ Sec 1 to 3.</p>
 <p><a href="/files/S1_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 2 WA Topics Plan</a>
 </p>
 <h4>Secondary 2 WA Plan</h4>
-<p><a href="/files/S2_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term  2 WA Topics Plan</a>
+<p><a href="/files/S2_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 2 WA Topics Plan</a>
 </p>
 <h4>Secondary 3 WA Plan</h4>
-<p><a href="/files/S3_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term  2 WA Topics Plan</a>
+<p><a href="/files/S3_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 2 WA Topics Plan</a>
 </p>
 <p></p>
 <h4>Secondary 4/5 Non-Weighted Assessment (NWA)</h4>
