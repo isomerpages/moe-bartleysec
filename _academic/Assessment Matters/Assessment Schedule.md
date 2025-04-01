@@ -11,7 +11,7 @@ the school's Assessment Plan and Policy</p>
 <p>Please click on the links below to access information for Term 2 WA for
 Sec 1 to 3.</p>
 <h4>Secondary 1 WA Plan</h4>
-<p><a href="/files/S1_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 2 WA Topics Plan</a>
+<p><a href="/files/S1_T2WA_Overall_Schedule_2025_updated_1_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 2 WA Topics Plan</a>
 </p>
 <h4>Secondary 2 WA Plan</h4>
 <p><a href="/files/S2_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 2 WA Topics Plan</a>
