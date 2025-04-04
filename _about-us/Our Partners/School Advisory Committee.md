@@ -6,83 +6,241 @@ description: ""
 third_nav_title: Our Partners
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Ronald_Liew.png">
-</div>
-<p><strong>Mr Liew Wing Kong Ronald</strong>
-<br><strong>Appointment:</strong> Chairman
-<br><strong>Career Background:</strong>
-<br>Chairman
-<br>QCD Group of Companies</p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="2">
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Philip_Soon.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Foo_Hee_Jug_1.jpg">
 </div>
-<p><strong>Dr Philip S.H. Soon, JP.</strong>
-<br><strong>(SSMS. DPMP. SMS. AMS. PJK. DBA)</strong>
-<br><strong>Appointment:</strong> Vice-Chairman
-<br><strong>Career Background:</strong>
-<br>Private Equity Investor, Honorary Advisor &amp; Chairman,&nbsp;
-<br>Singapore-Indonesia Business &amp; Cultural Council&nbsp;Honorary Advisor,
-<br>China One Belt One Road&nbsp;(Singapore) Chamber President,
-<br>Singapore Production Management Association</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Foo_Hee_Jug.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Foo_Hee_Jug_Text.png">
 </div>
-<p><strong>Mr Foo Hee Jug</strong>
-<br><strong>Appointment: </strong>&nbsp;Honorary Treasurer
-<br><strong>Career Background:</strong>
-<br>Chief Executive Officer Ng Teng Fong General Hospital and
-<br>Deputy Chief Executive National University Health System</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Britta_Seet.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dylan_ong.jpg">
 </div>
-<p><strong>Ms Britta Seet Ying Ling</strong>
-<br><strong>Appointment: </strong>&nbsp;Honorary Secretary
-<br><strong>Career Background:</strong>
-<br>Principal
-<br>Bartley Secondary School</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Michelle.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/florence.jpg">
 </div>
-<p><strong>Dr Chiang Hui Ling Michelle</strong>
-<br><strong>Appointment: </strong>&nbsp;Member
-<br><strong>Career Background:</strong>
-<br>Assistant Professor School of Humanities
-<br>Nanyang Technological University</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Florence_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dylan_Text.png">
 </div>
-<p><strong>Ms Florence Leong</strong>
-<br><strong>Appointment: </strong>&nbsp;Member
-<br><strong>Career Background:</strong>
-<br>Startup Entrepreneur
-<br>Founder &amp; Director
-<br>KosmodeHealth Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Huang_Shao_Ning.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Florence_text.png">
 </div>
-<p><strong>Ms Huang Shao-Ning</strong>
-<br><strong>Appointment: </strong>&nbsp;Honorary Treasurer
-<br><strong>Career Background:</strong>
-<br>Chief Angel and co-Founder
-<br>AngelCentral</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Dylan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/garion_2.jpg">
 </div>
-<p>
-<br>Mr Ong Shun Ping Dylan
-<br><strong>Appointment: </strong>&nbsp;Member
-<br><strong>Career Background:</strong>
-<br>Restaurateur and Chef
-<br>The Masses – A place for modern,
-<br>French-inspired contemporary cuisine</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/su_mei.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garion_text.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/su_mei_text.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MsBrittaSeet cropped.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Britta_text.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
