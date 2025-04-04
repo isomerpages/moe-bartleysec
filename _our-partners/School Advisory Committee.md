@@ -4,7 +4,6 @@ permalink: /our-partners/school-advisory-committee/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
