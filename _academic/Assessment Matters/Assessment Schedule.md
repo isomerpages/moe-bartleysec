@@ -13,8 +13,8 @@ Sec 1 to 3.</p>
 <h4>Secondary 1 WA Plan</h4>
 <p><a href="/files/S1_T2WA_Overall_Schedule_2025_updated_1_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 2 WA Topics Plan</a>
 </p>
-<p>Please click the link below to download the detailed WA schedule for your
-class</p>
+<p>Please click the respective links below to download the detailed WA schedule
+for your class</p>
 <p><a href="/files/1C1_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C1 Detailed WA Plan</a>
 </p>
 <p><a href="/files/1C2_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C2 Detailed WA Plan</a>
@@ -35,6 +35,22 @@ class</p>
 </p>
 <h4>Secondary 2 WA Plan</h4>
 <p><a href="/files/S2_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 2 WA Topics Plan</a>
+</p>
+<p>Please click the respective links below to download the detailed WA schedule
+for your class</p>
+<p><a href="/files/2O1_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2O1 Detailed WA Plan</a>
+</p>
+<p><a href="/files/2O2_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2O2 Detailed WA Plan</a>
+</p>
+<p><a href="/files/2O3_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2O3 Detailed WA Plan</a>
+</p>
+<p><a href="/files/2O4_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2O4 Detailed WA Plan</a>
+</p>
+<p><a href="/files/2O5_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2O5 Detailed WA Plan</a>
+</p>
+<p><a href="/files/2O6_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2O6 Detailed WA Plan</a>
+</p>
+<p><a href="/files/2O7_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">2O7 Detailed WA Plan</a>
 </p>
 <h4>Secondary 3 WA Plan</h4>
 <p><a href="/files/S3_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 2 WA Topics Plan</a>
