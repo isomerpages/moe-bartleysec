@@ -55,9 +55,48 @@ for your class</p>
 <h4>Secondary 3 WA Plan</h4>
 <p><a href="/files/S3_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 2 WA Topics Plan</a>
 </p>
-<p></p>
+<p>Please click the respective links below to download the detailed WA schedule
+for your class</p>
+<p><a href="/files/S3R1_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R1 Detailed WA Plan</a>
+</p>
+<p><a href="/files/S3R2_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R2 Detailed WA Plan</a>
+</p>
+<p><a href="/files/S3R3_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R3 Detailed WA Plan</a>
+</p>
+<p><a href="/files/S3R4_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R4 Detailed WA Plan</a>
+</p>
+<p><a href="/files/S3R5_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R5 Detailed WA Plan</a>
+</p>
+<p><a href="/files/S3R6_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R6 Detailed WA Plan</a>
+</p>
+<p><a href="/files/S3R7_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R7 Detailed WA Plan</a>
+</p>
+<p><a href="/files/S3R8_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">3R8 Detailed WA Plan</a>
+</p>
 <h4>Secondary 4/5 Non-Weighted Assessment (NWA)</h4>
 <p><a href="/files/S4_5_T2NWA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 Term 2 NWA Topics Plan</a>
+</p>
+<p>Please click the respective links below to download the detailed NWA schedule
+for your class</p>
+<p><a href="/files/S4E1_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E1 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/S4E2_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E2 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/S4E3_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E3 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/S4E4_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E4 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/S4E5_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E5 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/S4E6_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E6 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/S4E7_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E7 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/S4E8_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E8 Detailed NWA Plan</a>
+</p>
+<p><a href="/files/S4E9_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E9 Detailed NWA Plan</a>
+</p>
+<p> <a href="/files/S5E1_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">5E1 Detailed NWA Plan</a>
 </p>
 <p></p>
 <p><strong><em>Note:</em></strong><em> Absence from WA must be supported by a valid Medical Certificate or Positive ART, otherwise a zero mark will be awarded for the paper that the student has missed</em>.</p>
