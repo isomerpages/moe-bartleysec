@@ -576,7 +576,7 @@ variant: tiptap
 <p>MR JASON KOH ZHI HONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_zhi_hong_jason@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_zhi_hong_jason@schools.gov.sg</a> 
+<p><a href="mailto:koh_zhi_hong_jason@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_zhi_hong_jason@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -660,7 +660,7 @@ variant: tiptap
 <p>MS CHEW CI LING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_ci_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_ci_ling@schools.gov.sg</a> 
+<p><a href="mailto:chew_ci_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_ci_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -732,7 +732,7 @@ variant: tiptap
 <p>MS KELSEY TAN XUE QI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kelsey_tan_xue_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kelsey_tan_xue_qi@schools.gov.sg</a> 
+<p><a href="mailto:kelsey_tan_xue_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kelsey_tan_xue_qi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1514,7 +1514,7 @@ variant: tiptap
 <p>MR LIM BARRY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_barry@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_barry@schools.gov.sg</a> 
+<p><a href="mailto:lim_barry@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_barry@schools.gov.sg</a>
 </p>
 </td>
 </tr>
