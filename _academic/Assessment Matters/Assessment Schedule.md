@@ -14,25 +14,26 @@ Sec 1 to 3.</p>
 <p><a href="/files/S1_T2WA_Overall_Schedule_2025_updated_1_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 2 WA Topics Plan</a>
 </p>
 <p>Please click the respective links below to download the detailed WA schedule
-for your class</p>
+for your class.</p>
 <p><a href="/files/1C1_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C1 Detailed WA Plan</a>
 </p>
 <p><a href="/files/1C2_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C2 Detailed WA Plan</a>
 </p>
-<p><a href="/files/1C3_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C3 Detailed WA Plan</a>
+<p><a href="/files/1C3_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C3 Detailed WA Plan_</a><em><a href="/files/1C3_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
 </p>
-<p><a href="/files/1C4_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C4 Detailed WA Plan</a>
+<p><a href="/files/1C4_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C4 Detailed WA Plan_</a><em><a href="/files/1C4_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
 </p>
-<p><a href="/files/1C5_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C5 Detailed WA Plan</a>
+<p><a href="/files/1C5_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C5 Detailed WA Plan_</a><em><a href="/files/1C5_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
 </p>
-<p><a href="/files/1C6_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C6 Detailed WA Plan</a>
+<p><a href="/files/1C6_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C3 Detailed WA Plan_</a><em><a href="/files/1C6_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
 </p>
-<p><a href="/files/1C7_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C7 Detailed WA Plan</a>
+<p><a href="/files/1C7_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C7 Detailed WA Plan_</a><em><a href="/files/1C7_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
 </p>
-<p><a href="/files/1C8_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C8 Detailed WA Plan</a>
+<p><a href="/files/1C8_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C8 Detailed WA Plan_</a><em><a href="/files/1C8_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
 </p>
-<p><a href="/files/1C9_Term_2_WA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">1C9 Detailed WA Plan</a>
+<p><a href="/files/1C9_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C9 Detailed WA Plan_</a><em><a href="/files/1C9_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
 </p>
+<p></p>
 <h4>Secondary 2 WA Plan</h4>
 <p><a href="/files/S2_T2WA_Overall_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 2 WA Topics Plan</a>
 </p>
@@ -96,7 +97,7 @@ for your class</p>
 </p>
 <p><a href="/files/S4E9_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E9 Detailed NWA Plan</a>
 </p>
-<p> <a href="/files/S5E1_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">5E1 Detailed NWA Plan</a>
+<p><a href="/files/S5E1_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">5E1 Detailed NWA Plan</a>
 </p>
 <p></p>
 <p><strong><em>Note:</em></strong><em> Absence from WA must be supported by a valid Medical Certificate or Positive ART, otherwise a zero mark will be awarded for the paper that the student has missed</em>.</p>
