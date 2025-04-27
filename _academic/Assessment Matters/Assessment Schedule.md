@@ -90,13 +90,13 @@ for your class</p>
 </p>
 <p><a href="/files/S4E3_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E3 Detailed NWA Plan</a>
 </p>
-<p><a href="/files/S4E4_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">4E4 Detailed NWA Plan_</a><em><a href="/files/S4E4_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
+<p><strong><a href="/files/S4E4_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">4E4 Detailed NWA Plan_</a><em><a href="/files/S4E4_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em></strong>
 </p>
-<p><a href="/files/S4E5_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">4E5 Detailed NWA Plan_</a><em><a href="/files/S4E5_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
+<p><strong><a href="/files/S4E5_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">4E5 Detailed NWA Plan_</a><em><a href="/files/S4E5_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em></strong>
 </p>
-<p><a href="/files/S4E6_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">4E6 Detailed NWA Plan_</a><em><a href="/files/S4E6_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
+<p><strong><a href="/files/S4E6_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">4E6 Detailed NWA Plan_</a><em><a href="/files/S4E6_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em></strong>
 </p>
-<p><a href="/files/S4E7_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">4E7 Detailed NWA Plan_</a><em><a href="/files/S4E7_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em>
+<p><strong><a href="/files/S4E7_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">4E7 Detailed NWA Plan_</a><em><a href="/files/S4E7_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em></strong>
 </p>
 <p><a href="/files/S4E8_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E8 Detailed NWA Plan</a>
 </p>
