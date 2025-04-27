@@ -9,9 +9,9 @@ third_nav_title: Assessment Matters
 <p>Please click <a href="https://www.bartleysec.moe.edu.sg/assessment-plan-and-policy/" rel="noopener nofollow" target="_blank">here</a> for
 the school's Assessment Plan and Policy</p>
 <p>As 5 May 2025 (Monday) has been declared a Polling Day Off-in-Lieu for
-schools, classes with Weighted Assessments (WA) originally scheduled on
-that day have been rescheduled. Please refer to the updated assessment
-schedule. Thank you for your kind understanding.</p>
+schools, classes with WA originally scheduled on that day have been rescheduled.</p>
+<p>Please refer to the updated assessment schedule. Thank you for your kind
+understanding.</p>
 <p></p>
 <h4>Secondary 1 WA Plan</h4>
 <p><a href="/files/S1_T2WA_Overall_Schedule_2025_updated_1_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 2 WA Topics Plan</a>
