@@ -28,7 +28,7 @@ for your class.</p>
 </p>
 <p><strong><a href="/files/1C5_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C5 Detailed WA Plan_</a><em><a href="/files/1C5_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em></strong>
 </p>
-<p><strong><a href="/files/1C6_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C3 Detailed WA Plan_</a><em><a href="/files/1C6_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em></strong>
+<p><strong><a href="/files/1C6_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C6 Detailed WA Plan_</a><em><a href="/files/1C6_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em></strong>
 </p>
 <p><strong><a href="/files/1C7_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">1C7 Detailed WA Plan_</a><em><a href="/files/1C7_Term_2_WA_Detailed_Schedule_2025_updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em></strong>
 </p>
