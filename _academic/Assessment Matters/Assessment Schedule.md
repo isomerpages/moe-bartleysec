@@ -102,7 +102,7 @@ for your class</p>
 </p>
 <p><a href="/files/S4E9_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">4E9 Detailed NWA Plan</a>
 </p>
-<p><a href="/files/S5E1_Term_2_NWA_Detailed_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">5E1 Detailed NWA Plan</a>
+<p><strong><a href="/files/S5E1_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">5E1 Detailed NWA Plan_</a><em><a href="/files/S5E1_Term_2_NWA_Detailed_Schedule_2025_Updated.pdf" rel="noopener nofollow" target="_blank">updated 25 Apr</a></em></strong>
 </p>
 <p></p>
 <p><strong><em>Note:</em></strong><em> Absence from WA must be supported by a valid Medical Certificate or Positive ART, otherwise a zero mark will be awarded for the paper that the student has missed</em>.</p>
