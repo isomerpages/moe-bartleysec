@@ -95,7 +95,7 @@ are released. <strong>It is compulsory for students who are accepted into the sc
 <p>Notification of the outcome of application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 25 Aug and 4 Sep</p>
+<p>Between 25 Aug to 4 Sep</p>
 </td>
 </tr>
 </tbody>
