@@ -25,9 +25,9 @@ be found here.</p>
 representation in any other STEM-related activity.</p>
 </li>
 </ul>
-<p><em>*Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
+<p><strong><em>*Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
 </p>
-<p><em> *Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
+<p><em>*Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
 </p>
 <p><strong>Application Procedure</strong> 
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal
