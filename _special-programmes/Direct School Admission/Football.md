@@ -49,6 +49,7 @@ List or Unsuccessful) via letters and/or phone calls <strong>between 25 Aug and 
 <p>Successful applicant’s primary school will follow up with the next stage
 of DSA exercise. Admission will only be confirmed when the PSLE results
 are released.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -57,28 +58,18 @@ are released.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Important Dates to Note</p>
+<p>DSA Timeline</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Dates</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Process</strong>
-</p>
+<p>DSA Application period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Dates</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DSA Application Period</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 May 2025, 11am to 3 June 2025, 3pm</p>
+<p>30 May 2025, 11 am to 3 June 2025, 3 pm</p>
 </td>
 </tr>
 <tr>
@@ -91,10 +82,26 @@ are released.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Notification of outcome</p>
+<p>Selection outcome</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Between 25 Aug to 4 September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Preference Submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 October 2025 to 31 October 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA Allocation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End November 2025</p>
 </td>
 </tr>
 </tbody>
