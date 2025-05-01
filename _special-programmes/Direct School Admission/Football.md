@@ -25,6 +25,8 @@ competitions) or who display a strong interest and aptitude for the sport.</p>
 </ul>
 <p><em>*Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
 </p>
+<p><em> *Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
+</p>
 <p><strong>Application Procedure</strong> 
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal
 via <a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa/application</a> which
