@@ -113,8 +113,8 @@ in the following distinctive programmes:</p>
 <br>(Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The link to the portal will be available at a later time. Please check
-back later for updates. Thank you for your understanding</p>
+<p>The link to the portal will be available at a later date. Thank you for
+your understanding</p>
 </td>
 </tr>
 <tr>
@@ -123,8 +123,8 @@ back later for updates. Thank you for your understanding</p>
 <br>(Non-mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The link to the portal will be available at a later time. Please check
-back later for updates. Thank you for your understanding</p>
+<p>The link to the portal will be available at a later date. Thank you for
+your understanding</p>
 </td>
 </tr>
 <tr>
