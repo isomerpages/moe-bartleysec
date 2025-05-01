@@ -6,20 +6,23 @@ third_nav_title: Direct School Admission
 variant: tiptap
 ---
 <h3>Community Youth Leadership</h3>
-<p>The Community Youth Leadership Programme in Bartley aims to develop pupils
-to be leaders for themselves and others, selfless in leading and serving
-the community. The details of the programme can be found <a href="/our-signature-programmes/llp-community-youth-leadership" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The Community Youth Leadership Programme at Bartley Secondary School seeks
+to develop principled leaders and compassionate contributors — students
+who lead with integrity and serve with heart. Learn more about the programme
+<a href="/our-signature-programmes/llp-community-youth-leadership" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Admission Selection Criteria*</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Pupils who have shown exemplary character in school.</p>
+<p>Demonstrates exemplary character and consistently upholds the school values.</p>
 </li>
 <li>
-<p>Pupils who have assumed leadership roles.</p>
+<p>Has taken on leadership roles, showing responsibility in guiding and inspiring
+others.</p>
 </li>
 <li>
-<p>Pupils who have a passion in leading their peers in serving the community.</p>
+<p>Displays a strong passion for leading peers in making a positive impact
+on the community.</p>
 </li>
 </ul>
 <p><em>*Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
