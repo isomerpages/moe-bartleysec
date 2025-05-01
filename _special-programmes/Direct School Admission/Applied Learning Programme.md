@@ -52,6 +52,7 @@ List or Unsuccessful) via letters and/or phone calls between <strong>25 Aug</str
 of DSA exercise. Admission will only be confirmed when the PSLE results
 are released. <strong>It is compulsory for students who are accepted into the school through DSA (ALP) to join the <a href="/our-holistic-curriculum/co-curricular-activities/clubs-n-societies/curiost-club-new" rel="noopener noreferrer nofollow" target="_blank">CurioSTÉ Club</a>.</strong>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -60,31 +61,23 @@ are released. <strong>It is compulsory for students who are accepted into the sc
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Important Dates to Note</p>
+<p>DSA Timeline</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Process</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dates</p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>DSA Application period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11 am to 3 June 2025, 3 pm</p>
+<p>30 May 2025, 11 am to 3 June 2025, 3 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Selection interview for shortlisted applicants.</p>
+<p>Selection Interview for shortlisted applicants</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30 June 2025 to 4 September 2025</p>
@@ -92,10 +85,26 @@ are released. <strong>It is compulsory for students who are accepted into the sc
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Notification of the outcome of application</p>
+<p>Selection outcome</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 25 Aug to 4 Sep</p>
+<p>Between 25 Aug to 4 September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Preference Submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 October 2025 to 31 October 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA Allocation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End November 2025</p>
 </td>
 </tr>
 </tbody>
