@@ -34,16 +34,16 @@ requires one parent’s SingPass to log in
 <br>or
 <br>Parents/guardians who are unable to apply online can approach their child's
 primary school for assistance.
-<br>Application is free-of-charge and will be open from <strong>7 May 2024, 11 am to 3 Jun 2024, 3 pm.</strong>
+<br>Application is free-of-charge and will be open from <strong>7 May 2025, 11 am to 3 Jun 2025, 3 pm.</strong>
 </p>
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
 selection for all DSA talent areas for 2024.</p>
-<p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 24 June 2024 to 9 September 2024</strong>.
+<p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 30 June 2025 to 4 September 2025</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
-List or Unsuccessful) via letters and/or phone calls by <strong>9 September 2024</strong>.</p>
+List or Unsuccessful) via letters and/or phone calls between <strong>25 Aug</strong>  <strong>and</strong>  <strong>4 September 2025</strong>.</p>
 <p><strong>Should you have any query, please contact: <br>Mr Quek Shir Ryn, SH (Physics) at quek_shir_ryn@schools.gov.sg</strong>
 </p>
 <p>Successful applicant’s primary school will follow up with the next stage
@@ -77,7 +77,7 @@ are released. <strong>It is compulsory for students who are accepted into the sc
 <p>DSA Application period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2024, 11 am to 3 June 2024, 3 pm</p>
+<p>7 May 2025, 11 am to 3 June 2025, 3 pm</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ are released. <strong>It is compulsory for students who are accepted into the sc
 <p>Selection interview for shortlisted applicants.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 June 2024 to 9 September 2024</p>
+<p>30 June 2025 to 4 September 2025</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ are released. <strong>It is compulsory for students who are accepted into the sc
 <p>Notification of the outcome of application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 September 2024</p>
+<p>Between 25 Aug and 4 Sep</p>
 </td>
 </tr>
 </tbody>
