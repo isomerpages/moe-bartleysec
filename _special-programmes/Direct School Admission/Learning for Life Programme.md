@@ -34,15 +34,15 @@ requires one parent’s SingPass to log in</p>
 <p>or</p>
 <p>Parents/guardians who are unable to apply online can approach their child's
 primary school for assistance.</p>
-<p>Application is free-of-charge and will be open from <strong>7 May 2024, 11 am to 3 June 2024, 3 pm</strong>.</p>
+<p>Application is free-of-charge and will be open from <strong>7 May 2025, 11 am to 3 June 2025, 3 pm</strong>.</p>
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
 selection for all DSA talent areas for 2023</p>
-<p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 24 June 2024 to 9 September 2024</strong>.
+<p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 30 June 2025 to 4 September 2025</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
-List or Unsuccessful) via letters and/or phone calls by <strong>9 September 2024</strong>.</p>
+List or Unsuccessful) via letters and/or phone calls <strong>between 25 Aug and 4 September 2025</strong>.</p>
 <p><strong>Should you have any query, please contact: <br>Mdm Kavitha, HOD (Character and Citizenship Education) at kavitha_nagarajan@schools.gov.sg</strong>
 </p>
 <p>Successful applicant’s primary school will follow up with the next stage
@@ -75,7 +75,7 @@ are released.</p>
 <p>DSA Application period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2024, 11 am to 3 June 2024, 3 pm</p>
+<p>30 May 2025, 11 am to 3 June 2025, 3 pm</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ are released.</p>
 <p>Selection Interview for shortlisted applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 June 2024 to 9 September 2024</p>
+<p>30 June 2025 to 4 September 2025</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ are released.</p>
 <p>Notification of outcome</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 September 2024</p>
+<p>Between 25 Aug and 4 September 2025</p>
 </td>
 </tr>
 </tbody>
