@@ -58,19 +58,11 @@ are released.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Important Dates to Note</p>
+<p>DSA Timeline</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Process</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dates</p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -90,10 +82,26 @@ are released.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Notification of outcome</p>
+<p>Selection outcome</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Between 25 Aug to 4 September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Preference Submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 October 2025 to 31 October 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA Allocation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End November 2025</p>
 </td>
 </tr>
 </tbody>
