@@ -93,7 +93,7 @@ are released.</p>
 <p>Notification of outcome</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 25 Aug and 4 September 2025</p>
+<p>Between 25 Aug to 4 September 2025</p>
 </td>
 </tr>
 </tbody>
