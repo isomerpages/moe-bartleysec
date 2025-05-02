@@ -6,23 +6,28 @@ third_nav_title: Direct School Admission
 variant: tiptap
 ---
 <h3>Community Youth Leadership</h3>
-<p>The Community Youth Leadership Programme in Bartley aims to develop pupils
-to be leaders for themselves and others, selfless in leading and serving
-the community. The details of the programme can be found <a href="/our-signature-programmes/llp-community-youth-leadership" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The Community Youth Leadership Programme at Bartley Secondary School seeks
+to develop principled leaders and compassionate contributors — students
+who lead with integrity and serve with heart. Learn more about the programme
+<a href="/our-signature-programmes/llp-community-youth-leadership" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Admission Selection Criteria*</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Pupils who have shown exemplary character in school.</p>
+<p>Demonstrates exemplary character and consistently upholds the school values.</p>
 </li>
 <li>
-<p>Pupils who have assumed leadership roles.</p>
+<p>Has taken on leadership roles, showing responsibility in guiding and inspiring
+others.</p>
 </li>
 <li>
-<p>Pupils who have a passion in leading their peers in serving the community.</p>
+<p>Displays a strong passion for leading peers in making a positive impact
+on the community.</p>
 </li>
 </ul>
-<p><em>*Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
+<p><strong><em>*Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em></strong>
+</p>
+<p><em>*Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
 </p>
 <p><strong>Application Procedure</strong> 
 <br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal
@@ -31,15 +36,15 @@ requires one parent’s SingPass to log in</p>
 <p>or</p>
 <p>Parents/guardians who are unable to apply online can approach their child's
 primary school for assistance.</p>
-<p>Application is free-of-charge and will be open from <strong>7 May 2024, 11 am to 3 June 2024, 3 pm</strong>.</p>
+<p>Application is free-of-charge and will be open from <strong>7 May 2025, 11 am to 3 June 2025, 3 pm</strong>.</p>
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
 selection for all DSA talent areas for 2023</p>
-<p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 24 June 2024 to 9 September 2024</strong>.
+<p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 30 June 2025 to 4 September 2025</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
-List or Unsuccessful) via letters and/or phone calls by <strong>9 September 2024</strong>.</p>
+List or Unsuccessful) via letters and/or phone calls <strong>between 25 Aug and 4 September 2025</strong>.</p>
 <p><strong>Should you have any query, please contact: <br>Mdm Kavitha, HOD (Character and Citizenship Education) at kavitha_nagarajan@schools.gov.sg</strong>
 </p>
 <p>Successful applicant’s primary school will follow up with the next stage
@@ -53,26 +58,18 @@ are released.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Important Dates to Note</p>
+<p>DSA Timeline</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Process</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dates</p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>DSA Application period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2024, 11 am to 3 June 2024, 3 pm</p>
+<p>30 May 2025, 11 am to 3 June 2025, 3 pm</p>
 </td>
 </tr>
 <tr>
@@ -80,15 +77,31 @@ are released.</p>
 <p>Selection Interview for shortlisted applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 June 2024 to 9 September 2024</p>
+<p>30 June 2025 to 4 September 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Notification of outcome</p>
+<p>Selection outcome</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 September 2024</p>
+<p>Between 25 Aug to 4 September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Preference Submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 October 2025 to 31 October 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA Allocation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End November 2025</p>
 </td>
 </tr>
 </tbody>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<h5>DSA-Sec for Admission to Secondary One in 2024 <br></h5>
+<h5>DSA-Sec for Admission to Secondary One in 2025 <br></h5>
 <p>Direct School Admission (DSA) is a scheme which provides students with
 the opportunity to seek admission to a secondary school, based on a diverse
 range of academic and non-academic achievements and talents that they can
@@ -14,8 +14,8 @@ demonstrate beyond the Primary School Leaving Examination (PSLE).</p>
 schools to select some Primary Six students for admission to Secondary
 One. The selection will be based on their achievements and talents before
 the PSLE results are released.</p>
-<p><strong>Bartley Secondary School DSA-Sec Exercise 2024</strong> 
-<br>We invite pupils in Primary Six in 2024 to apply for DSA-Sec to the school
+<p><strong>Bartley Secondary School DSA-Sec Exercise 2025</strong> 
+<br>We invite pupils in Primary Six in 2025 to apply for DSA-Sec to the school
 in the following distinctive programmes:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -50,15 +50,15 @@ in the following distinctive programmes:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2024</a>
+<p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/learning-for-life-programme/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2024</a>
+<p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/learning-for-life-programme/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/football/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2024</a>
+<p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/football/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2025</a>
 </p>
 </td>
 </tr>
@@ -113,8 +113,8 @@ in the following distinctive programmes:</p>
 <br>(Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The link to the portal will be available at a later time. Please check
-back later for updates. Thank you for your understanding</p>
+<p>The link to the portal will be available at a later date. Thank you for
+your understanding</p>
 </td>
 </tr>
 <tr>
@@ -123,8 +123,8 @@ back later for updates. Thank you for your understanding</p>
 <br>(Non-mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The link to the portal will be available at a later time. Please check
-back later for updates. Thank you for your understanding</p>
+<p>The link to the portal will be available at a later date. Thank you for
+your understanding</p>
 </td>
 </tr>
 <tr>
