@@ -50,7 +50,7 @@ in the following distinctive programmes:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2025</a>
+<p><a href="/our-signature-programmes/direct-school-admission/applied-learning-programme/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2025</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
