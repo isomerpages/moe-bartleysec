@@ -10,7 +10,7 @@ variant: tiptap
 Sciences (Fragrance) aims to develop the passion for the learning of STEM
 (Science, Technology, Engineering and Mathematics) in our pupils and to
 imbue in them the skills in these areas. The details of the programme can
-be found <a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/alp-chemical-and-applied-sciences-fragrance/" rel="noopener nofollow" target="_blank">here</a>.</p>
+be found <a href="/our-signature-programmes/alp-chemical-and-applied-sciences-fragrance/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Admission Selection Criteria*</strong>
 </p>
 <ul data-tight="true" class="tight">
