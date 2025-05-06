@@ -38,7 +38,7 @@ primary school for assistance.</p>
 </p>
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
-selection for all DSA talent areas for 2024.</p>
+selection for all DSA talent areas for 2025.</p>
 <p>Shortlisted applicants will be required to participate in an <strong>in-person interview and sports trial between 30 June 2025 to 4 September 2025</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
