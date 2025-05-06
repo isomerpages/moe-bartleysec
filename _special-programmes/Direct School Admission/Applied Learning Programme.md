@@ -40,13 +40,13 @@ primary school for assistance.
 </p>
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
-selection for all DSA talent areas for 2024.</p>
+selection for all DSA talent areas for 2025.</p>
 <p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 30 June 2025 to 4 September 2025</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
 List or Unsuccessful) via letters and/or phone calls between <strong>25 Aug</strong>  <strong>and</strong>  <strong>4 September 2025</strong>.</p>
-<p><strong>Should you have any query, please contact: <br>Mr Quek Shir Ryn, SH (Physics) at quek_shir_ryn@schools.gov.sg</strong>
+<p><strong>Should you have any query, please contact: <br>Mdm Quek Shir Ryn, HOD Science at quek_shir_ryn@schools.gov.sg</strong>
 </p>
 <p>Successful applicant’s primary school will follow up with the next stage
 of DSA exercise. Admission will only be confirmed when the PSLE results
