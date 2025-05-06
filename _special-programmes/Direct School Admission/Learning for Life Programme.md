@@ -39,7 +39,7 @@ primary school for assistance.</p>
 <p>Application is free-of-charge and will be open from <strong>7 May 2025, 11 am to 3 June 2025, 3 pm</strong>.</p>
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
-selection for all DSA talent areas for 2023</p>
+selection for all DSA talent areas for 2025.</p>
 <p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 30 June 2025 to 4 September 2025</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
