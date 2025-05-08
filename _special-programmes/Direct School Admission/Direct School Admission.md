@@ -113,8 +113,8 @@ in the following distinctive programmes:</p>
 <br>(Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The link to the portal will be available at a later date. Thank you for
-your understanding</p>
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -123,8 +123,8 @@ your understanding</p>
 <br>(Non-mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The link to the portal will be available at a later date. Thank you for
-your understanding</p>
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a> 
+</p>
 </td>
 </tr>
 <tr>
