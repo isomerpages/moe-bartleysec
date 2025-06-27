@@ -6,12 +6,15 @@ description: ""
 ---
 <p>Dear students,</p>
 <p></p>
-<p>Please click on the link below to download the Class Timetable for Semester
-1 Term 2 2025.</p>
-<p></p>
-<p><a href="/files/2025_Term_2_Timetable___Class___updated_22_March_2025_compressed.pdf" rel="noopener nofollow" target="_blank">2025 Semester 1 Term 2 Timetable (updated 22 March 2025)</a>
+<p>Please click on the links below to download the Class Timetable for Semester
+2 2025.</p>
+<p><a href="/files/Sec_1_Class_Timetable_Sem_2_2025__Website____27_Jun_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
+<p><a href="/files/Sec_2_Class_Timetable_Sem_2_2025__Website____27_Jun_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
+<p><a href="/files/Sec_3_Class_Timetable_Sem_2_2025__Website____27_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+</p>
+<p><a href="/files/Sec_4___5_Class_Timetable_Sem_2_2025__Website____27_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 <p></p>
-<p>Some minor updates were made to these classes: 1C7, 1C8, 2O3, 2O5, 2O6,
-4E6</p>
 <p></p>
