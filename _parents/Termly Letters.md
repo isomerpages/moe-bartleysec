@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>2025 Term 3 Letters</strong></h4>
-<p><a href="/files/2025_T3_Principal_s_Letter_to_Parents_S1.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Principal's Letter to Sec 1 Parents</a>
+<p><a href="/files/2025_T3_Principal_s_Letter_to_Parents_S1_Updated.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Principal's Letter to Sec 1 Parents</a>
 </p>
 <p><a href="/files/2025_T3_Principal_s_Letter_to_Parents_S2.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Principal's Letter to Sec 2 Parents</a>
 </p>
