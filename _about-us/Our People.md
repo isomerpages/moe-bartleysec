@@ -1487,10 +1487,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MR LIM BARRY</p>
+<p>MRS TAN PUAY HOON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_barry@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_barry@schools.gov.sg</a>
+<p><a href="mailto:lee_puay_hoon_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_puay_hoon_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1519,6 +1519,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_chiew_kwee@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS TAN HUI CHING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
