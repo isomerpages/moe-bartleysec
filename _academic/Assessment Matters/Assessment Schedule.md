@@ -8,7 +8,7 @@ third_nav_title: Assessment Matters
 <h4>2025 Term 2 Weighted Assessment (WA) Schedule <strong>[Updates]</strong></h4>
 <p>Please click <a href="https://www.bartleysec.moe.edu.sg/assessment-plan-and-policy/" rel="noopener nofollow" target="_blank">here</a> for
 the school's Assessment Plan and Policy</p>
-<p>Please click on the links below to access information for Term 2 WA for
+<p>Please click on the links below to access information for Term 3 WA for
 Sec 1 to 3.</p>
 <h4>Secondary 1 WA Plan</h4>
 <p><a href="/files/S1_2025_Term_3_Weighted_Assessment__Overall_Schedule_updated.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 3 WA Topics Plan</a>
