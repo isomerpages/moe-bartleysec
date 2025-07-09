@@ -1202,7 +1202,7 @@ variant: tiptap
 <p>MS ZAINAB BTE DAWAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zainab_dawan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zainab_dawan@schools.gov.sg</a> 
+<p><a href="mailto:zainab_dawan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zainab_dawan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1473,7 +1473,8 @@ variant: tiptap
 <p>MS SITI MARIAM BINTE ABDUL HAKEEM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_mariam_abdul_hakeem@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mariam_abdul_hakeem@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -1535,10 +1536,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS TAN HUI CHING</p>
+<p>MS GAN HUI CHING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:gan_hui_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_hui_ching@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
