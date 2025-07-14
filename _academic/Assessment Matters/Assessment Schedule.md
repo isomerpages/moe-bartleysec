@@ -40,7 +40,7 @@ for your class.</p>
 for your class.</p>
 <p><a href="/files/S2_Term_3_WA_Detailed_Schedule_2025___2O1.pdf" rel="noopener nofollow" target="_blank">2O1 Term 3 Detailed WA Plan</a>
 </p>
-<p><a href="/files/S2_Term_3_WA_Detailed_Schedule_2025___2O5.pdf" rel="noopener nofollow" target="_blank">2O2 Term 3 Detailed WA Plan</a>
+<p><a href="/files/S2_Term_3_WA_Detailed_Schedule_2025___2O2.pdf" rel="noopener nofollow" target="_blank">2O2 Term 3 Detailed WA Plan</a>
 </p>
 <p><a href="/files/S2_Term_3_WA_Detailed_Schedule_2025___2O3.pdf" rel="noopener nofollow" target="_blank">2O3 Term 3 Detailed WA Plan</a>
 </p>
