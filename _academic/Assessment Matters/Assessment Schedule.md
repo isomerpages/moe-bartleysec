@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Assessment Matters
 ---
-<h4>2025 Term 3 Weighted Assessment (WA) Schedule <strong>[Updates]</strong></h4>
+<h4>2025 Term 3 Weighted Assessment (WA) Schedule</h4>
 <p>Please click <a href="https://www.bartleysec.moe.edu.sg/assessment-plan-and-policy/" rel="noopener nofollow" target="_blank">here</a> for
 the school's Assessment Plan and Policy</p>
 <p>Please click on the links below to access information for Term 3 WA for
