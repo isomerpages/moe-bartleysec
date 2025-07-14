@@ -57,7 +57,7 @@ for your class.</p>
 </p>
 <p>Please click the respective links below to download the detailed WA schedule
 for your class.</p>
-<p><a href="/files/S3_Term_3_WA_Detailed_Schedule_2025___3R2.pdf" rel="noopener nofollow" target="_blank">3R1 Term 3 Detailed WA Plan</a>
+<p><a href="/files/S3_Term_3_WA_Detailed_Schedule_2025___3R1.pdf" rel="noopener nofollow" target="_blank">3R1 Term 3 Detailed WA Plan</a>
 </p>
 <p><a href="/files/S3_Term_3_WA_Detailed_Schedule_2025___3R2.pdf" rel="noopener nofollow" target="_blank">3R2 Term 3 Detailed WA Plan</a>
 </p>
