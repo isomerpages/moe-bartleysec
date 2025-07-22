@@ -16,7 +16,7 @@ and dictionaries that can be used during Preliminary Examinations.</p>
 <p><a href="https://file.go.gov.sg/seab-approveddictionaries.pdf" rel="noopener nofollow" target="_blank">SEAB Approved List of Dictionaries</a>
 </p>
 <p></p>
-<p>Please click on the link below to download the 4NA and 4NT prelim timetable.</p>
+<p>Please click on the link below to download the 4E5N prelim timetable.</p>
 <p><a href="/files/2025_4E5N_Prelim_Timetable_V4_9_Jul.pdf" rel="noopener nofollow" target="_blank">4E5N Prelim Timetable</a>
 </p>
 <p></p>
