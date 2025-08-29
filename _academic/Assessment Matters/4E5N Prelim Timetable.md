@@ -17,7 +17,7 @@ and dictionaries that can be used during Preliminary Examinations.</p>
 </p>
 <p></p>
 <p>Please click on the link below to download the 4E5N prelim timetable.</p>
-<p><a href="/files/2025_4E5N_Prelim_Timetable_V4_9_Jul.pdf" rel="noopener nofollow" target="_blank">4E5N Prelim Timetable</a>
+<p><a href="/files/2025_4E5N_Prelim_Timetable_V5_9_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5N Prelim Timetable</a>
 </p>
 <p></p>
 <p></p>
