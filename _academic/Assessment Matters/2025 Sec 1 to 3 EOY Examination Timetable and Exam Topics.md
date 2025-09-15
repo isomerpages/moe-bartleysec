@@ -23,7 +23,7 @@ Exam Topics for the respective levels and streams.</p>
 </p>
 <p></p>
 <h4>Secondary 2</h4>
-<p><a href="/files/S2_EOY_Timetable_2025_latest.pdf" rel="noopener nofollow" target="_blank">Sec 2 Exam Timetable</a>
+<p><a href="/files/S2_EOY_Timetable_2025_15_Sept.pdf" rel="noopener nofollow" target="_blank">Sec 2 Exam Timetable</a>
 </p>
 <p><a href="/files/S2_2025_End_of_Year_Exam_Topic.pdf" rel="noopener nofollow" target="_blank">Sec 2 Exam Topics</a>
 </p>
@@ -33,7 +33,7 @@ Exam Topics for the respective levels and streams.</p>
 </p>
 <p><a href="/files/3E_2025_End_of_Year_Exam_Topic.pdf" rel="noopener nofollow" target="_blank">Sec 3E Exam Topics</a>
 </p>
-<p><a href="/files/S3NA_EOY_Timetable_2025_latest.pdf" rel="noopener nofollow" target="_blank">Sec 3NA Exam Timetable</a>
+<p><a href="/files/3NA_2025_End_of_Year_Exam_Topic_15_Sept.pdf" rel="noopener nofollow" target="_blank">Sec 3NA Exam Timetable</a>
 </p>
 <p><a href="/files/3NA_2025_End_of_Year_Exam_Topic.pdf" rel="noopener nofollow" target="_blank">Sec 3NA Exam Topics</a>
 </p>
