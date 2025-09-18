@@ -33,7 +33,7 @@ Exam Topics for the respective levels and streams.</p>
 </p>
 <p><a href="/files/3E_2025_End_of_Year_Exam_Topic.pdf" rel="noopener nofollow" target="_blank">Sec 3E Exam Topics</a>
 </p>
-<p><a href="/files/S3NA_EOY_Timetable_2025_17_Sept.pdf" rel="noopener nofollow" target="_blank">Sec 3NA Exam Timetable</a>
+<p><a href="/files/S3NA_EOY_Timetable_2025_18_Sept.pdf" rel="noopener nofollow" target="_blank">Sec 3NA Exam Timetable</a>
 </p>
 <p><a href="/files/3NA_2025_End_of_Year_Exam_Topic.pdf" rel="noopener nofollow" target="_blank">Sec 3NA Exam Topics</a>
 </p>
