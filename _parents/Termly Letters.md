@@ -4,6 +4,15 @@ permalink: /termly-letters/
 variant: tiptap
 description: ""
 ---
+<h4><strong>2025 Term 4 Letters</strong></h4>
+<p><a href="/files/2025_T4_Principal_s_Letter_to_Parents_Sec_1.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Principal's Letter to Sec 1 Parents</a>
+</p>
+<p><a href="/files/2025_T4_Principal_s_Letter_to_Parents_Sec_2.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Principal's Letter to Sec 2 Parents</a>
+</p>
+<p><a href="/files/2025_T4_Principal_s_Letter_to_Parents_Sec_3.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Principal's Letter to Sec 3 Parents</a>
+</p>
+<p><a href="/files/2025_T4_Principal_s_Letter_to_Parents_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Principal's Letter to Sec 4 and 5 Parents</a>
+</p>
 <h4><strong>2025 Term 3 Letters</strong></h4>
 <p><a href="/files/2025_T3_Principal_s_Letter_to_Parents_S1_Updated.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Principal's Letter to Sec 1 Parents</a>
 </p>
