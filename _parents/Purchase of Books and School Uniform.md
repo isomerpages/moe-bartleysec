@@ -28,7 +28,7 @@ parents are strongly encouraged to purchase them through the school bookshop
 via ASENCIO ONLINE PORTAL: <a rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>.&nbsp;&nbsp;&nbsp;
 You are required to register an account before proceeding with your online
 purchase.</p>
-<p><strong>Booklist for 2026</strong>
+<p><strong><u>Booklist for 2026</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -52,40 +52,182 @@ purchase.</p>
 </p>
 </li>
 </ul>
-<p><strong>Dates for Book Sale in Bartley Secondary School (walk in)</strong>
-</p>
+<p></p>
 <p><strong>Bookshop opening hours: 0900-1500</strong>
 </p>
+<p><strong>Dates for Book Sale in Bartley Secondary School (walk in)</strong>
+</p>
+<p></p>
 <p><strong><u>Dates for Book Sale in Bartley Secondary School (walk in)</u></strong>
 </p>
 <p><strong>Book sale for Sec 2, 3 &amp; 4</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAS:</p>
-<p>o&nbsp;&nbsp; 24-28 Nov 2025</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 2:</p>
-<p>o&nbsp;&nbsp; 1-5 Dec 2025</p>
-<p>o&nbsp;&nbsp; 26 Dec 2025</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 3 :</p>
-<p>o&nbsp;&nbsp; 8-12 Dec 2025</p>
-<p>o&nbsp;&nbsp; 26 Dec 2025</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sec 4:</p>
-<p>o&nbsp;&nbsp; 8-12 Dec 2025</p>
-<p>o&nbsp;&nbsp; 26 Dec 2025</p>
-<p><strong>Book sale for Sec 1 (Tentative)</strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2 to 3 FAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24-28 Nov 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1-5 Dec 2025</p>
+</li>
+<li>
+<p>26 Dec 2025</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>8-12 Dec 2025</p>
+</li>
+<li>
+<p>26 Dec 2025</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp; 8-12 Dec 2025</p>
+</li>
+<li>
+<p>26 Dec 2025</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>Dates for Book Sale in Bartley Secondary School (walk in)</u></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sec 1</strong>:&nbsp;</p>
-<p>o&nbsp;&nbsp; 18 to 19 &nbsp;Dec 2025</p>
-<p>o&nbsp;&nbsp; 22 to 23 Dec 2025</p>
-<p>o&nbsp;&nbsp; 26 Dec 2025</p>
-<p>o&nbsp;&nbsp; 29 Dec 2025</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date (Tentative)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>18 to 19 &nbsp;Dec 2025</p>
+</li>
+<li>
+<p>22 to 23 Dec 2025</p>
+</li>
+<li>
+<p>26 Dec 2025</p>
+</li>
+<li>
+<p>29 Dec 2025</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>The Bookshop would be closed on the following dates:</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15-17 Dec 2025</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24 Dec 2025</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30 Dec 2025</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 31 Dec 2025</p>
-<p>For enquiries, please email to <a rel="noopener noreferrer nofollow" target="_blank">bartley@asencio.com.sg</a>
+<p><strong>Recommended Quantity for School Attire:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shirt / Blouse</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 pair</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Skirt / Bermudas / Pants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 pairs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Polo T-Shirt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 pairs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE T-Shirt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 pairs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE Shorts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 pairs</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://www.bartleysec.moe.edu.sg/sec-1-posting/" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong>
