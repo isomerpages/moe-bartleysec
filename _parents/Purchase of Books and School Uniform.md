@@ -168,9 +168,6 @@ day for online order)</p>
 <li>
 <p>26 Dec 2025</p>
 </li>
-<li>
-<p>29 Dec 2025</p>
-</li>
 </ul>
 </td>
 </tr>
@@ -178,10 +175,17 @@ day for online order)</p>
 </table>
 <p><strong>The Bookshop would be closed on the following dates:</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15 - 17 Dec 2025</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24 Dec 2025</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30 Dec 2025</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 31 Dec 2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>15 - 17 Dec 2025</p>
+</li>
+<li>
+<p>24 Dec 2025</p>
+</li>
+<li>
+<p>29 - 31 Dec 2025</p>
+</li>
+</ul>
 <p><strong>Recommended Quantity for School Attire:</strong>
 </p>
 <table style="minWidth: 50px">
