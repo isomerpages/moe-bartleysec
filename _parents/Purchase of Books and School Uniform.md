@@ -83,7 +83,11 @@ day for online order</p>
 <p>Sec 2 to 3 FAS</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>24-28 Nov 2025</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -123,7 +127,7 @@ day for online order</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp; 8-12 Dec 2025</p>
+<p>8-12 Dec 2025</p>
 </li>
 <li>
 <p>26 Dec 2025</p>
