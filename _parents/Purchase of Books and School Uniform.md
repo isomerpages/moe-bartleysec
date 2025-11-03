@@ -180,7 +180,7 @@ day for online order)</p>
 <p>15 - 17 Dec 2025</p>
 </li>
 <li>
-<p>24 Dec 2025</p>
+<p>24 to 25 Dec 2025</p>
 </li>
 <li>
 <p>29 - 31 Dec 2025</p>
