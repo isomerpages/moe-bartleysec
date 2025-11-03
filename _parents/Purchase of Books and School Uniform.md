@@ -138,7 +138,7 @@ day for online order</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Dates for Book Sale in Bartley Secondary School (walk in)</u></strong>
+<p><strong><u>Book sale for Sec 1 (walk in)</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
