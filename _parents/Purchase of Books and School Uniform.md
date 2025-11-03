@@ -10,15 +10,13 @@ description: ""
 <br>Kewalram Hillview
 <br>Singapore 669594
 <br>Tel: 67643102&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fax: 67641032</p>
-<p><em>*</em><strong><em>Uniform are sold in the school's bookshop</em></strong>
-</p>
-<p>For online purchase, please log onto&nbsp;<strong><a href="http://www.asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.asenciobookshop.sg</u></a>.</strong>
-</p>
-<p>For enquiries, please contact the bookshop office or write to email:
-<a href="http://www.asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>bartley@asencio.com.sg</u>
-</a>
-</p>
 <h2>Year-End Purchase of Books &amp; School Uniform&nbsp;</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>Please note that the school can only be purchased at the school bookshop</em></strong>
+</p>
+</li>
+</ul>
 <p><strong>Online Purchase</strong>
 </p>
 <p>We strongly encourage our parents to purchase their child’s books and
@@ -29,7 +27,11 @@ via ASENCIO ONLINE PORTAL: <a rel="noopener noreferrer nofollow" target="_blank"
 You are required to register an account before proceeding with your online
 purchase.</p>
 <p>Please submit your online order from <strong>13 November to 14 December</strong> (last
-day for online order</p>
+day for online order)</p>
+<p>For enquiries, please contact the bookshop office or write to email:
+<a href="http://www.asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>bartley@asencio.com.sg</u>
+</a>
+</p>
 <p><strong><u>Booklist for 2026</u></strong>
 </p>
 <ul data-tight="true" class="tight">
