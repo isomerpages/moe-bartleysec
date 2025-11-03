@@ -80,7 +80,7 @@ day for online order</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 to 3 FAS</p>
+<p>FAS</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
