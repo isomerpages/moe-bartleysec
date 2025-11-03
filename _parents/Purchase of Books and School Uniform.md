@@ -28,6 +28,8 @@ parents are strongly encouraged to purchase them through the school bookshop
 via ASENCIO ONLINE PORTAL: <a rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>.&nbsp;&nbsp;&nbsp;
 You are required to register an account before proceeding with your online
 purchase.</p>
+<p>Please submit your online order from <strong>13 November to 14 December</strong> (last
+day for online order</p>
 <p><strong><u>Booklist for 2026</u></strong>
 </p>
 <ul data-tight="true" class="tight">
