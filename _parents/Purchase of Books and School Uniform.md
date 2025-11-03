@@ -13,7 +13,7 @@ description: ""
 <h2>Year-End Purchase of Books &amp; School Uniform&nbsp;</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>P<strong>lease note that the school uniform can only be purchased from the school bookshop</strong>
+<p><strong>Please note that the school uniform can only be purchased from the school bookshop</strong>
 </p>
 </li>
 </ul>
