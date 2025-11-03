@@ -59,9 +59,6 @@ day for online order</p>
 </p>
 <p><strong>Dates for Book Sale in Bartley Secondary School (walk in)</strong>
 </p>
-<p></p>
-<p><strong><u>Dates for Book Sale in Bartley Secondary School (walk in)</u></strong>
-</p>
 <p><strong>Book sale for Sec 2, 3 &amp; 4</strong>
 </p>
 <table style="minWidth: 50px">
