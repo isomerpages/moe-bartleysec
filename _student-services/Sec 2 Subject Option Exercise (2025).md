@@ -8,7 +8,6 @@ description: ""
 <p>Dear Sec 2 students,</p>
 <p>You may check the results of the Subject Options Exercise by clicking
 the link below or by scanning the QR code.</p>
-<p></p>
 <p><a href="https://forms.moe.edu.sg/forms/J49m38" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J49m38</a>
 </p>
 <p></p>
