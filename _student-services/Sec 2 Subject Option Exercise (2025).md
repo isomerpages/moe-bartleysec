@@ -17,7 +17,6 @@ the link below or by scanning the QR code.</p>
 <p>If you wish to appeal, please approach the school's General Office and
 obtain an appeal form. Submit the signed appeal form to the General Office
 by <strong>5pm, Thursday, 6 Nov 2025</strong>.</p>
-<p>&nbsp;</p>
 <p>Please refer to the <a href="https://www.bartleysec.moe.edu.sg/purchase-of-books-and-school-uniform/" rel="noopener nofollow" target="_blank">booklist</a> to
 purchase your lesson materials accordingly. You will be informed of your
 Sec 3 class on the first day of school next year.</p>
