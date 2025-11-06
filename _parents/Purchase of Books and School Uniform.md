@@ -36,7 +36,7 @@ day for online order)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 <em>(updates coming soon)</em>
+<p><a href="/files/Bartley_Secondary_2026___Sec_1_ivory.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a> 
 </p>
 </li>
 <li>
