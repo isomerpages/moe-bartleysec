@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>MOE FINANCIAL ASSISTANCE SCHEME (FAS)</h3>
-<p>[<em>Updated 5 August 2024]</em>
+<p>[<em>Updated 7 November 2025]</em>
 </p>
 <p>The Ministry of Education provides financial assistance to needy Singapore
 Citizens so that every child, regardless of their family background, can
@@ -51,18 +51,10 @@ members in the household.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Fees</p>
+<p>School and Miscellaneous Fees</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full subsidy of $5.00 per month</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miscellaneous Fees</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Full subsidy of $20.00 per month</p>
+<p>100% subsidy</p>
 </td>
 </tr>
 <tr>
@@ -83,10 +75,10 @@ members in the household.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Transport Subsidy</p>
+<p>Public Transport Subsidy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$17 per month</p>
+<p>Minimum $21 per month</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +119,7 @@ please mail the completed application form direct to:</p>
 </p>
 <p></p>
 <h2>Straits Times School Pocket Money Fund</h2>
-<p><em>[Updated 6 Aug 2024]</em>
+<p><em>[Updated 7 November 2025]</em>
 </p>
 <p>Students in primary and secondary schools who are Singapore Citizens (SC)
 or Singapore Permanent Residents (SPR) may apply for the ST School Pocket
@@ -144,11 +136,11 @@ the MOE/SPED FAS or ComCare Assistance letter indicating period of assistance.</
 the primary/secondary school, he/she will no longer be eligible for the
 fund.</p>
 <p>Primary school beneficiaries receive $65 a month and secondary school
-beneficiaries receive $100 a month. For more information, please refer
-to <a href="https://www.spmf.org.sg/primary-secondary-students" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.spmf.org.sg/primary-secondary-students</u></a>.</p>
-<p>For applications submitted through the school, please submit them to the
-school's General Office by the timeline given.</p>
-<p></p>
+beneficiaries receive $100 a month.</p>
+<p>For more information, please refer to <a href="https://www.spmf.org.sg/primary-secondary-students" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.spmf.org.sg/primary-secondary-students</u></a>.</p>
+<p>To facilitate timely submission to the agency, applications submitted
+through the school should be received by the school's General Office by
+the following timeline.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -186,12 +178,13 @@ school's General Office by the timeline given.</p>
 <p>Incoming Sec 1 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>by 7 Feb</p>
+<p>by 9 Feb</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.bartleysec.moe.edu.sg/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>[Click here]</u></a> to
+<p></p>
+<p><a href="/files/Annex_A___2026_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">[Click here]</a> to
 download Annex A - The STSPMF application form.</p>
-<p><a href="https://www.bartleysec.moe.edu.sg/files/Annex_B___2025_Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>[Click here]</u></a> to
+<p><a href="/files/Annex_B___Income_declaration_form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>[Click here]</u></a> to
 download Annex B - Income Declaration form.</p>
