@@ -25,7 +25,7 @@ or contact your child's school directly.</p>
 <p><strong>1.</strong> The student must be a Singapore citizen enrolled in
 a Government or Government-aided school as a full-time student and must
 not be enrolled in any other schools or institutes of higher learning.</p>
-<p><strong>2. </strong> The student must attend school regularly. As financial
+<p><strong>2. </strong>The student must attend school regularly. As financial
 assistance is provided to assist students in paying for expenses in connection
 with attending school, a student who fails to attend school regularly for
 any reason (including but not limited to Leave of Absence, medical leave,
@@ -164,7 +164,7 @@ School Pocket Money Fund portal <a rel="noopener noreferrer nofollow" target="_b
 <p>Current Sec 1, 2 and 3 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>by 11 Sep</p>
+<p>by 11 Sep 2025</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ School Pocket Money Fund portal <a rel="noopener noreferrer nofollow" target="_b
 <p>Incoming Sec 1 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>by 9 Feb</p>
+<p>by 9 Feb 2026</p>
 </td>
 </tr>
 </tbody>
