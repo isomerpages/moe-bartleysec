@@ -48,8 +48,8 @@ not exceed $1,000 per month.</p>
 </li>
 </ul>
 <p>*PCI = Monthly GHI / No. of members in the same household.</p>
-<p>The student’s current school must be notified of any changes to any of
-the listed criteria in writing.</p>
+<p><strong>5.</strong> The student’s current school must be notified of any
+changes to any of the listed criteria in writing.</p>
 <p>&nbsp;<strong>Benefits</strong>
 </p>
 <p>Please refer to the table below for the benefits under MOE FAS.</p>
