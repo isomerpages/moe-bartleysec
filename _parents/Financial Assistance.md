@@ -16,8 +16,9 @@ their school-going children to any school their children attend.</p>
 <h4><strong>Application for MOE Financial Assistance 2026</strong></h4>
 <p>To apply for financial assistance, parents/guardians are strongly encouraged
 to use the online the platform:</p>
-<p>&nbsp;Parents Gateway (PG) App.&nbsp; Go to [SERVICE &gt; FINANCIAL ASSISTANCE].</p>
-<p>Or apply using FormSG https://go.gov.sg/moe-efasggas.</p>
+<p>Parents Gateway (PG) App.&nbsp; Go to [SERVICE &gt; FINANCIAL ASSISTANCE].</p>
+<p>Or apply using FormSG: <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
 <p>&nbsp;For more information on the MOE Financial Assistance Scheme, please
 visit the MOE website at www.moe.gov.sg/financial-matters/financial-assistance
 or contact your child's school directly.</p>
