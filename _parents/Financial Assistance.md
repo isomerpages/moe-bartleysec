@@ -20,8 +20,8 @@ to use the online the platform:</p>
 <p>Or apply using FormSG: <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 </p>
 <p>&nbsp;For more information on the MOE Financial Assistance Scheme, please
-visit the MOE website at www.moe.gov.sg/financial-matters/financial-assistance
-or contact your child's school directly.</p>
+visit the MOE website at <a href="www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">www.moe.gov.sg/financial-matters/financial-assistance</a> or
+contact your child's school directly.</p>
 <p>&nbsp;Eligibility Criteria</p>
 <p><strong>1.</strong> The student must be a Singapore citizen enrolled in
 a Government or Government-aided school as a full-time student and must
