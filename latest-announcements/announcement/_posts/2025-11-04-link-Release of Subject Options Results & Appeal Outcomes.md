@@ -1,5 +1,5 @@
 ---
-title: Release of Subject Options Results
+title: Release of Subject Options Results & Appeal Outcomes
 date: 2025-11-04
 layout: link
 description: ""
