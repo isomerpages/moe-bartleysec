@@ -15,7 +15,7 @@ for families, parents need only submit a single application form for all
 their school-going children to any school their children attend.</p>
 <h4><strong>Application for MOE Financial Assistance 2026</strong></h4>
 <p>To apply for financial assistance, parents/guardians are strongly encouraged
-to use the online the platform:</p>
+to use the online platform:</p>
 <p>Parents Gateway (PG) App.&nbsp; Go to [SERVICE &gt; FINANCIAL ASSISTANCE].</p>
 <p>Or apply using FormSG: <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 </p>
@@ -98,7 +98,7 @@ changes to any of the listed criteria in writing.</p>
 <p>Public Transport Subsidy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minimum $21 per month</p>
+<p>$21 per month</p>
 </td>
 </tr>
 <tr>
