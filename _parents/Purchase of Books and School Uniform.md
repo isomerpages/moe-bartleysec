@@ -36,7 +36,7 @@ day for online order)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Bartley_Secondary_2026___Sec_1_ivory.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a> 
+<p><a href="/files/Bartley_Secondary_2026___Sec_1_ivory.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
@@ -44,7 +44,7 @@ day for online order)</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Bartley_Secondary_2026___Sec_3_peach.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Bartley_Secondary_2026___Sec_3_peach_updated.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
