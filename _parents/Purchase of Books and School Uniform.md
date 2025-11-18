@@ -20,10 +20,10 @@ description: ""
 <p><strong>Online Purchase</strong>
 </p>
 <p>We strongly encourage our parents to purchase their child’s books and
-school uniform (with home delivery) via the vendor’s online portal&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">www.asenciobookshop.sg</a>.</strong>&nbsp;</p>
+school uniform (with home delivery) via the vendor’s online portal&nbsp;<strong><a href="https://asenciobookshop.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">www.asenciobookshop.sg</a>.</strong>&nbsp;</p>
 <p>To ensure that the correct editions of the books have been purchased,
 parents are strongly encouraged to purchase them through the school bookshop
-via ASENCIO ONLINE PORTAL: <a rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>.&nbsp;&nbsp;&nbsp;
+via ASENCIO ONLINE PORTAL: <a href="https://asenciobookshop.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>.&nbsp;&nbsp;&nbsp;
 You are required to register an account before proceeding with your online
 purchase.</p>
 <p>Please submit your online order from <strong>13 November to 14 December</strong> (last
