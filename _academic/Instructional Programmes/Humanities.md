@@ -104,15 +104,7 @@ to others.</p>
 </div>
 <p>History students sharing their findings from their Inquiry project</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities%20Week%202019.jpeg">
-</div>
-<p>Humanities Week 2019</p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journey%20to%20Battle%20Box.jpeg">
-</div>
-<p>Learning Journey to Battle Box</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec%201%20Geographical%20Investigation%20(Water%20testing).jpeg">
 </div>
 <p>Learning Journey to Battle Box</p>
 <div class="isomer-image-wrapper">
@@ -122,17 +114,13 @@ to others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec%204%20Students%20in%20Chinatown%20for%20Geographical%20Investigation.jpeg">
 </div>
-<p>Sec 1 History Field Trip</p>
+<p>Upper Sec Fieldwork</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20conducting%20a%20tourism%20survey%20with%20tourists.jpeg">
 </div>
 <p>Students conducting a tourism survey with tourists</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20doing%20field%20sketching%20at%20Punggol%20Park.jpeg">
-</div>
-<p>Students doing field sketching at Punggol Park</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20sharing%20the%20water%20testing%20results.jpeg">
 </div>
 <p>Students sharing the water testing results</p>
 <div class="isomer-image-wrapper">
