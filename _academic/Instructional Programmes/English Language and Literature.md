@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Instructional Programmes
 variant: tiptap
 ---
-<h5>Vision</h5>
-<p>Leaders for Others, Learners for Others</p>
 <h4>Mission</h4>
 <p>Empowering Bartleyans to lead with effective and exceptional listening,
 reading, speaking and writing</p>
