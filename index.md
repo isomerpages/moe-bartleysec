@@ -30,4 +30,13 @@ sections:
       url: https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/2025-sec-1-posting/
       image: /images/S1_posting.jpg
       alt: Image alt text
+  - infopic:
+      title: Bartley Open House
+      subtitle: Come Join us at
+      id: infopic
+      description: 29 Nov 2025, 08:00am to 13:00pm
+      button: Find out more
+      url: https://linktr.ee/BartleySec
+      image: /images/Bartley_Sec_OH2025.png
+      alt: Image alt text
 ---
