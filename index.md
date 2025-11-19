@@ -30,10 +30,4 @@ sections:
       url: https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/2025-sec-1-posting/
       image: /images/S1_posting.jpg
       alt: Image alt text
-  - infopic:
-      title: Bartley Open House
-      id: infopic
-      description: 23 Nov 2024, 8.30 am to 12.30pm
-      image: /images/WebSite_Pop_up_updated.png
-      alt: Image alt text
 ---
