@@ -6,7 +6,7 @@ third_nav_title: Instructional Programmes
 variant: tiptap
 ---
 <h3>Vision</h3>
-<p>Leaders for Others, Learners for Life</p>
+<p>Disciplined Learners. Principled Leaders. Compassionate Contributors.</p>
 <h3>Mission</h3>
 <p>To develop students' understanding of mathematical concepts, and to help
 them to make sense of various mathematical ideas as well as their connections
