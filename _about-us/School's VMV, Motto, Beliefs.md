@@ -6,9 +6,6 @@ variant: tiptap
 ---
 <h3><strong>Vision</strong></h3>
 <p>Disciplined Learners. Principled Leaders. Compassionate Contributors.</p>
-<p>
-<br>
-</p>
 <h3><strong>Mission</strong></h3>
 <p><em>Building a caring community where everyone can thrive and is anchored by courage, optimism, respect and excellence</em>
 </p>
