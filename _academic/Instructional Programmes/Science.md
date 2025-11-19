@@ -6,7 +6,7 @@ third_nav_title: Instructional Programmes
 variant: tiptap
 ---
 <h3>Vision</h3>
-<p>Leaders for Others, Learners for Life</p>
+<p>Disciplined Learners. Principled Leaders. Compassionate Contributors.</p>
 <h3>Mission</h3>
 <p>To nurture inquisitive minds and inculcate Bartleyans with relevant Scientific
 knowledge, skills and values by providing meaningful and engaging experiences
