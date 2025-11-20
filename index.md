@@ -29,7 +29,7 @@ sections:
       description: 29 Nov 2025, 08:00am to 1:00pm
       button: Find out more
       url: https://linktr.ee/BartleySec
-      image: /images/Bartley_Sec_OH2025.png
+      image: /images/2__2_.png
       alt: Image alt text
   - infopic:
       title: 2025 Secondary 1 Posting
