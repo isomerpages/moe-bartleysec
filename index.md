@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       title: Bartley Secondary School
-      subtitle: Empowering every Bartleyan to lead with wisdom, serve with humility
-        and learn with passion.
-      background: /images/homepage1.gif
+      subtitle: Building a caring community where everyone can thrive and is anchored
+        by Courage, Optimism, Respect and Excellence.
+      background: /images/BSS_Site_Hero_background_image__10_.gif
       key_highlights:
         - title: Applied Learning Programme
           description: Chemical and Applied Sciences
@@ -29,7 +29,7 @@ sections:
       description: 29 Nov 2025, 08:00am to 1:00pm
       button: Find out more
       url: https://linktr.ee/BartleySec
-      image: /images/Bartley_Sec_OH2025.png
+      image: /images/2__2_.png
       alt: Image alt text
   - infopic:
       title: 2025 Secondary 1 Posting
