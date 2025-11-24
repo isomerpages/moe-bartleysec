@@ -73,7 +73,7 @@ variant: tiptap
 <p>Mr V S Rangen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department Student Mangement</p>
+<p>Head of Department Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Commendation Medal</p>
