@@ -10,7 +10,7 @@ sections:
       title: Bartley Secondary School
       subtitle: Building a caring community where everyone can thrive and is anchored
         by Courage, Optimism, Respect and Excellence.
-      background: /images/BSS_Site_Hero_background_image__10_.gif
+      background: /images/BSS_Site_Hero_background_image__3_.gif
       key_highlights:
         - title: Applied Learning Programme
           description: Chemical and Applied Sciences
