@@ -185,20 +185,30 @@ platforms E2 Programme (eXcite &amp; eXplore)</p>
 </ul>
 </li>
 </ul>
-<p>LOWER SEC ARTS EXPERIENTIAL PROGRAMME</p>
+<p><strong>Arts Experiential Programme Day</strong>
+</p>
+<p>The Arts Experiential Programme is a dedicated day for Secondary 1 and
+2 students focused on exposing them to diverse art forms. Through hands-on
+experiences, the programme aims to foster creativity, appreciation for
+the arts, and personal expression.</p>
+<p>The day features a blend of:</p>
+<ul>
+<li>
+<p><strong>Cohort-Based Activities:</strong> Shared arts experiences for all
+students, such as a stop-motion animation demonstration or a live vocal
+performance.</p>
+</li>
+</ul>
+<p><strong>2-Hour Workshops:</strong> Focused, hands-on sessions in various
+art disciplines like Art, Dance, Music, and Literature/Drama, allowing
+students to explore their interests.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3%20(2).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AEP.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4%20(2).jpg">
-</div>
-<p>ART EXHIBITION
+<p></p>
+<p></p>
+<p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5%20(1).jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6%20(1).jpg">
-</div>
 <p></p>
