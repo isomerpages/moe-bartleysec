@@ -244,7 +244,7 @@ variant: tiptap
 <p>HOD PE/CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Commendation Medal, 2022</p>
+<p>The Commendation Medal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
