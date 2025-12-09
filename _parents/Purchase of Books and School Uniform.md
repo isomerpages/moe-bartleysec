@@ -86,6 +86,9 @@ day for online order)</p>
 <li>
 <p>24-28 Nov 2025</p>
 </li>
+<li>
+<p>3-12 Dec 2025</p>
+</li>
 </ul>
 </td>
 </tr>
