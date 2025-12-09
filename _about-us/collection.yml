@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Welcome to Bartley Secondary School.md
       - Principal's message.md
       - School's History.md
       - School Crest and Song.md
