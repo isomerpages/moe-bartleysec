@@ -157,10 +157,8 @@ third_nav_title: Our Partners
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Garion_text.png">
-</div>
+<p><strong>Mr Garion Kong Chee Weng<br>Honorary Treasurer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -175,10 +173,8 @@ third_nav_title: Our Partners
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/su_mei_text.png">
-</div>
+<p><strong>Ms Tee Su Mei<br>Member</strong>
+</p>
 </td>
 </tr>
 </tbody>
