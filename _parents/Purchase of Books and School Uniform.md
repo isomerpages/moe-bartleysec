@@ -153,7 +153,7 @@ day for online order)</p>
 <p>Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Date (Tentative)</p>
+<p>Date</p>
 </th>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ day for online order)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>18 to 19 &nbsp;Dec 2025</p>
+<p>19 &nbsp;Dec 2025</p>
 </li>
 <li>
 <p>22 to 23 Dec 2025</p>
