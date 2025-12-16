@@ -53,18 +53,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MR TING POH LEONG, ALOYSIUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VICE-PRINCIPAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ting_poh_leong_aloysius@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ting_poh_leong_aloysius@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>MR KOH KAI HONG</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,6 +60,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_kai_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kai_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS SAIMA HANIF D/O MOHAMED HANIF</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VICE-PRINCIPAL ADMIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">saima_hanif_mohamed_hanif@schools.gov.sg</a>
 </p>
 </td>
 </tr>
