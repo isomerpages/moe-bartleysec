@@ -46,16 +46,16 @@ below:</p>
 <p>
 <br><strong>ITE Course Booklet 2026:</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/49ab6a2a-fbd3-490b-8171-c12f9d3a1fec/ITE%20Course%20Booklet%202026%201.pdf</a>
-</p>
+<p>Click <a href="/files/ITE_Course_Booklet_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the ITE course booklet.</p>
 <p><strong>JIE ITE Booklet for NT 2025:</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/1e485194-f09b-40d2-8e17-0fbfdf660a26/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf</a>
-</p>
+<p>Click <a href="/files/Admission___Course_Information_Brochure_for_GCE__N__Level_students.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the booklet</p>
 <p><strong>JIE ITE Booklet for NA 2025:</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://isomer-user-content.by.gov.sg/145/e749bab7-af37-48cd-b099-10ea2eeda530/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf</a>
-</p>
+<p>Click <a href="/files/Admission___Course_Information_Brochure_for_GCE__N__Level_students.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the booklet</p>
 <p><strong>What's Next after N-Levels 2025:</strong>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
@@ -66,8 +66,8 @@ below:</p>
 </p>
 <p><strong>JAE Booklet for EXP 2025:</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf</a>
-</p>
+<p>Click <a href="/files/2026_JAE_Courses.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the booklet</p>
 <p><strong>What's Next after O-Levels 2025:</strong>
 </p>
 <p>Pending</p>
