@@ -166,7 +166,7 @@ the books after confirming your decision.&nbsp;</p>
 <p>22 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen</p>
+<p>School Canteen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 a.m. – 3 p.m.&nbsp;</p>
