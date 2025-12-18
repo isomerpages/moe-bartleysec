@@ -113,7 +113,7 @@ books and uniform for their child/ward.&nbsp;</p>
 <p>Flat fee at $11.99 includes GST</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
