@@ -26,8 +26,8 @@ child/ward to look through before the start of the academic year on Friday,
 2 January 2026.</p>
 <p><strong>&nbsp;2.&nbsp; Welcome Message by Principal&nbsp;</strong>
 </p>
-<p>&nbsp;2.1. Please click here <em>(link would be up soon!)</em> to view a
-welcome message by our Principal.</p>
+<p>&nbsp;2.1. Please click <a href="https://drive.google.com/file/d/140-PggN2vy9S6aVAqBZ4mwFtdut8Mbwa/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+view a welcome message by our Principal.</p>
 <p>&nbsp;<strong>3.&nbsp; Administrative Information for Students</strong>
 </p>
 <p>&nbsp;3.1. We have prepared an information sheet for Secondary 1 students
