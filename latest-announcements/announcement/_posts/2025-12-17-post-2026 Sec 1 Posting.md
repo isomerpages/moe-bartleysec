@@ -28,9 +28,7 @@ child/ward to look through before the start of the academic year on Friday,
 </p>
 <p>&nbsp;2.1. Please click here <em>(link would be up soon!)</em> to view a
 welcome message by our Principal.</p>
-<p>&nbsp;2.1. Please click here <em>(link would be up soon!) f</em>or the
-deck of slides.</p>
-<p><strong>&nbsp;&nbsp;3.&nbsp; Administrative Information for Students</strong>
+<p>&nbsp;<strong>3.&nbsp; Administrative Information for Students</strong>
 </p>
 <p>&nbsp;3.1. We have prepared an information sheet for Secondary 1 students
 to help them prepare for the start of a new school year. Students are to
