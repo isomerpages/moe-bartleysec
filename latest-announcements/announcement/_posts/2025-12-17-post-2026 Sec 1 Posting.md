@@ -73,11 +73,12 @@ outcome by the school.&nbsp; Late application or appeal must be done before <str
 For more information, please contact HOD/Mother Tongue Languages, Mdm Hamidah
 Salleh at <a href="mailto:hamidah_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hamidah_salleh@moe.edu.sg</u></a> for
 more details.</p>
-<p>
-<br><strong>8 .&nbsp; Book and Uniform Purchase</strong>
+<p><strong>8 .&nbsp; Book and Uniform Purchase</strong>
 </p>
-<p>&nbsp;8.1. The school offers two main options for parents/guardians to
-purchase books and uniform for their child/ward.&nbsp;</p>
+<p>8.1. If your child/ward receives an offer for subject(s) at a more demanding
+level, you are advised to purchase the books after confirming your decision.&nbsp;</p>
+<p>8.2. The school offers two main options for parents/guardians to purchase
+books and uniform for their child/ward.&nbsp;</p>
 <p><strong>Online order:</strong>
 </p>
 <p>Please<strong> </strong>place your <strong>order online by Sunday, 21 December 2025.</strong>
@@ -131,9 +132,7 @@ purchase books and uniform for their child/ward.&nbsp;</p>
 </table>
 <p><strong>Walk-in:</strong>
 </p>
-<p>You may walk-in to school to make your purchase. If your child/ward receives
-an offer for subject(s) at a more demanding level, you are advised to purchase
-the books after confirming your decision.&nbsp;</p>
+<p></p>
 <p>The following is the opening hours of our school bookshop in December
 2025.&nbsp;</p>
 <table style="minWidth: 75px">
