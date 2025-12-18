@@ -187,7 +187,6 @@ books and uniform for their child/ward.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 a.m. – 3 p.m.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -199,7 +198,6 @@ books and uniform for their child/ward.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 a.m. –3 p.m.</p>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -250,7 +248,7 @@ before collecting his/her books and uniform. Online purchase is not applicable.<
 </p>
 <p>9.1. To seek transfer to Bartley Secondary School (non-medical), please
 click <a href="https://go.gov.sg/bartleysec1appeal" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-fill in and submit this form by <strong>Friday, 26 December 2025, 12pm.</strong>
+fill in and submit this form by <strong>Friday, 26 December 2025, 12pm. </strong>
 </p>
 <p>9.2. For queries related to school transfer, please contact the school
 at 6288 9013 from Friday, 19 December&nbsp; 2025, 10 a.m. to Monday, 22
