@@ -60,13 +60,19 @@ survey form – refer to paragraph 1.2.</p>
 download the slides for information on Centre-based MOE Art Elective Programme
 (AEP) and Music Elective Programme (MEP)</p>
 <p>6.2.&nbsp; &nbsp; Please click <a href="/files/AEP_Annex_and_Information_Package.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download
-the AEP Annex and Information Package</p>
+the AEP Annex and Information Package to find out more about the AEP curriculum
+and the application process. The application period is from <strong>2 to 15 Jan 2026</strong>.</p>
 <p>6.3.&nbsp; &nbsp; Please click <a href="/files/MEP_Annex_and_Information_Package.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download
-the MEP Annex and Information Package&nbsp;</p>
+the MEP Annex and Information Package to find out more about the AEP curriculum
+and the application process. The application period is from <strong>2 to 15 Jan 2026</strong>.</p>
 <p><strong>7. &nbsp; &nbsp; &nbsp; Asian Languages Information [C(SP), M(SP), BI or Arabic] 2026</strong>
 </p>
-<p>7.1.&nbsp; Sec 1 students who intend to apply should consult HOD/Mother
-Tongue Languages, Mdm Hamidah Salleh.</p>
+<p>7.1.&nbsp; Sec 1 students who are eligible and took up the offer of Asian
+Languages would be informed by the school on the outcome of their application.
+Late application/Appeal must be done before <strong>16 January 2026</strong>.
+For more information please contact HOD/Mother Tongue Languages, Mdm Hamidah
+Salleh at <a href="mailto:hamidah_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hamidah_salleh@moe.edu.sg</u></a> for
+more details.</p>
 <p><strong>8 .&nbsp; Book and Uniform Purchase</strong>
 </p>
 <p>&nbsp;8.1. The school offers two main options for parents/guardians to
