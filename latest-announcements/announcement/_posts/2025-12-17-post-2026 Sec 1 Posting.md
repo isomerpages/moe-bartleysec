@@ -65,7 +65,7 @@ and the application process. The application period is from <strong>2 to 15 Jan 
 <p>6.3.&nbsp; &nbsp; Please click <a href="/files/MEP_Annex_and_Information_Package.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download
 the MEP Annex and Information Package to find out more about the AEP curriculum
 and the application process. The application period is from <strong>2 to 15 Jan 2026</strong>.</p>
-<p><strong>7. &nbsp; &nbsp; &nbsp; Asian Languages Information [C(SP), M(SP), BI or Arabic] 2026</strong>
+<p><strong>7. &nbsp; &nbsp; &nbsp; Asian Languages Information [Chinese(Special Programme) C(CSP), Malay(Special Programme) M(SP), Bahasa Indonesia (BI) or Arabic] 2026</strong>
 </p>
 <p>7.1.&nbsp; Secondary 1 students who are eligible for and have accepted
 the offer to study Asian Languages will be informed of their application
@@ -248,7 +248,7 @@ before collecting his/her books and uniform. Online purchase is not applicable.<
 </p>
 <p>9.1. To seek transfer to Bartley Secondary School (non-medical), please
 click <a href="https://go.gov.sg/bartleysec1appeal" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-fill in and submit this form by <strong>Friday, 26 December 2025, 12pm. </strong>
+fill in and submit this form by <strong>Friday, 26 December 2025, 12pm.</strong>
 </p>
 <p>9.2. For queries related to school transfer, please contact the school
 at 6288 9013 from Friday, 19 December&nbsp; 2025, 10 a.m. to Monday, 22
