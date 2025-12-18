@@ -67,13 +67,14 @@ the MEP Annex and Information Package to find out more about the AEP curriculum
 and the application process. The application period is from <strong>2 to 15 Jan 2026</strong>.</p>
 <p><strong>7. &nbsp; &nbsp; &nbsp; Asian Languages Information [C(SP), M(SP), BI or Arabic] 2026</strong>
 </p>
-<p>7.1.&nbsp; Secondary 1 students who are eligible and took up the offer
-of Asian Languages would be informed by the school on the outcome of their
-application. Late application/Appeal must be done before <strong>16 January 2026</strong>.
-For more information please contact HOD/Mother Tongue Languages, Mdm Hamidah
+<p>7.1.&nbsp; Secondary 1 students who are eligible for and have accepted
+the offer to study Asian Languages will be informed of their application
+outcome by the school.&nbsp; Late application or appeal must be done before <strong>16 January 2026</strong>.
+For more information, please contact HOD/Mother Tongue Languages, Mdm Hamidah
 Salleh at <a href="mailto:hamidah_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hamidah_salleh@moe.edu.sg</u></a> for
 more details.</p>
-<p><strong>8 .&nbsp; Book and Uniform Purchase</strong>
+<p>
+<br><strong>8 .&nbsp; Book and Uniform Purchase</strong>
 </p>
 <p>&nbsp;8.1. The school offers two main options for parents/guardians to
 purchase books and uniform for their child/ward.&nbsp;</p>
