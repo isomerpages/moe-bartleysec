@@ -79,8 +79,13 @@ level, you are advised to purchase the books after confirming your decision.&nbs
 books and uniform for their child/ward.&nbsp;</p>
 <p><strong>Online order:</strong>
 </p>
-<p>Please<strong> </strong>place your <strong>order online by Sunday, 21 December 2025.</strong>
+<p>Please<strong> </strong>place your <strong>order online </strong>via the
+vendor’s online portal&nbsp;<strong><a href="https://asenciobookshop.sg/shop/" rel="noopener noreferrer nofollow" target="_blank"><u>www.asenciobookshop.sg</u></a> by Sunday, 21 December 2025.</strong>
 </p>
+<p>Please note that all parents need to register before they can do online
+purchase. Upon registration, please indicate <strong>The default Class/Centre info</strong> as <strong>Sec 1.</strong>
+</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -204,7 +209,10 @@ books and uniform for their child/ward.&nbsp;</p>
 <p>8.2. For parent/guardian who has applied for MOE Financial Assistance
 Scheme (FAS) for your child/ward, you are required to bring along the letter
 of approval for FAS and show it to the staff at the General Office&nbsp;
-before collecting his/her books and uniform. Online purchase is not applicable.</p>
+before collecting his/her books and uniform. Online purchase is not applicable.
+For parents who would like to apply for financial assistance for their
+child, they may submit their application online. <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
 <p>8.3. Please note the required school attire for students on a daily basis.&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
