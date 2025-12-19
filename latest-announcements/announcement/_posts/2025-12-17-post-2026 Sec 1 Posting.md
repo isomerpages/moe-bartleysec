@@ -79,8 +79,13 @@ level, you are advised to purchase the books after confirming your decision.&nbs
 books and uniform for their child/ward.&nbsp;</p>
 <p><strong>Online order:</strong>
 </p>
-<p>Please<strong> </strong>place your <strong>order online by Sunday, 21 December 2025.</strong>
+<p>Please<strong> </strong>place your <strong>order online </strong>via the
+vendor’s online portal&nbsp;<strong><a href="https://asenciobookshop.sg/shop/" rel="noopener noreferrer nofollow" target="_blank"><u>www.asenciobookshop.sg</u></a> by Sunday, 21 December 2025.</strong>
 </p>
+<p>Please note that all parents need to register before they can do online
+purchase. Upon registration, please indicate <strong>The default Class/Centre info</strong> as <strong>Sec 1.</strong>
+</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
