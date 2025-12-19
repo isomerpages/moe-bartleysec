@@ -262,7 +262,19 @@ December 2025, 5pm.</p>
 <p>9.3. For medical reasons, please contact the posted secondary school directly.
 The deadline to seek transfer of school based on medical reason is Monday, <strong>22 December 2025, 12pm.</strong>
 </p>
-<p><strong>&nbsp;10.&nbsp; Q&amp;A</strong>
+<p><strong>10.&nbsp; Class Assignment</strong>
+</p>
+<p>We would like to inform you that the current class assignments visible
+in the system have been automatically generated as part of the initial
+setup process for the new academic year.</p>
+<p>Please note that these assignments are provisional and not yet confirmed
+by the school. Once the class assignments are finalized, parents will receive
+an official PG message from the school confirming their child’s class placement.
+We kindly request parents to refer only to this official communication
+as the final confirmation.</p>
+<p>Thank you for your understanding and cooperation.</p>
+<p></p>
+<p><strong>11.&nbsp; Q&amp;A</strong>
 </p>
 <p>Parent/Guardian may submit your questions by clicking <a href="https://go.gov.sg/enquiry2025" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a> We
 will answer your queries within 3 working days. Alternatively, you may
