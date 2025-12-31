@@ -428,91 +428,6 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SENIOR TEACHERS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>EMAIL ADDRESS</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST CHEMISTRY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS LEO MINYIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leo_minyin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST MATHEMATICS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM TEO OI MEI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Teo_Oi_Mei@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST EDUCATIONAL SUPPORT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR FINIAN SEAH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seah_yang_how_finian@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST SOCIAL STUDIES</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR TAN CHEE KEONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_chee_keong_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ST TAMIL LANGUAGE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR ISACK KUMAR LOUIS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">isack_kumar_louis@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -722,7 +637,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -969,10 +883,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1168,7 +1079,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -1415,7 +1325,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1541,7 +1450,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT MANAGER</p>
+<p>ICT ASSOCIATE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR MUHD ILYIA KAMSAI</p>
