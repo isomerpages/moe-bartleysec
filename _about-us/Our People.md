@@ -623,18 +623,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 COURAGE 7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR NICHOLAS CHAN TSZ KIN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_tsz_kin_nicholas@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
