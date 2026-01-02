@@ -763,7 +763,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 OPTIMISM 6</p>
+<p>2 OPTIMISM 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS NURUL NADHIRAH</p>
@@ -787,7 +787,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 OPTIMISM 7</p>
+<p>2 OPTIMISM 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM CHAN HWEE PING</p>
@@ -1241,7 +1241,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 EXCELLENCE 6</p>
+<p>4 EXCELLENCE 7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS MAISARAH HARON</p>
@@ -1403,6 +1403,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">jalene_yeo_shu_ling_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS YAP BEE HONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_bee_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_bee_hong@schools.gov.sg</a>
 </p>
 </td>
 </tr>

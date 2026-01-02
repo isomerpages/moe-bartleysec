@@ -4,18 +4,17 @@ permalink: /school-insurance-for-students/
 variant: tiptap
 description: ""
 ---
-<p>1) The 2025 product factsheet for the NTUC Income Group Personal Accident
+<p>1) The 2026 product factsheet for the NTUC Income Group Personal Accident
 (GPA) Insurance Plan for Students is attached for reference.</p>
-<p>Please click <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here</a> here
-to download GPA Product Fact Sheet 2025</p>
-<p>Please <a href="https://www.bartleysec.moe.edu.sg/files/2023%20Student%20GPA%20User%20Guide%20-%20Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-download the Student GPA User Guide for Parent.</p>
-<p>2) From 2025, it is <strong>mandatory</strong> that MOE GPA insurance claims
+<p>Please click <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download GPA Product Fact Sheet 2026.</p>
+<p>Please click&nbsp;<a href="/files/Sample_PG_Template_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download the
+Student GPA User Guide for Parent.</p>
+<p>2) From 2026, it is <strong>mandatory</strong> that MOE GPA insurance claims
 submission are to be submitted online at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>.
 The electronic submission allows parents/students to check the claims status
 through the online portal and also expedites the claims processing by Income
 Insurance Ltd (Income).</p>
-<p></p>
 <p>3) Schools are required to verify the claims information and access the
 claims records through the online portal.&nbsp;</p>
 <p>Please note that:
