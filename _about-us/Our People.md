@@ -763,7 +763,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 OPTIMISM 6</p>
+<p>2 OPTIMISM 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS NURUL NADHIRAH</p>
@@ -787,7 +787,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 OPTIMISM 7</p>
+<p>2 OPTIMISM 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM CHAN HWEE PING</p>
