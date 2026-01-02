@@ -1241,7 +1241,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 EXCELLENCE 6</p>
+<p>4 EXCELLENCE 7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS MAISARAH HARON</p>
