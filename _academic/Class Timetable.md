@@ -5,16 +5,12 @@ variant: tiptap
 description: ""
 ---
 <p>Dear students,</p>
+<p>Our 2026 timetable is currently being finalized; please check back shortly
+for the latest updates. Thank you.</p>
 <p></p>
-<p>Please click on the links below to download the Class Timetable for Semester
-2 2025.</p>
-<p><a href="/files/Sec_1_Class_Timetable_Sem_2_2025__Website____27_Jun_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-</p>
-<p><a href="/files/Sec_2_Class_Timetable_Sem_2_2025__Website____27_Jun_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
-</p>
-<p><a href="/files/Sec_3_Class_Timetable_Sem_2_2025__Website____27_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
-</p>
-<p><a href="/files/Sec_4___5_Class_Timetable_Sem_2_2025__Website____27_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
-</p>
+<p>Sec 1</p>
+<p>Sec 2</p>
+<p>Sec 3</p>
+<p>Sec 4 &amp; 5</p>
 <p></p>
 <p></p>
