@@ -4,39 +4,13 @@ permalink: /termly-letters/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2025 Term 4 Letters</strong></h4>
-<p><a href="/files/2025_T4_Principal_s_Letter_to_Parents_Sec_1.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Principal's Letter to Sec 1 Parents</a>
+<h4><strong>2026 Term 1 Letters</strong></h4>
+<p><a href="/files/2026_T1_Sec_1_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Principal's Letter to Sec 1 Parents</a>
 </p>
-<p><a href="/files/2025_T4_Principal_s_Letter_to_Parents_Sec_2.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Principal's Letter to Sec 2 Parents</a>
+<p><a href="/files/2026_T1_Sec_2_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Principal's Letter to Sec 2 Parents</a>
 </p>
-<p><a href="/files/2025_T4_Principal_s_Letter_to_Parents_Sec_3.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Principal's Letter to Sec 3 Parents</a>
+<p><a href="/files/2026_T1_Sec_3_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Principal's Letter to Sec 3 Parents</a>
 </p>
-<p><a href="/files/2025_T4_Principal_s_Letter_to_Parents_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Principal's Letter to Sec 4 and 5 Parents</a>
+<p><a href="/files/2026_T1_Sec_4_and_5_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2026 Term 4 Principal's Letter to Sec 4 and 5 Parents</a>
 </p>
-<h4><strong>2025 Term 3 Letters</strong></h4>
-<p><a href="/files/2025_T3_Principal_s_Letter_to_Parents_S1_Updated.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Principal's Letter to Sec 1 Parents</a>
-</p>
-<p><a href="/files/2025_T3_Principal_s_Letter_to_Parents_S2.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Principal's Letter to Sec 2 Parents</a>
-</p>
-<p><a href="/files/2025_T3_Principal_s_Letter_to_Parents_S3.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Principal's Letter to Sec 3 Parents</a>
-</p>
-<p><a href="/files/2025_T3_Principal_s_Letter_to_Parents_S4S5.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Principal's Letter to Sec 4 and 5 Parents</a>
-</p>
-<h4><strong>2025 Term 2 Letters</strong></h4>
-<p><a href="/files/2025_T2_Secondary_One_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Principal's Letter to Sec 1 Parents</a>
-</p>
-<p><a href="/files/2025_T2_Secondary_Two_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Principal's Letter to Sec 2 Parents</a>
-</p>
-<p><a href="/files/2025_T2_Secondary_Three_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Principal's Letter to Sec 3 Parents</a>
-</p>
-<p><a href="/files/2025_T2_Secondary_Four_and_Five_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Principal's Letter to Sec 4 and 5 Parents</a>
-</p>
-<h4><strong>2025 Term 1 Letters</strong></h4>
-<p><a href="/files/2025_T1_Seconday_One_Principal_s_Letter_to_Parents_.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Principal's Letter to Sec 1 Parents</a>
-</p>
-<p><a href="/files/2025_T1_Secondary_Two_Principal_s_Letter_to_Parents_.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Principal's Letter to Sec 2 Parents</a>
-</p>
-<p><a href="/files/2025_T1_Secondary_Three_Principal_s_Letter_to_Parents_.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Principal's Letter to Sec 3 Parents</a>
-</p>
-<p><a href="/files/2025_T1_Secondary_Four_and_Five_Principal_s_Letter_to_Parents__updated.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Principal's Letter to Sec 4 and 5 Parents</a>
-</p>
+<p></p>
