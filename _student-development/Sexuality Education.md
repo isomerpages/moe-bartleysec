@@ -76,7 +76,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>Click <a href="/files/2026_Info_on_SEd_for_schs_website__Secondary_Schools__lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/2026_Info_on_SEd_for_schs_website__Secondary_Schools__lessons_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Sexuality Education lessons that will be taught in 2026.</p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
