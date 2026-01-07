@@ -41,16 +41,16 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
-on MOE Sexuality Education.</p>
+<p>&nbsp;You may click <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+more information on MOE Sexuality Education.</p>
 <p><strong>&nbsp;Overview of Bartley Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
-information on the scope of Sexuality Education in the school curriculum.</p>
+Law. You may click <strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
 on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp; Science</p>
@@ -76,7 +76,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>Click <a href="/files/2026_Info_on_SEd_for_schs_website__Secondary_Schools__lessons_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <strong><a href="/files/2026_Info_on_SEd_for_schs_website__Secondary_Schools__lessons__.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> </strong>to
 view the Sexuality Education lessons that will be taught in 2026.</p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
@@ -170,12 +170,12 @@ education programmes by MOE-approved external providers.</p>
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also available<strong> <a href="/files/Annex_A_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed form is to be submitted by 13/03/2026.</p>
+The completed form is to be submitted by 14/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
 the year and is also available <strong><a href="/files/Annex_B_2026.pdf" rel="noopener nofollow" target="_blank">here</a></strong>.&nbsp;The
-completed form is to be submitted by 13/03/2026.</p>
+completed form is to be submitted by 14/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6288
 9013 or <a rel="noopener noreferrer nofollow" target="_blank">bartley_ss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
