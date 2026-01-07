@@ -8,11 +8,11 @@ description: ""
 <p>Please click on the links below to download the 2026 timetable. Thank
 you.</p>
 <p></p>
-<p><a href="https://drive.google.com/file/d/18Zc2b_IdHPr7XaOc2iht8qRQ1XVGGOIC/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="https://drive.google.com/file/d/10ycZYrbDZzGify6L3hvV7ch90nrwv-pX/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 1 (updated 7 Jan)</a>
 </p>
-<p><a href="https://drive.google.com/file/d/105tt5PR_UzraTo9aGVLgZnca7I8GpOKe/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="https://drive.google.com/file/d/1OzzvjOw24ZfJfCStvjAm1Vis5a9omS8i/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 2 (updated 7 Jan)</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1yXds4pHvuW5PtCMX64YAyOOuBs_FKsk7/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="https://drive.google.com/file/d/1OYxQhhvStT5KbRGword-7jX0UJa-esVc/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 3 (updated 7 Jan)</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1-igxzeNSouZfFbTXkvLgRgRdCAQAlxgV/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
