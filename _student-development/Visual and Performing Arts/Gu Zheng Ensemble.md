@@ -9,12 +9,12 @@ variant: tiptap
 <p>To promote Gu Zheng as a traditional Chinese instrument and nurture our
 members to appreciate Oriental music</p>
 <p><strong>CCA Teacher IC:</strong> 
-<br>Ms Leo Min Yin
+<br>Ms Rachel Eng
 <br>
 </p>
 <p><strong>CCA Teachers:</strong> 
 <br>Mdm Yang Huiqin
-<br>Ms Guo Xu</p>
+<br>Mr Jason Koh</p>
 <p><strong>About our CCA</strong> 
 <br>Bartley Guzheng Ensemble was established since 1997, has embarked on the
 journey of musicianship, armed with respect, integrity, passion and excellence.
