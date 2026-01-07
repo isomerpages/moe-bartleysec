@@ -33,7 +33,7 @@ variant: tiptap
 <p>Malay Mixed Rice Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 January 2026</p>
+<p>16 February 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nasi Briyani, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Nasi Sambal Goreng,
