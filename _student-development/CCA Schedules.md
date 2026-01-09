@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Training Dates of Various CCAs</h3>
-<p><a href="/files/2025_CCA_Teachers__Venue_and_Time_To_Print_updated.pdf" rel="noopener nofollow" target="_blank">CCA Schedule 2025</a>
-</p>
 <p></p>
+<p><a href="/files/2026_CCA_Teachers__Venue_and_Time.pdf" rel="noopener nofollow" target="_blank">CCA Schedule 2026</a>
+</p>
 <p><em>Click on the link above to view the training dates as well as CCA teachers' contact details.</em>
 </p>
