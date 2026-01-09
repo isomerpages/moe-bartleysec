@@ -62,12 +62,13 @@ download the booklet</p>
 </p>
 <p><strong>JIE / JAE ITE Booklet for EXP 2025:</strong>
 </p>
-<p><em>Pending</em>
-</p>
+<p>Click <a href="https://isomer-user-content.by.gov.sg/145/ff6ade19-0d2d-4996-b513-1abf839ea910/25110056_ITE25_7516 ITE GCE O-Level-c2.pdf" rel="noopener nofollow" target="_blank">here</a> to
+download the booklet</p>
 <p><strong>JAE Booklet for EXP 2025:</strong>
 </p>
 <p>Click <a href="/files/2026_JAE_Courses.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download the booklet</p>
 <p><strong>What's Next after O-Levels 2025:</strong>
 </p>
-<p>Pending</p>
+<p>Click <a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
