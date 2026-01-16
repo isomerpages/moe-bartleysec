@@ -5,88 +5,193 @@ variant: tiptap
 description: ""
 third_nav_title: Assessment Matters
 ---
-<h1>Assessment Plan and Policy 2025</h1>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Ministry of Education announced
-in Sept 2018 changes to school-based assessment to shift away from over-emphasis
-on examinations and grades, and help students discover the joy of learning.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In tandem with these changes, there
-will be only one weighted assessment per subject per term that counts towards
-the year-end overall score.&nbsp; The school will undertake a range of
-formative assessment (e.g. pop quizzes, worksheets, seat work and homework)
-and reporting (e.g. termly and semestral progress reports) to inform and
-support student learning.&nbsp;</p>
-<p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;In addition, there
-will be no mid-year examination for all levels.</p>
-<p><strong><u>Attendance Policy</u></strong>
+<h1>Assessment Plan and Policy 2026</h1>
+<p>1. The Ministry of Education announced in 2018 changes to school-based
+assessment to shift away from over-emphasis on examinations and grades,
+and help students discover the joy of learning.</p>
+<p>2. In tandem with these changes, there will be only one weighted assessment
+per subject per term that counts towards the year-end overall score.&nbsp;
+The school will undertake a range of formative assessment (e.g. pop quizzes,
+worksheets and homework) and reporting (e.g. termly and semestral progress
+reports) to inform and support student learning.&nbsp;</p>
+<p>3. In addition, there will be no mid-year examination for all levels.</p>
+<p>4.<strong> Absence from Weighted Assessment (WA) and Examinations</strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our teachers work hard to ignite
-passion and joy for learning in our students through meaningful and engaging
-learning experiences. Students can only benefit fully from these &nbsp;learning
-experiences by being present, punctual and active in class.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every single day a child is absent
-from school is a day of learning lost.&nbsp; Parents are to note the start
-and end dates of each term in the academic year.&nbsp; All students are
-expected to be present and to attend lessons during term time, as well
-as all other school activities that have been planned for them.</p>
-<p>&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A student’s attendance and
-punctuality are recorded in his/her academic report (termly and semestral)
-as the number of school days present and instances of late coming.&nbsp;</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who did not attain at
-least a 75% in attendance may not be allowed to sit for exams.&nbsp; Please
-note that absence from school shall be permitted when it is supported by
-a Medical Certificate (MC) or Parents Letter covering 4 days per semester
-only stating special reasons other than medical.</p>
-<p><strong><u>Absence from Weighted Assessment (WA) and Examinations</u></strong>
+<p>4.1. Absence from WA due to medical reasons.</p>
+<p>Students must produce a Medical Certificate (MC) from a doctor registered
+with the Singapore Medical Council so that the WA can be reflected as Valid
+Reason (VR). The MC must cover the date(s) of assessment that the student
+had missed, indicating the diagnosis and that the student is unfit for
+the assessment, and should be submitted to his/her Form Teacher as soon
+as the student returns to school. Upon receipt of the medical certificate,
+the status of the assessment grade will be reflected as “MC”. Proration
+of marks, based on the other weighted assessments for the year, will be
+computed and reflected in the progress report accordingly.&nbsp;</p>
+<p>&nbsp;4.2. Absence from WA due to non-medical reasons:</p>
+<p>For non-medical reasons (for e.g. bereavement in the family), students
+must notify the school of their absence through the Form Teacher at the
+earliest possible time.&nbsp; If the reason is accepted, the student must
+submit a parent’s letter accompanied by relevant supporting documents (e.g.,
+death certificate, official appointment letter) immediately upon their
+return to school. Once verified, the assessment status will be reflected
+as VR. Proration of marks, based on the other weighted assessments for
+the year, will be computed and reflected in the progress report accordingly&nbsp;</p>
+<p>4.3.&nbsp; A student without a medical certificate or a valid reason will
+be given&nbsp;<strong><u>zero mark</u></strong>&nbsp;for the paper that
+he/she has missed. The status of the assessment grade will be reflected
+as Absent (AB). Letters from parents without supporting documents will
+not be accepted.<s>&nbsp;</s>
 </p>
-<p></p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If a student is unwell on the day
-of an assessment, he/she has to consult a doctor and get a medical certificate
-for the day of absence. The medical certificate must be submitted to the
-Form Teacher immediately when the student returns to school. Upon receipt
-of the medical certificate, the status of the assessment grade will be
-reflected as “MC”. Proration of marks, based on the other weighted assessments
-for the year, will be computed and reflected in the progress report accordingly.
-Only medical certificates issued by doctors registered with the Singapore
-Medical Council are accepted.&nbsp;</p>
-<p>&nbsp;9. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For non-medical reasons, students
-are expected to notify the school of their absence through the Form Teacher
-at the earliest possible time. If the reason is accepted, the status of
-the assessment grade will be reflected as “VR” and proration of marks,
-based on the other weighted assessments for the year, will be computed
-and reflected in the progress report accordingly.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A student without a medical certificate
-or a valid reason will be given <strong><u>zero mark</u></strong> for the
-paper that he/she has missed. Letters from parents will not be accepted.
-This is to maintain the authenticity of the test/examination papers and
-to ensure fairness for all students who have prepared and sat for the papers.
-While there is no retest or make-up test, students who are absent from
-the WAs/ examination will be given the paper for practice when he/she returns
-to school.</p>
-<p>&nbsp;11. &nbsp;&nbsp;&nbsp;&nbsp; WAs and examinations are important
-checkpoints for students to gauge their learning progress and for teachers
-to identify learning gaps and conduct remediation. Students are expected
-to put in effort to prepare and revise for the assessment and be present
-on days of assessment. Students who miss more than 25% of the assessment
-for any subject in a year will not be eligible for school-based academic
-awards.</p>
-<p>&nbsp;<strong><u>Parents’/Guardian’s Support</u></strong>
+<p>4.4. While there is no retest or make-up test, students who are absent
+from the WAs/ examination will be given the paper for practice when they
+return to school.</p>
+<p>4.5. WAs and examinations are important checkpoints for students to gauge
+their learning progress and for teachers to identify learning gaps and
+conduct remediation. Students are expected to put in effort to prepare
+and revise for the assessment and be present on days of assessment. Students
+who miss more than 25% of the assessment for any subject in a year will
+not be eligible for school-based academic awards.</p>
+<p>4.6. The school reserves the right to decide on the pro-ration of marks
+should the student be absent for parts of the paper, or one or more papers
+for a subject.&nbsp;</p>
+<p>4.7. In the event that the marks have been pro-rated, due to a valid reason,
+the student will not qualify for the position of ‘Top in Subject’.</p>
+<p>4.8. <strong>Assessment policy for New Admission/Returning Singaporeans&nbsp;</strong>
 </p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school firmly believes in a tripartite
-partnership where parents work closely with the school to nurture and ensure
-that our students obtain the best possible start in life and learn the
+<p>To allow for transition and sufficient time to bridge learning gaps, WAs
+for new admissions or returning Singaporeans will only be counted 4 weeks
+from their date of entry.</p>
+<p>For example, if the student joins the school in week 3, WAs will only
+be counted from Week 7 onwards:&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School curriculum week</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week of Admission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Status</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Receive instructions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Receive instructions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Receive instructions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Receive instructions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 5 onwards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WAs are counted for grading</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note: This policy applies only to new admission from other education systems. For situations where a student is transferred from another MOE school, policy may not apply.</em>&nbsp;</p>
+<p>5.<strong> Alternative Assessment (AA)</strong>
+</p>
+<p>5.1. The school conducts AA such as project work and practical, to provide
+opportunities for students to demonstrate their learning that cannot be
+directly or meaningfully assessed with just pen-and-paper tests. Through
+AA, students are able to demonstrate their learning such as presenting
+their viewpoints using different modes of presentation, develop their research
+skills, confidence and motivation to learn.&nbsp;</p>
+<p>5.2.&nbsp; <strong>Adherence to submission deadlines for AA tasks is mandatory</strong>.&nbsp;</p>
+<p>Students may submit work up to seven calendar days after the deadline;
+however, these late submissions will incur a 5% deduction from the total
+possible mark. Any work submitted beyond this seven-day window will be
+classified as non-submission and awarded a mark of zero.</p>
+<p>6. <strong>Academic Integrity</strong>
+</p>
+<p>6.1. All AA tasks submitted must be the unaided work of the student. Students
+are required to act with integrity by producing their own work, attributing
+ideas and information to original authors, acknowledge assistance and effort
+of others, and not passing off the work of others’ as one’s own.&nbsp;</p>
+<p>6.2. Students must acknowledge sources of information used in their work,
+and this includes the use of generative Artificial Intelligence (AI)<em>. </em>Instructions
+for citing sources, including generative AI, can be found in this <a href="https://drive.google.com/file/d/1GWuXu-IhmAwTaBk-MO1eUmZq4BuY7lLz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>.</p>
+<p>6.3 Use of AI at <strong>Lower Secondary</strong>: At this stage, students
+are still learning to take greater ownership in the use of AI to support
+their own learning. Thus, the use of generative<em> AI is only permitted when allowed and under the guidance by the subject teacher. </em>If
+used, students <strong>must</strong> provide in-text citations and a full
+transcript of prompts in the bibliography.</p>
+<p>6.4. Use of AI at <strong>Upper Secondary</strong>: At this stage, students
+are expected to apply their knowledge of the ethical and responsible use
+of AI.&nbsp; Students may use generative AI tools <strong>only when allowed by the subject teacher</strong>.
+If used, students <strong>must</strong> provide in-text citations and a full
+transcript of prompts in the bibliography.</p>
+<p>6.5. Any student who attempts to pass off content that was generated by
+AI as one’s own work will be considered as having committed an act of plagiarism
+or cheating. For assignments or assessments, zero marks will be awarded
+for the work, and the student will face disciplinary consequences.&nbsp;&nbsp;</p>
+<p><strong>7.&nbsp;Parents’/Guardian’s Support</strong>
+</p>
+<p>The school firmly believes in a tripartite partnership where parents work
+closely with the school to nurture and ensure that our students learn the
 right values, skills, attitudes and behaviours. Hence, parents should notify
-the school the reason for their child’s/ward’s absence and highlight any
-areas of concern they may have so that these can be addressed promptly.&nbsp;</p>
-<p>&nbsp;13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We appreciate your assistance
-in ensuring that your child/ward does the necessary preparation and revision
-for the components that he/she will be assessed on.</p>
-<p>&nbsp;</p>
-<p>&nbsp;<strong><u>Assessment Weighting</u></strong>
+the school of the reason for their child’s/ward’s absence and highlight
+any areas of concern they may have so that these can be addressed promptly.&nbsp;</p>
+<p>8. We appreciate your assistance in ensuring that your child/ward does
+the necessary preparation and revision for the components that he/she will
+be assessed on.</p>
+<p><strong>9. Assessment Weighting</strong>
 </p>
-<p>14. Please see below for the assessment weighting for Secondary 1 to 3
-for the academic year 2024. <em>Assessment weighting applies for all subjects unless otherwise stated.</em>
+<p>9.1. Please see below for the assessment weighting for Secondary 1 to
+3 for the academic year 2026.&nbsp;<em>Assessment weighting applies for all subjects unless otherwise stated.</em>
 </p>
-<h4><strong>Assessment Weighting For Secondary 1&nbsp;</strong></h4>
+<p><strong>Assessment Weighting for Secondary 1&nbsp;</strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -137,7 +242,8 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;&nbsp;Assessment Weighting for Secondary 1 modular subjects</u></strong>
+<p>
+<br><strong>Assessment Weighting for Secondary 1 modular subjects</strong>
 </p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -150,17 +256,15 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="6">
-<p><strong>Food &amp; Consumer Education [Semester 1]</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Subject</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Term 1</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Term 2</strong>
 </p>
 </td>
@@ -179,75 +283,36 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15%</p>
+<p><strong>FCE (Sem 1)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>70%</p>
-<p>SA Applied Module*</p>
+<p>85%&nbsp;</p>
+<p>(15% WA + 70% SA Applied Module*)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>N/A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>100%</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p><em>*SA Applied Module – Semestral Assessment Applied Module (Project Work)</em>
-</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="4">
-<p><strong>Design and Technology [Semester 2]</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Term 1</strong>
+<p><strong>D&amp;T (Sem 2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 2</strong>
-</p>
+<p>N/A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Total</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
+<p>N/A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15%</p>
@@ -261,10 +326,11 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;&nbsp;</strong>
+<p><em>*SA Applied Module – Semestral Assessment Applied Module (Project Work)</em>
 </p>
-<h4><strong>&nbsp;Assessment Weighting For Secondary 2</strong></h4>
-<p></p>
+<p>
+<br><strong>&nbsp;Assessment Weighting for Secondary 2</strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -315,67 +381,9 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 </tbody>
 </table>
-<p><strong><u>Assessment Weighting for Secondary 2 modular subjects</u></strong>
+<p>
+<br><strong>Assessment Weighting for Secondary 2 modular subjects&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="5">
-<p><strong>Assessment Weighting for Secondary 2 D&amp;T [Semester 1]</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 4 (coursework)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Total</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15%</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>85%</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>100%</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -387,12 +395,10 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="6">
-<p><strong>Food &amp; Consumer Education [Semester 2]</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Subject</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Term 1</strong>
 </p>
@@ -410,29 +416,47 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Total</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15%</p>
+<p><strong>D&amp;T (Sem 1)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>70%</p>
-<p>SA Applied Module*</p>
+<p>85% (Coursework)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N/A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N/A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>FCE (Sem 2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N/A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N/A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>85% (15% WA + 70% SA Applied Module*)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>100%</p>
@@ -442,7 +466,8 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </table>
 <p><em>*SA Applied Module – Semestral Assessment Applied Module (Project Work)</em>
 </p>
-<h4>&nbsp;<strong>Assessment Weighting For Secondary 3</strong></h4>
+<p><strong>Assessment Weighting for Secondary 3</strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -493,12 +518,11 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;Assessment Weighting For Secondary 3 D&amp;T</u></strong>
+<p>
+<br><strong><u>Assessment Weighting for Secondary 3 D&amp;T</u></strong>
 </p>
-<p></p>
-<table style="minWidth: 150px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -519,7 +543,7 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 <p><strong>Term 3 WA</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Term 4</strong>
 </p>
 </td>
@@ -537,40 +561,22 @@ for the academic year 2024. <em>Assessment weighting applies for all subjects un
 <td rowspan="1" colspan="1">
 <p>5%</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>85%</p>
+<p>(60% coursework done over the course of the year + 25% EOY exam)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>100%</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>60%</p>
-<p>Course work done over the course of the year</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25% written exam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>&nbsp;15. For Sec4E/4N/5N, the overall result is based solely on the Preliminary
-Examination results. However, there are non-weighted assessment conducted
-in each of the terms.</p>
-<h4>&nbsp;<strong>Secondary 4E4N5NA Assessment Weighting</strong></h4>
+<p>&nbsp;</p>
+<p>10. For Sec 4E/4N/5N, the overall result is based solely on the Preliminary
+Examination results. However, there are non-weighted assessments (NWA)
+conducted in each term.</p>
+<p><strong>Secondary 4E/4N/5NA Assessment Weighting</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -609,13 +615,15 @@ in each of the terms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>100%</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>15.&nbsp;Please go the <strong>Latest Announcement, </strong>for the latest
-Assessment schedule.</p>
-<p>16. Your child/ward will be duly notified by the respective subject teachers
-should there be any changes to the assessments conducted as the year progresses.</p>
-<p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thank you for your kind attention.</p>
+<p>11.&nbsp; Please go the&nbsp;<strong>Latest Announcement</strong>,&nbsp;for
+the latest Assessment schedule.</p>
+<p>12. Your child/ward will be duly notified by the respective subject teachers
+should there be any changes to the assessments as the year progresses.</p>
+<p>13. Thank you for your kind attention.</p>
+<p>
+<br>
+</p>
