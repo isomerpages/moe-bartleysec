@@ -180,7 +180,7 @@ School Pocket Money Fund portal <a rel="noopener noreferrer nofollow" target="_b
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.bartleysec.moe.edu.sg/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener noreferrer nofollow" target="_blank">[Click here]</a>&nbsp;to
+<p><a href="/files/Annex_A___2026_STSPMF_Application_Form_for_schools__Cycle_2_.pdf" rel="noopener nofollow" target="_blank">[Click here]</a>&nbsp;to
 download Annex A - The STSPMF application form.</p>
 <p><a href="https://www.bartleysec.moe.edu.sg/files/Annex_B___2025_Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank">[Click here]</a>&nbsp;to
 download Annex B - Income Declaration form.</p>
