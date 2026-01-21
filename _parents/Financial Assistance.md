@@ -133,7 +133,7 @@ he/she will no longer be eligible for the fund.</p>
 is to be applied on a yearly basis.</p>
 <p>For more information, please refer to&nbsp;details in the Straits Time
 School Pocket Money Fund portal <a rel="noopener noreferrer nofollow" target="_blank">https://www.spmf.org.sg/primary-secondary-students</a>.</p>
-<p>&nbsp;<strong>To facilitate timely submission to the agency, applications submitted through the school should be received by the school's General Office by the following timeline.</strong>
+<p><strong>To facilitate timely submission to the agency, applications submitted through the school should be received by the school's General Office by the following timeline.</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
