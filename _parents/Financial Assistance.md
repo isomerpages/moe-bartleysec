@@ -112,11 +112,11 @@ changes to any of the listed criteria in writing.</p>
 </tbody>
 </table>
 <h4><strong>Straits Times School Pocket Money Fund</strong></h4>
-<p>[<em>Updated 10 November 2025]</em>
+<p>[<em>Updated 21 January 2026]</em>
 </p>
 <p>Students in primary and secondary schools who are <strong>Singapore Citizens (SC)</strong> or <strong>Singapore Permanent Residents (SPR)</strong> may
 apply for the Straits Times School Pocket Money Fund if the family per
-capita income (PCI) per month is <strong>$750 or less</strong>, and the
+capita income (PCI) per month is <strong>$1,000 or less</strong>, and the
 child is not concurrently receiving school pocket money from another STSPMF
 disbursing agency, or receiving monthly school pocket money from other
 schemes, excluding MOE/SPED FAS and ComCare.</p>
@@ -128,8 +128,7 @@ A (Application form) with the MOE/SPED FAS or ComCare Assistance letter
 indicating the period of assistance.</p>
 <p>If a child has already received the maximum <strong>24 months of subsidy from the primary/secondary school</strong>,
 he/she will no longer be eligible for the fund.</p>
-<p>Primary school beneficiaries receive $65 a month and secondary school
-beneficiaries receive $100 a month.</p>
+<p>Secondary school beneficiaries receive $100 a month.</p>
 <p>Each application grants a maximum of 12 months of assistance and the application
 is to be applied on a yearly basis.</p>
 <p>For more information, please refer to&nbsp;details in the Straits Time
@@ -176,7 +175,7 @@ School Pocket Money Fund portal <a rel="noopener noreferrer nofollow" target="_b
 <p>Incoming Sec 1 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>by 9 Feb 2026</p>
+<p>by 13 Feb 2026</p>
 </td>
 </tr>
 </tbody>
