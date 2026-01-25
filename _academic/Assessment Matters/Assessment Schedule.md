@@ -78,6 +78,26 @@ for your class</p>
 Sec 4 and 5.</p>
 <p><a href="/files/S4_5_2026_Term_1_Non_Weighted_Assessment__Overall_Topic_Plan_16_Jan.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 Term 1 NWA Topic Plan</a>
 </p>
+<p>Please click the respective links below to download the detailed NWA schedule
+for your class</p>
+<p><a href="/files/4E1_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E1 Detailed Schedule</a>
+</p>
+<p><a href="/files/4E2_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E2 Detailed Schedule</a>
+</p>
+<p><a href="/files/4E3_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E3 Detailed Schedule</a>
+</p>
+<p><a href="/files/4E4_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E4 Detailed Schedule</a>
+</p>
+<p><a href="/files/4E5_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E5 Detailed Schedule</a>
+</p>
+<p><a href="/files/4E6_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E6 Detailed Schedule</a>
+</p>
+<p><a href="/files/4E7_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E7 Detailed Schedule</a>
+</p>
+<p><a href="/files/4E8_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E8 Detailed Schedule</a>
+</p>
+<p><a href="/files/5E1_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">5E1 Detailed Schedule</a>
+</p>
 <p>Please click on the link below for the list of SEAB approved calculators
 and dictionaries that can be used during WA/Examinations.</p>
 <p><a href="https://go.gov.sg/seab-approvedcalculators" rel="noopener nofollow" target="_blank">SEAB Approved List of Calculators</a>
