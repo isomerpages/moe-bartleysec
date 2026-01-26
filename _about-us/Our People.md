@@ -65,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS SAIMA HANIF D/O MOHAMED HANIF</p>
+<p>MS SAIMA HANIF</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>VICE-PRINCIPAL ADMIN</p>
