@@ -60,7 +60,7 @@ for your class</p>
 for your class</p>
 <p><a href="/files/3R1_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">3R1 Detailed Schedule</a>
 </p>
-<p><a href="/files/3R2_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">3R2 Detailed Schedule</a>
+<p><a href="/files/3R2_Term_1_WA_Detailed_Schedule_2026_updated.pdf" rel="noopener nofollow" target="_blank">3R2 Detailed Schedule</a>
 </p>
 <p><a href="/files/3R3_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">3R3 Detailed Schedule</a>
 </p>
