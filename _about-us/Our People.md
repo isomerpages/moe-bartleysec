@@ -183,7 +183,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD MATHEMATICS</p>
+<p>SH MATHEMATICS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS TING CHU HWEE AGNES</p>
