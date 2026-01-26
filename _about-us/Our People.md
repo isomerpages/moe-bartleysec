@@ -282,7 +282,7 @@ variant: tiptap
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS EILEEN GEOK LAY EILEEN</p>
+<p>MS EILEEN ANG GEOK LAY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_geok_lay_eileen@schools.gov.sg</a>
@@ -291,7 +291,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD SSD</p>
+<p>SCHOOL STAFF DEVELOPER</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR NOEL YAP BOON HOWE</p>
