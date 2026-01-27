@@ -16,19 +16,19 @@ those indicated otherwise.&nbsp;</p>
 </p>
 <p>Please click the respective links below to download the detailed WA schedule
 for your class</p>
-<p><a href="/files/1C1_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">1C1 Detailed Schedule</a>
+<p><a href="/files/1C1_Term_1_WA_Detailed_Schedule_2026_updated.pdf" rel="noopener nofollow" target="_blank">1C1 Detailed Schedule</a>
 </p>
-<p><a href="/files/1C2_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C2 Detailed Schedule</a>
+<p><a href="/files/1C2_Term_1_WA_Detailed_Schedule_2026_updated.pdf" rel="noopener nofollow" target="_blank">1C2 Detailed Schedule</a>
 </p>
-<p><a href="/files/1C3_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C3 Detailed Schedule</a>
+<p><a href="/files/1C3_Term_1_WA_Detailed_Schedule_2026_updated.pdf" rel="noopener nofollow" target="_blank">1C3 Detailed Schedule</a>
 </p>
-<p><a href="/files/1C4_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C4 Detailed Schedule</a>
+<p><a href="/files/1C4_Term_1_WA_Detailed_Schedule_2026_updated.pdf" rel="noopener nofollow" target="_blank">1C4 Detailed Schedule</a>
 </p>
-<p><a href="/files/1C5_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C5 Detailed Schedule</a>
+<p><a href="/files/1C5_Term_1_WA_Detailed_Schedule_2026_updated.pdf" rel="noopener nofollow" target="_blank">1C5 Detailed Schedule</a>
 </p>
-<p><a href="/files/1C6_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C6 Detailed Schedule</a>
+<p><a href="/files/1C6_Term_1_WA_Detailed_Schedule_2026_updated.pdf" rel="noopener nofollow" target="_blank">1C6 Detailed Schedule</a>
 </p>
-<p><a href="/files/1C7_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C7 Detailed Schedule</a>
+<p><a href="/files/1C7_Term_1_WA_Detailed_Schedule_2026_updated.pdf" rel="noopener nofollow" target="_blank">1C7 Detailed Schedule</a>
 </p>
 <h4>Secondary 2 WA Overall Topic Plan</h4>
 <p><a href="/files/S2_2026_Term_1_Weighted_Assessment__Overall_Topic_Plan_16_Jan.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 1 WA Topic Plan</a>
