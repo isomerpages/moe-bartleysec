@@ -16,5 +16,5 @@ scanner, camera).</p>
 are expected to abide by the rules stated in this Acceptable Use Policy
 Agreement.</p>
 <p></p>
-<p>Please <a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/files/Acceptable_Use_Policy_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>click here to access the AUP</u></a>
+<p>Please <a href="/files/Acceptable_Use_Policy__AUP__BSS_as_at_28_Jan_2026.pdf" rel="noopener nofollow" target="_blank">click here to access the AUP</a>
 </p>
