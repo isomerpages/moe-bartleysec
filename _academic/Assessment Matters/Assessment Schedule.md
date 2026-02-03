@@ -94,7 +94,7 @@ for your class</p>
 </p>
 <p><a href="/files/4E7_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E7 Detailed Schedule</a>
 </p>
-<p><a href="/files/4E8_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E8 Detailed Schedule</a>
+<p><a href="/files/4E8_Term_1_NWA_Detailed_Schedule_2026_updated.pdf" rel="noopener nofollow" target="_blank">4E8 Detailed Schedule</a>
 </p>
 <p><a href="/files/5E1_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">5E1 Detailed Schedule</a>
 </p>
