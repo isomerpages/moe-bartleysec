@@ -76,7 +76,7 @@ for your class</p>
 <h4>Secondary 4/5 NWA Overall Topic Plan</h4>
 <p>Please click on the link below to access information for Term 1 NWA for
 Sec 4 and 5.</p>
-<p><a href="/files/S4_5_2026_Term_1_Non_Weighted_Assessment__Overall_Topic_Plan_16_Jan.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 Term 1 NWA Topic Plan</a>
+<p><a href="/files/S4_5_2026_T1_NWA_Overall_Topic_Plan_updated.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 Term 1 NWA Topic Plan</a>
 </p>
 <p>Please click the respective links below to download the detailed NWA schedule
 for your class</p>
@@ -94,7 +94,7 @@ for your class</p>
 </p>
 <p><a href="/files/4E7_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E7 Detailed Schedule</a>
 </p>
-<p><a href="/files/4E8_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E8 Detailed Schedule</a>
+<p><a href="/files/4E8_Term_1_NWA_Detailed_Schedule_2026_updated.pdf" rel="noopener nofollow" target="_blank">4E8 Detailed Schedule</a>
 </p>
 <p><a href="/files/5E1_Term_1_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">5E1 Detailed Schedule</a>
 </p>
