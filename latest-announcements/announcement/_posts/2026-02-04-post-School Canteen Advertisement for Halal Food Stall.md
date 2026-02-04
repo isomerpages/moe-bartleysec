@@ -30,14 +30,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Mixed Rice Food Stall</p>
+<p>Halal Cuisine (Noodles/Rice)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 February 2026</p>
+<p>1 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nasi Briyani, Nasi Lemak, Nasi Ayam, Nasi Pattaya, Nasi Sambal Goreng,
-Rice with dishes, Lontong, etc</p>
+<p>Vendor may propose to sell a variety of dishes on different days.
+<br>Examples include rice dishes such as briyani, nasi lemak, nasi ayam, nasi
+goreng, rice with side dishes, lontong etc.</p>
+<p>Examples of noodle dishes include mee goreng, mee siam, mee soto etc.
+&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Halal Cuisine</p>
+<p>(open to proposal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vendor is open to proposals from vendors.</p>
+<p>Vendors may propose to sell halal food of other cuisines such as Indian
+/ Turkish / Korean / Japanese etc.</p>
 </td>
 </tr>
 </tbody>
