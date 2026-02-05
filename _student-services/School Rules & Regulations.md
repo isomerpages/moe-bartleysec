@@ -4,7 +4,7 @@ permalink: /school-rules-regulations/
 variant: tiptap
 description: ""
 ---
-<p>Click <a href="/files/BSS_School_Rules_and_Regulation_2026.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/BSS_School_Rules_and_Regulation_2026__updated_5_Feb_26.pdf" rel="noopener nofollow" target="_blank">here</a> to
 download the school rules. Please take some time to review and familiarize
 yourself with them to ensure a positive and respectful learning environment
 for everyone.</p>
