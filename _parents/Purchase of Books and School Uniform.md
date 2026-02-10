@@ -16,6 +16,8 @@ description: ""
 for purchase at the school bookshop during the school term.</p>
 <p><strong>Operating Hours:</strong>
 <br>Monday to Friday: 7:30 am – 3:00 pm</p>
+<p><em>Please note that the bookshop is closed on Public Holidays and during scheduled school holidays (e.g. Youth Day and Teachers’ Day).</em>
+</p>
 <hr>
 <h2>Year-End Purchase of Books &amp; School Uniform&nbsp;</h2>
 <ul data-tight="true" class="tight">
