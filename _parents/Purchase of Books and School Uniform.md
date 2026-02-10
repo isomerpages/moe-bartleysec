@@ -5,11 +5,18 @@ variant: tiptap
 description: ""
 ---
 <h1>Booklist &amp; School Uniform</h1>
-<p><strong>Authorised Uniform Vendor (Asencio Pte Ltd)</strong>
+<p><strong>Bookshop &amp; Uniform Vendor (Asencio Pte Ltd)</strong>
 <br>120 Hillview Avenue #05-01
 <br>Kewalram Hillview
 <br>Singapore 669594
-<br>Tel: 67643102&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fax: 67641032</p>
+<br>Tel: 67643102 | Fax: 67641032</p>
+<p>For enquiries, please email to <a href="mailto:bartley@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">bartley@asencio.com.sg</a>
+<br>
+<br><strong>Textbooks, stationery, and school uniforms</strong> are available
+for purchase at the school bookshop during the school term.</p>
+<p><strong>Operating Hours:</strong>
+<br>Monday to Friday: 7:30 am – 3:00 pm</p>
+<hr>
 <h2>Year-End Purchase of Books &amp; School Uniform&nbsp;</h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,9 +30,8 @@ description: ""
 school uniform (with home delivery) via the vendor’s online portal&nbsp;<strong><a href="https://asenciobookshop.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">www.asenciobookshop.sg</a>.</strong>&nbsp;</p>
 <p>To ensure that the correct editions of the books have been purchased,
 parents are strongly encouraged to purchase them through the school bookshop
-via ASENCIO ONLINE PORTAL: <a href="https://asenciobookshop.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>.&nbsp;&nbsp;&nbsp;
-You are required to register an account before proceeding with your online
-purchase.</p>
+via ASENCIO ONLINE PORTAL: <a href="https://asenciobookshop.sg/shop/" rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>. You are
+required to register an account before proceeding with your online purchase.</p>
 <p>Please submit your online order from <strong>13 November to 14 December</strong> (last
 day for online order)</p>
 <p>For enquiries, please contact the bookshop office or write to email:
