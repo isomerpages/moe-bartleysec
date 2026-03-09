@@ -66,7 +66,8 @@ in the following distinctive programmes:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selection Criteria and Process, and Application for 2025</p>
+<p><a href="https://www.bartleysec.moe.edu.sg/table-tennis/" rel="noopener nofollow" target="_blank">Selection Criteria and Process, and Application for 2025</a>
+</p>
 </td>
 </tr>
 </tbody>
