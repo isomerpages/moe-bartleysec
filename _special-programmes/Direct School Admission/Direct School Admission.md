@@ -30,8 +30,9 @@ in the following distinctive programmes:</p>
 </p>
 </li>
 </ul>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -47,6 +48,9 @@ in the following distinctive programmes:</p>
 <th rowspan="1" colspan="1">
 <p>Football (Boys)</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Table Tennis</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -60,6 +64,9 @@ in the following distinctive programmes:</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://staging-lite.d1eraqfklmzrr2.amplifyapp.com/our-signature-programmes/direct-school-admission/football/" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria and Process, and Application for 2025</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selection Criteria and Process, and Application for 2025</p>
 </td>
 </tr>
 </tbody>
@@ -123,7 +130,7 @@ in the following distinctive programmes:</p>
 <br>(Non-mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a> 
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
 </tr>
