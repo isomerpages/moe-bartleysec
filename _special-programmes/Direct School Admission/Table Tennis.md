@@ -1,6 +1,6 @@
 ---
 title: Table Tennis
-permalink: /table-tennis/
+permalink: /our-signature-programmes/direct-school-admission/table-tennis/
 variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
