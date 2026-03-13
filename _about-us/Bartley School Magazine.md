@@ -4,7 +4,8 @@ permalink: /our-school/bartley-school-magazine/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<p><a href="https://drive.google.com/file/d/1yHwjbTMB9AQKhM30JIQKgreGjqdAio4b/view?usp=drive_link" rel="noopener nofollow" target="_blank">2025 School Magazine</a>
+</p>
 <p><a href="https://online.fliphtml5.com/obrr/ewyx/" rel="noopener nofollow" target="_blank">2024 School Magazine</a> (Password: <strong>BSSYearbook2024）</strong>
 </p>
 <p><a href="https://drive.google.com/file/d/1KARouivKic9Qcln9cjBiaxQEsNyl7qEh/view?usp=sharing" rel="noopener nofollow" target="_blank">2023 School Magazine</a>
