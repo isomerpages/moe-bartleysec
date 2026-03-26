@@ -11,7 +11,7 @@ description: ""
 </p>
 <p><a href="/files/S3_2026_T2_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Principal's Letter to Sec 3 Parents</a>
 </p>
-<p><a href="/files/S4_5__2026_T2_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Principal's Letter to Sec 4 and 5 Parents</a>
+<p><a href="/files/S4_5__2026_T2_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Principal's Letter to Sec 4 and 5 Parents</a>
 </p>
 <h4><strong>2026 Term 1 Letters</strong></h4>
 <p><a href="/files/2026_T1_Sec_1_Principal_s_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Principal's Letter to Sec 1 Parents</a>
