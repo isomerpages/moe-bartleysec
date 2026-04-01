@@ -1451,6 +1451,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR MICAHEL CHANDRA FREDRICK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:michael_chandra_fredrick_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michael_chandra_fredrick_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS KOMATHY RAMANATHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:komathy_ramanathan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">komathy_ramanathan_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
