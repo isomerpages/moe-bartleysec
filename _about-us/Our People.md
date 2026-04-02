@@ -623,6 +623,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 COURAGE 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR SANJAY SINGH SIDHU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sanjay_singh_sidhu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sanjay_singh_sidhu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
@@ -670,10 +682,10 @@ variant: tiptap
 <p>2 OPTIMISM 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR JASON KOH ZHI HONG</p>
+<p>MR TAN YANG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_zhi_hong_jason@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -949,6 +961,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 RESPECT 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS GAY HUI HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gay_hui_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gay_hui_hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 RESPECT 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1015,6 +1039,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 RESPECT 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR KENNETH KOH CHEE ONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kenneth_koh_chee_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kenneth_koh_chee_hong_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1412,6 +1448,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_bee_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_bee_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR MICAHEL CHANDRA FREDRICK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:michael_chandra_fredrick_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michael_chandra_fredrick_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS KOMATHY RAMANATHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:komathy_ramanathan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">komathy_ramanathan_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
