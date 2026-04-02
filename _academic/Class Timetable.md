@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>Dear students,</p>
-<p>Please click on the links below to download the 2026 timetable. Thank
-you.</p>
+<p>Please click on the links below to download the updated Term 2 2026 class
+timetable. Thank you.</p>
 <p></p>
 <p><a href="https://drive.google.com/file/d/1JFhoqUh0JhUb5XOVICa_Wz7X4oCUP_Wj/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 (updated 2 April)</a>
 </p>
