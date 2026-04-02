@@ -14,12 +14,18 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>SCHOOL LEADERS</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>DESIGNATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NAME</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,7 +83,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -86,12 +91,18 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>MASTER TEACHER</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>DESIGNATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NAME</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +118,7 @@ variant: tiptap
 <p>MR LIM KOK BOON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:Lim_Kok_Boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Kok_Boon@schools.gov.sg</a>
+<p><a href="mailto:Lim_Kok_Boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Kok_Boon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -121,12 +132,19 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<p><strong>KEY PERSONNELS</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>KEY PERSONNEL</strong>
+<p><strong>DESIGNATION</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>NAME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>EMAIL ADDRESS</strong>
@@ -443,15 +461,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class Name</strong>
+<p><strong>CLASS NAME</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
+<p><strong>FORM TEACHER</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email Address</strong>
+<p><strong>EMAIL ADDRESS</strong>
 </p>
 </td>
 </tr>
@@ -653,15 +671,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class Name</strong>
+<p><strong>CLASS NAME</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
+<p><strong>FORM TEACHER</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email Address</strong>
+<p><strong>EMAIL ADDRESS</strong>
 </p>
 </td>
 </tr>
@@ -899,15 +917,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class Name</strong>
+<p><strong>CLASS NAME</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
+<p><strong>FORM TEACHER</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email Address</strong>
+<p><strong>EMAIL ADDRESS</strong>
 </p>
 </td>
 </tr>
@@ -1119,15 +1137,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class Name</strong>
+<p><strong>CLASS NAME</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
+<p><strong>FORM TEACHER</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email Address</strong>
+<p><strong>EMAIL ADDRESS</strong>
 </p>
 </td>
 </tr>
@@ -1358,16 +1376,18 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Non-Form teachers</strong>
+<p><strong>TEACHERS WITH NO FORM CLASS</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TEACHER</p>
+<p><strong>TEACHER</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email</p>
+<p><strong>EMAIL ADDRESS</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1399,10 +1419,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MRS TAN PUAY HOON</p>
+<p>MS KOMATHY RAMANATHAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_puay_hoon_b@schools.gov.sg</a>
+<p><a href="mailto:komathy_ramanathan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">komathy_ramanathan_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR MICAHEL CHANDRA FREDRICK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:michael_chandra_fredrick_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michael_chandra_fredrick_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1451,24 +1480,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR MICAHEL CHANDRA FREDRICK</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:michael_chandra_fredrick_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michael_chandra_fredrick_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS KOMATHY RAMANATHAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:komathy_ramanathan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">komathy_ramanathan_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
@@ -1481,7 +1492,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>SUPPORT STAFF</strong>
+<p><strong>ALLIED EDUCATORS</strong>
 </p>
 </td>
 </tr>
@@ -1501,13 +1512,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT ASSOCIATE</p>
+<p>SCHOOL COUNSELLOR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR MUHD ILYIA KAMSAI</p>
+<p>MDM ZARINA ABDUL PATAH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_Ilyia_kamsani@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">zarina_abdul_patah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1516,10 +1527,34 @@ variant: tiptap
 <p>SCHOOL COUNSELLOR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM ZARINA ABDUL PATAH</p>
+<p>MR LAM WEI JUN JARON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zarina_abdul_patah@schools.gov.sg</a>
+<p><a href="mailto:lam_wei_jun_jaron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lam_wei_jun_jaron@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCHOOL COUNSELLOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS PNG-ONG MUI HWA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_mui_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_mui_hwa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCHOOL COUNSELLOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM GOH FONG YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_fong_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_fong_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1586,3 +1621,349 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>SCHOOL ADMIN TEAM</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DESIGNATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SUPPORT STAFF</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>EMAIL ADDRESS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADMINISTRATION MANAGER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR THAM PO ON BRYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tham_po_on@schools.gov.sg" rel="noopener nofollow" target="_blank">tham_po_on@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADMINISTRATION MANAGER (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS CHEN YINXIU KRISTIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chen_yinxiu@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_yinxiu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CORPORATE SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS ZARINAH BTE ZAMZAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="zarinah_zamzam@schools.gov.sg" rel="noopener nofollow" target="_blank">zarinah_zamzam@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CORPORATE SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS NG HWEE YONG MATHERINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="matherine_ng_hwee_yong@schools.gov.sg" rel="noopener nofollow" target="_blank">matherine_ng_hwee_yong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CORPORATE SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MISS AMEERA SYAFIQAH BINTE MOHAMMED JAFFRI ADJUNCT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ameera_syafiqah_mohammed_jaffri@schools.gov.sg" rel="noopener nofollow" target="_blank">ameera_syafiqah_mohammed_jaffri@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CORPORATE SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS NURIDAYAH BINTE ZAINODIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="nuridayah_zainodin@schools.gov.sg" rel="noopener nofollow" target="_blank">nuridayah_zainodin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AED (ADMIN SUPPORT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS SU XIUBIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="su_xiubin@schools.gov.sg" rel="noopener nofollow" target="_blank">su_xiubin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS MANAGER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR TAN PENG WAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_peng_wah@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_peng_wah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS MANAGER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR JOHN S/O P J THOMAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="john_p_j_thomas@schools.gov.sg" rel="noopener nofollow" target="_blank">john_p_j_thomas@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS MANAGER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR MOHAMED AL IKLASH BIN MOHAMED HAIRI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mohamed_aliklash_mohamed_hairi@schools.gov.sg" rel="noopener nofollow" target="_blank">mohamed_aliklash_mohamed_hairi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RECEPTIONIST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM GOH MAW WAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="goh_maw_wah@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_maw_wah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM INSTRUCTOR (WORKSHOP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR A RAHU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="a_rahu@schools.gov.sg" rel="noopener nofollow" target="_blank">a_rahu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM INSTRUCTOR (WORKSHOP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR UZIR BIN HASBOLLAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="uzir_hasbollah@schools.gov.sg" rel="noopener nofollow" target="_blank">uzir_hasbollah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM INSTRUCTOR (LABORATORY)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR NG HOW SOON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ng_how_soon@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_how_soon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM INSTRUCTOR (LABORATORY)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MISS TAY LI XUAN ZYBIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tay_li_xuan_zybil@schools.gov.sg" rel="noopener nofollow" target="_blank">tay_li_xuan_zybil@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM INSTRUCTOR (LABORATORY)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MISS MAHIDAH FARHAN PUTRI BINTE AMIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mahidah_farhan_putri_amir@schools.gov.sg" rel="noopener nofollow" target="_blank">mahidah_farhan_putri_amir@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAB ATTENDANT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM SUMATHI D/O MEYYAPPAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="sumathi_meyyappan@schools.gov.sg" rel="noopener nofollow" target="_blank">sumathi_meyyappan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAB ATTENDANT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM MARIAM BTE ABDULLAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCHOOL ATTENDANT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR RAVICHANDRAN S/O GOVINDARAJOO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ravichandran_govindarajoo@moe.edu.sg" rel="noopener nofollow" target="_blank">ravichandran_govindarajoo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCHOOL ATTENDANT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM ROHAYA BTE SULAIMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="rohaya_sulaiman@moe.edu.sg" rel="noopener nofollow" target="_blank">rohaya_sulaiman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCHOOL ATTENDANT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR SAMAT BIN GHANI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCHOOL ATTENDANT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM TAY SIEW CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIBRARIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM HOMAIDAH BINTE MOHAMAD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT EXECUTIVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR GORDON NG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_min_chum_gordon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_chum_gordon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DESKTOP ENGINEER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR NUR MUHAMMAD HASSAN AMAD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DESKTOP ENGINEER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR CHUA HAO ZHE SKY TRAVIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SECURITY OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR ANUAR BIN SAPUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
