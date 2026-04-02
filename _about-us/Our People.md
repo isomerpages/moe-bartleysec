@@ -1410,6 +1410,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>MS SARAH NG ADHWA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="sarah_ng_adhwa@schools.gov.sg" rel="noopener nofollow" target="_blank">sarah_ng_adhwa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS GOH SHU CHING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="goh_shu_ching@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_shu_ching@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MR HAZMI BIN HARRON</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1478,6 +1496,32 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_bee_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_bee_hong@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS GABRIELLE TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="gabrielle_tan_c@schools.gov.sg" rel="noopener nofollow" target="_blank">gabrielle_tan_c@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS LIN JIA XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lin_jia_xuan_b@schools.gov.sg" rel="noopener nofollow" target="_blank">lin_jia_xuan_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS HELEN NEO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 </tbody>
