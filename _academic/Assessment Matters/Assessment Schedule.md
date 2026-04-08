@@ -12,15 +12,65 @@ the school's Assessment Plan and Policy</p>
 Sec 1 to 3. All WAs will be conducted during curriculum time except for
 those indicated otherwise.&nbsp;</p>
 <h4>Secondary 1 WA Overall Topic Plan</h4>
-<p><a href="/files/S1_2026_T2_WA__Overall_Topic_Plan_25_Mar.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 2 WA Topic Plan</a>
+<p><a href="/files/S1_2026_T2_WA__Overall_Topic_Plan_6_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 2 WA Topic Plan </a><em><a href="/files/S1_2026_T2_WA__Overall_Topic_Plan_6_Apr.pdf" rel="noopener nofollow" target="_blank">(updated 6 Apr)</a></em>
 </p>
-<p></p>
+<p>Please click the respective links below to download the detailed Term
+2 WA schedule for the respective classes</p>
+<p><a href="/files/1C1_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C1 T2WA Detailed Schedule</a>
+</p>
+<p><a href="/files/1C2_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C2 T2WA Detailed Schedule</a>
+</p>
+<p><a href="/files/1C3_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C3 T2WA Detailed Schedule</a>
+</p>
+<p><a href="/files/1C4_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C4 T2WA Detailed Schedule</a>
+</p>
+<p><a href="/files/1C5_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C5 T2WA Detailed Schedule</a>
+</p>
+<p><a href="/files/1C6_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C6 T2WA Detailed Schedule</a>
+</p>
+<p><a href="/files/1C7_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C7 T2WA Detailed Schedule</a>
+</p>
 <h4>Secondary 2 WA Overall Topic Plan</h4>
-<p><a href="/files/S2_2026_T2_WA__Overall_Topic_Plan_25_Mar.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 2 WA Topic Plan</a>
+<p><a href="/files/S2_2026_T2_WA__Overall_Topic_Plan_6_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 2 WA Topic Plan </a><em><a href="/files/S2_2026_T2_WA__Overall_Topic_Plan_6_Apr.pdf" rel="noopener nofollow" target="_blank">(updated 6 Apr)</a></em>
 </p>
-<p></p>
+<p>Please click the respective links below to download the detailed Term
+2 WA schedule for the respective classes</p>
+<p><a href="/files/2O1_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O1 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O2_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O2 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O3_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O3 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O4_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O4 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O5_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O5 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O6_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O6 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O7_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O7 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O8_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O8 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O9_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O9 T2W WA Detailed Schedule</a>
+</p>
 <h4>Secondary 3 WA Overall Topic Plan</h4>
-<p><a href="/files/S3_2026_T2_WA__Overall_Topic_Plan_25_Mar.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 2 WA Topic Plan</a>
+<p><a href="/files/S3_2026_T2_WA__Overall_Topic_Plan_2_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 2 WA Topic Plan </a><em><a href="/files/S3_2026_T2_WA__Overall_Topic_Plan_2_Apr.pdf" rel="noopener nofollow" target="_blank">(updated 2 Apr)</a></em>
+</p>
+<p>Please click the respective links below to download the detailed Term
+2 WA schedule for the respective classes</p>
+<p><a href="/files/3R1_T2_WA_Detailed_Schedule_2026__.pdf" rel="noopener nofollow" target="_blank">3R1 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/3R2_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">3R2 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/3R3_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">3R3 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/3R4__T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">3R4 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/3R5_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">3R5 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/3R6_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">3R6 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/3R7_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">3R7 T2W WA Detailed Schedule</a>
 </p>
 <p></p>
 <h3>2026 Term 2 Non-Weighted Assessment (NWA) Schedule for S4/5</h3>
@@ -29,6 +79,27 @@ those indicated otherwise.&nbsp;</p>
 Sec 4 and 5.</p>
 <p><a href="/files/S4_5_2026_T2_NWA__Overall_Topic_Plan_25_Mar.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 Term 2 NWA Topic Plan</a>
 </p>
+<p>Please click the respective links below to download the detailed Term
+2 NWA schedule for the respective classes</p>
+<p><a href="/files/4E1_T2_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E1 T2W NWA Detailed Schedule</a>
+</p>
+<p><a href="/files/4E2_T2_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E2 T2W NWA Detailed Schedule</a>
+</p>
+<p><a href="/files/4E3_T2_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E3 T2W NWA Detailed Schedule</a>
+</p>
+<p><a href="/files/4E4_T2_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E4 T2W NWA Detailed Schedule</a>
+</p>
+<p><a href="/files/4E5_T2_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E5 T2W NWA Detailed Schedule</a>
+</p>
+<p><a href="/files/4E6_T2_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E6 T2W NWA Detailed Schedule</a>
+</p>
+<p><a href="/files/4E7_T2_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E7 T2W NWA Detailed Schedule</a>
+</p>
+<p><a href="/files/4E8_T2_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">4E8 T2W NWA Detailed Schedule</a>
+</p>
+<p><a href="/files/5E1_T2_NWA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">5E1 T2W NWA Detailed Schedule</a>
+</p>
+<p></p>
 <p></p>
 <h4>List of SEAB approved calculators and dictionaries</h4>
 <p>Please click on the link below for the list of SEAB approved calculators
@@ -37,6 +108,7 @@ and dictionaries that can be used during WA/Examinations.</p>
 </p>
 <p><a href="https://go.gov.sg/seab-approveddictionaries" rel="noopener nofollow" target="_blank">SEAB Approved List of Dictionaries</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
