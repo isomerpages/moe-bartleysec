@@ -16,24 +16,41 @@ those indicated otherwise.&nbsp;</p>
 </p>
 <p>Please click the respective links below to download the detailed Term
 2 WA schedule for the respective classes</p>
-<p><a href="/files/1C1_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C1 Detailed Schedule</a>
+<p><a href="/files/1C1_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C1 T2WA Detailed Schedule</a>
 </p>
-<p><a href="/files/1C2_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C2 Detailed Schedule</a>
+<p><a href="/files/1C2_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C2 T2WA  Detailed Schedule</a>
 </p>
-<p><a href="/files/1C3_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C3 Detailed Schedule</a>
+<p><a href="/files/1C3_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C3 T2WA Detailed Schedule</a>
 </p>
-<p><a href="/files/1C4_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C4 Detailed Schedule</a>
+<p><a href="/files/1C4_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C4 T2WA Detailed Schedule</a>
 </p>
-<p><a href="/files/1C5_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C5 Detailed Schedule</a>
+<p><a href="/files/1C5_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C5 T2WA Detailed Schedule</a>
 </p>
-<p><a href="/files/1C6_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C6 Detailed Schedule</a>
+<p><a href="/files/1C6_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C6 T2WA Detailed Schedule</a>
 </p>
-<p><a href="/files/1C7_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C7 Detailed Schedule</a>
+<p><a href="/files/1C7_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">1C7 T2WA Detailed Schedule</a>
 </p>
 <h4>Secondary 2 WA Overall Topic Plan</h4>
 <p><a href="/files/S2_2026_T2_WA__Overall_Topic_Plan_6_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 2 WA Topic Plan </a><em><a href="/files/S2_2026_T2_WA__Overall_Topic_Plan_6_Apr.pdf" rel="noopener nofollow" target="_blank">(updated 6 Apr)</a></em>
 </p>
-<p></p>
+<p><a href="/files/2O1_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O1 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O2_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O2 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O3_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O3 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O4_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O4 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O5_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O5 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O6_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O6 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O7_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O7 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O8_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O8 T2W WA Detailed Schedule</a>
+</p>
+<p><a href="/files/2O9_T2_WA_Detailed_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">2O9 T2W WA Detailed Schedule</a>
+</p>
 <h4>Secondary 3 WA Overall Topic Plan</h4>
 <p><a href="/files/S3_2026_T2_WA__Overall_Topic_Plan_2_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 2 WA Topic Plan </a><em><a href="/files/S3_2026_T2_WA__Overall_Topic_Plan_2_Apr.pdf" rel="noopener nofollow" target="_blank">(updated 2 Apr)</a></em>
 </p>
