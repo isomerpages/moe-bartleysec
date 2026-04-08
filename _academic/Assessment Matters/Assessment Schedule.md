@@ -12,15 +12,15 @@ the school's Assessment Plan and Policy</p>
 Sec 1 to 3. All WAs will be conducted during curriculum time except for
 those indicated otherwise.&nbsp;</p>
 <h4>Secondary 1 WA Overall Topic Plan</h4>
-<p><a href="/files/S1_2026_T2_WA__Overall_Topic_Plan_25_Mar.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 2 WA Topic Plan</a>
+<p><a href="/files/S1_2026_T2_WA__Overall_Topic_Plan_6_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 2 WA Topic Plan </a><em><a href="/files/S1_2026_T2_WA__Overall_Topic_Plan_6_Apr.pdf" rel="noopener nofollow" target="_blank">(updated 6 Apr)</a></em>
 </p>
 <p></p>
 <h4>Secondary 2 WA Overall Topic Plan</h4>
-<p><a href="/files/S2_2026_T2_WA__Overall_Topic_Plan_25_Mar.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 2 WA Topic Plan</a>
+<p><a href="/files/S2_2026_T2_WA__Overall_Topic_Plan_6_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 2 WA Topic Plan </a><em><a href="/files/S2_2026_T2_WA__Overall_Topic_Plan_6_Apr.pdf" rel="noopener nofollow" target="_blank">(updated 6 Apr)</a></em>
 </p>
 <p></p>
 <h4>Secondary 3 WA Overall Topic Plan</h4>
-<p><a href="/files/S3_2026_T2_WA__Overall_Topic_Plan_25_Mar.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 2 WA Topic Plan</a>
+<p><a href="/files/S3_2026_T2_WA__Overall_Topic_Plan_2_Apr.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 2 WA Topic Plan </a><em><a href="/files/S3_2026_T2_WA__Overall_Topic_Plan_2_Apr.pdf" rel="noopener nofollow" target="_blank">(updated 2 Apr)</a></em>
 </p>
 <p></p>
 <h3>2026 Term 2 Non-Weighted Assessment (NWA) Schedule for S4/5</h3>
