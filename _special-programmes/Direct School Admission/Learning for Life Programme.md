@@ -45,7 +45,7 @@ selection for all DSA talent areas for 2026.</p>
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
-List or Unsuccessful) via letters and/or phone calls <strong>between 15 Sep  2026 and 17 Sep 2026</strong>.</p>
+List or Unsuccessful) via letters and/or phone calls <strong>between 15 Sep 2026 and 17 Sep 2026</strong>.</p>
 <p><strong>Should you have any query, please contact: <br>Ms Eileen Ang Goek Lay, HOD (Character and Citizenship Education) at ang_geok_lay_eileen@schools.gov.sg</strong>
 <a href="mailto:ang_geok_lay_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>.</u>
 </a>
