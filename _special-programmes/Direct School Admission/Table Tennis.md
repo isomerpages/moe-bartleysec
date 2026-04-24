@@ -56,3 +56,71 @@ List or Unsuccessful) via letters and/or phone calls&nbsp;<strong>between 15 Sep
 <p>Successful applicant’s primary school will follow up with the next stage
 of DSA exercise. Admission will only be confirmed when the PSLE results
 are released.</p>
+<p>Successful applicant’s primary school will follow up with the next stage
+of DSA exercise. Admission will only be confirmed when the PSLE results
+are released.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>DSA Timeline</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA Application period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 May 2026, 11am to 2 June 2026,4.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Selection Interview for shortlisted applicants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 Jun 2026 to 28 Aug 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Selection outcome</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 Sep 2026 to 17 Sep 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Preference Submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 October 2026 to 23 October 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA Allocation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End November 2026</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the school’s academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from year 1-4.</p>
+<p></p>
