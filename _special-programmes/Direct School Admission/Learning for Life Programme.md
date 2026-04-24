@@ -36,16 +36,19 @@ requires one parent’s SingPass to log in</p>
 <p>or</p>
 <p>Parents/guardians who are unable to apply online can approach their child's
 primary school for assistance.</p>
-<p>Application is free-of-charge and will be open from <strong>7 May 2025, 11 am to 3 June 2025, 3 pm</strong>.</p>
+<p>Application is free-of-charge and will be open from <strong>6 May 2026,11am to 2 Jun 2026, 4.30pm.</strong>
+</p>
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
-selection for all DSA talent areas for 2025.</p>
-<p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 30 June 2025 to 4 September 2025</strong>.
+selection for all DSA talent areas for 2026.</p>
+<p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 29 Jun 2026 to 28 Aug 2026</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
-List or Unsuccessful) via letters and/or phone calls <strong>between 25 Aug and 4 September 2025</strong>.</p>
-<p><strong>Should you have any query, please contact: <br>Mdm Kavitha, HOD (Character and Citizenship Education) at kavitha_nagarajan@schools.gov.sg</strong>
+List or Unsuccessful) via letters and/or phone calls <strong>between 15 Sep  2026 and 17 Sep 2026</strong>.</p>
+<p><strong>Should you have any query, please contact: <br>Ms Eileen Ang Goek Lay, HOD (Character and Citizenship Education) at ang_geok_lay_eileen@schools.gov.sg</strong>
+<a href="mailto:ang_geok_lay_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>.</u>
+</a>
 </p>
 <p>Successful applicant’s primary school will follow up with the next stage
 of DSA exercise. Admission will only be confirmed when the PSLE results
@@ -69,7 +72,7 @@ are released.</p>
 <p>DSA Application period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 May 2025, 11 am to 3 June 2025, 3 pm</p>
+<p>6 May 2026, 11am to 2 June 2026,4.30pm</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +80,7 @@ are released.</p>
 <p>Selection Interview for shortlisted applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 June 2025 to 4 September 2025</p>
+<p>29 Jun 2026 to 28 Aug 2026</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +88,7 @@ are released.</p>
 <p>Selection outcome</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 25 Aug to 4 September 2025</p>
+<p>15 Sep 2026 to 17 Sep 2026</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +96,7 @@ are released.</p>
 <p>School Preference Submission</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 October 2025 to 31 October 2025</p>
+<p>19 October 2026 to 23 October 2026</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +104,7 @@ are released.</p>
 <p>DSA Allocation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End November 2025</p>
+<p>End November 2026</p>
 </td>
 </tr>
 </tbody>
