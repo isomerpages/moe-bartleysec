@@ -41,16 +41,16 @@ requires one parent’s SingPass to log in</p>
 <p>or</p>
 <p>Parents/guardians who are unable to apply online can approach their child's
 primary school for assistance.</p>
-<p>Application is free-of-charge and will be open from&nbsp;<strong>7 May 2025, 11 am to 3 June, 3 pm.</strong>
+<p>Application is free-of-charge and will be open from&nbsp;<strong>6 May 2026, 11 am to 2 Jun, 4.30 pm.</strong>
 </p>
 <p><strong>Selection Process</strong>
 <br>Given the prevailing national posture, the school will be conducting in-person
-selection for all DSA talent areas for 2025.</p>
-<p>Shortlisted applicants will be required to participate in an&nbsp;<strong>in-person interview and sports trial between 30 June 2025 to 4 September 2025</strong>.
+selection for all DSA talent areas for 2026.</p>
+<p>Shortlisted applicants will be required to participate in an&nbsp;<strong>in-person interview and sports trial between 29 Jun 2026 to 28 Aug 2026</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
-List or Unsuccessful) via letters and/or phone calls&nbsp;<strong>between 25 Aug and September 2025</strong>.</p>
+List or Unsuccessful) via letters and/or phone calls&nbsp;<strong>between 15 Sep and 17 Sep 2026</strong>.</p>
 <p><strong>Should you have any query, please contact:<br>Mr Jeremy Seah, HOD PE &amp; CCA, <a href="mailto:seah_kuang_wei_jeremy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_kuang_wei_jeremy@schools.gov.sg</a></strong>
 </p>
 <p>Successful applicant’s primary school will follow up with the next stage
