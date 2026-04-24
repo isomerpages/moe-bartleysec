@@ -36,11 +36,11 @@ requires one parent’s SingPass to log in
 <br>or
 <br>Parents/guardians who are unable to apply online can approach their child's
 primary school for assistance.
-<br>Application is free-of-charge and will be open from <strong>6 May 2026, 11 am to 2 Jun 2025, 4.30 pm.</strong>
+<br>Application is free-of-charge and will be open from <strong>6 May 2026, 11 am to 2 Jun 2026, 4.30 pm.</strong>
 </p>
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
-selection for all DSA talent areas for 2025.</p>
+selection for all DSA talent areas for 2026.</p>
 <p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 29 June 2026 to 28 Aug 2026</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
