@@ -41,11 +41,11 @@ primary school for assistance.
 <p><strong>Selection Process</strong> 
 <br>Given the prevailing national posture, the school will be conducting in-person
 selection for all DSA talent areas for 2026.</p>
-<p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 29 June 2026 to 28 Aug 2026</strong>.
+<p>Shortlisted applicants will be required to participate in an <strong>in-person interview between 29 Jun 2026 to 28 Aug 2026</strong>.
 The school will notify the shortlisted applicants on the details of the
 in-person selection.</p>
 <p>All applicants will be informed of the outcome (Confirmed Offer, Wait
-List or Unsuccessful) via letters and/or phone calls between <strong>17 Aug</strong>  <strong>and</strong>  <strong>28 Aug 2026</strong>.</p>
+List or Unsuccessful) via letters and/or phone calls between <strong>15 Sep and 17 Sep 2026</strong>.</p>
 <p><strong>Should you have any query, please contact: <br>Mdm Quek Shir Ryn, HOD Science at quek_shir_ryn@schools.gov.sg</strong>
 </p>
 <p>Successful applicant’s primary school will follow up with the next stage
