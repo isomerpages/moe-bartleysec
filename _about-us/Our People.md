@@ -423,6 +423,19 @@ variant: tiptap
 <br>(SEC 3)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>MS LEE SIEW CHOO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_siew_choo_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_choo_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR HEAD
+<br>(SEC 3)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>MR LIU KAH YANG</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -700,10 +713,10 @@ variant: tiptap
 <p>2 OPTIMISM 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR TAN YANG</p>
+<p>MS SARAH NG ADHWA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yang@schools.gov.sg</a>
+<p><a href="sarah_ng_adhwa@schools.gov.sg" rel="noopener nofollow" target="_blank">sarah_ng_adhwa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1405,15 +1418,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_syafiq_subair@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS SARAH NG ADHWA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="sarah_ng_adhwa@schools.gov.sg" rel="noopener nofollow" target="_blank">sarah_ng_adhwa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
