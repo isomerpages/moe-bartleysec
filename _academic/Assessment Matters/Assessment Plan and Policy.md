@@ -19,14 +19,14 @@ reports) to inform and support student learning.&nbsp;</p>
 </p>
 <p>4.1. Absence from WA due to medical reasons.</p>
 <p>Students must produce a Medical Certificate (MC) from a doctor registered
-with the Singapore Medical Council so that the WA can be reflected as Valid
-Reason (VR). The MC must cover the date(s) of assessment that the student
-had missed, indicating the diagnosis and that the student is unfit for
-the assessment, and should be submitted to his/her Form Teacher as soon
-as the student returns to school. Upon receipt of the medical certificate,
-the status of the assessment grade will be reflected as “MC”. Proration
-of marks, based on the other weighted assessments for the year, will be
-computed and reflected in the progress report accordingly.&nbsp;</p>
+with the Singapore Medical Council so that the WA can be reflected as MC.
+The MC must cover the date(s) of assessment that the student had missed,
+indicating the diagnosis and that the student is unfit for the assessment,
+and should be submitted to his/her Form Teacher as soon as the student
+returns to school. Upon receipt of the medical certificate, the status
+of the assessment grade will be reflected as “MC”. Proration of marks,
+based on the other weighted assessments for the year, will be computed
+and reflected in the progress report accordingly.&nbsp;</p>
 <p>&nbsp;4.2. Absence from WA due to non-medical reasons:</p>
 <p>For non-medical reasons (for e.g. bereavement in the family), students
 must notify the school of their absence through the Form Teacher at the
