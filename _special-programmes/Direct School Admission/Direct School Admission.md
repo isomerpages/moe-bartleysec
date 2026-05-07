@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<h5> DSA-Sec for Admission to Secondary One in 2026 <br></h5>
+<h5>DSA-Sec for Admission to Secondary One in 2026 <br></h5>
 <p>Direct School Admission (DSA) is a scheme which provides students with
 the opportunity to seek admission to a secondary school, based on a diverse
 range of academic and non-academic achievements and talents that they can
@@ -28,7 +28,7 @@ in the following distinctive programmes:</p>
 <p>Football (Boys)</p>
 </li>
 <li>
-<p>Table Tennis
+<p>Table Tennis (Boys)
 <br>
 </p>
 </li>
