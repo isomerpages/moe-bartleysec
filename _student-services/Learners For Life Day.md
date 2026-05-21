@@ -71,9 +71,6 @@ on the form before you submit the request.</p>
 your MIMS/SLS, you can contact the school to look for the following personnels:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ICT Manager, Mr Ilyia</p>
-</li>
-<li>
 <p>HOD ICT, Ms Soh MY&nbsp;</p>
 </li>
 <li>
