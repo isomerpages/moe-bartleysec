@@ -1,6 +1,6 @@
 ---
-title: 2026 Term 2 Principal's Letters To Parents
-date: 2026-03-25
+title: 2026 Term 3 Principal's Letters To Parents
+date: 2026-06-29
 layout: link
 description: ""
 image: ""
