@@ -165,18 +165,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH ENGLISH LANGUAGE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS WEE JING YUN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wee_jing_yun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD MOTHER TONGUE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -599,10 +587,10 @@ variant: tiptap
 <p>1 COURAGE 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS BRENDA TEO</p>
+<p>MR ONG MENG YEOW AARON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">brenda_teo_yan_ling@schools.gov.sg</a>
+<p><a href="mailto:ong_meng_yeow_aaron@schools.gov.sg" rel="" target="_self">ong_meng_yeow_aaron@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -639,18 +627,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">low_xin_yu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 COURAGE 7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS SOH CHENG WEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_cheng_wen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -975,18 +951,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">siti_jamilah_juhari@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 RESPECT 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR LEE GUO SHENG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_guo_sheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
