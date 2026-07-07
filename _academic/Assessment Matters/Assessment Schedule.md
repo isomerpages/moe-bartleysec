@@ -14,22 +14,16 @@ those indicated otherwise.&nbsp;</p>
 <h4>Secondary 1 WA Overall Topic Plan</h4>
 <p><a href="/files/S1_2026_T3_WA_Overall_Topic_Plan.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Term 3 WA Topic Plan</a>
 </p>
-<p>Please click the respective links below to download the detailed Term
-2 WA schedule for the respective classes</p>
 <p></p>
 <h4>Secondary 2 WA Overall Topic Plan</h4>
 <p><a href="/files/S2_2026_T3_WA_Overall_Topic_Plan.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Term 3 WA Topic Plan</a>
 </p>
-<p>Please click the respective links below to download the detailed Term
-2 WA schedule for the respective classes</p>
+<p></p>
 <p></p>
 <h4>Secondary 3 WA Overall Topic Plan</h4>
 <p><a href="/files/S3_2026_T3_WA_Overall_Topic_Plan.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 3 WA Topic Plan</a>
 </p>
-<p>Please click the respective links below to download the detailed Term
-2 WA schedule for the respective classes</p>
 <p></p>
-<h3></h3>
 <h4>List of SEAB approved calculators and dictionaries</h4>
 <p>Please click on the link below for the list of SEAB approved calculators
 and dictionaries that can be used during WA/Examinations.</p>
