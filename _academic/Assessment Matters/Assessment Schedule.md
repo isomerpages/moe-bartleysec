@@ -8,7 +8,7 @@ third_nav_title: Assessment Matters
 <h3>2026 Term 3 Weighted Assessment (WA) Schedule for S1 to 3</h3>
 <p>Please click <a href="https://www.bartleysec.moe.edu.sg/assessment-plan-and-policy/" rel="noopener nofollow" target="_blank">here</a> for
 the school's Assessment Plan and Policy</p>
-<p>Please click on the links below to access information for Term 1 WA for
+<p>Please click on the links below to access information for Term 3 WA for
 Sec 1 to 3. All WAs will be conducted during curriculum time except for
 those indicated otherwise.&nbsp;</p>
 <h4>Secondary 1 WA Overall Topic Plan</h4>
