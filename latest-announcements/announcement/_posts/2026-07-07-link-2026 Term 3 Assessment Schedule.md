@@ -1,6 +1,6 @@
 ---
-title: 2026 Term 2 Assessment Schedule
-date: 2026-03-26
+title: 2026 Term 3 Assessment Schedule
+date: 2026-07-07
 layout: link
 description: ""
 image: ""
