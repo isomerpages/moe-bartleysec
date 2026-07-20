@@ -36,28 +36,43 @@ those indicated otherwise.&nbsp;</p>
 <p></p>
 <p>Please click the respective links below to download the detailed Term
 3 WA schedule for the respective classes</p>
-<p><a href="/files/2O1_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O1 Detailed Schedule</a>
+<p><a href="/files/2O1_T3_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O1 Detailed Schedule</a>
 </p>
-<p><a href="/files/2O2_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O2 Detailed Schedule</a>
+<p><a href="/files/2O2_T3_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O2 Detailed Schedule</a>
 </p>
-<p><a href="/files/2O3_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O3 Detailed Schedule</a>
+<p><a href="/files/2O3_T3_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O3 Detailed Schedule</a>
 </p>
-<p><a href="/files/2O4_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O4 Detailed Schedule</a>
+<p><a href="/files/2O4_T3_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O4 Detailed Schedule</a>
 </p>
-<p><a href="/files/205_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O5 Detailed Schedule</a>
+<p><a href="/files/2O5_T3_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O5 Detailed Schedule</a>
 </p>
-<p><a href="/files/2O6_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O6 Detailed Schedule</a>
+<p><a href="/files/2O6_T3_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O6 Detailed Schedule</a>
 </p>
-<p><a href="/files/2O7_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O7 Detailed Schedule</a>
+<p><a href="/files/2O7_T3_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O7 Detailed Schedule</a>
 </p>
-<p><a href="/files/2O8_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O8 Detailed Schedule</a>
+<p><a href="/files/2O8_T3_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O8 Detailed Schedule</a>
 </p>
-<p><a href="/files/2O9_Term_1_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O9 Detailed Schedule</a>
+<p><a href="/files/2O9_T3_WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2O9 Detailed Schedule</a>
 </p>
 <h4>Secondary 3 WA Overall Topic Plan</h4>
 <p><a href="/files/S3_2026_T3_WA_Overall_Topic_Plan.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Term 3 WA Topic Plan</a>
 </p>
-<p></p>
+<p>Please click the respective links below to download the detailed Term
+3 WA schedule for the respective classes</p>
+<p><a href="/files/3R1_T3WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">3R1 Detailed Schedule</a>
+</p>
+<p><a href="/files/3R2_T3WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">3R2 Detailed Schedule</a>
+</p>
+<p><a href="/files/3R3_T3WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">3R3 Detailed Schedule</a>
+</p>
+<p><a href="/files/3R4_T3WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">3R4 Detailed Schedule</a>
+</p>
+<p><a href="/files/3R5_T3WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">3R5 Detailed Schedule</a>
+</p>
+<p><a href="/files/3R6_T3WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">3R6 Detailed Schedule</a>
+</p>
+<p><a href="/files/3R7_T3WA_Detailed_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">3R7 Detailed Schedule</a>
+</p>
 <h4>List of SEAB approved calculators and dictionaries</h4>
 <p>Please click on the link below for the list of SEAB approved calculators
 and dictionaries that can be used during WA/Examinations.</p>
