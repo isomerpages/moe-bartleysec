@@ -1520,7 +1520,7 @@ variant: tiptap
 <p>MS YAP BEE HONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_bee_hong@schools.gov.sg" rel="" target="_blank">yap_bee_hong@schools.gov.sg</a>
+<p><a href="mailto:yap_bee_hong@schools.gov.sg" rel="" target="_blank">yap_bee_hong_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
