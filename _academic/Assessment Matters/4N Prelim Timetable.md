@@ -20,6 +20,7 @@ and dictionaries that can be used during Preliminary Examinations.</p>
 timetable.</p>
 <p><a href="/files/4NT_Prelim_2026_venue_hall_20_Jul.pdf" rel="noopener nofollow" target="_blank">4NA Prelim Timetable 2026 (updated 9 Jul)</a>
 </p>
-<p><a href="/files/4NT_Prelim_2026_venue_hall_9_Jul.pdf" rel="noopener nofollow" target="_blank">4NT Prelim Timetable 2026 (updated 9 Jul)</a>
+<p><a href="/files/4NT_Prelim_2026_venue_hall_9_Jul.pdf" rel="noopener nofollow" target="_blank">4NT Prelim Timetable 2026 (updated 20 </a>
+<a href="/files/4NT_Prelim_2026_venue_hall_20_Jul.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/4NT_Prelim_2026_venue_hall_9_Jul.pdf" rel="noopener nofollow" target="_blank">Jul)</a>
 </p>
 <p></p>
